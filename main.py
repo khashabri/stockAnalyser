@@ -5,8 +5,7 @@ import os
 import sys
 from progress.bar import IncrementalBar
 import psutil
-from Timing import *
-from finanz_proj_database import *
+from symbols_dataset import *
 import time
 
 ########################### Paramters ###########################
