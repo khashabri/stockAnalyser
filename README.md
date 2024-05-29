@@ -27,4 +27,4 @@ This repository contains a Python script designed to evaluate and rank a list of
    pip install yfinance numpy tabulate progress psutil
    ```
 
-**Run**: python stock_evaluation.py
+**Run**: `python stock_evaluation.py`
