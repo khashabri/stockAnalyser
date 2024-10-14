@@ -86,7 +86,7 @@ def print_the_list(this_list):
     table_str += f"\n{start_date} - {end_date}"  # Add the date range to the output
 
     # Save in the same directory
-    output_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output.md")
+    output_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "RESULT.md")
 
     with open(output_file_path, "w") as file:
         file.write(table_str)
