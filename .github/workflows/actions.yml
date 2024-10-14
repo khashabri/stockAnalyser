@@ -2,7 +2,7 @@ name: Run Main File
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   run-script:
