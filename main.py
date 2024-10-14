@@ -7,6 +7,7 @@ from progress.bar import IncrementalBar
 import psutil
 from symbols_dataset import *
 import time
+import datetime
 
 ########################### Paramters ###########################
 
@@ -39,21 +40,15 @@ def printTime(remainedTime):
     print('\x1b[6;30;43m' + "Remained time: {:.4f}[min] or {:.0f}[s]"
             .format(remainedTime / 60, remainedTime) + '\x1b[0m')
 
-# Remove duplicate companies
-companies = list(dict.fromkeys(companies))
-
-# Define table headers for displaying data
-headers = [
-    "Rank", "ID", "Company", "Evaluation Point", "Ratio Pos. Days", "Netto Growth", 
-    "Mean Rel. Daily Growth", "Tot. Growth", "Current Price", "Sector"
-]
-
 # Function to evaluate the company based on given metrics
 def evaluate(rel_num_of_pos, mean_rel_growth, total_rel_growth):
     return ((1/3) * rel_num_of_pos + (1/3) * mean_rel_growth + (1/3) * total_rel_growth) * 10
 
 # Function to print the list of companies with their evaluated metrics
 def print_the_list(this_list):
+    headers = [ "Rank", "ID", "Company", "Evaluation Point", "Ratio Pos. Days", "Netto Growth", 
+    "Mean Rel. Daily Growth", "Tot. Growth", "Current Price", "Sector"]
+
     os.system('clear')  # Clear the terminal screen
     mytable = []
     rank = 1
@@ -72,11 +67,10 @@ def print_the_list(this_list):
             this_list[i][4]
         ])
         rank += 1
-
-    # table_str = tabulate(mytable, headers, tablefmt="grid")  # Get the table as a string
- 
+    
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Get current time
     # Construct the markdown table header
-    table_str = "| " + " | ".join(headers) + " |\n"
+    table_str = f"Last Run: {current_time}\n\n| " + " | ".join(headers) + " |\n"
     table_str += "| " + " | ".join(['---' for _ in headers]) + " |\n"
 
     # Add rows to the markdown table
@@ -97,6 +91,7 @@ def print_the_list(this_list):
 list_of_all_catched_data = []
 error_list = []
 myTimer = Timer()
+companies = list(dict.fromkeys(companies)) # Remove duplicate companies
 nmb_of_comp = len(companies)
 remained_nmb_of_comp = nmb_of_comp
 
