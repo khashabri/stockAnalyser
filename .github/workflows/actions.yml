@@ -1,4 +1,4 @@
-name: Run Python Script Every Minute and Commit Log
+name: Run Main File
 
 on:
   schedule:
