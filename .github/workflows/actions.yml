@@ -2,7 +2,7 @@ name: Run Python Script Every Minute and Commit Log
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/1 * * * *"
 
 jobs:
   run-script:
