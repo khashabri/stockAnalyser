@@ -11,13 +11,13 @@ from symbols_dataset import *
 ########################### Parameters ###########################
 past_week = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime("%Y-%m-%d")
 past_three_month = (datetime.datetime.now() - datetime.timedelta(days=90)).strftime("%Y-%m-%d")
-oast_two_years = datetime.datetime(datetime.datetime.now().year - 1, 1, 1).strftime("%Y-%m-%d")
+past_two_years = datetime.datetime(datetime.datetime.now().year - 1, 1, 1).strftime("%Y-%m-%d")
 
 # Different date ranges and company lists with keys to iterate over
 date_configs = [
     {"start_date": past_week, "end_date": None}, # one week ago (7 days) result
     {"start_date": past_three_month, "end_date": None}, # three months ago (90 days) result
-    {"start_date": oast_two_years, "end_date": None} # last year (1.x year) result
+    {"start_date": past_two_years, "end_date": None} # last year (1.x year) result
 ]
 
 company_configs = [
@@ -72,7 +72,14 @@ def print_the_list(this_list, start_date, end_date, key):
         ])
         rank += 1
     
-    table_str = f"## Results for {key} - From {start_date} until {end_date if end_date else 'Today'}\n\n"
+    if start_date == past_week:
+        table_str = f"## Results for {key} - Last Week\n\n"
+    elif start_date == past_three_month:
+        table_str = f"## Results for {key} - Last Three Months\n\n"
+    elif start_date == past_two_years:
+        table_str = f"## Results for {key} - Last Year\n\n"
+    else:
+        table_str = f"## Results for {key} - From {start_date} until {end_date if end_date else 'Today'}\n\n"
     table_str += f"| " + " | ".join(headers) + " |\n"
     table_str += "| " + " | ".join(['---' for _ in headers]) + " |\n"
 
