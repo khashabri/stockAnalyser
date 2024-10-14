@@ -1,4 +1,4 @@
-> Last update on: 2024-10-14 21:07:07
+> Last update on: 2024-10-14 21:31:33
 
 ## Results for Big Tech - Last Week
 
@@ -13,12 +13,12 @@
 | 7 | IBM | International Business Machines | 2.37p | 66.6667% | 8.14 USD | 0.71% | 3.58% | 235.40 USD | Technology |
 | 8 | CSCO | Cisco Systems, Inc. | 2.36p | 66.6667% | 1.76 USD | 0.66% | 3.35% | 54.28 USD | Technology |
 | 9 | PG | Procter & Gamble Company (The) | 2.35p | 66.6667% | 5.39 USD | 0.64% | 3.23% | 172.72 USD | Consumer Defensive |
-| 10 | DIS | Walt Disney Company (The) | 2.33p | 66.6667% | 2.58 USD | 0.55% | 2.79% | 95.12 USD | Communication Services |
+| 10 | DIS | Walt Disney Company (The) | 2.33p | 66.6667% | 2.58 USD | 0.55% | 2.79% | 95.03 USD | Communication Services |
 | 11 | MSFT | Microsoft Corporation | 2.32p | 66.6667% | 9.60 USD | 0.47% | 2.34% | 419.24 USD | Technology |
-| 12 | KO | Coca-Cola Company (The) | 2.30p | 66.6667% | 1.33 USD | 0.38% | 1.93% | 70.37 USD | Consumer Defensive |
-| 13 | HD | Home Depot, Inc. (The) | 2.29p | 66.6667% | 7.36 USD | 0.36% | 1.80% | 415.42 USD | Consumer Cyclical |
+| 12 | KO | Coca-Cola Company (The) | 2.30p | 66.6667% | 1.33 USD | 0.38% | 1.93% | 70.29 USD | Consumer Defensive |
+| 13 | HD | Home Depot, Inc. (The) | 2.29p | 66.6667% | 7.36 USD | 0.36% | 1.80% | 416.50 USD | Consumer Cyclical |
 | 14 | WMT | Walmart Inc. | 2.28p | 66.6667% | 1.19 USD | 0.30% | 1.50% | 80.47 USD | Consumer Defensive |
-| 15 | JNJ | Johnson & Johnson | 2.27p | 66.6667% | 2.07 USD | 0.26% | 1.30% | 161.86 USD | Healthcare |
+| 15 | JNJ | Johnson & Johnson | 2.27p | 66.6667% | 2.07 USD | 0.26% | 1.30% | 161.98 USD | Healthcare |
 | 16 | GOOGL | Alphabet Inc. | 2.27p | 66.6667% | 1.98 USD | 0.25% | 1.21% | 171.89 USD | Communication Services |
 | 17 | CVX | Chevron Corporation | 2.24p | 66.6667% | 0.66 USD | 0.09% | 0.44% | 151.84 USD | Energy |
 | 18 | VZ | Verizon Communications Inc. | 2.22p | 66.6667% | 0.02 USD | 0.01% | 0.06% | 43.21 USD | Communication Services |
@@ -56,7 +56,7 @@
 | 9 | PAHC | Phibro Animal Health Corporatio | 3.42p | 83.3333% | 3.40 USD | 3.07% | 16.28% | 30.73 USD | Healthcare |
 | 10 | TEAM | Atlassian Corporation | 3.40p | 83.3333% | 26.47 USD | 2.99% | 15.80% | 194.62 USD | Technology |
 | 11 | ELF | e.l.f. Beauty, Inc. | 3.32p | 83.3333% | 13.92 USD | 2.61% | 13.71% | 115.80 USD | Consumer Defensive |
-| 12 | HUM | Humana Inc. | 3.30p | 83.3333% | 31.31 USD | 2.52% | 13.25% | 267.58 USD | Healthcare |
+| 12 | HUM | Humana Inc. | 3.30p | 83.3333% | 31.31 USD | 2.52% | 13.25% | 267.57 USD | Healthcare |
 | 13 | TRUE | TrueCar, Inc. | 3.30p | 83.3333% | 0.43 USD | 2.51% | 13.15% | 3.73 USD | Communication Services |
 | 14 | KNSA | Kiniksa Pharmaceuticals, Ltd. | 3.26p | 83.3333% | 2.90 USD | 2.34% | 12.22% | 26.67 USD | Healthcare |
 | 15 | AKRO | Akero Therapeutics, Inc. | 3.26p | 83.3333% | 3.26 USD | 2.34% | 12.19% | 30.06 USD | Healthcare |
@@ -67,8 +67,8 @@
 | 20 | RVLV | Revolve Group, Inc. | 3.16p | 83.3333% | 2.27 USD | 1.87% | 9.68% | 25.65 USD | Consumer Cyclical |
 | 21 | RCL | Royal Caribbean Cruises Ltd. | 3.15p | 83.3333% | 16.99 USD | 1.84% | 9.45% | 197.22 USD | Consumer Cyclical |
 | 22 | AAOI | Applied Optoelectronics, Inc. | 3.14p | 66.6667% | 3.48 USD | 4.35% | 23.29% | 19.19 USD | Technology |
-| 23 | BANR | Banner Corporation | 3.13p | 83.3333% | 5.26 USD | 1.74% | 8.91% | 64.40 USD | Financial Services |
-| 24 | IDCC | InterDigital, Inc. | 3.13p | 83.3333% | 12.67 USD | 1.71% | 8.85% | 155.98 USD | Technology |
+| 23 | IDCC | InterDigital, Inc. | 3.14p | 83.3333% | 13.11 USD | 1.78% | 9.18% | 155.98 USD | Technology |
+| 24 | BANR | Banner Corporation | 3.13p | 83.3333% | 5.26 USD | 1.74% | 8.91% | 64.40 USD | Financial Services |
 | 25 | WFC | Wells Fargo & Company | 3.13p | 83.3333% | 5.00 USD | 1.71% | 8.75% | 62.20 USD | Financial Services |
 | 26 | MANH | Manhattan Associates, Inc. | 3.12p | 83.3333% | 23.97 USD | 1.65% | 8.54% | 304.75 USD | Technology |
 | 27 | SKYW | SkyWest, Inc. | 3.11p | 83.3333% | 7.16 USD | 1.62% | 8.37% | 92.81 USD | Industrials |
@@ -108,7 +108,7 @@
 | 61 | DUK | Duke Energy Corporation (Holdin | 2.95p | 83.3333% | 4.86 USD | 0.87% | 4.41% | 115.08 USD | Utilities |
 | 62 | HPQ | HP Inc. | 2.95p | 83.3333% | 1.53 USD | 0.84% | 4.26% | 37.50 USD | Technology |
 | 63 | CB | Chubb Limited | 2.94p | 83.3333% | 11.53 USD | 0.82% | 4.16% | 290.00 USD | Financial Services |
-| 64 | FIS | Fidelity National Information S | 2.94p | 83.3333% | 3.49 USD | 0.82% | 4.14% | 87.91 USD | Technology |
+| 64 | FIS | Fidelity National Information S | 2.94p | 83.3333% | 3.49 USD | 0.82% | 4.14% | 88.15 USD | Technology |
 | 65 | RAMP | LiveRamp Holdings, Inc. | 2.94p | 83.3333% | 0.95 USD | 0.79% | 4.01% | 24.97 USD | Technology |
 | 66 | STT | State Street Corporation | 2.94p | 83.3333% | 3.46 USD | 0.78% | 3.96% | 91.93 USD | Financial Services |
 | 67 | PTON | Peloton Interactive, Inc. | 2.93p | 66.6667% | 0.82 USD | 3.41% | 17.90% | 5.43 USD | Consumer Cyclical |
@@ -148,7 +148,7 @@
 | 101 | EVR | Evercore Inc. | 2.60p | 66.6667% | 23.45 USD | 1.85% | 9.47% | 284.22 USD | Financial Services |
 | 102 | NTLA | Intellia Therapeutics, Inc. | 2.60p | 66.6667% | 1.67 USD | 1.84% | 9.36% | 19.54 USD | Healthcare |
 | 103 | KRMD | KORU Medical Systems, Inc. | 2.59p | 66.6667% | 0.23 USD | 1.83% | 9.20% | 3.39 USD | Healthcare |
-| 104 | SQ | Block, Inc. | 2.58p | 66.6667% | 5.94 USD | 1.76% | 9.04% | 71.60 USD | Technology |
+| 104 | SQ | Block, Inc. | 2.58p | 66.6667% | 5.94 USD | 1.76% | 9.04% | 71.63 USD | Technology |
 | 105 | DAVA | Endava plc | 2.57p | 66.6667% | 2.11 USD | 1.75% | 8.74% | 26.14 USD | Technology |
 | 106 | OKTA | Okta, Inc. | 2.56p | 66.6667% | 6.16 USD | 1.67% | 8.58% | 78.02 USD | Technology |
 | 107 | ALEC | Alector, Inc. | 2.56p | 66.6667% | 0.38 USD | 1.76% | 8.41% | 4.91 USD | Healthcare |
@@ -160,7 +160,7 @@
 | 113 | VSEC | VSE Corporation | 2.54p | 66.6667% | 6.85 USD | 1.57% | 8.08% | 92.11 USD | Industrials |
 | 114 | UI | Ubiquiti Inc. | 2.54p | 66.6667% | 17.69 USD | 1.55% | 7.90% | 249.16 USD | Technology |
 | 115 | DAL | Delta Air Lines, Inc. | 2.53p | 66.6667% | 3.86 USD | 1.53% | 7.82% | 53.36 USD | Industrials |
-| 116 | COHR | Coherent Corp. | 2.53p | 66.6667% | 7.40 USD | 1.54% | 7.77% | 102.67 USD | Technology |
+| 116 | COHR | Coherent Corp. | 2.53p | 66.6667% | 7.40 USD | 1.54% | 7.77% | 102.88 USD | Technology |
 | 117 | ESTC | Elastic N.V. | 2.53p | 66.6667% | 5.98 USD | 1.52% | 7.75% | 84.00 USD | Technology |
 | 118 | AMBA | Ambarella, Inc. | 2.53p | 66.6667% | 4.31 USD | 1.51% | 7.73% | 60.14 USD | Technology |
 | 119 | GSHD | Goosehead Insurance, Inc. | 2.53p | 66.6667% | 6.73 USD | 1.50% | 7.68% | 117.00 USD | Financial Services |
@@ -171,22 +171,22 @@
 | 124 | UAL | United Airlines Holdings, Inc. | 2.52p | 66.6667% | 4.35 USD | 1.44% | 7.35% | 63.56 USD | Industrials |
 | 125 | CRESY | Cresud S.A.C.I.F. y A. | 2.51p | 66.6667% | 0.65 USD | 1.44% | 7.34% | 9.54 USD | Industrials |
 | 126 | CDNS | Cadence Design Systems, Inc. | 2.51p | 66.6667% | 19.28 USD | 1.44% | 7.33% | 282.23 USD | Technology |
-| 127 | APH | Amphenol Corporation | 2.51p | 66.6667% | 4.53 USD | 1.41% | 7.21% | 67.32 USD | Technology |
-| 128 | MITK | Mitek Systems, Inc. | 2.51p | 66.6667% | 0.60 USD | 1.40% | 7.15% | 9.05 USD | Technology |
-| 129 | HON | Honeywell International Inc. | 2.50p | 66.6667% | 14.27 USD | 1.37% | 7.02% | 217.64 USD | Industrials |
-| 130 | NTNX | Nutanix, Inc. | 2.50p | 66.6667% | 4.21 USD | 1.36% | 6.97% | 64.70 USD | Technology |
-| 131 | FTNT | Fortinet, Inc. | 2.50p | 66.6667% | 5.35 USD | 1.35% | 6.91% | 82.86 USD | Technology |
-| 132 | AMAT | Applied Materials, Inc. | 2.50p | 66.6667% | 13.76 USD | 1.35% | 6.88% | 222.75 USD | Technology |
-| 133 | JBHT | J.B. Hunt Transport Services, I | 2.50p | 66.6667% | 11.24 USD | 1.34% | 6.84% | 175.68 USD | Industrials |
-| 134 | TCBI | Texas Capital Bancshares, Inc. | 2.49p | 66.6667% | 4.88 USD | 1.32% | 6.76% | 77.11 USD | Financial Services |
-| 135 | ASML | ASML Holding N.V. - New York Re | 2.49p | 66.6667% | 55.02 USD | 1.33% | 6.73% | 1091.35 USD | Technology |
-| 136 | CYBR | CyberArk Software Ltd. | 2.49p | 66.6667% | 18.39 USD | 1.30% | 6.66% | 378.73 USD | Technology |
-| 137 | CARG | CarGurus, Inc. | 2.48p | 66.6667% | 1.92 USD | 1.29% | 6.58% | 31.15 USD | Consumer Cyclical |
-| 138 | CFFN | Capitol Federal Financial, Inc. | 2.48p | 66.6667% | 0.36 USD | 1.27% | 6.50% | 5.91 USD | Financial Services |
-| 139 | RYTM | Rhythm Pharmaceuticals, Inc. | 2.48p | 66.6667% | 3.04 USD | 1.27% | 6.44% | 63.25 USD | Healthcare |
-| 140 | LRCX | Lam Research Corporation | 2.47p | 66.6667% | 5.09 USD | 1.24% | 6.31% | 89.10 USD | Technology |
-| 141 | BYND | Beyond Meat, Inc. | 2.47p | 66.6667% | 0.39 USD | 1.24% | 6.25% | 6.64 USD | Consumer Defensive |
-| 142 | GBX | Greenbrier Companies, Inc. (The | 2.47p | 66.6667% | 3.09 USD | 1.23% | 6.25% | 55.00 USD | Industrials |
+| 127 | LNC | Lincoln National Corporation | 2.51p | 66.6667% | 2.23 USD | 1.42% | 7.27% | 33.00 USD | Financial Services |
+| 128 | APH | Amphenol Corporation | 2.51p | 66.6667% | 4.53 USD | 1.41% | 7.21% | 67.32 USD | Technology |
+| 129 | MITK | Mitek Systems, Inc. | 2.51p | 66.6667% | 0.60 USD | 1.40% | 7.15% | 9.05 USD | Technology |
+| 130 | HON | Honeywell International Inc. | 2.50p | 66.6667% | 14.27 USD | 1.37% | 7.02% | 217.64 USD | Industrials |
+| 131 | NTNX | Nutanix, Inc. | 2.50p | 66.6667% | 4.21 USD | 1.36% | 6.97% | 64.70 USD | Technology |
+| 132 | FTNT | Fortinet, Inc. | 2.50p | 66.6667% | 5.35 USD | 1.35% | 6.91% | 82.86 USD | Technology |
+| 133 | AMAT | Applied Materials, Inc. | 2.50p | 66.6667% | 13.76 USD | 1.35% | 6.88% | 222.75 USD | Technology |
+| 134 | JBHT | J.B. Hunt Transport Services, I | 2.50p | 66.6667% | 11.24 USD | 1.34% | 6.84% | 175.68 USD | Industrials |
+| 135 | TCBI | Texas Capital Bancshares, Inc. | 2.49p | 66.6667% | 4.88 USD | 1.32% | 6.76% | 77.11 USD | Financial Services |
+| 136 | ASML | ASML Holding N.V. - New York Re | 2.49p | 66.6667% | 55.02 USD | 1.33% | 6.73% | 1091.35 USD | Technology |
+| 137 | CYBR | CyberArk Software Ltd. | 2.49p | 66.6667% | 18.39 USD | 1.30% | 6.66% | 378.73 USD | Technology |
+| 138 | CARG | CarGurus, Inc. | 2.48p | 66.6667% | 1.92 USD | 1.29% | 6.58% | 31.15 USD | Consumer Cyclical |
+| 139 | CFFN | Capitol Federal Financial, Inc. | 2.48p | 66.6667% | 0.36 USD | 1.27% | 6.50% | 5.91 USD | Financial Services |
+| 140 | RYTM | Rhythm Pharmaceuticals, Inc. | 2.48p | 66.6667% | 3.04 USD | 1.27% | 6.44% | 63.25 USD | Healthcare |
+| 141 | LRCX | Lam Research Corporation | 2.47p | 66.6667% | 5.09 USD | 1.24% | 6.31% | 89.10 USD | Technology |
+| 142 | BYND | Beyond Meat, Inc. | 2.47p | 66.6667% | 0.39 USD | 1.24% | 6.25% | 6.64 USD | Consumer Defensive |
 | 143 | MTSI | MACOM Technology Solutions Hold | 2.47p | 66.6667% | 6.85 USD | 1.22% | 6.24% | 116.66 USD | Technology |
 | 144 | GLW | Corning Incorporated | 2.47p | 66.6667% | 2.72 USD | 1.22% | 6.17% | 46.92 USD | Technology |
 | 145 | KLAC | KLA Corporation | 2.47p | 66.6667% | 47.98 USD | 1.21% | 6.14% | 829.72 USD | Technology |
@@ -197,14 +197,14 @@
 | 150 | AMG | Affiliated Managers Group, Inc. | 2.46p | 66.6667% | 10.62 USD | 1.17% | 5.92% | 194.07 USD | Financial Services |
 | 151 | GM | General Motors Company | 2.45p | 66.6667% | 2.65 USD | 1.14% | 5.76% | 48.65 USD | Consumer Cyclical |
 | 152 | ANGO | AngioDynamics, Inc. | 2.45p | 66.6667% | 0.35 USD | 1.16% | 5.74% | 8.19 USD | Healthcare |
-| 153 | LNC | Lincoln National Corporation | 2.45p | 66.6667% | 1.79 USD | 1.14% | 5.75% | 33.00 USD | Financial Services |
-| 154 | ADUS | Addus HomeCare Corporation | 2.45p | 66.6667% | 7.09 USD | 1.13% | 5.68% | 168.52 USD | Healthcare |
-| 155 | GS | Goldman Sachs Group, Inc. (The) | 2.45p | 66.6667% | 28.13 USD | 1.12% | 5.69% | 522.00 USD | Financial Services |
-| 156 | CODX | Co-Diagnostics, Inc. | 2.45p | 66.6667% | 0.07 USD | 1.19% | 5.60% | 1.36 USD | Healthcare |
-| 157 | BK | The Bank of New York Mellon Cor | 2.45p | 66.6667% | 4.07 USD | 1.11% | 5.62% | 77.98 USD | Financial Services |
-| 158 | BXP | BXP, Inc. | 2.45p | 66.6667% | 4.49 USD | 1.10% | 5.62% | 84.49 USD | Real Estate |
-| 159 | HTLF | Heartland Financial USA, Inc. | 2.45p | 66.6667% | 3.15 USD | 1.11% | 5.61% | 59.37 USD | Financial Services |
-| 160 | ZION | Zions Bancorporation N.A. | 2.44p | 66.6667% | 2.64 USD | 1.10% | 5.56% | 50.09 USD | Financial Services |
+| 153 | ADUS | Addus HomeCare Corporation | 2.45p | 66.6667% | 7.09 USD | 1.13% | 5.68% | 168.52 USD | Healthcare |
+| 154 | GS | Goldman Sachs Group, Inc. (The) | 2.45p | 66.6667% | 28.13 USD | 1.12% | 5.69% | 522.00 USD | Financial Services |
+| 155 | CODX | Co-Diagnostics, Inc. | 2.45p | 66.6667% | 0.07 USD | 1.19% | 5.60% | 1.36 USD | Healthcare |
+| 156 | BK | The Bank of New York Mellon Cor | 2.45p | 66.6667% | 4.07 USD | 1.11% | 5.62% | 77.98 USD | Financial Services |
+| 157 | BXP | BXP, Inc. | 2.45p | 66.6667% | 4.49 USD | 1.10% | 5.62% | 84.49 USD | Real Estate |
+| 158 | HTLF | Heartland Financial USA, Inc. | 2.45p | 66.6667% | 3.15 USD | 1.11% | 5.61% | 59.37 USD | Financial Services |
+| 159 | ZION | Zions Bancorporation N.A. | 2.44p | 66.6667% | 2.64 USD | 1.10% | 5.56% | 50.09 USD | Financial Services |
+| 160 | OZK | Bank OZK | 2.44p | 66.6667% | 2.32 USD | 1.10% | 5.56% | 44.07 USD | Financial Services |
 | 161 | RPD | Rapid7, Inc. | 2.44p | 66.6667% | 2.13 USD | 1.10% | 5.54% | 40.62 USD | Technology |
 | 162 | KMI | Kinder Morgan, Inc. | 2.44p | 66.6667% | 1.30 USD | 1.09% | 5.51% | 24.91 USD | Energy |
 | 163 | CSGP | CoStar Group, Inc. | 2.44p | 66.6667% | 4.04 USD | 1.09% | 5.51% | 77.43 USD | Real Estate |
@@ -215,10 +215,10 @@
 | 168 | TRGP | Targa Resources, Inc. | 2.44p | 66.6667% | 8.58 USD | 1.07% | 5.43% | 168.49 USD | Energy |
 | 169 | BLK | BlackRock, Inc. | 2.44p | 66.6667% | 51.05 USD | 1.07% | 5.43% | 991.01 USD | Financial Services |
 | 170 | FORM | FormFactor, Inc. | 2.44p | 66.6667% | 2.50 USD | 1.08% | 5.41% | 56.18 USD | Technology |
-| 171 | AU | AngloGold Ashanti PLC | 2.44p | 66.6667% | 1.40 USD | 1.07% | 5.40% | 27.19 USD | Basic Materials |
+| 171 | AU | AngloGold Ashanti PLC | 2.44p | 66.6667% | 1.40 USD | 1.07% | 5.40% | 27.31 USD | Basic Materials |
 | 172 | RL | Ralph Lauren Corporation | 2.44p | 66.6667% | 10.55 USD | 1.06% | 5.40% | 206.07 USD | Consumer Cyclical |
 | 173 | SIGI | Selective Insurance Group, Inc. | 2.44p | 66.6667% | 4.88 USD | 1.06% | 5.37% | 95.84 USD | Financial Services |
-| 174 | ANET | Arista Networks, Inc. | 2.43p | 66.6667% | 20.93 USD | 1.05% | 5.33% | 415.52 USD | Technology |
+| 174 | ANET | Arista Networks, Inc. | 2.43p | 66.6667% | 20.93 USD | 1.05% | 5.33% | 414.16 USD | Technology |
 | 175 | SE | Sea Limited | 2.43p | 66.6667% | 5.04 USD | 1.05% | 5.30% | 100.50 USD | Consumer Cyclical |
 | 176 | MSI | Motorola Solutions, Inc. | 2.43p | 66.6667% | 23.80 USD | 1.04% | 5.30% | 489.69 USD | Technology |
 | 177 | AUB | Atlantic Union Bankshares Corpo | 2.43p | 66.6667% | 1.94 USD | 1.05% | 5.29% | 40.30 USD | Financial Services |
@@ -226,32 +226,32 @@
 | 179 | CMA | Comerica Incorporated | 2.43p | 66.6667% | 3.05 USD | 1.04% | 5.23% | 61.37 USD | Financial Services |
 | 180 | SPXC | SPX Technologies, Inc. | 2.43p | 66.6667% | 8.43 USD | 1.03% | 5.23% | 179.26 USD | Industrials |
 | 181 | MDU | MDU Resources Group, Inc. | 2.43p | 66.6667% | 1.42 USD | 1.04% | 5.17% | 28.89 USD | Industrials |
-| 182 | MRSN | Mersana Therapeutics, Inc. | 2.43p | 66.6667% | 0.10 USD | 1.06% | 5.10% | 2.08 USD | Healthcare |
-| 183 | FITB | Fifth Third Bancorp | 2.43p | 66.6667% | 2.16 USD | 1.01% | 5.12% | 44.36 USD | Financial Services |
-| 184 | GL | Globe Life Inc. | 2.43p | 66.6667% | 5.29 USD | 1.01% | 5.11% | 109.90 USD | Financial Services |
-| 185 | NCMI | National CineMedia, Inc. | 2.43p | 66.6667% | 0.33 USD | 1.01% | 5.10% | 6.83 USD | Communication Services |
-| 186 | AMKR | Amkor Technology, Inc. | 2.43p | 66.6667% | 1.53 USD | 1.00% | 5.09% | 32.99 USD | Technology |
-| 187 | CRUS | Cirrus Logic, Inc. | 2.42p | 66.6667% | 5.93 USD | 1.00% | 5.05% | 123.41 USD | Technology |
-| 188 | ACB | Aurora Cannabis Inc. | 2.42p | 66.6667% | 0.27 USD | 1.00% | 5.05% | 5.66 USD | Healthcare |
-| 189 | HUBB | Hubbell Inc | 2.42p | 66.6667% | 22.07 USD | 1.00% | 5.03% | 483.54 USD | Industrials |
-| 190 | L | Loews Corporation | 2.42p | 66.6667% | 3.85 USD | 0.99% | 5.03% | 80.43 USD | Financial Services |
-| 191 | AMP | Ameriprise Financial, Inc. | 2.42p | 66.6667% | 23.80 USD | 0.98% | 4.95% | 515.95 USD | Financial Services |
-| 192 | FULT | Fulton Financial Corporation | 2.42p | 66.6667% | 0.85 USD | 0.97% | 4.92% | 20.74 USD | Financial Services |
-| 193 | NSSC | NAPCO Security Technologies, In | 2.42p | 66.6667% | 1.89 USD | 0.97% | 4.91% | 40.47 USD | Industrials |
-| 194 | UMBF | UMB Financial Corporation | 2.42p | 66.6667% | 5.09 USD | 0.97% | 4.88% | 109.39 USD | Financial Services |
-| 195 | ARCO | Arcos Dorados Holdings Inc. | 2.42p | 66.6667% | 0.46 USD | 0.96% | 4.87% | 10.25 USD | Consumer Cyclical |
-| 196 | MCO | Moody's Corporation | 2.41p | 66.6667% | 21.92 USD | 0.95% | 4.79% | 479.46 USD | Financial Services |
-| 197 | APEI | American Public Education, Inc. | 2.41p | 66.6667% | 0.65 USD | 0.94% | 4.76% | 14.37 USD | Consumer Defensive |
-| 198 | MCY | Mercury General Corporation | 2.41p | 66.6667% | 2.97 USD | 0.94% | 4.73% | 65.78 USD | Financial Services |
-| 199 | CALM | Cal-Maine Foods, Inc. | 2.41p | 66.6667% | 4.07 USD | 0.93% | 4.71% | 90.62 USD | Consumer Defensive |
-| 200 | STX | Seagate Technology Holdings PLC | 2.41p | 66.6667% | 4.93 USD | 0.92% | 4.65% | 111.10 USD | Technology |
-| 201 | PTC | PTC Inc. | 2.41p | 66.6667% | 8.21 USD | 0.92% | 4.63% | 185.59 USD | Technology |
-| 202 | FCNCA | First Citizens BancShares, Inc. | 2.41p | 66.6667% | 89.95 USD | 0.91% | 4.62% | 2207.49 USD | Financial Services |
-| 203 | TGNA | TEGNA Inc | 2.41p | 66.6667% | 0.71 USD | 0.91% | 4.61% | 16.22 USD | Communication Services |
-| 204 | LAKE | Lakeland Industries, Inc. | 2.41p | 66.6667% | 0.88 USD | 0.91% | 4.60% | 20.09 USD | Consumer Cyclical |
-| 205 | JWN | Nordstrom, Inc. | 2.40p | 66.6667% | 1.00 USD | 0.90% | 4.56% | 22.97 USD | Consumer Cyclical |
-| 206 | ITRI | Itron, Inc. | 2.40p | 66.6667% | 4.79 USD | 0.91% | 4.55% | 110.15 USD | Technology |
-| 207 | OZK | Bank OZK | 2.40p | 66.6667% | 1.91 USD | 0.90% | 4.54% | 44.07 USD | Financial Services |
+| 182 | BKU | BankUnited, Inc. | 2.43p | 66.6667% | 1.81 USD | 1.02% | 5.16% | 36.85 USD | Financial Services |
+| 183 | MRSN | Mersana Therapeutics, Inc. | 2.43p | 66.6667% | 0.10 USD | 1.06% | 5.10% | 2.08 USD | Healthcare |
+| 184 | FITB | Fifth Third Bancorp | 2.43p | 66.6667% | 2.16 USD | 1.01% | 5.12% | 44.36 USD | Financial Services |
+| 185 | GL | Globe Life Inc. | 2.43p | 66.6667% | 5.29 USD | 1.01% | 5.11% | 109.90 USD | Financial Services |
+| 186 | NCMI | National CineMedia, Inc. | 2.43p | 66.6667% | 0.33 USD | 1.01% | 5.10% | 6.83 USD | Communication Services |
+| 187 | AMKR | Amkor Technology, Inc. | 2.43p | 66.6667% | 1.53 USD | 1.00% | 5.09% | 32.99 USD | Technology |
+| 188 | CRUS | Cirrus Logic, Inc. | 2.42p | 66.6667% | 5.93 USD | 1.00% | 5.05% | 123.41 USD | Technology |
+| 189 | ACB | Aurora Cannabis Inc. | 2.42p | 66.6667% | 0.27 USD | 1.00% | 5.05% | 5.66 USD | Healthcare |
+| 190 | HUBB | Hubbell Inc | 2.42p | 66.6667% | 22.07 USD | 1.00% | 5.03% | 483.54 USD | Industrials |
+| 191 | L | Loews Corporation | 2.42p | 66.6667% | 3.85 USD | 0.99% | 5.03% | 80.43 USD | Financial Services |
+| 192 | AMP | Ameriprise Financial, Inc. | 2.42p | 66.6667% | 23.80 USD | 0.98% | 4.95% | 515.95 USD | Financial Services |
+| 193 | FULT | Fulton Financial Corporation | 2.42p | 66.6667% | 0.85 USD | 0.97% | 4.92% | 20.74 USD | Financial Services |
+| 194 | NSSC | NAPCO Security Technologies, In | 2.42p | 66.6667% | 1.89 USD | 0.97% | 4.91% | 40.47 USD | Industrials |
+| 195 | UMBF | UMB Financial Corporation | 2.42p | 66.6667% | 5.09 USD | 0.97% | 4.88% | 109.39 USD | Financial Services |
+| 196 | ARCO | Arcos Dorados Holdings Inc. | 2.42p | 66.6667% | 0.46 USD | 0.96% | 4.87% | 10.25 USD | Consumer Cyclical |
+| 197 | MCO | Moody's Corporation | 2.41p | 66.6667% | 21.92 USD | 0.95% | 4.79% | 480.95 USD | Financial Services |
+| 198 | APEI | American Public Education, Inc. | 2.41p | 66.6667% | 0.65 USD | 0.94% | 4.76% | 14.37 USD | Consumer Defensive |
+| 199 | MCY | Mercury General Corporation | 2.41p | 66.6667% | 2.97 USD | 0.94% | 4.73% | 65.78 USD | Financial Services |
+| 200 | CALM | Cal-Maine Foods, Inc. | 2.41p | 66.6667% | 4.07 USD | 0.93% | 4.71% | 90.62 USD | Consumer Defensive |
+| 201 | STX | Seagate Technology Holdings PLC | 2.41p | 66.6667% | 4.93 USD | 0.92% | 4.65% | 111.10 USD | Technology |
+| 202 | PTC | PTC Inc. | 2.41p | 66.6667% | 8.21 USD | 0.92% | 4.63% | 185.59 USD | Technology |
+| 203 | FCNCA | First Citizens BancShares, Inc. | 2.41p | 66.6667% | 89.95 USD | 0.91% | 4.62% | 2207.49 USD | Financial Services |
+| 204 | TGNA | TEGNA Inc | 2.41p | 66.6667% | 0.71 USD | 0.91% | 4.61% | 16.22 USD | Communication Services |
+| 205 | LAKE | Lakeland Industries, Inc. | 2.41p | 66.6667% | 0.88 USD | 0.91% | 4.60% | 20.09 USD | Consumer Cyclical |
+| 206 | JWN | Nordstrom, Inc. | 2.40p | 66.6667% | 1.00 USD | 0.90% | 4.56% | 22.97 USD | Consumer Cyclical |
+| 207 | ITRI | Itron, Inc. | 2.40p | 66.6667% | 4.79 USD | 0.91% | 4.55% | 110.15 USD | Technology |
 | 208 | LOW | Lowe's Companies, Inc. | 2.40p | 66.6667% | 12.19 USD | 0.90% | 4.54% | 280.73 USD | Consumer Cyclical |
 | 209 | PLUS | ePlus inc. | 2.40p | 66.6667% | 4.41 USD | 0.90% | 4.53% | 101.92 USD | Technology |
 | 210 | BANF | BancFirst Corporation | 2.40p | 66.6667% | 4.63 USD | 0.90% | 4.52% | 107.39 USD | Financial Services |
@@ -264,92 +264,92 @@
 | 217 | KNSL | Kinsale Capital Group, Inc. | 2.40p | 66.6667% | 20.03 USD | 0.88% | 4.43% | 489.00 USD | Financial Services |
 | 218 | PRTA | Prothena Corporation plc | 2.40p | 66.6667% | 0.73 USD | 0.88% | 4.40% | 17.39 USD | Healthcare |
 | 219 | ADI | Analog Devices, Inc. | 2.40p | 66.6667% | 9.92 USD | 0.87% | 4.38% | 245.66 USD | Technology |
-| 220 | PRO | PROS Holdings, Inc. | 2.39p | 66.6667% | 0.77 USD | 0.85% | 4.32% | 18.56 USD | Technology |
+| 220 | PRO | PROS Holdings, Inc. | 2.39p | 66.6667% | 0.77 USD | 0.85% | 4.32% | 19.86 USD | Technology |
 | 221 | IFF | International Flavors & Fragran | 2.39p | 66.6667% | 4.35 USD | 0.85% | 4.32% | 105.03 USD | Basic Materials |
-| 222 | BKU | BankUnited, Inc. | 2.39p | 66.6667% | 1.52 USD | 0.85% | 4.31% | 36.85 USD | Financial Services |
-| 223 | BX | Blackstone Inc. | 2.39p | 66.6667% | 6.42 USD | 0.85% | 4.31% | 155.59 USD | Financial Services |
-| 224 | CACI | CACI International, Inc. | 2.39p | 66.6667% | 21.69 USD | 0.85% | 4.28% | 844.14 USD | Technology |
-| 225 | FHB | First Hawaiian, Inc. | 2.39p | 66.6667% | 0.97 USD | 0.85% | 4.28% | 23.65 USD | Financial Services |
-| 226 | NTRS | Northern Trust Corporation | 2.39p | 66.6667% | 3.86 USD | 0.85% | 4.28% | 94.14 USD | Financial Services |
-| 227 | NOW | ServiceNow, Inc. | 2.39p | 66.6667% | 38.75 USD | 0.85% | 4.28% | 944.69 USD | Technology |
-| 228 | AON | Aon plc | 2.39p | 66.6667% | 14.67 USD | 0.85% | 4.27% | 358.74 USD | Financial Services |
-| 229 | SYK | Stryker Corporation | 2.39p | 66.6667% | 14.57 USD | 0.83% | 4.22% | 363.00 USD | Healthcare |
-| 230 | QRVO | Qorvo, Inc. | 2.39p | 66.6667% | 4.22 USD | 0.83% | 4.20% | 104.72 USD | Technology |
-| 231 | GAIN | Gladstone Investment Corporatio | 2.39p | 66.6667% | 0.56 USD | 0.83% | 4.18% | 13.96 USD | Financial Services |
-| 232 | NSP | Insperity, Inc. | 2.39p | 66.6667% | 3.55 USD | 0.83% | 4.18% | 89.09 USD | Industrials |
-| 233 | TSM | Taiwan Semiconductor Manufactur | 2.39p | 66.6667% | 7.70 USD | 0.83% | 4.17% | 192.88 USD | Technology |
-| 234 | ASB | Associated Banc-Corp | 2.39p | 66.6667% | 0.88 USD | 0.82% | 4.15% | 22.09 USD | Financial Services |
-| 235 | NSC | Norfolk Southern Corporation | 2.39p | 66.6667% | 10.08 USD | 0.82% | 4.14% | 260.00 USD | Industrials |
-| 236 | F | Ford Motor Company | 2.39p | 66.6667% | 0.43 USD | 0.81% | 4.10% | 10.91 USD | Consumer Cyclical |
-| 237 | AB | AllianceBernstein Holding L.P. | 2.39p | 66.6667% | 1.42 USD | 0.81% | 4.09% | 36.56 USD | Financial Services |
-| 238 | HLIT | Harmonic Inc. | 2.39p | 66.6667% | 0.54 USD | 0.81% | 4.08% | 13.80 USD | Technology |
-| 239 | TTMI | TTM Technologies, Inc. | 2.38p | 66.6667% | 0.75 USD | 0.81% | 4.07% | 19.19 USD | Technology |
-| 240 | NXPI | NXP Semiconductors N.V. | 2.38p | 66.6667% | 9.42 USD | 0.80% | 4.03% | 243.64 USD | Technology |
-| 241 | BAM | Brookfield Asset Management Inc | 2.38p | 66.6667% | 1.90 USD | 0.79% | 4.02% | 51.24 USD | Financial Services |
-| 242 | AMN | AMN Healthcare Services Inc | 2.38p | 66.6667% | 1.55 USD | 0.80% | 4.01% | 40.00 USD | Healthcare |
-| 243 | IPGP | IPG Photonics Corporation | 2.38p | 66.6667% | 2.94 USD | 0.80% | 4.01% | 82.41 USD | Technology |
-| 244 | RGLD | Royal Gold, Inc. | 2.38p | 66.6667% | 5.44 USD | 0.78% | 3.97% | 142.36 USD | Basic Materials |
-| 245 | KKR | KKR & Co. Inc. | 2.38p | 66.6667% | 5.21 USD | 0.79% | 3.97% | 137.77 USD | Financial Services |
-| 246 | WM | Waste Management, Inc. | 2.38p | 66.6667% | 8.09 USD | 0.78% | 3.94% | 213.92 USD | Industrials |
-| 247 | MKTX | MarketAxess Holdings, Inc. | 2.38p | 66.6667% | 10.74 USD | 0.78% | 3.92% | 284.89 USD | Financial Services |
-| 248 | PRU | Prudential Financial, Inc. | 2.38p | 66.6667% | 4.71 USD | 0.77% | 3.91% | 125.16 USD | Financial Services |
-| 249 | SWKS | Skyworks Solutions, Inc. | 2.38p | 66.6667% | 3.70 USD | 0.77% | 3.88% | 99.24 USD | Technology |
-| 250 | R | Ryder System, Inc. | 2.38p | 66.6667% | 5.65 USD | 0.77% | 3.87% | 151.99 USD | Industrials |
-| 251 | ASGN | ASGN Incorporated | 2.38p | 66.6667% | 3.63 USD | 0.77% | 3.86% | 102.46 USD | Technology |
-| 252 | ORCL | Oracle Corporation | 2.38p | 66.6667% | 6.53 USD | 0.77% | 3.85% | 176.81 USD | Technology |
-| 253 | BDC | Belden Inc | 2.37p | 66.6667% | 4.48 USD | 0.77% | 3.82% | 127.69 USD | Technology |
-| 254 | IRM | Iron Mountain Incorporated (Del | 2.37p | 66.6667% | 4.43 USD | 0.75% | 3.79% | 121.19 USD | Real Estate |
-| 255 | TFC | Truist Financial Corporation | 2.37p | 66.6667% | 1.59 USD | 0.75% | 3.79% | 43.90 USD | Financial Services |
-| 256 | CW | Curtiss-Wright Corporation | 2.37p | 66.6667% | 12.67 USD | 0.75% | 3.78% | 350.96 USD | Industrials |
-| 257 | BL | BlackLine, Inc. | 2.37p | 66.6667% | 2.05 USD | 0.75% | 3.77% | 56.45 USD | Technology |
-| 258 | UNH | UnitedHealth Group Incorporated | 2.37p | 66.6667% | 21.84 USD | 0.74% | 3.74% | 607.11 USD | Healthcare |
-| 259 | BRO | Brown & Brown, Inc. | 2.37p | 66.6667% | 3.81 USD | 0.75% | 3.73% | 106.07 USD | Financial Services |
-| 260 | ATEN | A10 Networks, Inc. | 2.37p | 66.6667% | 0.53 USD | 0.74% | 3.74% | 14.68 USD | Technology |
-| 261 | AMZN | Amazon.com, Inc. | 2.37p | 66.6667% | 6.74 USD | 0.74% | 3.73% | 187.63 USD | Consumer Cyclical |
-| 262 | BSX | Boston Scientific Corporation | 2.37p | 66.6667% | 3.14 USD | 0.74% | 3.72% | 87.48 USD | Healthcare |
-| 263 | BILL | BILL Holdings, Inc. | 2.37p | 66.6667% | 2.00 USD | 0.73% | 3.71% | 56.50 USD | Technology |
-| 264 | VNO | Vornado Realty Trust | 2.37p | 66.6667% | 1.43 USD | 0.73% | 3.70% | 40.03 USD | Real Estate |
-| 265 | TXN | Texas Instruments Incorporated | 2.37p | 66.6667% | 7.38 USD | 0.73% | 3.67% | 208.80 USD | Technology |
-| 266 | VIR | Vir Biotechnology, Inc. | 2.37p | 66.6667% | 0.27 USD | 0.73% | 3.65% | 7.69 USD | Healthcare |
-| 267 | TMUS | T-Mobile US, Inc. | 2.37p | 66.6667% | 7.58 USD | 0.72% | 3.64% | 215.96 USD | Communication Services |
-| 268 | RSG | Republic Services, Inc. | 2.37p | 66.6667% | 7.16 USD | 0.71% | 3.61% | 207.61 USD | Industrials |
-| 269 | GE | GE Aerospace | 2.37p | 66.6667% | 6.67 USD | 0.71% | 3.59% | 192.82 USD | Industrials |
-| 270 | IBM | International Business Machines | 2.37p | 66.6667% | 8.14 USD | 0.71% | 3.58% | 235.40 USD | Technology |
-| 271 | WK | Workiva Inc. | 2.36p | 66.6667% | 2.72 USD | 0.70% | 3.52% | 79.97 USD | Technology |
-| 272 | MMC | Marsh & McLennan Companies, Inc | 2.36p | 66.6667% | 7.74 USD | 0.70% | 3.52% | 227.65 USD | Financial Services |
-| 273 | DLR | Digital Realty Trust, Inc. | 2.36p | 66.6667% | 5.51 USD | 0.70% | 3.52% | 162.50 USD | Real Estate |
-| 274 | TWLO | Twilio Inc. | 2.36p | 66.6667% | 2.40 USD | 0.70% | 3.50% | 70.99 USD | Technology |
-| 275 | SHOP | Shopify Inc. | 2.36p | 66.6667% | 2.82 USD | 0.69% | 3.49% | 83.92 USD | Technology |
-| 276 | ISRG | Intuitive Surgical, Inc. | 2.36p | 66.6667% | 16.38 USD | 0.69% | 3.48% | 487.73 USD | Healthcare |
-| 277 | VCTR | Victory Capital Holdings, Inc.  | 2.36p | 66.6667% | 1.97 USD | 0.69% | 3.48% | 58.68 USD | Financial Services |
-| 278 | CMCSA | Comcast Corporation | 2.36p | 66.6667% | 1.41 USD | 0.69% | 3.48% | 41.99 USD | Communication Services |
-| 279 | MET | MetLife, Inc. | 2.36p | 66.6667% | 2.88 USD | 0.69% | 3.47% | 85.96 USD | Financial Services |
-| 280 | HCA | HCA Healthcare, Inc. | 2.36p | 66.6667% | 13.25 USD | 0.69% | 3.46% | 396.65 USD | Healthcare |
-| 281 | PNC | PNC Financial Services Group, I | 2.36p | 66.6667% | 6.29 USD | 0.69% | 3.45% | 188.40 USD | Financial Services |
-| 282 | HEES | H&E Equipment Services, Inc. | 2.36p | 66.6667% | 1.75 USD | 0.69% | 3.45% | 52.61 USD | Industrials |
-| 283 | CABO | Cable One, Inc. | 2.36p | 66.6667% | 11.27 USD | 0.71% | 3.41% | 366.80 USD | Communication Services |
-| 284 | CTAS | Cintas Corporation | 2.36p | 66.6667% | 7.03 USD | 0.68% | 3.44% | 211.59 USD | Industrials |
-| 285 | LKFN | Lakeland Financial Corporation | 2.36p | 66.6667% | 2.13 USD | 0.69% | 3.42% | 64.41 USD | Financial Services |
-| 286 | ABT | Abbott Laboratories | 2.36p | 66.6667% | 3.89 USD | 0.68% | 3.43% | 117.00 USD | Healthcare |
-| 287 | IT | Gartner, Inc. | 2.36p | 66.6667% | 17.49 USD | 0.68% | 3.43% | 528.97 USD | Technology |
-| 288 | AMSF | AMERISAFE, Inc. | 2.36p | 66.6667% | 1.63 USD | 0.67% | 3.42% | 49.46 USD | Financial Services |
-| 289 | ZBRA | Zebra Technologies Corporation | 2.36p | 66.6667% | 12.44 USD | 0.68% | 3.41% | 377.88 USD | Technology |
-| 290 | CVS | CVS Health Corporation | 2.36p | 66.6667% | 2.21 USD | 0.67% | 3.39% | 67.63 USD | Healthcare |
-| 291 | AC | Associated Capital Group, Inc. | 2.36p | 66.6667% | 1.20 USD | 0.67% | 3.37% | 58.80 USD | Financial Services |
-| 292 | AIZ | Assurant, Inc. | 2.36p | 66.6667% | 6.27 USD | 0.66% | 3.36% | 197.59 USD | Financial Services |
-| 293 | CSCO | Cisco Systems, Inc. | 2.36p | 66.6667% | 1.76 USD | 0.66% | 3.35% | 54.28 USD | Technology |
-| 294 | Z | Zillow Group, Inc. | 2.36p | 66.6667% | 2.02 USD | 0.68% | 3.32% | 62.81 USD | Communication Services |
-| 295 | MCHP | Microchip Technology Incorporat | 2.35p | 66.6667% | 2.54 USD | 0.66% | 3.32% | 79.01 USD | Technology |
-| 296 | CI | The Cigna Group | 2.35p | 66.6667% | 11.18 USD | 0.65% | 3.29% | 362.00 USD | Healthcare |
-| 297 | ETN | Eaton Corporation, PLC | 2.35p | 66.6667% | 10.98 USD | 0.65% | 3.28% | 345.53 USD | Industrials |
-| 298 | AZO | AutoZone, Inc. | 2.35p | 66.6667% | 99.59 USD | 0.65% | 3.26% | 5035.60 USD | Consumer Cyclical |
-| 299 | MA | Mastercard Incorporated | 2.35p | 66.6667% | 16.01 USD | 0.65% | 3.26% | 507.60 USD | Financial Services |
-| 300 | ATGE | Adtalem Global Education Inc. | 2.35p | 66.6667% | 2.36 USD | 0.65% | 3.25% | 78.26 USD | Consumer Defensive |
-| 301 | PG | Procter & Gamble Company (The) | 2.35p | 66.6667% | 5.39 USD | 0.64% | 3.23% | 172.72 USD | Consumer Defensive |
-| 302 | GWRE | Guidewire Software, Inc. | 2.35p | 66.6667% | 5.75 USD | 0.63% | 3.16% | 188.98 USD | Technology |
-| 303 | ADP | Automatic Data Processing, Inc. | 2.35p | 66.6667% | 8.88 USD | 0.62% | 3.15% | 291.10 USD | Technology |
-| 304 | PNR | Pentair plc. | 2.35p | 66.6667% | 3.00 USD | 0.62% | 3.13% | 98.78 USD | Industrials |
-| 305 | VIRT | Virtu Financial, Inc. | 2.35p | 66.6667% | 0.99 USD | 0.62% | 3.12% | 32.72 USD | Financial Services |
+| 222 | BX | Blackstone Inc. | 2.39p | 66.6667% | 6.42 USD | 0.85% | 4.31% | 155.59 USD | Financial Services |
+| 223 | CACI | CACI International, Inc. | 2.39p | 66.6667% | 21.69 USD | 0.85% | 4.28% | 844.14 USD | Technology |
+| 224 | FHB | First Hawaiian, Inc. | 2.39p | 66.6667% | 0.97 USD | 0.85% | 4.28% | 23.65 USD | Financial Services |
+| 225 | NTRS | Northern Trust Corporation | 2.39p | 66.6667% | 3.86 USD | 0.85% | 4.28% | 94.14 USD | Financial Services |
+| 226 | NOW | ServiceNow, Inc. | 2.39p | 66.6667% | 38.75 USD | 0.85% | 4.28% | 944.69 USD | Technology |
+| 227 | AON | Aon plc | 2.39p | 66.6667% | 14.67 USD | 0.85% | 4.27% | 358.74 USD | Financial Services |
+| 228 | SYK | Stryker Corporation | 2.39p | 66.6667% | 14.57 USD | 0.83% | 4.22% | 363.00 USD | Healthcare |
+| 229 | QRVO | Qorvo, Inc. | 2.39p | 66.6667% | 4.22 USD | 0.83% | 4.20% | 104.72 USD | Technology |
+| 230 | GAIN | Gladstone Investment Corporatio | 2.39p | 66.6667% | 0.56 USD | 0.83% | 4.18% | 13.96 USD | Financial Services |
+| 231 | NSP | Insperity, Inc. | 2.39p | 66.6667% | 3.55 USD | 0.83% | 4.18% | 89.09 USD | Industrials |
+| 232 | TSM | Taiwan Semiconductor Manufactur | 2.39p | 66.6667% | 7.70 USD | 0.83% | 4.17% | 192.88 USD | Technology |
+| 233 | ASB | Associated Banc-Corp | 2.39p | 66.6667% | 0.88 USD | 0.82% | 4.15% | 22.09 USD | Financial Services |
+| 234 | NSC | Norfolk Southern Corporation | 2.39p | 66.6667% | 10.08 USD | 0.82% | 4.14% | 260.00 USD | Industrials |
+| 235 | F | Ford Motor Company | 2.39p | 66.6667% | 0.43 USD | 0.81% | 4.10% | 10.91 USD | Consumer Cyclical |
+| 236 | AB | AllianceBernstein Holding L.P. | 2.39p | 66.6667% | 1.42 USD | 0.81% | 4.09% | 36.56 USD | Financial Services |
+| 237 | HLIT | Harmonic Inc. | 2.39p | 66.6667% | 0.54 USD | 0.81% | 4.08% | 13.80 USD | Technology |
+| 238 | TTMI | TTM Technologies, Inc. | 2.38p | 66.6667% | 0.75 USD | 0.81% | 4.07% | 19.19 USD | Technology |
+| 239 | NXPI | NXP Semiconductors N.V. | 2.38p | 66.6667% | 9.42 USD | 0.80% | 4.03% | 243.64 USD | Technology |
+| 240 | BAM | Brookfield Asset Management Inc | 2.38p | 66.6667% | 1.90 USD | 0.79% | 4.02% | 51.24 USD | Financial Services |
+| 241 | AMN | AMN Healthcare Services Inc | 2.38p | 66.6667% | 1.55 USD | 0.80% | 4.01% | 40.00 USD | Healthcare |
+| 242 | IPGP | IPG Photonics Corporation | 2.38p | 66.6667% | 2.94 USD | 0.80% | 4.01% | 82.41 USD | Technology |
+| 243 | RGLD | Royal Gold, Inc. | 2.38p | 66.6667% | 5.44 USD | 0.78% | 3.97% | 142.36 USD | Basic Materials |
+| 244 | KKR | KKR & Co. Inc. | 2.38p | 66.6667% | 5.21 USD | 0.79% | 3.97% | 137.77 USD | Financial Services |
+| 245 | WM | Waste Management, Inc. | 2.38p | 66.6667% | 8.09 USD | 0.78% | 3.94% | 213.92 USD | Industrials |
+| 246 | MKTX | MarketAxess Holdings, Inc. | 2.38p | 66.6667% | 10.74 USD | 0.78% | 3.92% | 284.89 USD | Financial Services |
+| 247 | PRU | Prudential Financial, Inc. | 2.38p | 66.6667% | 4.71 USD | 0.77% | 3.91% | 125.17 USD | Financial Services |
+| 248 | SWKS | Skyworks Solutions, Inc. | 2.38p | 66.6667% | 3.70 USD | 0.77% | 3.88% | 99.24 USD | Technology |
+| 249 | R | Ryder System, Inc. | 2.38p | 66.6667% | 5.65 USD | 0.77% | 3.87% | 151.99 USD | Industrials |
+| 250 | ASGN | ASGN Incorporated | 2.38p | 66.6667% | 3.63 USD | 0.77% | 3.86% | 102.46 USD | Technology |
+| 251 | ORCL | Oracle Corporation | 2.38p | 66.6667% | 6.53 USD | 0.77% | 3.85% | 176.81 USD | Technology |
+| 252 | BDC | Belden Inc | 2.37p | 66.6667% | 4.48 USD | 0.77% | 3.82% | 127.69 USD | Technology |
+| 253 | IRM | Iron Mountain Incorporated (Del | 2.37p | 66.6667% | 4.43 USD | 0.75% | 3.79% | 121.19 USD | Real Estate |
+| 254 | TFC | Truist Financial Corporation | 2.37p | 66.6667% | 1.59 USD | 0.75% | 3.79% | 43.90 USD | Financial Services |
+| 255 | CW | Curtiss-Wright Corporation | 2.37p | 66.6667% | 12.67 USD | 0.75% | 3.78% | 350.96 USD | Industrials |
+| 256 | BL | BlackLine, Inc. | 2.37p | 66.6667% | 2.05 USD | 0.75% | 3.77% | 56.45 USD | Technology |
+| 257 | UNH | UnitedHealth Group Incorporated | 2.37p | 66.6667% | 21.84 USD | 0.74% | 3.74% | 607.11 USD | Healthcare |
+| 258 | BRO | Brown & Brown, Inc. | 2.37p | 66.6667% | 3.81 USD | 0.75% | 3.73% | 106.07 USD | Financial Services |
+| 259 | ATEN | A10 Networks, Inc. | 2.37p | 66.6667% | 0.53 USD | 0.74% | 3.74% | 14.68 USD | Technology |
+| 260 | AMZN | Amazon.com, Inc. | 2.37p | 66.6667% | 6.74 USD | 0.74% | 3.73% | 187.63 USD | Consumer Cyclical |
+| 261 | BSX | Boston Scientific Corporation | 2.37p | 66.6667% | 3.14 USD | 0.74% | 3.72% | 87.48 USD | Healthcare |
+| 262 | BILL | BILL Holdings, Inc. | 2.37p | 66.6667% | 2.00 USD | 0.73% | 3.71% | 56.50 USD | Technology |
+| 263 | VNO | Vornado Realty Trust | 2.37p | 66.6667% | 1.43 USD | 0.73% | 3.70% | 40.03 USD | Real Estate |
+| 264 | TXN | Texas Instruments Incorporated | 2.37p | 66.6667% | 7.38 USD | 0.73% | 3.67% | 208.80 USD | Technology |
+| 265 | VIR | Vir Biotechnology, Inc. | 2.37p | 66.6667% | 0.27 USD | 0.73% | 3.65% | 7.69 USD | Healthcare |
+| 266 | TMUS | T-Mobile US, Inc. | 2.37p | 66.6667% | 7.58 USD | 0.72% | 3.64% | 215.96 USD | Communication Services |
+| 267 | RSG | Republic Services, Inc. | 2.37p | 66.6667% | 7.16 USD | 0.71% | 3.61% | 207.61 USD | Industrials |
+| 268 | GE | GE Aerospace | 2.37p | 66.6667% | 6.67 USD | 0.71% | 3.59% | 192.82 USD | Industrials |
+| 269 | IBM | International Business Machines | 2.37p | 66.6667% | 8.14 USD | 0.71% | 3.58% | 235.40 USD | Technology |
+| 270 | WK | Workiva Inc. | 2.36p | 66.6667% | 2.72 USD | 0.70% | 3.52% | 79.97 USD | Technology |
+| 271 | MMC | Marsh & McLennan Companies, Inc | 2.36p | 66.6667% | 7.74 USD | 0.70% | 3.52% | 227.65 USD | Financial Services |
+| 272 | DLR | Digital Realty Trust, Inc. | 2.36p | 66.6667% | 5.51 USD | 0.70% | 3.52% | 162.50 USD | Real Estate |
+| 273 | TWLO | Twilio Inc. | 2.36p | 66.6667% | 2.40 USD | 0.70% | 3.50% | 70.99 USD | Technology |
+| 274 | SHOP | Shopify Inc. | 2.36p | 66.6667% | 2.82 USD | 0.69% | 3.49% | 83.75 USD | Technology |
+| 275 | ISRG | Intuitive Surgical, Inc. | 2.36p | 66.6667% | 16.38 USD | 0.69% | 3.48% | 487.73 USD | Healthcare |
+| 276 | VCTR | Victory Capital Holdings, Inc.  | 2.36p | 66.6667% | 1.97 USD | 0.69% | 3.48% | 58.68 USD | Financial Services |
+| 277 | CMCSA | Comcast Corporation | 2.36p | 66.6667% | 1.41 USD | 0.69% | 3.48% | 41.99 USD | Communication Services |
+| 278 | MET | MetLife, Inc. | 2.36p | 66.6667% | 2.88 USD | 0.69% | 3.47% | 85.96 USD | Financial Services |
+| 279 | HCA | HCA Healthcare, Inc. | 2.36p | 66.6667% | 13.25 USD | 0.69% | 3.46% | 396.65 USD | Healthcare |
+| 280 | PNC | PNC Financial Services Group, I | 2.36p | 66.6667% | 6.29 USD | 0.69% | 3.45% | 188.40 USD | Financial Services |
+| 281 | HEES | H&E Equipment Services, Inc. | 2.36p | 66.6667% | 1.75 USD | 0.69% | 3.45% | 52.61 USD | Industrials |
+| 282 | CABO | Cable One, Inc. | 2.36p | 66.6667% | 11.27 USD | 0.71% | 3.41% | 366.80 USD | Communication Services |
+| 283 | CTAS | Cintas Corporation | 2.36p | 66.6667% | 7.03 USD | 0.68% | 3.44% | 211.59 USD | Industrials |
+| 284 | LKFN | Lakeland Financial Corporation | 2.36p | 66.6667% | 2.13 USD | 0.69% | 3.42% | 64.41 USD | Financial Services |
+| 285 | ABT | Abbott Laboratories | 2.36p | 66.6667% | 3.89 USD | 0.68% | 3.43% | 117.00 USD | Healthcare |
+| 286 | IT | Gartner, Inc. | 2.36p | 66.6667% | 17.49 USD | 0.68% | 3.43% | 528.97 USD | Technology |
+| 287 | AMSF | AMERISAFE, Inc. | 2.36p | 66.6667% | 1.63 USD | 0.67% | 3.42% | 49.46 USD | Financial Services |
+| 288 | ZBRA | Zebra Technologies Corporation | 2.36p | 66.6667% | 12.44 USD | 0.68% | 3.41% | 377.88 USD | Technology |
+| 289 | CVS | CVS Health Corporation | 2.36p | 66.6667% | 2.21 USD | 0.67% | 3.39% | 67.63 USD | Healthcare |
+| 290 | AC | Associated Capital Group, Inc. | 2.36p | 66.6667% | 1.20 USD | 0.67% | 3.37% | 58.80 USD | Financial Services |
+| 291 | AIZ | Assurant, Inc. | 2.36p | 66.6667% | 6.27 USD | 0.66% | 3.36% | 197.59 USD | Financial Services |
+| 292 | CSCO | Cisco Systems, Inc. | 2.36p | 66.6667% | 1.76 USD | 0.66% | 3.35% | 54.28 USD | Technology |
+| 293 | Z | Zillow Group, Inc. | 2.36p | 66.6667% | 2.02 USD | 0.68% | 3.32% | 62.81 USD | Communication Services |
+| 294 | MCHP | Microchip Technology Incorporat | 2.35p | 66.6667% | 2.54 USD | 0.66% | 3.32% | 79.01 USD | Technology |
+| 295 | CI | The Cigna Group | 2.35p | 66.6667% | 11.18 USD | 0.65% | 3.29% | 362.00 USD | Healthcare |
+| 296 | ETN | Eaton Corporation, PLC | 2.35p | 66.6667% | 10.98 USD | 0.65% | 3.28% | 346.65 USD | Industrials |
+| 297 | AZO | AutoZone, Inc. | 2.35p | 66.6667% | 99.59 USD | 0.65% | 3.26% | 5035.60 USD | Consumer Cyclical |
+| 298 | MA | Mastercard Incorporated | 2.35p | 66.6667% | 16.01 USD | 0.65% | 3.26% | 507.60 USD | Financial Services |
+| 299 | ATGE | Adtalem Global Education Inc. | 2.35p | 66.6667% | 2.36 USD | 0.65% | 3.25% | 78.26 USD | Consumer Defensive |
+| 300 | PG | Procter & Gamble Company (The) | 2.35p | 66.6667% | 5.39 USD | 0.64% | 3.23% | 172.72 USD | Consumer Defensive |
+| 301 | GWRE | Guidewire Software, Inc. | 2.35p | 66.6667% | 5.75 USD | 0.63% | 3.16% | 188.98 USD | Technology |
+| 302 | ADP | Automatic Data Processing, Inc. | 2.35p | 66.6667% | 8.88 USD | 0.62% | 3.15% | 291.10 USD | Technology |
+| 303 | PNR | Pentair plc. | 2.35p | 66.6667% | 3.00 USD | 0.62% | 3.13% | 98.78 USD | Industrials |
+| 304 | VIRT | Virtu Financial, Inc. | 2.35p | 66.6667% | 0.99 USD | 0.62% | 3.12% | 32.72 USD | Financial Services |
+| 305 | ROP | Roper Technologies, Inc. | 2.35p | 66.6667% | 16.71 USD | 0.62% | 3.11% | 554.87 USD | Technology |
 | 306 | SSNC | SS&C Technologies Holdings, Inc | 2.35p | 66.6667% | 2.28 USD | 0.62% | 3.11% | 75.65 USD | Technology |
 | 307 | LIN | Linde plc | 2.35p | 66.6667% | 14.34 USD | 0.61% | 3.10% | 477.76 USD | Basic Materials |
 | 308 | TXT | Textron Inc. | 2.35p | 66.6667% | 2.65 USD | 0.62% | 3.09% | 88.26 USD | Industrials |
@@ -362,21 +362,21 @@
 | 315 | HLNE | Hamilton Lane Incorporated | 2.34p | 66.6667% | 5.14 USD | 0.60% | 2.99% | 177.26 USD | Financial Services |
 | 316 | WIX | Wix.com Ltd. | 2.34p | 66.6667% | 4.68 USD | 0.61% | 2.96% | 163.03 USD | Technology |
 | 317 | WDAY | Workday, Inc. | 2.34p | 66.6667% | 7.00 USD | 0.60% | 2.97% | 242.48 USD | Technology |
-| 318 | ROP | Roper Technologies, Inc. | 2.34p | 66.6667% | 15.96 USD | 0.59% | 2.97% | 554.87 USD | Technology |
-| 319 | ECL | Ecolab Inc. | 2.34p | 66.6667% | 7.39 USD | 0.59% | 2.97% | 257.00 USD | Basic Materials |
-| 320 | AAL | American Airlines Group, Inc. | 2.34p | 66.6667% | 0.34 USD | 0.60% | 2.95% | 11.89 USD | Industrials |
-| 321 | XENE | Xenon Pharmaceuticals Inc. | 2.34p | 66.6667% | 1.17 USD | 0.60% | 2.88% | 41.79 USD | Healthcare |
-| 322 | FRHC | Freedom Holding Corp. | 2.34p | 66.6667% | 2.77 USD | 0.57% | 2.87% | 99.91 USD | Financial Services |
-| 323 | ZTS | Zoetis Inc. | 2.34p | 66.6667% | 5.37 USD | 0.57% | 2.87% | 193.36 USD | Healthcare |
-| 324 | TROW | T. Rowe Price Group, Inc. | 2.34p | 66.6667% | 3.05 USD | 0.57% | 2.86% | 109.77 USD | Financial Services |
-| 325 | JBL | Jabil Inc. | 2.34p | 66.6667% | 3.47 USD | 0.56% | 2.84% | 126.38 USD | Technology |
-| 326 | JCI | Johnson Controls International  | 2.33p | 66.6667% | 2.13 USD | 0.56% | 2.82% | 77.98 USD | Industrials |
-| 327 | DIS | Walt Disney Company (The) | 2.33p | 66.6667% | 2.58 USD | 0.55% | 2.79% | 95.12 USD | Communication Services |
-| 328 | PEGA | Pegasystems Inc. | 2.33p | 66.6667% | 1.99 USD | 0.55% | 2.78% | 73.50 USD | Technology |
-| 329 | IAC | IAC Inc. | 2.33p | 66.6667% | 1.43 USD | 0.55% | 2.78% | 52.94 USD | Communication Services |
-| 330 | TJX | TJX Companies, Inc. (The) | 2.33p | 66.6667% | 3.11 USD | 0.55% | 2.77% | 115.50 USD | Consumer Cyclical |
-| 331 | DVA | DaVita Inc. | 2.33p | 66.6667% | 4.29 USD | 0.55% | 2.72% | 162.60 USD | Healthcare |
-| 332 | TRIP | TripAdvisor, Inc. | 2.33p | 66.6667% | 0.39 USD | 0.55% | 2.72% | 14.79 USD | Consumer Cyclical |
+| 318 | ECL | Ecolab Inc. | 2.34p | 66.6667% | 7.39 USD | 0.59% | 2.97% | 257.00 USD | Basic Materials |
+| 319 | AAL | American Airlines Group, Inc. | 2.34p | 66.6667% | 0.34 USD | 0.60% | 2.95% | 11.89 USD | Industrials |
+| 320 | XENE | Xenon Pharmaceuticals Inc. | 2.34p | 66.6667% | 1.17 USD | 0.60% | 2.88% | 41.79 USD | Healthcare |
+| 321 | FRHC | Freedom Holding Corp. | 2.34p | 66.6667% | 2.77 USD | 0.57% | 2.87% | 99.91 USD | Financial Services |
+| 322 | ZTS | Zoetis Inc. | 2.34p | 66.6667% | 5.37 USD | 0.57% | 2.87% | 193.36 USD | Healthcare |
+| 323 | TROW | T. Rowe Price Group, Inc. | 2.34p | 66.6667% | 3.05 USD | 0.57% | 2.86% | 109.77 USD | Financial Services |
+| 324 | JBL | Jabil Inc. | 2.34p | 66.6667% | 3.47 USD | 0.56% | 2.84% | 126.38 USD | Technology |
+| 325 | JCI | Johnson Controls International  | 2.33p | 66.6667% | 2.13 USD | 0.56% | 2.82% | 77.98 USD | Industrials |
+| 326 | DIS | Walt Disney Company (The) | 2.33p | 66.6667% | 2.58 USD | 0.55% | 2.79% | 95.03 USD | Communication Services |
+| 327 | PEGA | Pegasystems Inc. | 2.33p | 66.6667% | 1.99 USD | 0.55% | 2.78% | 73.50 USD | Technology |
+| 328 | IAC | IAC Inc. | 2.33p | 66.6667% | 1.43 USD | 0.55% | 2.78% | 52.94 USD | Communication Services |
+| 329 | TJX | TJX Companies, Inc. (The) | 2.33p | 66.6667% | 3.11 USD | 0.55% | 2.77% | 115.50 USD | Consumer Cyclical |
+| 330 | DVA | DaVita Inc. | 2.33p | 66.6667% | 4.29 USD | 0.55% | 2.72% | 162.60 USD | Healthcare |
+| 331 | TRIP | TripAdvisor, Inc. | 2.33p | 66.6667% | 0.39 USD | 0.55% | 2.72% | 14.79 USD | Consumer Cyclical |
+| 332 | GNTX | Gentex Corporation | 2.33p | 66.6667% | 0.78 USD | 0.54% | 2.71% | 30.71 USD | Consumer Cyclical |
 | 333 | BOX | Box, Inc. | 2.33p | 66.6667% | 0.86 USD | 0.54% | 2.71% | 32.72 USD | Technology |
 | 334 | AXS | Axis Capital Holdings Limited | 2.33p | 66.6667% | 2.13 USD | 0.54% | 2.70% | 81.09 USD | Financial Services |
 | 335 | FDX | FedEx Corporation | 2.33p | 66.6667% | 6.95 USD | 0.53% | 2.67% | 267.25 USD | Industrials |
@@ -388,7 +388,7 @@
 | 341 | JKHY | Jack Henry & Associates, Inc. | 2.32p | 66.6667% | 4.48 USD | 0.49% | 2.49% | 184.32 USD | Technology |
 | 342 | HSIC | Henry Schein, Inc. | 2.32p | 66.6667% | 1.71 USD | 0.49% | 2.47% | 71.04 USD | Healthcare |
 | 343 | APD | Air Products and Chemicals, Inc | 2.32p | 66.6667% | 7.65 USD | 0.49% | 2.45% | 320.21 USD | Basic Materials |
-| 344 | TNC | Tennant Company | 2.32p | 66.6667% | 2.23 USD | 0.49% | 2.43% | 94.09 USD | Industrials |
+| 344 | TNC | Tennant Company | 2.32p | 66.6667% | 2.23 USD | 0.49% | 2.43% | 97.07 USD | Industrials |
 | 345 | CRT | Cross Timbers Royalty Trust | 2.32p | 66.6667% | 0.26 USD | 0.51% | 2.40% | 11.13 USD | Energy |
 | 346 | XYL | Xylem Inc. | 2.32p | 66.6667% | 3.21 USD | 0.48% | 2.39% | 137.23 USD | Industrials |
 | 347 | MAS | Masco Corporation | 2.32p | 66.6667% | 1.98 USD | 0.48% | 2.39% | 84.82 USD | Industrials |
@@ -399,18 +399,18 @@
 | 352 | BLDR | Builders FirstSource, Inc. | 2.32p | 66.6667% | 4.53 USD | 0.47% | 2.36% | 197.23 USD | Industrials |
 | 353 | MSFT | Microsoft Corporation | 2.32p | 66.6667% | 9.60 USD | 0.47% | 2.34% | 419.24 USD | Technology |
 | 354 | PK | Park Hotels & Resorts Inc. | 2.32p | 66.6667% | 0.33 USD | 0.47% | 2.34% | 14.50 USD | Real Estate |
-| 355 | GNTX | Gentex Corporation | 2.31p | 66.6667% | 0.66 USD | 0.45% | 2.28% | 30.71 USD | Consumer Cyclical |
+| 355 | IMKTA | Ingles Markets, Incorporated | 2.32p | 66.6667% | 1.41 USD | 0.46% | 2.33% | 78.28 USD | Consumer Defensive |
 | 356 | LH | Labcorp Holdings Inc. | 2.31p | 66.6667% | 4.81 USD | 0.45% | 2.27% | 219.17 USD | Healthcare |
 | 357 | ESI | Element Solutions Inc. | 2.31p | 66.6667% | 0.57 USD | 0.44% | 2.23% | 27.55 USD | Basic Materials |
 | 358 | CL | Colgate-Palmolive Company | 2.31p | 66.6667% | 2.16 USD | 0.44% | 2.19% | 100.72 USD | Consumer Defensive |
-| 359 | IIPR | Innovative Industrial Propertie | 2.31p | 66.6667% | 2.79 USD | 0.43% | 2.16% | 135.00 USD | Real Estate |
-| 360 | CSTL | Castle Biosciences, Inc. | 2.31p | 50.0000% | 4.74 USD | 3.19% | 16.06% | 34.31 USD | Healthcare |
-| 361 | AVA | Avista Corporation | 2.31p | 66.6667% | 0.80 USD | 0.43% | 2.15% | 38.32 USD | Utilities |
-| 362 | HCKT | The Hackett Group, Inc. | 2.31p | 66.6667% | 0.54 USD | 0.43% | 2.14% | 25.78 USD | Technology |
-| 363 | TTWO | Take-Two Interactive Software,  | 2.31p | 66.6667% | 3.22 USD | 0.42% | 2.12% | 155.54 USD | Communication Services |
-| 364 | SUI | Sun Communities, Inc. | 2.31p | 66.6667% | 2.65 USD | 0.42% | 2.08% | 130.02 USD | Real Estate |
-| 365 | COO | The Cooper Companies, Inc. | 2.31p | 66.6667% | 2.19 USD | 0.41% | 2.08% | 115.49 USD | Healthcare |
-| 366 | IMKTA | Ingles Markets, Incorporated | 2.30p | 66.6667% | 1.25 USD | 0.41% | 2.05% | 78.28 USD | Consumer Defensive |
+| 359 | GNL | Global Net Lease, Inc. | 2.31p | 66.6667% | 0.17 USD | 0.44% | 2.15% | 8.32 USD | Real Estate |
+| 360 | IIPR | Innovative Industrial Propertie | 2.31p | 66.6667% | 2.79 USD | 0.43% | 2.16% | 135.00 USD | Real Estate |
+| 361 | CSTL | Castle Biosciences, Inc. | 2.31p | 50.0000% | 4.74 USD | 3.19% | 16.06% | 34.31 USD | Healthcare |
+| 362 | AVA | Avista Corporation | 2.31p | 66.6667% | 0.80 USD | 0.43% | 2.15% | 38.32 USD | Utilities |
+| 363 | HCKT | The Hackett Group, Inc. | 2.31p | 66.6667% | 0.54 USD | 0.43% | 2.14% | 25.78 USD | Technology |
+| 364 | TTWO | Take-Two Interactive Software,  | 2.31p | 66.6667% | 3.22 USD | 0.42% | 2.12% | 155.54 USD | Communication Services |
+| 365 | SUI | Sun Communities, Inc. | 2.31p | 66.6667% | 2.65 USD | 0.42% | 2.08% | 130.02 USD | Real Estate |
+| 366 | COO | The Cooper Companies, Inc. | 2.31p | 66.6667% | 2.19 USD | 0.41% | 2.08% | 115.49 USD | Healthcare |
 | 367 | NWL | Newell Brands Inc. | 2.30p | 66.6667% | 0.15 USD | 0.41% | 2.05% | 7.51 USD | Consumer Defensive |
 | 368 | ET | Energy Transfer LP | 2.30p | 66.6667% | 0.33 USD | 0.40% | 2.03% | 16.56 USD | Energy |
 | 369 | CCEP | Coca-Cola Europacific Partners  | 2.30p | 66.6667% | 1.55 USD | 0.40% | 2.02% | 78.41 USD | Consumer Defensive |
@@ -418,16 +418,16 @@
 | 371 | AFL | AFLAC Incorporated | 2.30p | 66.6667% | 2.23 USD | 0.40% | 1.99% | 113.94 USD | Financial Services |
 | 372 | DX | Dynex Capital, Inc. | 2.30p | 66.6667% | 0.24 USD | 0.40% | 1.99% | 12.33 USD | Real Estate |
 | 373 | KMB | Kimberly-Clark Corporation | 2.30p | 66.6667% | 2.76 USD | 0.39% | 1.96% | 143.74 USD | Consumer Defensive |
-| 374 | KO | Coca-Cola Company (The) | 2.30p | 66.6667% | 1.33 USD | 0.38% | 1.93% | 70.37 USD | Consumer Defensive |
+| 374 | KO | Coca-Cola Company (The) | 2.30p | 66.6667% | 1.33 USD | 0.38% | 1.93% | 70.29 USD | Consumer Defensive |
 | 375 | MHK | Mohawk Industries, Inc. | 2.30p | 66.6667% | 2.98 USD | 0.39% | 1.92% | 157.61 USD | Consumer Cyclical |
-| 376 | SAND | Sandstorm Gold Ltd. | 2.30p | 66.6667% | 0.11 USD | 0.38% | 1.90% | 5.89 USD | Basic Materials |
+| 376 | SAND | Sandstorm Gold Ltd. | 2.30p | 66.6667% | 0.11 USD | 0.38% | 1.90% | 5.92 USD | Basic Materials |
 | 377 | JRVR | James River Group Holdings, Ltd | 2.30p | 66.6667% | 0.12 USD | 0.39% | 1.89% | 6.47 USD | Financial Services |
-| 378 | ATO | Atmos Energy Corporation | 2.30p | 66.6667% | 2.62 USD | 0.38% | 1.90% | 140.28 USD | Utilities |
+| 378 | ATO | Atmos Energy Corporation | 2.30p | 66.6667% | 2.62 USD | 0.38% | 1.90% | 141.30 USD | Utilities |
 | 379 | ED | Consolidated Edison, Inc. | 2.30p | 66.6667% | 1.90 USD | 0.37% | 1.88% | 102.81 USD | Utilities |
 | 380 | ALC | Alcon Inc. | 2.30p | 66.6667% | 1.77 USD | 0.37% | 1.85% | 101.55 USD | Healthcare |
-| 381 | HD | Home Depot, Inc. (The) | 2.29p | 66.6667% | 7.36 USD | 0.36% | 1.80% | 415.42 USD | Consumer Cyclical |
+| 381 | HD | Home Depot, Inc. (The) | 2.29p | 66.6667% | 7.36 USD | 0.36% | 1.80% | 416.50 USD | Consumer Cyclical |
 | 382 | GFL | GFL Environmental Inc. Subordin | 2.29p | 66.6667% | 0.72 USD | 0.36% | 1.80% | 40.83 USD | Industrials |
-| 383 | INFO | Harbor ETF Trust Harbor PanAgor | 2.29p | 66.6667% | 0.29  | 0.71% | 1.42% | 0.00  |  |
+| 383 | INFO | Harbor ETF Trust Harbor PanAgor | 2.29p | 66.6667% | 0.29 USD | 0.71% | 1.42% | 20.45 USD |  |
 | 384 | IRDM | Iridium Communications Inc | 2.29p | 66.6667% | 0.52 USD | 0.35% | 1.76% | 30.05 USD | Communication Services |
 | 385 | CIM | Chimera Investment Corporation | 2.29p | 66.6667% | 0.25 USD | 0.33% | 1.66% | 15.51 USD | Real Estate |
 | 386 | RPAY | Repay Holdings Corporation | 2.28p | 66.6667% | 0.12 USD | 0.31% | 1.53% | 7.99 USD | Technology |
@@ -435,13 +435,13 @@
 | 388 | CTS | CTS Corporation | 2.28p | 66.6667% | 0.71 USD | 0.31% | 1.49% | 48.44 USD | Technology |
 | 389 | ERIC | Ericsson | 2.28p | 66.6667% | 0.11 USD | 0.30% | 1.48% | 7.54 USD | Technology |
 | 390 | DGX | Quest Diagnostics Incorporated | 2.28p | 66.6667% | 2.10 USD | 0.29% | 1.43% | 149.26 USD | Healthcare |
-| 391 | GATX | GATX Corporation | 2.28p | 66.6667% | 1.90 USD | 0.29% | 1.43% | 141.91 USD | Industrials |
+| 391 | GATX | GATX Corporation | 2.28p | 66.6667% | 1.90 USD | 0.29% | 1.43% | 142.02 USD | Industrials |
 | 392 | KDP | Keurig Dr Pepper Inc. | 2.28p | 66.6667% | 0.50 USD | 0.28% | 1.38% | 36.66 USD | Consumer Defensive |
 | 393 | CDW | CDW Corporation | 2.28p | 66.6667% | 2.99 USD | 0.28% | 1.36% | 223.62 USD | Technology |
 | 394 | TRU | TransUnion | 2.28p | 66.6667% | 1.39 USD | 0.27% | 1.32% | 117.00 USD | Financial Services |
-| 395 | JNJ | Johnson & Johnson | 2.27p | 66.6667% | 2.07 USD | 0.26% | 1.30% | 161.86 USD | Healthcare |
+| 395 | JNJ | Johnson & Johnson | 2.27p | 66.6667% | 2.07 USD | 0.26% | 1.30% | 161.98 USD | Healthcare |
 | 396 | APPS | Digital Turbine, Inc. | 2.27p | 50.0000% | 0.46 USD | 3.14% | 15.08% | 3.55 USD | Technology |
-| 397 | BCC | Boise Cascade, L.L.C. | 2.27p | 66.6667% | 1.71 USD | 0.25% | 1.21% | 150.71 USD | Basic Materials |
+| 397 | BCC | Boise Cascade, L.L.C. | 2.27p | 66.6667% | 1.71 USD | 0.25% | 1.21% | 159.00 USD | Basic Materials |
 | 398 | GOOGL | Alphabet Inc. | 2.27p | 66.6667% | 1.98 USD | 0.25% | 1.21% | 171.89 USD | Communication Services |
 | 399 | CAG | ConAgra Brands, Inc. | 2.27p | 66.6667% | 0.35 USD | 0.24% | 1.20% | 29.49 USD | Consumer Defensive |
 | 400 | GPS | Gap, Inc. (The) | 2.27p | 60.0000% | 1.33 USD | 1.61% | 6.50% | 0.00 USD | Consumer Cyclical |
@@ -459,12 +459,12 @@
 | 412 | FCPT | Four Corners Property Trust, In | 2.26p | 66.6667% | 0.25 USD | 0.17% | 0.88% | 29.36 USD | Real Estate |
 | 413 | BAH | Booz Allen Hamilton Holding Cor | 2.26p | 66.6667% | 1.39 USD | 0.18% | 0.86% | 170.00 USD | Industrials |
 | 414 | SWX | Southwest Gas Holdings, Inc. | 2.26p | 66.6667% | 0.62 USD | 0.17% | 0.84% | 74.46 USD | Utilities |
-| 415 | GILD | Gilead Sciences, Inc. | 2.25p | 66.6667% | 0.62 USD | 0.15% | 0.73% | 89.20 USD | Healthcare |
-| 416 | NC | NACCO Industries, Inc. | 2.25p | 66.6667% | 0.18 USD | 0.14% | 0.67% | 27.50 USD | Energy |
-| 417 | PRGS | Progress Software Corporation | 2.25p | 66.6667% | 0.41 USD | 0.13% | 0.62% | 66.31 USD | Technology |
-| 418 | PYPL | PayPal Holdings, Inc. | 2.24p | 66.6667% | 0.41 USD | 0.12% | 0.51% | 80.69 USD | Financial Services |
-| 419 | CVX | Chevron Corporation | 2.24p | 66.6667% | 0.66 USD | 0.09% | 0.44% | 151.84 USD | Energy |
-| 420 | BRC | Brady Corporation | 2.24p | 66.6667% | 0.32 USD | 0.09% | 0.43% | 74.98 USD | Industrials |
+| 415 | BRC | Brady Corporation | 2.25p | 66.6667% | 0.56 USD | 0.15% | 0.75% | 74.98 USD | Industrials |
+| 416 | GILD | Gilead Sciences, Inc. | 2.25p | 66.6667% | 0.62 USD | 0.15% | 0.73% | 89.20 USD | Healthcare |
+| 417 | NC | NACCO Industries, Inc. | 2.25p | 66.6667% | 0.18 USD | 0.14% | 0.67% | 27.50 USD | Energy |
+| 418 | PRGS | Progress Software Corporation | 2.25p | 66.6667% | 0.41 USD | 0.13% | 0.62% | 66.31 USD | Technology |
+| 419 | PYPL | PayPal Holdings, Inc. | 2.24p | 66.6667% | 0.41 USD | 0.12% | 0.51% | 80.69 USD | Financial Services |
+| 420 | CVX | Chevron Corporation | 2.24p | 66.6667% | 0.66 USD | 0.09% | 0.44% | 151.84 USD | Energy |
 | 421 | ATNI | ATN International, Inc. | 2.23p | 66.6667% | 0.08 USD | 0.05% | 0.25% | 32.09 USD | Communication Services |
 | 422 | A | Agilent Technologies, Inc. | 2.23p | 66.6667% | 0.36 USD | 0.05% | 0.25% | 144.49 USD | Healthcare |
 | 423 | ENV | Envestnet, Inc | 2.23p | 66.6667% | 0.15 USD | 0.05% | 0.24% | 62.71 USD | Technology |
@@ -561,35 +561,35 @@
 | 514 | INTC | Intel Corporation | 1.86p | 50.0000% | 1.06 USD | 0.95% | 4.74% | 23.45 USD | Technology |
 | 515 | CMTL | Comtech Telecommunications Corp | 1.86p | 50.0000% | 0.20 USD | 0.97% | 4.71% | 4.48 USD | Technology |
 | 516 | GHM | Graham Corporation | 1.86p | 50.0000% | 1.40 USD | 0.94% | 4.72% | 31.16 USD | Industrials |
-| 517 | CPRT | Copart, Inc. | 1.86p | 50.0000% | 2.49 USD | 0.94% | 4.72% | 59.85 USD | Industrials |
-| 518 | SMTC | Semtech Corporation | 1.85p | 50.0000% | 2.02 USD | 0.96% | 4.66% | 45.40 USD | Technology |
-| 519 | MC | Moelis & Company | 1.85p | 50.0000% | 3.07 USD | 0.91% | 4.61% | 69.63 USD | Financial Services |
-| 520 | ADBE | Adobe Inc. | 1.85p | 50.0000% | 22.35 USD | 0.91% | 4.59% | 509.67 USD | Technology |
-| 521 | RF | Regions Financial Corporation | 1.85p | 50.0000% | 1.04 USD | 0.90% | 4.56% | 23.86 USD | Financial Services |
-| 522 | PNFP | Pinnacle Financial Partners, In | 1.85p | 50.0000% | 4.26 USD | 0.90% | 4.48% | 99.35 USD | Financial Services |
-| 523 | BIIB | Biogen Inc. | 1.85p | 50.0000% | 8.22 USD | 0.89% | 4.48% | 195.00 USD | Healthcare |
-| 524 | URI | United Rentals, Inc. | 1.84p | 50.0000% | 35.78 USD | 0.89% | 4.46% | 843.00 USD | Industrials |
-| 525 | ERII | Energy Recovery, Inc. | 1.84p | 50.0000% | 0.77 USD | 0.89% | 4.38% | 18.38 USD | Industrials |
-| 526 | MTB | M&T Bank Corporation | 1.84p | 50.0000% | 7.73 USD | 0.86% | 4.35% | 190.00 USD | Financial Services |
-| 527 | FFIN | First Financial Bankshares, Inc | 1.84p | 50.0000% | 1.56 USD | 0.86% | 4.34% | 37.57 USD | Financial Services |
-| 528 | SLQT | SelectQuote, Inc. | 1.84p | 50.0000% | 0.09 USD | 0.89% | 4.31% | 2.23 USD | Financial Services |
-| 529 | AAPL | Apple Inc. | 1.84p | 50.0000% | 9.61 USD | 0.86% | 4.33% | 231.39 USD | Technology |
-| 530 | MS | Morgan Stanley | 1.84p | 50.0000% | 4.64 USD | 0.85% | 4.31% | 112.14 USD | Financial Services |
-| 531 | PINS | Pinterest, Inc. | 1.84p | 50.0000% | 1.40 USD | 0.85% | 4.30% | 34.00 USD | Communication Services |
-| 532 | CHCO | City Holding Company | 1.84p | 50.0000% | 4.91 USD | 0.85% | 4.29% | 150.74 USD | Financial Services |
-| 533 | TRP | TC Energy Corporation | 1.84p | 50.0000% | 1.92 USD | 0.85% | 4.28% | 46.76 USD | Energy |
-| 534 | BPOP | Popular, Inc. | 1.84p | 50.0000% | 4.12 USD | 0.85% | 4.27% | 100.59 USD | Financial Services |
-| 535 | TDOC | Teladoc Health, Inc. | 1.83p | 50.0000% | 0.36 USD | 0.87% | 4.17% | 9.02 USD | Healthcare |
-| 536 | OCFC | OceanFirst Financial Corp. | 1.83p | 50.0000% | 0.74 USD | 0.84% | 4.18% | 18.44 USD | Financial Services |
-| 537 | ALLT | Allot Ltd. | 1.83p | 50.0000% | 0.12 USD | 0.86% | 4.14% | 3.76 USD | Technology |
-| 538 | AVGO | Broadcom Inc. | 1.83p | 50.0000% | 7.23 USD | 0.83% | 4.13% | 182.37 USD | Technology |
-| 539 | SYF | Synchrony Financial | 1.83p | 50.0000% | 2.12 USD | 0.82% | 4.11% | 55.00 USD | Financial Services |
-| 540 | ONB | Old National Bancorp | 1.83p | 50.0000% | 0.74 USD | 0.81% | 4.08% | 18.89 USD | Financial Services |
-| 541 | ANIK | Anika Therapeutics Inc. | 1.83p | 50.0000% | 0.99 USD | 0.81% | 4.07% | 25.43 USD | Healthcare |
-| 542 | TOWN | Towne Bank | 1.83p | 50.0000% | 1.35 USD | 0.81% | 4.06% | 34.62 USD | Financial Services |
-| 543 | MIDD | The Middleby Corporation | 1.83p | 50.0000% | 5.33 USD | 0.80% | 4.02% | 138.19 USD | Industrials |
-| 544 | SCWX | SecureWorks Corp. | 1.83p | 50.0000% | 0.31 USD | 0.80% | 3.99% | 9.31 USD | Technology |
-| 545 | GBCI | Glacier Bancorp, Inc. | 1.83p | 50.0000% | 1.80 USD | 0.79% | 3.96% | 47.43 USD | Financial Services |
+| 517 | GBCI | Glacier Bancorp, Inc. | 1.86p | 50.0000% | 2.13 USD | 0.94% | 4.72% | 47.43 USD | Financial Services |
+| 518 | CPRT | Copart, Inc. | 1.86p | 50.0000% | 2.49 USD | 0.94% | 4.72% | 59.85 USD | Industrials |
+| 519 | SMTC | Semtech Corporation | 1.85p | 50.0000% | 2.02 USD | 0.96% | 4.66% | 45.40 USD | Technology |
+| 520 | MC | Moelis & Company | 1.85p | 50.0000% | 3.07 USD | 0.91% | 4.61% | 69.63 USD | Financial Services |
+| 521 | ADBE | Adobe Inc. | 1.85p | 50.0000% | 22.35 USD | 0.91% | 4.59% | 509.67 USD | Technology |
+| 522 | RF | Regions Financial Corporation | 1.85p | 50.0000% | 1.04 USD | 0.90% | 4.56% | 23.86 USD | Financial Services |
+| 523 | PNFP | Pinnacle Financial Partners, In | 1.85p | 50.0000% | 4.26 USD | 0.90% | 4.48% | 99.35 USD | Financial Services |
+| 524 | BIIB | Biogen Inc. | 1.85p | 50.0000% | 8.22 USD | 0.89% | 4.48% | 195.00 USD | Healthcare |
+| 525 | URI | United Rentals, Inc. | 1.84p | 50.0000% | 35.78 USD | 0.89% | 4.46% | 843.00 USD | Industrials |
+| 526 | ERII | Energy Recovery, Inc. | 1.84p | 50.0000% | 0.77 USD | 0.89% | 4.38% | 18.38 USD | Industrials |
+| 527 | MTB | M&T Bank Corporation | 1.84p | 50.0000% | 7.73 USD | 0.86% | 4.35% | 190.00 USD | Financial Services |
+| 528 | FFIN | First Financial Bankshares, Inc | 1.84p | 50.0000% | 1.56 USD | 0.86% | 4.34% | 37.57 USD | Financial Services |
+| 529 | SLQT | SelectQuote, Inc. | 1.84p | 50.0000% | 0.09 USD | 0.89% | 4.31% | 2.23 USD | Financial Services |
+| 530 | AAPL | Apple Inc. | 1.84p | 50.0000% | 9.61 USD | 0.86% | 4.33% | 231.39 USD | Technology |
+| 531 | MS | Morgan Stanley | 1.84p | 50.0000% | 4.64 USD | 0.85% | 4.31% | 112.90 USD | Financial Services |
+| 532 | PINS | Pinterest, Inc. | 1.84p | 50.0000% | 1.40 USD | 0.85% | 4.30% | 34.00 USD | Communication Services |
+| 533 | CHCO | City Holding Company | 1.84p | 50.0000% | 4.91 USD | 0.85% | 4.29% | 150.74 USD | Financial Services |
+| 534 | TRP | TC Energy Corporation | 1.84p | 50.0000% | 1.92 USD | 0.85% | 4.28% | 46.76 USD | Energy |
+| 535 | BPOP | Popular, Inc. | 1.84p | 50.0000% | 4.12 USD | 0.85% | 4.27% | 100.59 USD | Financial Services |
+| 536 | TDOC | Teladoc Health, Inc. | 1.83p | 50.0000% | 0.36 USD | 0.87% | 4.17% | 9.02 USD | Healthcare |
+| 537 | OCFC | OceanFirst Financial Corp. | 1.83p | 50.0000% | 0.74 USD | 0.84% | 4.18% | 18.44 USD | Financial Services |
+| 538 | ALLT | Allot Ltd. | 1.83p | 50.0000% | 0.12 USD | 0.86% | 4.14% | 3.76 USD | Technology |
+| 539 | AVGO | Broadcom Inc. | 1.83p | 50.0000% | 7.23 USD | 0.83% | 4.13% | 182.37 USD | Technology |
+| 540 | SYF | Synchrony Financial | 1.83p | 50.0000% | 2.12 USD | 0.82% | 4.11% | 55.00 USD | Financial Services |
+| 541 | ONB | Old National Bancorp | 1.83p | 50.0000% | 0.74 USD | 0.81% | 4.08% | 18.89 USD | Financial Services |
+| 542 | ANIK | Anika Therapeutics Inc. | 1.83p | 50.0000% | 0.99 USD | 0.81% | 4.07% | 25.43 USD | Healthcare |
+| 543 | TOWN | Towne Bank | 1.83p | 50.0000% | 1.35 USD | 0.81% | 4.06% | 34.62 USD | Financial Services |
+| 544 | MIDD | The Middleby Corporation | 1.83p | 50.0000% | 5.33 USD | 0.80% | 4.02% | 138.19 USD | Industrials |
+| 545 | SCWX | SecureWorks Corp. | 1.83p | 50.0000% | 0.31 USD | 0.80% | 3.99% | 9.31 USD | Technology |
 | 546 | ADVM | Adverum Biotechnologies, Inc. | 1.82p | 50.0000% | 0.29 USD | 0.78% | 3.90% | 7.75 USD | Healthcare |
 | 547 | PLCE | Children's Place, Inc. (The) | 1.82p | 50.0000% | 0.52 USD | 0.82% | 3.84% | 14.12 USD | Consumer Cyclical |
 | 548 | LNTH | Lantheus Holdings, Inc. | 1.82p | 50.0000% | 4.12 USD | 0.78% | 3.86% | 142.32 USD | Healthcare |
@@ -610,13 +610,13 @@
 | 563 | PAYX | Paychex, Inc. | 1.81p | 50.0000% | 4.91 USD | 0.71% | 3.57% | 142.37 USD | Technology |
 | 564 | CRVL | CorVel Corp. | 1.81p | 50.0000% | 10.84 USD | 0.70% | 3.50% | 404.49 USD | Financial Services |
 | 565 | CHEF | The Chefs' Warehouse, Inc. | 1.81p | 50.0000% | 1.34 USD | 0.69% | 3.47% | 51.00 USD | Consumer Defensive |
-| 566 | NEM | Newmont Corporation | 1.81p | 50.0000% | 1.84 USD | 0.69% | 3.47% | 54.75 USD | Basic Materials |
+| 566 | NEM | Newmont Corporation | 1.81p | 50.0000% | 1.84 USD | 0.69% | 3.47% | 54.80 USD | Basic Materials |
 | 567 | LLY | Eli Lilly and Company | 1.81p | 50.0000% | 31.11 USD | 0.69% | 3.46% | 932.20 USD | Healthcare |
 | 568 | VECO | Veeco Instruments Inc. | 1.80p | 50.0000% | 1.12 USD | 0.69% | 3.43% | 33.78 USD | Technology |
 | 569 | TSCO | Tractor Supply Company | 1.80p | 50.0000% | 9.88 USD | 0.68% | 3.36% | 303.90 USD | Consumer Cyclical |
 | 570 | RDVT | Red Violet, Inc. | 1.80p | 50.0000% | 0.86 USD | 0.67% | 3.34% | 26.88 USD | Technology |
 | 571 | TFSL | TFS Financial Corporation | 1.80p | 50.0000% | 0.42 USD | 0.67% | 3.34% | 13.02 USD | Financial Services |
-| 572 | DOV | Dover Corporation | 1.80p | 50.0000% | 6.20 USD | 0.66% | 3.31% | 193.67 USD | Industrials |
+| 572 | DOV | Dover Corporation | 1.80p | 50.0000% | 6.20 USD | 0.66% | 3.31% | 194.57 USD | Industrials |
 | 573 | GPC | Genuine Parts Company | 1.80p | 50.0000% | 4.45 USD | 0.66% | 3.30% | 138.99 USD | Consumer Cyclical |
 | 574 | LSTR | Landstar System, Inc. | 1.80p | 50.0000% | 5.98 USD | 0.66% | 3.27% | 201.85 USD | Industrials |
 | 575 | SPSC | SPS Commerce, Inc. | 1.80p | 50.0000% | 6.12 USD | 0.65% | 3.23% | 195.86 USD | Technology |
@@ -667,20 +667,20 @@
 | 620 | KRYS | Krystal Biotech, Inc. | 1.77p | 50.0000% | 4.58 USD | 0.53% | 2.62% | 180.05 USD | Healthcare |
 | 621 | DEI | Douglas Emmett, Inc. | 1.77p | 50.0000% | 0.46 USD | 0.53% | 2.62% | 18.02 USD | Real Estate |
 | 622 | SONO | Sonos, Inc. | 1.77p | 50.0000% | 0.31 USD | 0.53% | 2.61% | 12.24 USD | Technology |
-| 623 | SRCE | 1st Source Corporation | 1.77p | 50.0000% | 1.53 USD | 0.52% | 2.61% | 60.39 USD | Financial Services |
-| 624 | ACN | Accenture plc | 1.77p | 50.0000% | 9.25 USD | 0.52% | 2.60% | 366.55 USD | Technology |
-| 625 | BMO | Bank Of Montreal | 1.77p | 50.0000% | 2.36 USD | 0.52% | 2.60% | 93.71 USD | Financial Services |
-| 626 | EPAM | EPAM Systems, Inc. | 1.77p | 50.0000% | 5.01 USD | 0.52% | 2.60% | 201.58 USD | Technology |
-| 627 | BC | Brunswick Corporation | 1.77p | 50.0000% | 2.10 USD | 0.52% | 2.59% | 82.62 USD | Consumer Cyclical |
-| 628 | JEF | Jefferies Financial Group Inc. | 1.77p | 50.0000% | 1.62 USD | 0.51% | 2.56% | 64.99 USD | Financial Services |
-| 629 | ESPR | Esperion Therapeutics, Inc. | 1.77p | 50.0000% | 0.05 USD | 0.59% | 2.45% | 2.11 USD | Healthcare |
-| 630 | MAR | Marriott International | 1.77p | 50.0000% | 6.40 USD | 0.50% | 2.51% | 261.67 USD | Consumer Cyclical |
-| 631 | TRMB | Trimble Inc. | 1.77p | 50.0000% | 1.54 USD | 0.50% | 2.50% | 63.14 USD | Technology |
-| 632 | ALRM | Alarm.com Holdings, Inc. | 1.77p | 50.0000% | 1.31 USD | 0.50% | 2.50% | 53.74 USD | Technology |
-| 633 | SPG | Simon Property Group, Inc. | 1.77p | 50.0000% | 4.18 USD | 0.50% | 2.50% | 171.74 USD | Real Estate |
-| 634 | ZBH | Zimmer Biomet Holdings, Inc. | 1.77p | 50.0000% | 2.55 USD | 0.50% | 2.49% | 105.83 USD | Healthcare |
-| 635 | CRM | Salesforce, Inc. | 1.77p | 50.0000% | 7.07 USD | 0.50% | 2.48% | 291.35 USD | Technology |
-| 636 | INTU | Intuit Inc. | 1.76p | 50.0000% | 14.73 USD | 0.49% | 2.45% | 617.33 USD | Technology |
+| 623 | INTU | Intuit Inc. | 1.77p | 50.0000% | 15.74 USD | 0.52% | 2.62% | 617.33 USD | Technology |
+| 624 | SRCE | 1st Source Corporation | 1.77p | 50.0000% | 1.53 USD | 0.52% | 2.61% | 60.39 USD | Financial Services |
+| 625 | ACN | Accenture plc | 1.77p | 50.0000% | 9.25 USD | 0.52% | 2.60% | 366.55 USD | Technology |
+| 626 | BMO | Bank Of Montreal | 1.77p | 50.0000% | 2.36 USD | 0.52% | 2.60% | 93.71 USD | Financial Services |
+| 627 | EPAM | EPAM Systems, Inc. | 1.77p | 50.0000% | 5.01 USD | 0.52% | 2.60% | 201.58 USD | Technology |
+| 628 | BC | Brunswick Corporation | 1.77p | 50.0000% | 2.10 USD | 0.52% | 2.59% | 82.62 USD | Consumer Cyclical |
+| 629 | JEF | Jefferies Financial Group Inc. | 1.77p | 50.0000% | 1.62 USD | 0.51% | 2.56% | 64.99 USD | Financial Services |
+| 630 | ESPR | Esperion Therapeutics, Inc. | 1.77p | 50.0000% | 0.05 USD | 0.59% | 2.45% | 2.11 USD | Healthcare |
+| 631 | MAR | Marriott International | 1.77p | 50.0000% | 6.40 USD | 0.50% | 2.51% | 261.67 USD | Consumer Cyclical |
+| 632 | TRMB | Trimble Inc. | 1.77p | 50.0000% | 1.54 USD | 0.50% | 2.50% | 63.14 USD | Technology |
+| 633 | ALRM | Alarm.com Holdings, Inc. | 1.77p | 50.0000% | 1.31 USD | 0.50% | 2.50% | 53.74 USD | Technology |
+| 634 | SPG | Simon Property Group, Inc. | 1.77p | 50.0000% | 4.18 USD | 0.50% | 2.50% | 173.06 USD | Real Estate |
+| 635 | ZBH | Zimmer Biomet Holdings, Inc. | 1.77p | 50.0000% | 2.55 USD | 0.50% | 2.49% | 105.83 USD | Healthcare |
+| 636 | CRM | Salesforce, Inc. | 1.77p | 50.0000% | 7.07 USD | 0.50% | 2.48% | 291.35 USD | Technology |
 | 637 | PLMR | Palomar Holdings, Inc. | 1.76p | 50.0000% | 2.30 USD | 0.51% | 2.41% | 97.84 USD | Financial Services |
 | 638 | IR | Ingersoll Rand Inc. | 1.76p | 50.0000% | 2.42 USD | 0.49% | 2.42% | 102.44 USD | Industrials |
 | 639 | NTAP | NetApp, Inc. | 1.76p | 50.0000% | 2.98 USD | 0.49% | 2.41% | 126.88 USD | Technology |
@@ -689,87 +689,87 @@
 | 642 | NDAQ | Nasdaq, Inc. | 1.76p | 50.0000% | 1.70 USD | 0.48% | 2.40% | 72.63 USD | Financial Services |
 | 643 | ON | ON Semiconductor Corporation | 1.76p | 50.0000% | 1.70 USD | 0.49% | 2.39% | 72.82 USD | Technology |
 | 644 | ALLE | Allegion plc | 1.76p | 50.0000% | 3.45 USD | 0.48% | 2.36% | 149.08 USD | Industrials |
-| 645 | HSII | Heidrick & Struggles Internatio | 1.76p | 50.0000% | 0.85 USD | 0.46% | 2.29% | 38.00 USD | Industrials |
-| 646 | WEC | WEC Energy Group, Inc. | 1.76p | 50.0000% | 2.16 USD | 0.46% | 2.29% | 96.18 USD | Utilities |
-| 647 | ROST | Ross Stores, Inc. | 1.76p | 50.0000% | 3.20 USD | 0.46% | 2.28% | 143.37 USD | Consumer Cyclical |
-| 648 | SPH | Suburban Propane Partners, L.P. | 1.76p | 50.0000% | 0.41 USD | 0.46% | 2.27% | 18.56 USD | Utilities |
-| 649 | DFS | Discover Financial Services | 1.76p | 50.0000% | 3.25 USD | 0.46% | 2.26% | 147.51 USD | Financial Services |
-| 650 | AMGN | Amgen Inc. | 1.76p | 50.0000% | 7.17 USD | 0.46% | 2.26% | 324.67 USD | Healthcare |
-| 651 | BKH | Black Hills Corporation | 1.76p | 50.0000% | 1.33 USD | 0.45% | 2.25% | 60.95 USD | Utilities |
-| 652 | SCSC | ScanSource, Inc. | 1.76p | 50.0000% | 1.06 USD | 0.45% | 2.24% | 48.47 USD | Technology |
-| 653 | CHTR | Charter Communications, Inc. | 1.76p | 50.0000% | 7.23 USD | 0.45% | 2.23% | 331.83 USD | Communication Services |
-| 654 | PHM | PulteGroup, Inc. | 1.76p | 50.0000% | 3.11 USD | 0.45% | 2.23% | 142.34 USD | Consumer Cyclical |
-| 655 | PH | Parker-Hannifin Corporation | 1.75p | 50.0000% | 13.82 USD | 0.44% | 2.19% | 644.69 USD | Industrials |
-| 656 | NVEC | NVE Corporation | 1.75p | 50.0000% | 1.69 USD | 0.43% | 2.17% | 79.56 USD | Technology |
-| 657 | USM | United States Cellular Corporat | 1.75p | 50.0000% | 1.20 USD | 0.43% | 2.17% | 58.45 USD | Communication Services |
-| 658 | AGNC | AGNC Investment Corp. | 1.75p | 50.0000% | 0.22 USD | 0.43% | 2.17% | 10.38 USD | Real Estate |
-| 659 | ERIE | Erie Indemnity Company | 1.75p | 50.0000% | 11.29 USD | 0.43% | 2.16% | 533.35 USD | Financial Services |
-| 660 | PLXS | Plexus Corp. | 1.75p | 50.0000% | 2.91 USD | 0.43% | 2.16% | 138.34 USD | Technology |
-| 661 | KIM | Kimco Realty Corporation (HC) | 1.75p | 50.0000% | 0.49 USD | 0.43% | 2.14% | 23.46 USD | Real Estate |
-| 662 | ITW | Illinois Tool Works Inc. | 1.75p | 50.0000% | 5.46 USD | 0.43% | 2.13% | 261.66 USD | Industrials |
-| 663 | NLY | Annaly Capital Management Inc. | 1.75p | 50.0000% | 0.41 USD | 0.42% | 2.12% | 19.80 USD | Real Estate |
-| 664 | VTR | Ventas, Inc. | 1.75p | 50.0000% | 1.31 USD | 0.43% | 2.09% | 63.88 USD | Real Estate |
-| 665 | MAN | ManpowerGroup | 1.75p | 50.0000% | 1.47 USD | 0.42% | 2.08% | 76.00 USD | Industrials |
-| 666 | CPB | Campbell Soup Company | 1.75p | 50.0000% | 0.97 USD | 0.41% | 2.06% | 50.23 USD | Consumer Defensive |
-| 667 | AEM | Agnico Eagle Mines Limited | 1.75p | 50.0000% | 1.60 USD | 0.41% | 2.05% | 79.61 USD | Basic Materials |
-| 668 | GD | General Dynamics Corporation | 1.75p | 50.0000% | 6.00 USD | 0.41% | 2.03% | 302.09 USD | Industrials |
-| 669 | SRE | DBA Sempra | 1.75p | 50.0000% | 1.64 USD | 0.40% | 2.01% | 84.50 USD | Utilities |
-| 670 | CMI | Cummins Inc. | 1.75p | 50.0000% | 6.66 USD | 0.40% | 2.01% | 342.41 USD | Industrials |
-| 671 | GTX | Garrett Motion Inc. | 1.75p | 50.0000% | 0.16 USD | 0.41% | 2.00% | 8.18 USD | Consumer Cyclical |
-| 672 | STRA | Strategic Education, Inc. | 1.74p | 50.0000% | 1.69 USD | 0.39% | 1.95% | 88.61 USD | Consumer Defensive |
-| 673 | DJCO | Daily Journal Corp. (S.C.) | 1.74p | 50.0000% | 8.85 USD | 0.38% | 1.90% | 479.16 USD | Technology |
-| 674 | BMRN | BioMarin Pharmaceutical Inc. | 1.74p | 50.0000% | 1.31 USD | 0.38% | 1.90% | 70.31 USD | Healthcare |
-| 675 | TKR | Timken Company (The) | 1.74p | 50.0000% | 1.57 USD | 0.39% | 1.89% | 88.72 USD | Industrials |
-| 676 | ALG | Alamo Group, Inc. | 1.74p | 50.0000% | 3.31 USD | 0.39% | 1.89% | 188.88 USD | Industrials |
-| 677 | CWH | Camping World Holdings, Inc. | 1.74p | 50.0000% | 0.43 USD | 0.39% | 1.87% | 23.51 USD | Consumer Cyclical |
-| 678 | EPR | EPR Properties | 1.74p | 50.0000% | 0.90 USD | 0.38% | 1.88% | 48.98 USD | Real Estate |
-| 679 | COST | Costco Wholesale Corporation | 1.74p | 50.0000% | 16.17 USD | 0.38% | 1.85% | 890.22 USD | Consumer Defensive |
-| 680 | EXPD | Expeditors International of Was | 1.74p | 50.0000% | 2.22 USD | 0.37% | 1.85% | 121.91 USD | Industrials |
-| 681 | AGEN | Agenus Inc. | 1.74p | 50.0000% | 0.08 USD | 0.49% | 1.72% | 4.75 USD | Healthcare |
-| 682 | IBKR | Interactive Brokers Group, Inc. | 1.74p | 50.0000% | 2.73 USD | 0.37% | 1.84% | 151.38 USD | Financial Services |
-| 683 | REGN | Regeneron Pharmaceuticals, Inc. | 1.74p | 50.0000% | 18.20 USD | 0.37% | 1.83% | 1015.70 USD | Healthcare |
-| 684 | GT | The Goodyear Tire & Rubber Comp | 1.74p | 50.0000% | 0.15 USD | 0.37% | 1.81% | 9.59 USD | Consumer Cyclical |
-| 685 | SCM | Stellus Capital Investment Corp | 1.74p | 50.0000% | 0.25 USD | 0.36% | 1.81% | 14.06 USD | Financial Services |
-| 686 | ACAD | ACADIA Pharmaceuticals Inc. | 1.74p | 50.0000% | 0.26 USD | 0.36% | 1.77% | 17.01 USD | Healthcare |
-| 687 | LNT | Alliant Energy Corporation | 1.74p | 50.0000% | 1.04 USD | 0.35% | 1.75% | 60.42 USD | Utilities |
-| 688 | SEE | Sealed Air Corporation | 1.74p | 50.0000% | 0.61 USD | 0.35% | 1.75% | 35.39 USD | Consumer Cyclical |
-| 689 | SJM | The J.M. Smucker Company | 1.74p | 50.0000% | 2.03 USD | 0.35% | 1.75% | 120.41 USD | Consumer Defensive |
-| 690 | AGIO | Agios Pharmaceuticals, Inc. | 1.74p | 50.0000% | 0.69 USD | 0.36% | 1.70% | 52.80 USD | Healthcare |
-| 691 | NICE | NICE Ltd | 1.74p | 50.0000% | 2.90 USD | 0.35% | 1.70% | 173.65 USD | Technology |
-| 692 | SLAB | Silicon Laboratories, Inc. | 1.73p | 50.0000% | 1.92 USD | 0.35% | 1.68% | 116.57 USD | Technology |
-| 693 | MNR | Mach Natural Resources LP | 1.73p | 50.0000% | 0.28 USD | 0.34% | 1.68% | 17.00 USD | Energy |
-| 694 | AVB | AvalonBay Communities, Inc. | 1.73p | 50.0000% | 3.63 USD | 0.33% | 1.67% | 223.99 USD | Real Estate |
-| 695 | BAP | Credicorp Ltd. | 1.73p | 50.0000% | 3.02 USD | 0.33% | 1.66% | 189.99 USD | Financial Services |
-| 696 | NOK | Nokia Corporation Sponsored | 1.73p | 50.0000% | 0.07 USD | 0.33% | 1.62% | 4.39 USD | Technology |
-| 697 | MANU | Manchester | 1.73p | 50.0000% | 0.26 USD | 0.32% | 1.62% | 16.40 USD | Communication Services |
-| 698 | HP | Helmerich & Payne, Inc. | 1.73p | 50.0000% | 0.56 USD | 0.34% | 1.58% | 35.92 USD | Energy |
-| 699 | NFLX | Netflix, Inc. | 1.73p | 50.0000% | 11.08 USD | 0.32% | 1.58% | 713.05 USD | Communication Services |
-| 700 | SR | Spire Inc. | 1.73p | 50.0000% | 1.01 USD | 0.32% | 1.57% | 68.69 USD | Utilities |
-| 701 | IHRT | iHeartMedia, Inc. | 1.73p | 50.0000% | 0.03 USD | 0.37% | 1.51% | 2.03 USD | Communication Services |
-| 702 | OLLI | Ollie's Bargain Outlet Holdings | 1.73p | 50.0000% | 1.44 USD | 0.31% | 1.54% | 94.78 USD | Consumer Defensive |
-| 703 | MGEE | MGE Energy Inc. | 1.73p | 50.0000% | 1.36 USD | 0.31% | 1.52% | 90.95 USD | Utilities |
-| 704 | TMHC | Taylor Morrison Home Corporatio | 1.73p | 50.0000% | 1.01 USD | 0.30% | 1.50% | 68.77 USD | Consumer Cyclical |
-| 705 | SAFT | Safety Insurance Group, Inc. | 1.73p | 50.0000% | 1.19 USD | 0.30% | 1.50% | 80.80 USD | Financial Services |
-| 706 | WBA | Walgreens Boots Alliance, Inc. | 1.73p | 50.0000% | 0.13 USD | 0.31% | 1.47% | 9.01 USD | Healthcare |
-| 707 | BCPC | Balchem Corporation | 1.73p | 50.0000% | 2.51 USD | 0.30% | 1.48% | 172.82 USD | Basic Materials |
-| 708 | SHO | Sunstone Hotel Investors, Inc.  | 1.73p | 50.0000% | 0.15 USD | 0.30% | 1.47% | 10.34 USD | Real Estate |
-| 709 | QFIN | Qifu Technology, Inc | 1.73p | 50.0000% | 0.47 USD | 0.32% | 1.45% | 33.02 USD | Financial Services |
-| 710 | INVE | Identiv, Inc. | 1.73p | 50.0000% | 0.05 USD | 0.31% | 1.45% | 3.55 USD | Industrials |
-| 711 | APPF | AppFolio, Inc. | 1.72p | 50.0000% | 3.22 USD | 0.29% | 1.44% | 226.69 USD | Technology |
-| 712 | MATW | Matthews International Corporat | 1.72p | 50.0000% | 0.30 USD | 0.28% | 1.40% | 21.67 USD | Industrials |
-| 713 | MPWR | Monolithic Power Systems, Inc. | 1.72p | 50.0000% | 12.97 USD | 0.28% | 1.39% | 943.82 USD | Technology |
-| 714 | FLS | Flowserve Corporation | 1.72p | 50.0000% | 0.75 USD | 0.29% | 1.37% | 55.24 USD | Industrials |
-| 715 | NTIC | Northern Technologies Internati | 1.72p | 50.0000% | 0.17 USD | 0.28% | 1.38% | 16.19 USD | Basic Materials |
-| 716 | SAGE | Sage Therapeutics, Inc. | 1.72p | 50.0000% | 0.09 USD | 0.31% | 1.34% | 8.43 USD | Healthcare |
-| 717 | RY | Royal Bank Of Canada | 1.72p | 50.0000% | 1.67 USD | 0.28% | 1.37% | 126.26 USD | Financial Services |
-| 718 | PCTY | Paylocity Holding Corporation | 1.72p | 50.0000% | 2.23 USD | 0.28% | 1.34% | 168.62 USD | Technology |
-| 719 | UTL | UNITIL Corporation | 1.72p | 50.0000% | 0.78 USD | 0.27% | 1.34% | 60.01 USD | Utilities |
-| 720 | RHI | Robert Half Inc. | 1.72p | 50.0000% | 0.89 USD | 0.27% | 1.33% | 69.12 USD | Industrials |
-| 721 | ORA | Ormat Technologies, Inc. | 1.72p | 50.0000% | 1.00 USD | 0.27% | 1.32% | 115.41 USD | Utilities |
-| 722 | LAD | Lithia Motors, Inc. | 1.72p | 50.0000% | 4.00 USD | 0.26% | 1.31% | 492.67 USD | Consumer Cyclical |
-| 723 | ADC | Agree Realty Corporation | 1.72p | 50.0000% | 0.96 USD | 0.26% | 1.31% | 74.50 USD | Real Estate |
-| 724 | BURL | Burlington Stores, Inc. | 1.72p | 50.0000% | 3.20 USD | 0.27% | 1.29% | 254.87 USD | Consumer Cyclical |
-| 725 | WSBF | Waterstone Financial, Inc. | 1.72p | 50.0000% | 0.18 USD | 0.28% | 1.26% | 14.47 USD | Financial Services |
+| 645 | WSBF | Waterstone Financial, Inc. | 1.76p | 50.0000% | 0.33 USD | 0.49% | 2.34% | 14.47 USD | Financial Services |
+| 646 | HSII | Heidrick & Struggles Internatio | 1.76p | 50.0000% | 0.85 USD | 0.46% | 2.29% | 38.00 USD | Industrials |
+| 647 | WEC | WEC Energy Group, Inc. | 1.76p | 50.0000% | 2.16 USD | 0.46% | 2.29% | 96.18 USD | Utilities |
+| 648 | ROST | Ross Stores, Inc. | 1.76p | 50.0000% | 3.20 USD | 0.46% | 2.28% | 143.37 USD | Consumer Cyclical |
+| 649 | SPH | Suburban Propane Partners, L.P. | 1.76p | 50.0000% | 0.41 USD | 0.46% | 2.27% | 18.56 USD | Utilities |
+| 650 | DFS | Discover Financial Services | 1.76p | 50.0000% | 3.25 USD | 0.46% | 2.26% | 147.82 USD | Financial Services |
+| 651 | AMGN | Amgen Inc. | 1.76p | 50.0000% | 7.17 USD | 0.46% | 2.26% | 324.67 USD | Healthcare |
+| 652 | BKH | Black Hills Corporation | 1.76p | 50.0000% | 1.33 USD | 0.45% | 2.25% | 60.95 USD | Utilities |
+| 653 | SCSC | ScanSource, Inc. | 1.76p | 50.0000% | 1.06 USD | 0.45% | 2.24% | 48.47 USD | Technology |
+| 654 | CHTR | Charter Communications, Inc. | 1.76p | 50.0000% | 7.23 USD | 0.45% | 2.23% | 331.83 USD | Communication Services |
+| 655 | PHM | PulteGroup, Inc. | 1.76p | 50.0000% | 3.11 USD | 0.45% | 2.23% | 142.34 USD | Consumer Cyclical |
+| 656 | PH | Parker-Hannifin Corporation | 1.75p | 50.0000% | 13.82 USD | 0.44% | 2.19% | 644.69 USD | Industrials |
+| 657 | NVEC | NVE Corporation | 1.75p | 50.0000% | 1.69 USD | 0.43% | 2.17% | 79.56 USD | Technology |
+| 658 | USM | United States Cellular Corporat | 1.75p | 50.0000% | 1.20 USD | 0.43% | 2.17% | 58.45 USD | Communication Services |
+| 659 | AGNC | AGNC Investment Corp. | 1.75p | 50.0000% | 0.22 USD | 0.43% | 2.17% | 10.38 USD | Real Estate |
+| 660 | ERIE | Erie Indemnity Company | 1.75p | 50.0000% | 11.29 USD | 0.43% | 2.16% | 533.35 USD | Financial Services |
+| 661 | PLXS | Plexus Corp. | 1.75p | 50.0000% | 2.91 USD | 0.43% | 2.16% | 138.34 USD | Technology |
+| 662 | KIM | Kimco Realty Corporation (HC) | 1.75p | 50.0000% | 0.49 USD | 0.43% | 2.14% | 23.46 USD | Real Estate |
+| 663 | ITW | Illinois Tool Works Inc. | 1.75p | 50.0000% | 5.46 USD | 0.43% | 2.13% | 261.66 USD | Industrials |
+| 664 | NLY | Annaly Capital Management Inc. | 1.75p | 50.0000% | 0.41 USD | 0.42% | 2.12% | 19.80 USD | Real Estate |
+| 665 | VTR | Ventas, Inc. | 1.75p | 50.0000% | 1.31 USD | 0.43% | 2.09% | 63.88 USD | Real Estate |
+| 666 | MAN | ManpowerGroup | 1.75p | 50.0000% | 1.47 USD | 0.42% | 2.08% | 76.00 USD | Industrials |
+| 667 | CPB | Campbell Soup Company | 1.75p | 50.0000% | 0.97 USD | 0.41% | 2.06% | 50.23 USD | Consumer Defensive |
+| 668 | AEM | Agnico Eagle Mines Limited | 1.75p | 50.0000% | 1.60 USD | 0.41% | 2.05% | 79.61 USD | Basic Materials |
+| 669 | GD | General Dynamics Corporation | 1.75p | 50.0000% | 6.00 USD | 0.41% | 2.03% | 302.09 USD | Industrials |
+| 670 | SRE | DBA Sempra | 1.75p | 50.0000% | 1.64 USD | 0.40% | 2.01% | 83.74 USD | Utilities |
+| 671 | CMI | Cummins Inc. | 1.75p | 50.0000% | 6.66 USD | 0.40% | 2.01% | 342.41 USD | Industrials |
+| 672 | GTX | Garrett Motion Inc. | 1.75p | 50.0000% | 0.16 USD | 0.41% | 2.00% | 8.18 USD | Consumer Cyclical |
+| 673 | STRA | Strategic Education, Inc. | 1.74p | 50.0000% | 1.69 USD | 0.39% | 1.95% | 88.61 USD | Consumer Defensive |
+| 674 | DJCO | Daily Journal Corp. (S.C.) | 1.74p | 50.0000% | 8.85 USD | 0.38% | 1.90% | 479.16 USD | Technology |
+| 675 | BMRN | BioMarin Pharmaceutical Inc. | 1.74p | 50.0000% | 1.31 USD | 0.38% | 1.90% | 70.31 USD | Healthcare |
+| 676 | TKR | Timken Company (The) | 1.74p | 50.0000% | 1.57 USD | 0.39% | 1.89% | 88.72 USD | Industrials |
+| 677 | ALG | Alamo Group, Inc. | 1.74p | 50.0000% | 3.31 USD | 0.39% | 1.89% | 182.80 USD | Industrials |
+| 678 | CWH | Camping World Holdings, Inc. | 1.74p | 50.0000% | 0.43 USD | 0.39% | 1.87% | 23.51 USD | Consumer Cyclical |
+| 679 | EPR | EPR Properties | 1.74p | 50.0000% | 0.90 USD | 0.38% | 1.88% | 48.98 USD | Real Estate |
+| 680 | COST | Costco Wholesale Corporation | 1.74p | 50.0000% | 16.17 USD | 0.38% | 1.85% | 890.22 USD | Consumer Defensive |
+| 681 | EXPD | Expeditors International of Was | 1.74p | 50.0000% | 2.22 USD | 0.37% | 1.85% | 121.91 USD | Industrials |
+| 682 | AGEN | Agenus Inc. | 1.74p | 50.0000% | 0.08 USD | 0.49% | 1.72% | 4.75 USD | Healthcare |
+| 683 | IBKR | Interactive Brokers Group, Inc. | 1.74p | 50.0000% | 2.73 USD | 0.37% | 1.84% | 151.38 USD | Financial Services |
+| 684 | REGN | Regeneron Pharmaceuticals, Inc. | 1.74p | 50.0000% | 18.20 USD | 0.37% | 1.83% | 1015.70 USD | Healthcare |
+| 685 | GT | The Goodyear Tire & Rubber Comp | 1.74p | 50.0000% | 0.15 USD | 0.37% | 1.81% | 9.59 USD | Consumer Cyclical |
+| 686 | SCM | Stellus Capital Investment Corp | 1.74p | 50.0000% | 0.25 USD | 0.36% | 1.81% | 14.06 USD | Financial Services |
+| 687 | ACAD | ACADIA Pharmaceuticals Inc. | 1.74p | 50.0000% | 0.26 USD | 0.36% | 1.77% | 17.01 USD | Healthcare |
+| 688 | LNT | Alliant Energy Corporation | 1.74p | 50.0000% | 1.04 USD | 0.35% | 1.75% | 60.42 USD | Utilities |
+| 689 | SEE | Sealed Air Corporation | 1.74p | 50.0000% | 0.61 USD | 0.35% | 1.75% | 35.39 USD | Consumer Cyclical |
+| 690 | SJM | The J.M. Smucker Company | 1.74p | 50.0000% | 2.03 USD | 0.35% | 1.75% | 120.41 USD | Consumer Defensive |
+| 691 | AGIO | Agios Pharmaceuticals, Inc. | 1.74p | 50.0000% | 0.69 USD | 0.36% | 1.70% | 52.80 USD | Healthcare |
+| 692 | NICE | NICE Ltd | 1.74p | 50.0000% | 2.90 USD | 0.35% | 1.70% | 173.65 USD | Technology |
+| 693 | SLAB | Silicon Laboratories, Inc. | 1.73p | 50.0000% | 1.92 USD | 0.35% | 1.68% | 116.57 USD | Technology |
+| 694 | MNR | Mach Natural Resources LP | 1.73p | 50.0000% | 0.28 USD | 0.34% | 1.68% | 17.00 USD | Energy |
+| 695 | AVB | AvalonBay Communities, Inc. | 1.73p | 50.0000% | 3.63 USD | 0.33% | 1.67% | 223.99 USD | Real Estate |
+| 696 | BAP | Credicorp Ltd. | 1.73p | 50.0000% | 3.02 USD | 0.33% | 1.66% | 189.99 USD | Financial Services |
+| 697 | NOK | Nokia Corporation Sponsored | 1.73p | 50.0000% | 0.07 USD | 0.33% | 1.62% | 4.39 USD | Technology |
+| 698 | MANU | Manchester | 1.73p | 50.0000% | 0.26 USD | 0.32% | 1.62% | 16.40 USD | Communication Services |
+| 699 | HP | Helmerich & Payne, Inc. | 1.73p | 50.0000% | 0.56 USD | 0.34% | 1.58% | 35.92 USD | Energy |
+| 700 | NFLX | Netflix, Inc. | 1.73p | 50.0000% | 11.08 USD | 0.32% | 1.58% | 713.05 USD | Communication Services |
+| 701 | SR | Spire Inc. | 1.73p | 50.0000% | 1.01 USD | 0.32% | 1.57% | 68.69 USD | Utilities |
+| 702 | IHRT | iHeartMedia, Inc. | 1.73p | 50.0000% | 0.03 USD | 0.37% | 1.51% | 2.03 USD | Communication Services |
+| 703 | OLLI | Ollie's Bargain Outlet Holdings | 1.73p | 50.0000% | 1.44 USD | 0.31% | 1.54% | 94.78 USD | Consumer Defensive |
+| 704 | MGEE | MGE Energy Inc. | 1.73p | 50.0000% | 1.36 USD | 0.31% | 1.52% | 90.95 USD | Utilities |
+| 705 | TMHC | Taylor Morrison Home Corporatio | 1.73p | 50.0000% | 1.01 USD | 0.30% | 1.50% | 68.77 USD | Consumer Cyclical |
+| 706 | SAFT | Safety Insurance Group, Inc. | 1.73p | 50.0000% | 1.19 USD | 0.30% | 1.50% | 80.80 USD | Financial Services |
+| 707 | WBA | Walgreens Boots Alliance, Inc. | 1.73p | 50.0000% | 0.13 USD | 0.31% | 1.47% | 9.01 USD | Healthcare |
+| 708 | BCPC | Balchem Corporation | 1.73p | 50.0000% | 2.51 USD | 0.30% | 1.48% | 172.82 USD | Basic Materials |
+| 709 | SHO | Sunstone Hotel Investors, Inc.  | 1.73p | 50.0000% | 0.15 USD | 0.30% | 1.47% | 10.34 USD | Real Estate |
+| 710 | QFIN | Qifu Technology, Inc | 1.73p | 50.0000% | 0.47 USD | 0.32% | 1.45% | 33.02 USD | Financial Services |
+| 711 | INVE | Identiv, Inc. | 1.73p | 50.0000% | 0.05 USD | 0.31% | 1.45% | 3.55 USD | Industrials |
+| 712 | APPF | AppFolio, Inc. | 1.72p | 50.0000% | 3.22 USD | 0.29% | 1.44% | 226.69 USD | Technology |
+| 713 | MATW | Matthews International Corporat | 1.72p | 50.0000% | 0.30 USD | 0.28% | 1.40% | 21.67 USD | Industrials |
+| 714 | MPWR | Monolithic Power Systems, Inc. | 1.72p | 50.0000% | 12.97 USD | 0.28% | 1.39% | 943.82 USD | Technology |
+| 715 | FLS | Flowserve Corporation | 1.72p | 50.0000% | 0.75 USD | 0.29% | 1.37% | 55.24 USD | Industrials |
+| 716 | NTIC | Northern Technologies Internati | 1.72p | 50.0000% | 0.17 USD | 0.28% | 1.38% | 16.19 USD | Basic Materials |
+| 717 | SAGE | Sage Therapeutics, Inc. | 1.72p | 50.0000% | 0.09 USD | 0.31% | 1.34% | 8.43 USD | Healthcare |
+| 718 | RY | Royal Bank Of Canada | 1.72p | 50.0000% | 1.67 USD | 0.28% | 1.37% | 126.26 USD | Financial Services |
+| 719 | PCTY | Paylocity Holding Corporation | 1.72p | 50.0000% | 2.23 USD | 0.28% | 1.34% | 168.62 USD | Technology |
+| 720 | UTL | UNITIL Corporation | 1.72p | 50.0000% | 0.78 USD | 0.27% | 1.34% | 60.01 USD | Utilities |
+| 721 | RHI | Robert Half Inc. | 1.72p | 50.0000% | 0.89 USD | 0.27% | 1.33% | 69.12 USD | Industrials |
+| 722 | ORA | Ormat Technologies, Inc. | 1.72p | 50.0000% | 1.00 USD | 0.27% | 1.32% | 115.41 USD | Utilities |
+| 723 | LAD | Lithia Motors, Inc. | 1.72p | 50.0000% | 4.00 USD | 0.26% | 1.31% | 492.67 USD | Consumer Cyclical |
+| 724 | ADC | Agree Realty Corporation | 1.72p | 50.0000% | 0.96 USD | 0.26% | 1.31% | 74.50 USD | Real Estate |
+| 725 | BURL | Burlington Stores, Inc. | 1.72p | 50.0000% | 3.20 USD | 0.27% | 1.29% | 254.87 USD | Consumer Cyclical |
 | 726 | VRSK | Verisk Analytics, Inc. | 1.72p | 50.0000% | 3.29 USD | 0.26% | 1.24% | 269.43 USD | Industrials |
 | 727 | ESS | Essex Property Trust, Inc. | 1.71p | 50.0000% | 3.44 USD | 0.24% | 1.19% | 295.69 USD | Real Estate |
 | 728 | LDOS | Leidos Holdings, Inc. | 1.71p | 50.0000% | 1.97 USD | 0.24% | 1.18% | 168.80 USD | Technology |
@@ -785,35 +785,35 @@
 | 738 | URBN | Urban Outfitters, Inc. | 1.71p | 50.0000% | 0.39 USD | 0.22% | 1.07% | 36.88 USD | Consumer Cyclical |
 | 739 | SO | Southern Company (The) | 1.71p | 50.0000% | 0.95 USD | 0.22% | 1.07% | 90.00 USD | Utilities |
 | 740 | MRUS | Merus N.V. | 1.71p | 50.0000% | 0.54 USD | 0.23% | 1.05% | 52.25 USD | Healthcare |
-| 741 | BGSF | BGSF, Inc. | 1.71p | 50.0000% | 0.09 USD | 0.22% | 1.03% | 9.50 USD | Industrials |
-| 742 | EMN | Eastman Chemical Company | 1.71p | 50.0000% | 1.14 USD | 0.21% | 1.04% | 110.48 USD | Basic Materials |
-| 743 | XPER | Xperi Inc. | 1.71p | 50.0000% | 0.09 USD | 0.22% | 1.03% | 9.13 USD | Technology |
-| 744 | AMED | Amedisys Inc | 1.71p | 50.0000% | 0.99 USD | 0.21% | 1.03% | 104.04 USD | Healthcare |
-| 745 | AXP | American Express Company | 1.71p | 50.0000% | 2.73 USD | 0.21% | 1.00% | 277.70 USD | Financial Services |
-| 746 | EXC | Exelon Corporation | 1.71p | 50.0000% | 0.39 USD | 0.20% | 0.99% | 39.94 USD | Utilities |
-| 747 | WHR | Whirlpool Corporation | 1.71p | 50.0000% | 1.00 USD | 0.20% | 0.97% | 104.29 USD | Consumer Cyclical |
-| 748 | SMAR | Smartsheet Inc. | 1.71p | 50.0000% | 0.54 USD | 0.19% | 0.97% | 56.20 USD | Technology |
-| 749 | META | Meta Platforms, Inc. | 1.71p | 50.0000% | 5.64 USD | 0.20% | 0.96% | 590.59 USD | Communication Services |
-| 750 | KURA | Kura Oncology, Inc. | 1.71p | 50.0000% | 0.17 USD | 0.20% | 0.95% | 22.60 USD | Healthcare |
-| 751 | CPRI | Capri Holdings Limited | 1.71p | 50.0000% | 0.41 USD | 0.19% | 0.96% | 43.38 USD | Consumer Cyclical |
-| 752 | VREX | Varex Imaging Corporation | 1.70p | 50.0000% | 0.10 USD | 0.19% | 0.89% | 11.35 USD | Healthcare |
-| 753 | CCJ | Cameco Corporation | 1.70p | 50.0000% | 0.46 USD | 0.19% | 0.89% | 51.99 USD | Energy |
-| 754 | SBAC | SBA Communications Corporation | 1.70p | 50.0000% | 2.11 USD | 0.19% | 0.89% | 239.95 USD | Real Estate |
-| 755 | LMT | Lockheed Martin Corporation | 1.70p | 50.0000% | 5.33 USD | 0.18% | 0.88% | 611.05 USD | Industrials |
-| 756 | TMO | Thermo Fisher Scientific Inc | 1.70p | 50.0000% | 4.94 USD | 0.17% | 0.82% | 606.00 USD | Healthcare |
-| 757 | ENB | Enbridge Inc | 1.70p | 50.0000% | 0.33 USD | 0.16% | 0.81% | 41.10 USD | Energy |
-| 758 | HASI | HA Sustainable Infrastructure C | 1.70p | 50.0000% | 0.27 USD | 0.19% | 0.78% | 34.93 USD | Real Estate |
-| 759 | DNOW | DNOW Inc. | 1.70p | 50.0000% | 0.10 USD | 0.16% | 0.79% | 12.92 USD | Industrials |
-| 760 | AN | AutoNation, Inc. | 1.70p | 50.0000% | 1.25 USD | 0.15% | 0.75% | 171.05 USD | Consumer Cyclical |
-| 761 | CCI | Crown Castle Inc. | 1.70p | 50.0000% | 0.83 USD | 0.15% | 0.75% | 112.20 USD | Real Estate |
-| 762 | AEP | American Electric Power Company | 1.70p | 50.0000% | 0.73 USD | 0.15% | 0.74% | 98.80 USD | Utilities |
-| 763 | RGP | Resources Connection, Inc. | 1.70p | 50.0000% | 0.06 USD | 0.15% | 0.73% | 8.33 USD | Industrials |
-| 764 | SNX | TD SYNNEX Corporation | 1.70p | 50.0000% | 0.85 USD | 0.15% | 0.71% | 123.00 USD | Technology |
+| 741 | SNX | TD SYNNEX Corporation | 1.71p | 50.0000% | 1.25 USD | 0.21% | 1.05% | 123.00 USD | Technology |
+| 742 | BGSF | BGSF, Inc. | 1.71p | 50.0000% | 0.09 USD | 0.22% | 1.03% | 9.50 USD | Industrials |
+| 743 | EMN | Eastman Chemical Company | 1.71p | 50.0000% | 1.14 USD | 0.21% | 1.04% | 110.48 USD | Basic Materials |
+| 744 | XPER | Xperi Inc. | 1.71p | 50.0000% | 0.09 USD | 0.22% | 1.03% | 9.13 USD | Technology |
+| 745 | AMED | Amedisys Inc | 1.71p | 50.0000% | 0.99 USD | 0.21% | 1.03% | 104.04 USD | Healthcare |
+| 746 | AXP | American Express Company | 1.71p | 50.0000% | 2.73 USD | 0.21% | 1.00% | 277.70 USD | Financial Services |
+| 747 | EXC | Exelon Corporation | 1.71p | 50.0000% | 0.39 USD | 0.20% | 0.99% | 39.94 USD | Utilities |
+| 748 | WHR | Whirlpool Corporation | 1.71p | 50.0000% | 1.00 USD | 0.20% | 0.97% | 104.29 USD | Consumer Cyclical |
+| 749 | SMAR | Smartsheet Inc. | 1.71p | 50.0000% | 0.54 USD | 0.19% | 0.97% | 56.20 USD | Technology |
+| 750 | META | Meta Platforms, Inc. | 1.71p | 50.0000% | 5.64 USD | 0.20% | 0.96% | 590.59 USD | Communication Services |
+| 751 | KURA | Kura Oncology, Inc. | 1.71p | 50.0000% | 0.17 USD | 0.20% | 0.95% | 22.60 USD | Healthcare |
+| 752 | CPRI | Capri Holdings Limited | 1.71p | 50.0000% | 0.41 USD | 0.19% | 0.96% | 43.38 USD | Consumer Cyclical |
+| 753 | VREX | Varex Imaging Corporation | 1.70p | 50.0000% | 0.10 USD | 0.19% | 0.89% | 11.35 USD | Healthcare |
+| 754 | CCJ | Cameco Corporation | 1.70p | 50.0000% | 0.46 USD | 0.19% | 0.89% | 51.99 USD | Energy |
+| 755 | SBAC | SBA Communications Corporation | 1.70p | 50.0000% | 2.11 USD | 0.19% | 0.89% | 239.95 USD | Real Estate |
+| 756 | LMT | Lockheed Martin Corporation | 1.70p | 50.0000% | 5.33 USD | 0.18% | 0.88% | 610.00 USD | Industrials |
+| 757 | TMO | Thermo Fisher Scientific Inc | 1.70p | 50.0000% | 4.94 USD | 0.17% | 0.82% | 606.00 USD | Healthcare |
+| 758 | ENB | Enbridge Inc | 1.70p | 50.0000% | 0.33 USD | 0.16% | 0.81% | 41.10 USD | Energy |
+| 759 | HASI | HA Sustainable Infrastructure C | 1.70p | 50.0000% | 0.27 USD | 0.19% | 0.78% | 34.93 USD | Real Estate |
+| 760 | DNOW | DNOW Inc. | 1.70p | 50.0000% | 0.10 USD | 0.16% | 0.79% | 12.92 USD | Industrials |
+| 761 | AN | AutoNation, Inc. | 1.70p | 50.0000% | 1.25 USD | 0.15% | 0.75% | 171.05 USD | Consumer Cyclical |
+| 762 | CCI | Crown Castle Inc. | 1.70p | 50.0000% | 0.83 USD | 0.15% | 0.75% | 112.20 USD | Real Estate |
+| 763 | AEP | American Electric Power Company | 1.70p | 50.0000% | 0.73 USD | 0.15% | 0.74% | 98.80 USD | Utilities |
+| 764 | RGP | Resources Connection, Inc. | 1.70p | 50.0000% | 0.06 USD | 0.15% | 0.73% | 8.33 USD | Industrials |
 | 765 | LSCC | Lattice Semiconductor Corporati | 1.70p | 50.0000% | 0.37 USD | 0.15% | 0.71% | 54.57 USD | Technology |
 | 766 | O | Realty Income Corporation | 1.70p | 50.0000% | 0.44 USD | 0.14% | 0.71% | 62.14 USD | Real Estate |
 | 767 | MTCH | Match Group, Inc. | 1.69p | 50.0000% | 0.26 USD | 0.15% | 0.69% | 37.80 USD | Communication Services |
 | 768 | MMM | 3M Company | 1.69p | 50.0000% | 0.91 USD | 0.14% | 0.67% | 135.60 USD | Industrials |
-| 769 | PAYC | Paycom Software, Inc. | 1.69p | 50.0000% | 1.07 USD | 0.14% | 0.65% | 164.02 USD | Technology |
+| 769 | PAYC | Paycom Software, Inc. | 1.69p | 50.0000% | 1.07 USD | 0.14% | 0.65% | 167.37 USD | Technology |
 | 770 | PPL | PPL Corporation | 1.69p | 50.0000% | 0.21 USD | 0.14% | 0.66% | 32.09 USD | Utilities |
 | 771 | SYY | Sysco Corporation | 1.69p | 50.0000% | 0.49 USD | 0.14% | 0.66% | 75.40 USD | Consumer Defensive |
 | 772 | IVZ | Invesco Ltd | 1.69p | 50.0000% | 0.11 USD | 0.13% | 0.62% | 17.73 USD | Financial Services |
@@ -873,7 +873,7 @@
 | 826 | EQIX | Equinix, Inc. | 1.65p | 50.0000% | -3.99 USD | -0.09% | -0.46% | 866.35 USD | Real Estate |
 | 827 | MGPI | MGP Ingredients, Inc. | 1.65p | 50.0000% | -0.40 USD | -0.10% | -0.50% | 79.70 USD | Consumer Defensive |
 | 828 | MDRX | Veradigm Inc. | 1.65p | 50.0000% | -0.05 USD | -0.10% | -0.54% | 0.00 USD | Healthcare |
-| 829 | PLYM | Plymouth Industrial REIT, Inc. | 1.64p | 50.0000% | -0.12 USD | -0.10% | -0.56% | 21.40 USD | Real Estate |
+| 829 | PLYM | Plymouth Industrial REIT, Inc. | 1.64p | 50.0000% | -0.12 USD | -0.10% | -0.56% | 22.05 USD | Real Estate |
 | 830 | EXPI | eXp World Holdings, Inc. | 1.64p | 50.0000% | -0.08 USD | -0.10% | -0.60% | 13.17 USD | Real Estate |
 | 831 | EGAN | eGain Corporation | 1.64p | 50.0000% | -0.03 USD | -0.11% | -0.61% | 4.89 USD | Technology |
 | 832 | HPE | Hewlett Packard Enterprise Comp | 1.64p | 50.0000% | -0.14 USD | -0.13% | -0.67% | 20.77 USD | Technology |
@@ -890,74 +890,74 @@
 | 843 | LEG | Leggett & Platt, Incorporated | 1.62p | 50.0000% | -0.15 USD | -0.22% | -1.15% | 12.94 USD | Consumer Cyclical |
 | 844 | URGN | UroGen Pharma Ltd. | 1.62p | 50.0000% | -0.16 USD | -0.10% | -1.29% | 12.29 USD | Healthcare |
 | 845 | FTI | TechnipFMC plc | 1.62p | 50.0000% | -0.32 USD | -0.23% | -1.16% | 28.48 USD | Energy |
-| 846 | GNL | Global Net Lease, Inc. | 1.62p | 50.0000% | -0.10 USD | -0.23% | -1.19% | 8.32 USD | Real Estate |
-| 847 | KR | Kroger Company (The) | 1.62p | 50.0000% | -0.69 USD | -0.25% | -1.23% | 55.29 USD | Consumer Defensive |
-| 848 | AMS | American Shared Hospital Servic | 1.61p | 50.0000% | -0.05 USD | -0.30% | -1.54% | 3.28 USD | Healthcare |
-| 849 | HAL | Halliburton Company | 1.60p | 50.0000% | -0.51 USD | -0.32% | -1.64% | 30.46 USD | Energy |
-| 850 | MUR | Murphy Oil Corporation | 1.60p | 50.0000% | -0.60 USD | -0.32% | -1.66% | 35.41 USD | Energy |
-| 851 | ADNT | Adient plc | 1.60p | 50.0000% | -0.38 USD | -0.32% | -1.71% | 22.27 USD | Consumer Cyclical |
-| 852 | BEP | Brookfield Renewable Partners L | 1.60p | 50.0000% | -0.46 USD | -0.34% | -1.73% | 26.40 USD | Utilities |
-| 853 | BSM | Black Stone Minerals, L.P. | 1.59p | 50.0000% | -0.29 USD | -0.38% | -1.89% | 15.23 USD | Energy |
-| 854 | FVRR | Fiverr International Ltd. | 1.59p | 50.0000% | -0.45 USD | -0.37% | -1.91% | 23.20 USD | Communication Services |
-| 855 | W | Wayfair Inc. | 1.59p | 50.0000% | -1.08 USD | -0.36% | -1.92% | 54.98 USD | Consumer Cyclical |
-| 856 | CRNT | Ceragon Networks Ltd. | 1.59p | 50.0000% | -0.05 USD | -0.38% | -1.93% | 2.55 USD | Technology |
-| 857 | SLB | Schlumberger N.V. | 1.59p | 50.0000% | -0.89 USD | -0.38% | -1.95% | 44.82 USD | Energy |
-| 858 | DOW | Dow Inc. | 1.59p | 50.0000% | -1.08 USD | -0.39% | -1.98% | 53.49 USD | Basic Materials |
-| 859 | SPWH | Sportsman's Warehouse Holdings, | 1.59p | 50.0000% | -0.06 USD | -0.31% | -2.08% | 2.84 USD | Consumer Cyclical |
-| 860 | RDUS | Radius Recycling, Inc. | 1.58p | 50.0000% | -0.38 USD | -0.38% | -2.09% | 17.90 USD | Basic Materials |
-| 861 | EOG | EOG Resources, Inc. | 1.58p | 50.0000% | -2.77 USD | -0.41% | -2.06% | 131.25 USD | Energy |
-| 862 | SYNA | Synaptics Incorporated | 1.58p | 50.0000% | -1.62 USD | -0.40% | -2.13% | 74.62 USD | Technology |
-| 863 | NRC | National Research Corporation | 1.58p | 50.0000% | -0.43 USD | -0.44% | -2.21% | 19.08 USD | Healthcare |
-| 864 | CLFD | Clearfield, Inc. | 1.58p | 50.0000% | -0.83 USD | -0.44% | -2.25% | 36.09 USD | Technology |
-| 865 | BHP | BHP Group Limited | 1.58p | 50.0000% | -1.38 USD | -0.44% | -2.27% | 59.58 USD | Basic Materials |
-| 866 | HLF | Herbalife Ltd. | 1.58p | 50.0000% | -0.16 USD | -0.44% | -2.30% | 6.83 USD | Consumer Defensive |
-| 867 | BTAI | BioXcel Therapeutics, Inc. | 1.57p | 50.0000% | -0.01 USD | -0.46% | -2.47% | 0.54 USD | Healthcare |
-| 868 | CDNA | CareDx, Inc. | 1.56p | 50.0000% | -0.89 USD | -0.32% | -2.76% | 31.39 USD | Healthcare |
-| 869 | VSAT | ViaSat, Inc. | 1.56p | 50.0000% | -0.30 USD | -0.49% | -2.67% | 10.95 USD | Technology |
-| 870 | RIO | Rio Tinto Plc | 1.56p | 50.0000% | -1.92 USD | -0.54% | -2.76% | 67.60 USD | Basic Materials |
-| 871 | BIG | Big Lots, Inc. | 1.55p | 40.0000% | 0.00 USD | 1.36% | 5.00% | 0.00 USD | Consumer Defensive |
-| 872 | NVAX | Novavax, Inc. | 1.54p | 50.0000% | -0.40 USD | -0.60% | -3.07% | 12.71 USD | Healthcare |
-| 873 | ASYS | Amtech Systems, Inc. | 1.53p | 50.0000% | -0.21 USD | -0.68% | -3.49% | 7.38 USD | Technology |
-| 874 | RVNC | Revance Therapeutics, Inc. | 1.52p | 50.0000% | -0.19 USD | -0.71% | -3.56% | 6.55 USD | Healthcare |
-| 875 | FCX | Freeport-McMoRan, Inc. | 1.52p | 50.0000% | -1.93 USD | -0.75% | -3.80% | 48.93 USD | Basic Materials |
-| 876 | ENPH | Enphase Energy, Inc. | 1.48p | 50.0000% | -4.89 USD | -0.90% | -4.60% | 101.51 USD | Technology |
-| 877 | GLOB | Globant S.A. | 1.47p | 33.3333% | 17.48 USD | 1.82% | 9.02% | 211.23 USD | Technology |
-| 878 | GSIT | GSI Technology, Inc. | 1.46p | 50.0000% | -0.20 USD | -0.97% | -5.25% | 3.65 USD | Technology |
-| 879 | FANH | Fanhua Inc. | 1.45p | 50.0000% | -0.10 USD | -0.83% | -5.56% | 1.72 USD | Financial Services |
-| 880 | MSTR | MicroStrategy Incorporated | 1.45p | 33.3333% | 15.58 USD | 1.89% | 8.37% | 202.35 USD | Technology |
-| 881 | REPL | Replimune Group, Inc. | 1.44p | 50.0000% | -0.66 USD | -1.09% | -5.83% | 10.71 USD | Healthcare |
-| 882 | JD | JD.com, Inc. | 1.42p | 50.0000% | -2.94 USD | -1.22% | -6.24% | 44.19 USD | Consumer Cyclical |
-| 883 | NTGR | NETGEAR, Inc. | 1.41p | 33.3333% | 1.42 USD | 1.51% | 7.37% | 20.76 USD | Technology |
-| 884 | RIOT | Riot Platforms, Inc. | 1.40p | 33.3333% | 0.58 USD | 1.48% | 7.11% | 8.77 USD | Financial Services |
-| 885 | NTCT | NetScout Systems, Inc. | 1.39p | 33.3333% | 1.42 USD | 1.40% | 7.05% | 21.59 USD | Technology |
-| 886 | INO | Inovio Pharmaceuticals, Inc. | 1.39p | 33.3333% | 0.37 USD | 1.44% | 6.94% | 5.71 USD | Healthcare |
-| 887 | VNDA | Vanda Pharmaceuticals Inc. | 1.39p | 33.3333% | 0.31 USD | 1.40% | 6.89% | 4.82 USD | Healthcare |
-| 888 | LYFT | Lyft, Inc. | 1.35p | 33.3333% | 0.75 USD | 1.26% | 6.00% | 13.88 USD | Technology |
-| 889 | KVHI | KVH Industries, Inc. | 1.34p | 33.3333% | 0.27 USD | 1.17% | 5.68% | 6.37 USD | Technology |
-| 890 | CHUY | Chuy's Holdings, Inc. | 1.34p | 40.0000% | 0.02 USD | 0.01% | 0.05% | 0.00 USD | Consumer Cyclical |
-| 891 | MRVL | Marvell Technology, Inc. | 1.33p | 33.3333% | 4.02 USD | 1.09% | 5.46% | 77.69 USD | Technology |
-| 892 | APTO | Aptose Biosciences, Inc. | 1.33p | 33.3333% | 0.02 USD | 1.07% | 5.44% | 0.48 USD | Healthcare |
-| 893 | GRPN | Groupon, Inc. | 1.32p | 50.0000% | -0.93 USD | -1.73% | -8.75% | 11.11 USD | Communication Services |
-| 894 | KIDS | OrthoPediatrics Corp. | 1.31p | 33.3333% | 1.25 USD | 1.02% | 5.06% | 26.04 USD | Healthcare |
-| 895 | JPM | JP Morgan Chase & Co. | 1.31p | 33.3333% | 10.55 USD | 1.00% | 5.00% | 221.44 USD | Financial Services |
-| 896 | BAC | Bank of America Corporation | 1.31p | 33.3333% | 1.95 USD | 0.98% | 4.88% | 41.93 USD | Financial Services |
-| 897 | VKTX | Viking Therapeutics, Inc. | 1.29p | 33.3333% | 2.79 USD | 0.97% | 4.43% | 68.70 USD | Healthcare |
-| 898 | VLY | Valley National Bancorp | 1.28p | 33.3333% | 0.37 USD | 0.85% | 4.19% | 9.22 USD | Financial Services |
-| 899 | BBIO | BridgeBio Pharma, Inc. | 1.26p | 33.3333% | 0.94 USD | 0.83% | 3.78% | 25.80 USD | Healthcare |
-| 900 | DAKT | Daktronics, Inc. | 1.26p | 33.3333% | 0.48 USD | 0.76% | 3.68% | 13.54 USD | Technology |
-| 901 | WATT | Energous Corporation | 1.25p | 33.3333% | 0.02 USD | 0.75% | 3.31% | 0.61 USD | Technology |
-| 902 | OGI | Organigram Holdings Inc. | 1.23p | 33.3333% | 0.05 USD | 0.60% | 2.91% | 1.80 USD | Healthcare |
-| 903 | RAPT | RAPT Therapeutics, Inc. | 1.23p | 33.3333% | 0.05 USD | 0.76% | 2.66% | 1.94 USD | Healthcare |
-| 904 | SUNS | Sunrise Realty Trust, Inc. | 1.22p | 33.3333% | 0.41 USD | 0.57% | 2.84% | 18.91 USD | Real Estate |
-| 905 | ARLO | Arlo Technologies, Inc. | 1.22p | 33.3333% | 0.30 USD | 0.56% | 2.69% | 11.46 USD | Industrials |
-| 906 | CEVA | CEVA, Inc. | 1.22p | 33.3333% | 0.66 USD | 0.54% | 2.69% | 25.20 USD | Technology |
-| 907 | PCG | Pacific Gas & Electric Co. | 1.22p | 33.3333% | 0.53 USD | 0.54% | 2.69% | 20.30 USD | Utilities |
-| 908 | SUPN | Supernus Pharmaceuticals, Inc. | 1.22p | 33.3333% | 0.86 USD | 0.55% | 2.68% | 32.96 USD | Healthcare |
-| 909 | BV | BrightView Holdings, Inc. | 1.22p | 33.3333% | 0.42 USD | 0.58% | 2.63% | 17.38 USD | Industrials |
-| 910 | CRNX | Crinetics Pharmaceuticals, Inc. | 1.21p | 33.3333% | 1.34 USD | 0.53% | 2.59% | 53.11 USD | Healthcare |
-| 911 | ZYXI | Zynex, Inc. | 1.21p | 33.3333% | 0.20 USD | 0.54% | 2.57% | 8.02 USD | Healthcare |
-| 912 | UPS | United Parcel Service, Inc. | 1.21p | 33.3333% | 3.37 USD | 0.51% | 2.57% | 134.88 USD | Industrials |
-| 913 | MAC | Macerich Company (The) | 1.21p | 33.3333% | 0.45 USD | 0.51% | 2.55% | 18.11 USD | Real Estate |
+| 846 | KR | Kroger Company (The) | 1.62p | 50.0000% | -0.69 USD | -0.25% | -1.23% | 55.30 USD | Consumer Defensive |
+| 847 | AMS | American Shared Hospital Servic | 1.61p | 50.0000% | -0.05 USD | -0.30% | -1.54% | 3.28 USD | Healthcare |
+| 848 | HAL | Halliburton Company | 1.60p | 50.0000% | -0.51 USD | -0.32% | -1.64% | 30.46 USD | Energy |
+| 849 | MUR | Murphy Oil Corporation | 1.60p | 50.0000% | -0.60 USD | -0.32% | -1.66% | 35.41 USD | Energy |
+| 850 | ADNT | Adient plc | 1.60p | 50.0000% | -0.38 USD | -0.32% | -1.71% | 22.34 USD | Consumer Cyclical |
+| 851 | BEP | Brookfield Renewable Partners L | 1.60p | 50.0000% | -0.46 USD | -0.34% | -1.73% | 26.40 USD | Utilities |
+| 852 | BSM | Black Stone Minerals, L.P. | 1.59p | 50.0000% | -0.29 USD | -0.38% | -1.89% | 15.23 USD | Energy |
+| 853 | FVRR | Fiverr International Ltd. | 1.59p | 50.0000% | -0.45 USD | -0.37% | -1.91% | 23.20 USD | Communication Services |
+| 854 | W | Wayfair Inc. | 1.59p | 50.0000% | -1.08 USD | -0.36% | -1.92% | 54.98 USD | Consumer Cyclical |
+| 855 | CRNT | Ceragon Networks Ltd. | 1.59p | 50.0000% | -0.05 USD | -0.38% | -1.93% | 2.55 USD | Technology |
+| 856 | SLB | Schlumberger N.V. | 1.59p | 50.0000% | -0.89 USD | -0.38% | -1.95% | 44.10 USD | Energy |
+| 857 | DOW | Dow Inc. | 1.59p | 50.0000% | -1.08 USD | -0.39% | -1.98% | 53.49 USD | Basic Materials |
+| 858 | SPWH | Sportsman's Warehouse Holdings, | 1.59p | 50.0000% | -0.06 USD | -0.31% | -2.08% | 2.84 USD | Consumer Cyclical |
+| 859 | RDUS | Radius Recycling, Inc. | 1.58p | 50.0000% | -0.38 USD | -0.38% | -2.09% | 17.90 USD | Basic Materials |
+| 860 | EOG | EOG Resources, Inc. | 1.58p | 50.0000% | -2.77 USD | -0.41% | -2.06% | 131.25 USD | Energy |
+| 861 | SYNA | Synaptics Incorporated | 1.58p | 50.0000% | -1.62 USD | -0.40% | -2.13% | 74.62 USD | Technology |
+| 862 | NRC | National Research Corporation | 1.58p | 50.0000% | -0.43 USD | -0.44% | -2.21% | 19.08 USD | Healthcare |
+| 863 | CLFD | Clearfield, Inc. | 1.58p | 50.0000% | -0.83 USD | -0.44% | -2.25% | 36.09 USD | Technology |
+| 864 | BHP | BHP Group Limited | 1.58p | 50.0000% | -1.38 USD | -0.44% | -2.27% | 59.58 USD | Basic Materials |
+| 865 | HLF | Herbalife Ltd. | 1.58p | 50.0000% | -0.16 USD | -0.44% | -2.30% | 6.83 USD | Consumer Defensive |
+| 866 | BTAI | BioXcel Therapeutics, Inc. | 1.57p | 50.0000% | -0.01 USD | -0.46% | -2.47% | 0.54 USD | Healthcare |
+| 867 | CDNA | CareDx, Inc. | 1.56p | 50.0000% | -0.89 USD | -0.32% | -2.76% | 31.39 USD | Healthcare |
+| 868 | VSAT | ViaSat, Inc. | 1.56p | 50.0000% | -0.30 USD | -0.49% | -2.67% | 10.95 USD | Technology |
+| 869 | RIO | Rio Tinto Plc | 1.56p | 50.0000% | -1.92 USD | -0.54% | -2.76% | 67.60 USD | Basic Materials |
+| 870 | BIG | Big Lots, Inc. | 1.55p | 40.0000% | 0.00 USD | 1.36% | 5.00% | 0.00 USD | Consumer Defensive |
+| 871 | NVAX | Novavax, Inc. | 1.54p | 50.0000% | -0.40 USD | -0.60% | -3.07% | 12.71 USD | Healthcare |
+| 872 | ASYS | Amtech Systems, Inc. | 1.53p | 50.0000% | -0.21 USD | -0.68% | -3.49% | 7.38 USD | Technology |
+| 873 | RVNC | Revance Therapeutics, Inc. | 1.52p | 50.0000% | -0.19 USD | -0.71% | -3.56% | 6.55 USD | Healthcare |
+| 874 | FCX | Freeport-McMoRan, Inc. | 1.52p | 50.0000% | -1.93 USD | -0.75% | -3.80% | 48.93 USD | Basic Materials |
+| 875 | ENPH | Enphase Energy, Inc. | 1.48p | 50.0000% | -4.89 USD | -0.90% | -4.60% | 101.51 USD | Technology |
+| 876 | GLOB | Globant S.A. | 1.47p | 33.3333% | 17.48 USD | 1.82% | 9.02% | 211.23 USD | Technology |
+| 877 | GSIT | GSI Technology, Inc. | 1.46p | 50.0000% | -0.20 USD | -0.97% | -5.25% | 3.65 USD | Technology |
+| 878 | FANH | Fanhua Inc. | 1.45p | 50.0000% | -0.10 USD | -0.83% | -5.56% | 1.72 USD | Financial Services |
+| 879 | MSTR | MicroStrategy Incorporated | 1.45p | 33.3333% | 15.58 USD | 1.89% | 8.37% | 202.35 USD | Technology |
+| 880 | REPL | Replimune Group, Inc. | 1.44p | 50.0000% | -0.66 USD | -1.09% | -5.83% | 10.71 USD | Healthcare |
+| 881 | JD | JD.com, Inc. | 1.42p | 50.0000% | -2.94 USD | -1.22% | -6.24% | 44.19 USD | Consumer Cyclical |
+| 882 | NTGR | NETGEAR, Inc. | 1.41p | 33.3333% | 1.42 USD | 1.51% | 7.37% | 20.76 USD | Technology |
+| 883 | RIOT | Riot Platforms, Inc. | 1.40p | 33.3333% | 0.58 USD | 1.48% | 7.11% | 8.77 USD | Financial Services |
+| 884 | NTCT | NetScout Systems, Inc. | 1.39p | 33.3333% | 1.42 USD | 1.40% | 7.05% | 21.59 USD | Technology |
+| 885 | INO | Inovio Pharmaceuticals, Inc. | 1.39p | 33.3333% | 0.37 USD | 1.44% | 6.94% | 5.71 USD | Healthcare |
+| 886 | VNDA | Vanda Pharmaceuticals Inc. | 1.39p | 33.3333% | 0.31 USD | 1.40% | 6.89% | 4.82 USD | Healthcare |
+| 887 | LYFT | Lyft, Inc. | 1.35p | 33.3333% | 0.75 USD | 1.26% | 6.00% | 13.88 USD | Technology |
+| 888 | KVHI | KVH Industries, Inc. | 1.34p | 33.3333% | 0.27 USD | 1.17% | 5.68% | 6.37 USD | Technology |
+| 889 | CHUY | Chuy's Holdings, Inc. | 1.34p | 40.0000% | 0.02 USD | 0.01% | 0.05% | 0.00 USD | Consumer Cyclical |
+| 890 | MRVL | Marvell Technology, Inc. | 1.33p | 33.3333% | 4.02 USD | 1.09% | 5.46% | 77.69 USD | Technology |
+| 891 | APTO | Aptose Biosciences, Inc. | 1.33p | 33.3333% | 0.02 USD | 1.07% | 5.44% | 0.48 USD | Healthcare |
+| 892 | GRPN | Groupon, Inc. | 1.32p | 50.0000% | -0.93 USD | -1.73% | -8.75% | 11.11 USD | Communication Services |
+| 893 | KIDS | OrthoPediatrics Corp. | 1.31p | 33.3333% | 1.25 USD | 1.02% | 5.06% | 26.04 USD | Healthcare |
+| 894 | JPM | JP Morgan Chase & Co. | 1.31p | 33.3333% | 10.55 USD | 1.00% | 5.00% | 221.44 USD | Financial Services |
+| 895 | BAC | Bank of America Corporation | 1.31p | 33.3333% | 1.95 USD | 0.98% | 4.88% | 41.93 USD | Financial Services |
+| 896 | VKTX | Viking Therapeutics, Inc. | 1.29p | 33.3333% | 2.79 USD | 0.97% | 4.43% | 68.70 USD | Healthcare |
+| 897 | VLY | Valley National Bancorp | 1.28p | 33.3333% | 0.37 USD | 0.85% | 4.19% | 9.22 USD | Financial Services |
+| 898 | BBIO | BridgeBio Pharma, Inc. | 1.26p | 33.3333% | 0.94 USD | 0.83% | 3.78% | 25.80 USD | Healthcare |
+| 899 | DAKT | Daktronics, Inc. | 1.26p | 33.3333% | 0.48 USD | 0.76% | 3.68% | 13.54 USD | Technology |
+| 900 | WATT | Energous Corporation | 1.25p | 33.3333% | 0.02 USD | 0.75% | 3.31% | 0.61 USD | Technology |
+| 901 | OGI | Organigram Holdings Inc. | 1.23p | 33.3333% | 0.05 USD | 0.60% | 2.91% | 1.80 USD | Healthcare |
+| 902 | RAPT | RAPT Therapeutics, Inc. | 1.23p | 33.3333% | 0.05 USD | 0.76% | 2.66% | 1.94 USD | Healthcare |
+| 903 | SUNS | Sunrise Realty Trust, Inc. | 1.22p | 33.3333% | 0.41 USD | 0.57% | 2.84% | 18.91 USD | Real Estate |
+| 904 | ARLO | Arlo Technologies, Inc. | 1.22p | 33.3333% | 0.30 USD | 0.56% | 2.69% | 11.46 USD | Industrials |
+| 905 | CEVA | CEVA, Inc. | 1.22p | 33.3333% | 0.66 USD | 0.54% | 2.69% | 25.20 USD | Technology |
+| 906 | PCG | Pacific Gas & Electric Co. | 1.22p | 33.3333% | 0.53 USD | 0.54% | 2.69% | 20.30 USD | Utilities |
+| 907 | SUPN | Supernus Pharmaceuticals, Inc. | 1.22p | 33.3333% | 0.86 USD | 0.55% | 2.68% | 32.96 USD | Healthcare |
+| 908 | BV | BrightView Holdings, Inc. | 1.22p | 33.3333% | 0.42 USD | 0.58% | 2.63% | 17.38 USD | Industrials |
+| 909 | CRNX | Crinetics Pharmaceuticals, Inc. | 1.21p | 33.3333% | 1.34 USD | 0.53% | 2.59% | 53.11 USD | Healthcare |
+| 910 | ZYXI | Zynex, Inc. | 1.21p | 33.3333% | 0.20 USD | 0.54% | 2.57% | 8.02 USD | Healthcare |
+| 911 | UPS | United Parcel Service, Inc. | 1.21p | 33.3333% | 3.37 USD | 0.51% | 2.57% | 134.88 USD | Industrials |
+| 912 | MAC | Macerich Company (The) | 1.21p | 33.3333% | 0.45 USD | 0.51% | 2.55% | 18.11 USD | Real Estate |
+| 913 | BKE | Buckle, Inc. (The) | 1.21p | 33.3333% | 1.07 USD | 0.52% | 2.54% | 42.81 USD | Consumer Cyclical |
 | 914 | EXAS | Exact Sciences Corporation | 1.21p | 33.3333% | 1.64 USD | 0.48% | 2.37% | 70.91 USD | Healthcare |
 | 915 | NEP | NextEra Energy Partners, LP | 1.20p | 33.3333% | 0.58 USD | 0.47% | 2.29% | 25.99 USD | Utilities |
 | 916 | SHYF | The Shyft Group, Inc. | 1.20p | 33.3333% | 0.27 USD | 0.47% | 2.26% | 12.27 USD | Industrials |
@@ -976,16 +976,16 @@
 | 929 | KE | Kimball Electronics, Inc. | 1.18p | 33.3333% | 0.32 USD | 0.37% | 1.83% | 17.81 USD | Industrials |
 | 930 | WINA | Winmark Corporation | 1.18p | 33.3333% | 6.34 USD | 0.36% | 1.76% | 368.10 USD | Consumer Cyclical |
 | 931 | NVO | Novo Nordisk A/S | 1.18p | 33.3333% | 2.01 USD | 0.34% | 1.71% | 119.93 USD | Healthcare |
-| 932 | BKE | Buckle, Inc. (The) | 1.18p | 33.3333% | 0.71 USD | 0.34% | 1.68% | 42.81 USD | Consumer Cyclical |
+| 932 | AAP | Advance Auto Parts Inc. | 1.18p | 33.3333% | 0.64 USD | 0.36% | 1.65% | 39.50 USD | Consumer Cyclical |
 | 933 | BJRI | BJ's Restaurants, Inc. | 1.18p | 33.3333% | 0.53 USD | 0.34% | 1.62% | 33.29 USD | Consumer Cyclical |
 | 934 | MOS | Mosaic Company (The) | 1.18p | 33.3333% | 0.41 USD | 0.34% | 1.59% | 26.01 USD | Basic Materials |
-| 935 | THC | Tenet Healthcare Corporation | 1.17p | 33.3333% | 2.42 USD | 0.33% | 1.58% | 156.30 USD | Healthcare |
-| 936 | CHWY | Chewy, Inc. | 1.17p | 33.3333% | 0.43 USD | 0.36% | 1.53% | 28.45 USD | Consumer Cyclical |
-| 937 | STWD | STARWOOD PROPERTY TRUST, INC. S | 1.17p | 33.3333% | 0.31 USD | 0.31% | 1.58% | 20.03 USD | Real Estate |
-| 938 | SYRS | Syros Pharmaceuticals, Inc. | 1.17p | 33.3333% | 0.03 USD | 0.33% | 1.55% | 1.99 USD | Healthcare |
-| 939 | KSS | Kohl's Corporation | 1.17p | 33.3333% | 0.29 USD | 0.32% | 1.53% | 19.28 USD | Consumer Cyclical |
-| 940 | AXSM | Axsome Therapeutics, Inc. | 1.17p | 33.3333% | 1.26 USD | 0.33% | 1.50% | 85.47 USD | Healthcare |
-| 941 | KAI | Kadant Inc | 1.17p | 33.3333% | 4.84 USD | 0.30% | 1.49% | 330.80 USD | Industrials |
+| 935 | KAI | Kadant Inc | 1.18p | 33.3333% | 5.16 USD | 0.32% | 1.59% | 330.80 USD | Industrials |
+| 936 | THC | Tenet Healthcare Corporation | 1.17p | 33.3333% | 2.42 USD | 0.33% | 1.58% | 156.30 USD | Healthcare |
+| 937 | CHWY | Chewy, Inc. | 1.17p | 33.3333% | 0.43 USD | 0.36% | 1.53% | 28.45 USD | Consumer Cyclical |
+| 938 | STWD | STARWOOD PROPERTY TRUST, INC. S | 1.17p | 33.3333% | 0.31 USD | 0.31% | 1.58% | 20.03 USD | Real Estate |
+| 939 | SYRS | Syros Pharmaceuticals, Inc. | 1.17p | 33.3333% | 0.03 USD | 0.33% | 1.55% | 1.99 USD | Healthcare |
+| 940 | KSS | Kohl's Corporation | 1.17p | 33.3333% | 0.29 USD | 0.32% | 1.53% | 19.28 USD | Consumer Cyclical |
+| 941 | AXSM | Axsome Therapeutics, Inc. | 1.17p | 33.3333% | 1.26 USD | 0.33% | 1.50% | 85.47 USD | Healthcare |
 | 942 | AMSC | American Superconductor Corpora | 1.17p | 33.3333% | 0.32 USD | 0.42% | 1.36% | 23.82 USD | Industrials |
 | 943 | BTU | Peabody Energy Corporation | 1.17p | 33.3333% | 0.38 USD | 0.31% | 1.44% | 26.69 USD | Energy |
 | 944 | BHE | Benchmark Electronics, Inc. | 1.17p | 33.3333% | 0.62 USD | 0.29% | 1.42% | 46.75 USD | Technology |
@@ -996,7 +996,7 @@
 | 949 | LECO | Lincoln Electric Holdings, Inc. | 1.16p | 33.3333% | 2.53 USD | 0.27% | 1.32% | 193.64 USD | Industrials |
 | 950 | NMRK | Newmark Group, Inc. | 1.16p | 33.3333% | 0.19 USD | 0.27% | 1.30% | 14.87 USD | Real Estate |
 | 951 | HBI | Hanesbrands Inc. | 1.16p | 33.3333% | 0.09 USD | 0.26% | 1.25% | 7.32 USD | Consumer Cyclical |
-| 952 | WTS | Watts Water Technologies, Inc. | 1.16p | 33.3333% | 2.37 USD | 0.24% | 1.16% | 218.72 USD | Industrials |
+| 952 | WTS | Watts Water Technologies, Inc. | 1.16p | 33.3333% | 2.37 USD | 0.24% | 1.16% | 331.07 USD | Industrials |
 | 953 | CME | CME Group Inc. | 1.16p | 33.3333% | 2.47 USD | 0.22% | 1.11% | 233.92 USD | Financial Services |
 | 954 | WU | Western Union Company (The) | 1.16p | 33.3333% | 0.13 USD | 0.22% | 1.11% | 11.93 USD | Financial Services |
 | 955 | VICI | VICI Properties Inc. | 1.16p | 33.3333% | 0.36 USD | 0.22% | 1.11% | 32.83 USD | Real Estate |
@@ -1012,313 +1012,313 @@
 | 965 | EDIT | Editas Medicine, Inc. | 1.15p | 33.3333% | 0.03 USD | 0.28% | 0.93% | 3.25 USD | Healthcare |
 | 966 | BE | Bloom Energy Corporation | 1.15p | 33.3333% | 0.10 USD | 0.24% | 0.97% | 10.45 USD | Industrials |
 | 967 | BHC | Bausch Health Companies Inc. | 1.15p | 33.3333% | 0.08 USD | 0.22% | 0.98% | 8.45 USD | Healthcare |
-| 968 | AAP | Advance Auto Parts Inc. | 1.15p | 33.3333% | 0.38 USD | 0.23% | 0.97% | 39.35 USD | Consumer Cyclical |
-| 969 | J | Jacobs Solutions Inc. | 1.15p | 33.3333% | 1.36 USD | 0.20% | 0.99% | 139.99 USD | Industrials |
-| 970 | PM | Philip Morris International Inc | 1.15p | 33.3333% | 1.17 USD | 0.20% | 0.98% | 120.15 USD | Consumer Defensive |
-| 971 | FUN | Six Flags Entertainment Corpora | 1.15p | 33.3333% | 0.36 USD | 0.24% | 0.93% | 39.08 USD | Consumer Cyclical |
-| 972 | NKE | Nike, Inc. | 1.15p | 33.3333% | 0.77 USD | 0.19% | 0.95% | 81.58 USD | Consumer Cyclical |
-| 973 | APTV | Aptiv PLC | 1.15p | 33.3333% | 0.62 USD | 0.18% | 0.88% | 70.97 USD | Consumer Cyclical |
-| 974 | AXTI | AXT Inc | 1.15p | 33.3333% | 0.02 USD | 0.22% | 0.81% | 2.52 USD | Technology |
-| 975 | TWIN | Twin Disc, Incorporated | 1.15p | 33.3333% | 0.10 USD | 0.19% | 0.83% | 15.80 USD | Industrials |
-| 976 | LILAK | Liberty Latin America Ltd. | 1.15p | 33.3333% | 0.08 USD | 0.17% | 0.85% | 9.50 USD | Communication Services |
-| 977 | DXCM | DexCom, Inc. | 1.14p | 33.3333% | 0.56 USD | 0.16% | 0.82% | 69.20 USD | Healthcare |
-| 978 | RCKT | Rocket Pharmaceuticals, Inc. | 1.14p | 33.3333% | 0.13 USD | 0.19% | 0.78% | 16.94 USD | Healthcare |
-| 979 | PAA | Plains All American Pipeline, L | 1.14p | 33.3333% | 0.14 USD | 0.16% | 0.80% | 17.68 USD | Energy |
-| 980 | MAIN | Main Street Capital Corporation | 1.14p | 33.3333% | 0.40 USD | 0.16% | 0.80% | 51.50 USD | Financial Services |
-| 981 | VST | Vistra Corp. | 1.14p | 33.3333% | 0.99 USD | 0.20% | 0.75% | 132.77 USD | Utilities |
-| 982 | ETR | Entergy Corporation | 1.14p | 33.3333% | 1.00 USD | 0.16% | 0.76% | 132.10 USD | Utilities |
-| 983 | WING | Wingstop Inc. | 1.14p | 33.3333% | 2.97 USD | 0.16% | 0.75% | 399.19 USD | Consumer Cyclical |
-| 984 | FE | FirstEnergy Corp. | 1.14p | 33.3333% | 0.30 USD | 0.14% | 0.70% | 43.18 USD | Utilities |
-| 985 | LILA | Liberty Latin America Ltd. | 1.14p | 33.3333% | 0.06 USD | 0.13% | 0.63% | 9.61 USD | Communication Services |
-| 986 | EXTR | Extreme Networks, Inc. | 1.14p | 33.3333% | 0.09 USD | 0.14% | 0.61% | 17.16 USD | Technology |
-| 987 | WDC | Western Digital Corporation | 1.14p | 33.3333% | 0.39 USD | 0.13% | 0.59% | 66.96 USD | Technology |
-| 988 | CLX | Clorox Company (The) | 1.13p | 33.3333% | 0.91 USD | 0.12% | 0.57% | 161.51 USD | Consumer Defensive |
-| 989 | GOOD | Gladstone Commercial Corporatio | 1.13p | 33.3333% | 0.09 USD | 0.12% | 0.56% | 16.10 USD | Real Estate |
-| 990 | STNE | StoneCo Ltd. | 1.13p | 33.3333% | 0.06 USD | 0.12% | 0.54% | 11.26 USD | Technology |
-| 991 | PKE | Park Aerospace Corp. | 1.13p | 33.3333% | 0.07 USD | 0.12% | 0.53% | 14.12 USD | Industrials |
-| 992 | LADR | Ladder Capital Corp | 1.13p | 33.3333% | 0.06 USD | 0.11% | 0.54% | 11.59 USD | Real Estate |
-| 993 | FCFS | FirstCash Holdings, Inc. | 1.13p | 33.3333% | 0.60 USD | 0.11% | 0.53% | 145.44 USD | Financial Services |
-| 994 | OGS | ONE Gas, Inc. | 1.13p | 33.3333% | 0.30 USD | 0.09% | 0.42% | 73.00 USD | Utilities |
-| 995 | PLD | Prologis, Inc. | 1.13p | 33.3333% | 0.46 USD | 0.08% | 0.38% | 121.05 USD | Real Estate |
-| 996 | SFIX | Stitch Fix, Inc. | 1.13p | 33.3333% | 0.01 USD | 0.08% | 0.37% | 2.73 USD | Consumer Cyclical |
-| 997 | AMRN | Amarin Corporation plc | 1.13p | 33.3333% | 0.00 USD | 0.08% | 0.34% | 0.59 USD | Healthcare |
-| 998 | AIV | Apartment Investment and Manage | 1.13p | 33.3333% | 0.03 USD | 0.07% | 0.35% | 9.01 USD | Real Estate |
-| 999 | DKNG | DraftKings Inc. | 1.13p | 33.3333% | 0.13 USD | 0.08% | 0.34% | 37.93 USD | Consumer Cyclical |
-| 1000 | AVTR | Avantor, Inc. | 1.12p | 33.3333% | 0.07 USD | 0.06% | 0.28% | 25.19 USD | Healthcare |
-| 1001 | PVH | PVH Corp. | 1.12p | 33.3333% | 0.26 USD | 0.06% | 0.27% | 97.50 USD | Consumer Cyclical |
-| 1002 | CRMT | America's Car-Mart, Inc. | 1.12p | 33.3333% | 0.09 USD | 0.07% | 0.22% | 41.99 USD | Consumer Cyclical |
-| 1003 | DGII | Digi International Inc. | 1.12p | 33.3333% | 0.06 USD | 0.07% | 0.20% | 29.44 USD | Technology |
-| 1004 | VCYT | Veracyte, Inc. | 1.12p | 33.3333% | 0.06 USD | 0.09% | 0.18% | 33.94 USD | Healthcare |
-| 1005 | CNSL | Consolidated Communications Hol | 1.12p | 33.3333% | 0.01 USD | 0.04% | 0.22% | 4.64 USD | Communication Services |
-| 1006 | AIRG | Airgain, Inc. | 1.12p | 33.3333% | 0.01 USD | 0.11% | 0.11% | 9.38 USD | Technology |
-| 1007 | TWO | Two Harbors Investment Corp | 1.12p | 33.3333% | 0.02 USD | 0.03% | 0.16% | 12.90 USD | Real Estate |
-| 1008 | SRDX | Surmodics, Inc. | 1.12p | 33.3333% | 0.06 USD | 0.03% | 0.16% | 38.39 USD | Healthcare |
-| 1009 | SGH | SMART Global Holdings, Inc. | 1.12p | 33.3333% | 0.03 USD | 0.04% | 0.14% | 20.88 USD | Technology |
-| 1010 | CAH | Cardinal Health, Inc. | 1.12p | 33.3333% | 0.16 USD | 0.03% | 0.14% | 112.40 USD | Healthcare |
-| 1011 | BMI | Badger Meter, Inc. | 1.12p | 33.3333% | 0.32 USD | 0.03% | 0.14% | 225.69 USD | Technology |
-| 1012 | M | Macy's Inc | 1.12p | 33.3333% | 0.02 USD | 0.04% | 0.13% | 15.38 USD | Consumer Cyclical |
-| 1013 | AEE | Ameren Corporation | 1.12p | 33.3333% | 0.11 USD | 0.03% | 0.13% | 87.20 USD | Utilities |
-| 1014 | KFY | Korn Ferry | 1.12p | 33.3333% | 0.08 USD | 0.03% | 0.11% | 73.25 USD | Industrials |
-| 1015 | FGEN | FibroGen, Inc | 1.11p | 33.3333% | 0.00 USD | 0.08% | 0.03% | 0.35 USD | Healthcare |
-| 1016 | ALEX | Alexander & Baldwin, Inc. | 1.11p | 33.3333% | 0.01 USD | 0.02% | 0.05% | 18.90 USD | Real Estate |
-| 1017 | UTSI | UTStarcom Holdings Corp | 1.11p | 33.3333% | 0.00 USD | 0.04% | 0.00% | 0.00 USD | Technology |
-| 1018 | ROKU | Roku, Inc. | 1.11p | 33.3333% | 0.01 USD | 0.02% | 0.01% | 76.46 USD | Communication Services |
-| 1019 | BGFV | Big 5 Sporting Goods Corporatio | 1.11p | 33.3333% | 0.00 USD | 0.03% | 0.00% | 2.04 USD | Consumer Cyclical |
-| 1020 | NOC | Northrop Grumman Corporation | 1.11p | 33.3333% | 0.10 USD | 0.01% | 0.02% | 550.00 USD | Industrials |
-| 1021 | XEL | Xcel Energy Inc. | 1.11p | 33.3333% | 0.01 USD | 0.01% | 0.02% | 63.05 USD | Utilities |
-| 1022 | K | Kellanova | 1.11p | 33.3333% | 0.01 USD | 0.00% | 0.01% | 80.67 USD | Consumer Defensive |
-| 1023 | FTS | Fortis Inc. | 1.11p | 33.3333% | -0.01 USD | -0.00% | -0.02% | 44.00 USD | Utilities |
-| 1024 | JNPR | Juniper Networks, Inc. | 1.11p | 33.3333% | -0.01 USD | -0.01% | -0.03% | 38.84 USD | Technology |
-| 1025 | ES | Eversource Energy (D/B/A) | 1.11p | 33.3333% | -0.06 USD | -0.02% | -0.09% | 63.97 USD | Utilities |
-| 1026 | MPLX | MPLX LP | 1.11p | 33.3333% | -0.06 USD | -0.03% | -0.14% | 43.94 USD | Energy |
-| 1027 | TPR | Tapestry, Inc. | 1.10p | 33.3333% | -0.09 USD | -0.03% | -0.20% | 46.08 USD | Consumer Cyclical |
-| 1028 | XRAY | DENTSPLY SIRONA Inc. | 1.10p | 33.3333% | -0.05 USD | -0.04% | -0.20% | 24.45 USD | Healthcare |
-| 1029 | GERN | Geron Corporation | 1.10p | 33.3333% | -0.01 USD | -0.01% | -0.24% | 4.77 USD | Healthcare |
-| 1030 | STAG | Stag Industrial, Inc. | 1.10p | 33.3333% | -0.08 USD | -0.04% | -0.21% | 37.94 USD | Real Estate |
-| 1031 | CGC | Canopy Growth Corporation | 1.10p | 33.3333% | -0.01 USD | -0.02% | -0.24% | 4.21 USD | Healthcare |
-| 1032 | ECPG | Encore Capital Group Inc | 1.10p | 33.3333% | -0.10 USD | -0.04% | -0.22% | 44.78 USD | Financial Services |
-| 1033 | AKTS | Akoustis Technologies, Inc. | 1.10p | 33.3333% | -0.00 USD | 0.27% | -0.53% | 0.08 USD | Technology |
-| 1034 | TEVA | Teva Pharmaceutical Industries  | 1.10p | 33.3333% | -0.04 USD | -0.04% | -0.23% | 17.45 USD | Healthcare |
-| 1035 | AZPN | Aspen Technology, Inc. | 1.10p | 33.3333% | -0.63 USD | -0.04% | -0.26% | 255.86 USD | Technology |
-| 1036 | D | Dominion Energy, Inc. | 1.10p | 33.3333% | -0.16 USD | -0.05% | -0.28% | 56.95 USD | Utilities |
-| 1037 | GEOS | Geospace Technologies Corporati | 1.10p | 33.3333% | -0.03 USD | -0.05% | -0.29% | 10.50 USD | Energy |
-| 1038 | OI | O-I Glass, Inc. | 1.10p | 33.3333% | -0.04 USD | -0.05% | -0.30% | 13.15 USD | Consumer Cyclical |
-| 1039 | SSTK | Shutterstock, Inc. | 1.10p | 33.3333% | -0.11 USD | -0.06% | -0.36% | 32.00 USD | Communication Services |
-| 1040 | BRX | Brixmor Property Group Inc. | 1.10p | 33.3333% | -0.10 USD | -0.07% | -0.37% | 27.37 USD | Real Estate |
-| 1041 | KELYA | Kelly Services, Inc. | 1.10p | 33.3333% | -0.08 USD | -0.07% | -0.39% | 20.42 USD | Industrials |
-| 1042 | EXPE | Expedia Group, Inc. | 1.10p | 33.3333% | -0.59 USD | -0.08% | -0.39% | 158.96 USD | Consumer Cyclical |
-| 1043 | INCY | Incyte Corporation | 1.09p | 33.3333% | -0.32 USD | -0.09% | -0.49% | 65.46 USD | Healthcare |
-| 1044 | ARQT | Arcutis Biotherapeutics, Inc. | 1.09p | 33.3333% | -0.05 USD | -0.10% | -0.51% | 9.76 USD | Healthcare |
-| 1045 | TH | Target Hospitality Corp. | 1.09p | 33.3333% | -0.04 USD | -0.10% | -0.52% | 7.70 USD | Industrials |
-| 1046 | HSTM | HealthStream, Inc. | 1.09p | 33.3333% | -0.15 USD | -0.10% | -0.53% | 36.17 USD | Healthcare |
-| 1047 | SHAK | Shake Shack, Inc. | 1.09p | 33.3333% | -0.58 USD | -0.10% | -0.54% | 110.00 USD | Consumer Cyclical |
-| 1048 | FMC | FMC Corporation | 1.09p | 33.3333% | -0.35 USD | -0.09% | -0.55% | 62.30 USD | Basic Materials |
-| 1049 | CQP | Cheniere Energy Partners, LP | 1.09p | 33.3333% | -0.29 USD | -0.11% | -0.58% | 50.10 USD | Energy |
-| 1050 | SABR | Sabre Corporation | 1.09p | 33.3333% | -0.02 USD | -0.11% | -0.60% | 3.37 USD | Technology |
-| 1051 | DOC | Healthpeak Properties, Inc. | 1.09p | 33.3333% | -0.13 USD | -0.11% | -0.59% | 21.92 USD | Real Estate |
-| 1052 | UMC | United Microelectronics Corpora | 1.09p | 33.3333% | -0.05 USD | -0.12% | -0.61% | 8.20 USD | Technology |
-| 1053 | BYD | Boyd Gaming Corporation | 1.09p | 33.3333% | -0.42 USD | -0.12% | -0.65% | 64.04 USD | Consumer Cyclical |
-| 1054 | MDLZ | Mondelez International, Inc. | 1.08p | 33.3333% | -0.47 USD | -0.13% | -0.66% | 74.51 USD | Consumer Defensive |
-| 1055 | PNW | Pinnacle West Capital Corporati | 1.08p | 33.3333% | -0.58 USD | -0.13% | -0.67% | 86.61 USD | Utilities |
-| 1056 | SMCI | Super Micro Computer, Inc. | 1.08p | 33.3333% | -0.35 USD | -0.09% | -0.73% | 47.40 USD | Technology |
-| 1057 | BNS | Bank Nova Scotia Halifax Pfd 3 | 1.08p | 33.3333% | -0.37 USD | -0.14% | -0.70% | 52.37 USD | Financial Services |
-| 1058 | DRI | Darden Restaurants, Inc. | 1.08p | 33.3333% | -1.20 USD | -0.15% | -0.76% | 157.00 USD | Consumer Cyclical |
-| 1059 | PRGO | Perrigo Company plc | 1.08p | 33.3333% | -0.19 USD | -0.16% | -0.78% | 24.20 USD | Healthcare |
-| 1060 | WY | Weyerhaeuser Company | 1.08p | 33.3333% | -0.26 USD | -0.15% | -0.79% | 32.60 USD | Real Estate |
-| 1061 | JBT | John Bean Technologies Corporat | 1.08p | 33.3333% | -0.81 USD | -0.14% | -0.81% | 157.77 USD | Industrials |
-| 1062 | PBA | Pembina Pipeline Corp. | 1.08p | 33.3333% | -0.35 USD | -0.16% | -0.82% | 42.40 USD | Energy |
-| 1063 | PEG | Public Service Enterprise Group | 1.07p | 33.3333% | -0.82 USD | -0.17% | -0.91% | 89.11 USD | Utilities |
-| 1064 | BBY | Best Buy Co., Inc. | 1.07p | 33.3333% | -0.91 USD | -0.18% | -0.93% | 97.10 USD | Consumer Cyclical |
-| 1065 | EGRX | Eagle Pharmaceuticals, Inc. | 1.07p | 33.3333% | -0.05 USD | 6.53% | -7.69% | 0.00 USD | Healthcare |
-| 1066 | FORR | Forrester Research, Inc. | 1.07p | 33.3333% | -0.16 USD | -0.18% | -0.99% | 16.07 USD | Industrials |
-| 1067 | WES | Western Midstream Partners, LP | 1.07p | 33.3333% | -0.41 USD | -0.20% | -1.03% | 39.74 USD | Energy |
-| 1068 | SINT | SiNtx Technologies, Inc. | 1.07p | 33.3333% | -0.04 USD | 0.04% | -1.27% | 0.00 USD | Healthcare |
-| 1069 | BGS | B&G Foods, Inc. | 1.07p | 33.3333% | -0.09 USD | -0.20% | -1.09% | 8.08 USD | Consumer Defensive |
-| 1070 | EB | Eventbrite, Inc. | 1.07p | 33.3333% | -0.03 USD | -0.21% | -1.11% | 2.67 USD | Technology |
-| 1071 | SIG | Signet Jewelers Limited | 1.07p | 33.3333% | -1.09 USD | -0.21% | -1.10% | 99.02 USD | Consumer Cyclical |
-| 1072 | BNTX | BioNTech SE | 1.07p | 33.3333% | -1.41 USD | -0.22% | -1.16% | 120.25 USD | Healthcare |
-| 1073 | MGRC | McGrath RentCorp | 1.06p | 33.3333% | -1.26 USD | -0.23% | -1.16% | 107.56 USD | Industrials |
-| 1074 | TM | Toyota Motor Corporation | 1.06p | 33.3333% | -2.22 USD | -0.25% | -1.25% | 175.50 USD | Consumer Cyclical |
-| 1075 | BLMN | Bloomin' Brands, Inc. | 1.06p | 33.3333% | -0.20 USD | -0.24% | -1.28% | 15.45 USD | Consumer Cyclical |
-| 1076 | HAS | Hasbro, Inc. | 1.06p | 33.3333% | -0.92 USD | -0.25% | -1.27% | 71.60 USD | Consumer Cyclical |
-| 1077 | AROC | Archrock, Inc. | 1.06p | 33.3333% | -0.28 USD | -0.26% | -1.30% | 21.32 USD | Energy |
-| 1078 | CF | CF Industries Holdings, Inc. | 1.06p | 33.3333% | -1.17 USD | -0.26% | -1.33% | 87.54 USD | Basic Materials |
-| 1079 | RMR | The RMR Group Inc. | 1.06p | 33.3333% | -0.34 USD | -0.27% | -1.33% | 25.17 USD | Real Estate |
-| 1080 | SBUX | Starbucks Corporation | 1.06p | 33.3333% | -1.33 USD | -0.27% | -1.38% | 94.84 USD | Consumer Cyclical |
-| 1081 | LTC | LTC Properties, Inc. | 1.06p | 33.3333% | -0.50 USD | -0.28% | -1.38% | 35.71 USD | Real Estate |
-| 1082 | ARLP | Alliance Resource Partners, L.P | 1.05p | 33.3333% | -0.36 USD | -0.28% | -1.42% | 25.07 USD | Energy |
-| 1083 | CRDF | Cardiff Oncology, Inc. | 1.05p | 33.3333% | -0.04 USD | -0.21% | -1.50% | 2.64 USD | Healthcare |
-| 1084 | BMY | Bristol-Myers Squibb Company | 1.05p | 33.3333% | -0.77 USD | -0.29% | -1.44% | 52.68 USD | Healthcare |
-| 1085 | ACCO | Acco Brands Corporation | 1.05p | 33.3333% | -0.08 USD | -0.30% | -1.53% | 5.28 USD | Industrials |
-| 1086 | ALLK | Allakos Inc. | 1.05p | 33.3333% | -0.01 USD | -0.23% | -1.61% | 0.70 USD | Healthcare |
-| 1087 | CRBP | Corbus Pharmaceuticals Holdings | 1.05p | 33.3333% | -0.30 USD | -0.27% | -1.58% | 18.79 USD | Healthcare |
-| 1088 | ADM | Archer-Daniels-Midland Company | 1.05p | 33.3333% | -0.95 USD | -0.32% | -1.61% | 57.82 USD | Consumer Defensive |
-| 1089 | EL | Estee Lauder Companies, Inc. (T | 1.04p | 33.3333% | -1.60 USD | -0.32% | -1.67% | 94.39 USD | Consumer Defensive |
-| 1090 | MRNA | Moderna, Inc. | 1.04p | 33.3333% | -0.99 USD | -0.32% | -1.69% | 57.74 USD | Healthcare |
-| 1091 | HPP | Hudson Pacific Properties, Inc. | 1.04p | 33.3333% | -0.08 USD | -0.32% | -1.75% | 4.48 USD | Real Estate |
-| 1092 | PSEC | Prospect Capital Corporation | 1.04p | 33.3333% | -0.09 USD | -0.34% | -1.73% | 5.12 USD | Financial Services |
-| 1093 | AQN | Algonquin Power & Utilities Cor | 1.04p | 33.3333% | -0.09 USD | -0.34% | -1.75% | 5.08 USD | Utilities |
-| 1094 | AWRE | Aware, Inc. | 1.04p | 33.3333% | -0.03 USD | -0.35% | -1.75% | 0.00 USD | Technology |
-| 1095 | HRB | H&R Block, Inc. | 1.04p | 33.3333% | -1.08 USD | -0.35% | -1.75% | 60.79 USD | Consumer Cyclical |
-| 1096 | SIGA | SIGA Technologies Inc. | 1.04p | 33.3333% | -0.13 USD | -0.35% | -1.89% | 6.78 USD | Healthcare |
-| 1097 | EQT | EQT Corporation | 1.04p | 33.3333% | -0.70 USD | -0.37% | -1.88% | 36.66 USD | Energy |
-| 1098 | VLO | Valero Energy Corporation | 1.03p | 33.3333% | -2.81 USD | -0.35% | -1.95% | 141.42 USD | Energy |
-| 1099 | GRWG | GrowGeneration Corp. | 1.03p | 33.3333% | -0.04 USD | -0.35% | -1.95% | 2.02 USD | Consumer Cyclical |
-| 1100 | TTEC | TTEC Holdings, Inc. | 1.03p | 33.3333% | -0.12 USD | -0.37% | -2.02% | 5.85 USD | Technology |
-| 1101 | PT | Pintec Technology Holdings Limi | 1.03p | 33.3333% | -0.02 USD | -0.28% | -2.13% | 0.00 USD | Financial Services |
-| 1102 | ENTA | Enanta Pharmaceuticals, Inc. | 1.03p | 33.3333% | -0.24 USD | -0.37% | -2.08% | 11.34 USD | Healthcare |
-| 1103 | LYB | LyondellBasell Industries NV | 1.03p | 33.3333% | -1.95 USD | -0.41% | -2.04% | 93.78 USD | Basic Materials |
-| 1104 | NOV | NOV Inc. | 1.03p | 33.3333% | -0.34 USD | -0.40% | -2.06% | 16.21 USD | Energy |
-| 1105 | BLFS | BioLife Solutions, Inc. | 1.03p | 33.3333% | -0.51 USD | -0.38% | -2.13% | 23.57 USD | Healthcare |
-| 1106 | LAUR | Laureate Education, Inc. | 1.03p | 33.3333% | -0.33 USD | -0.42% | -2.11% | 15.30 USD | Consumer Defensive |
-| 1107 | BECN | Beacon Roofing Supply, Inc. | 1.03p | 33.3333% | -2.06 USD | -0.42% | -2.16% | 93.40 USD | Industrials |
-| 1108 | GO | Grocery Outlet Holding Corp. | 1.02p | 33.3333% | -0.35 USD | -0.42% | -2.16% | 15.84 USD | Consumer Defensive |
-| 1109 | NTR | Nutrien Ltd. | 1.02p | 33.3333% | -1.07 USD | -0.43% | -2.16% | 48.58 USD | Basic Materials |
-| 1110 | PSX | Phillips 66 | 1.02p | 33.3333% | -3.08 USD | -0.42% | -2.22% | 135.42 USD | Energy |
-| 1111 | WYNN | Wynn Resorts, Limited | 1.02p | 33.3333% | -2.46 USD | -0.45% | -2.31% | 103.99 USD | Consumer Cyclical |
-| 1112 | LTRPB | Liberty TripAdvisor Holdings, I | 1.02p | 20.0000% | 0.35 USD | 2.11% | 8.43% | 4.50 USD | Communication Services |
-| 1113 | CVGW | Calavo Growers, Inc. | 1.02p | 33.3333% | -0.69 USD | -0.47% | -2.40% | 28.13 USD | Consumer Defensive |
-| 1114 | GDEN | Golden Entertainment, Inc. | 1.01p | 33.3333% | -0.75 USD | -0.47% | -2.44% | 37.61 USD | Consumer Cyclical |
-| 1115 | ITUB | Itau Unibanco Banco Holding SA | 1.01p | 33.3333% | -0.17 USD | -0.52% | -2.64% | 6.27 USD | Financial Services |
-| 1116 | ASIX | AdvanSix Inc. | 1.00p | 33.3333% | -0.88 USD | -0.56% | -2.80% | 31.34 USD | Basic Materials |
-| 1117 | UPLD | Upland Software, Inc. | 1.00p | 33.3333% | -0.07 USD | -0.56% | -2.88% | 2.38 USD | Technology |
-| 1118 | DVAX | Dynavax Technologies Corporatio | 1.00p | 33.3333% | -0.31 USD | -0.57% | -2.88% | 11.91 USD | Healthcare |
-| 1119 | FSLY | Fastly, Inc. | 0.99p | 33.3333% | -0.23 USD | -0.61% | -3.08% | 7.25 USD | Technology |
-| 1120 | SXI | Standex International Corporati | 0.99p | 33.3333% | -5.60 USD | -0.61% | -3.08% | 181.77 USD | Industrials |
-| 1121 | ICHR | Ichor Holdings | 0.99p | 33.3333% | -0.98 USD | -0.61% | -3.15% | 38.14 USD | Technology |
-| 1122 | IMMR | Immersion Corporation | 0.98p | 33.3333% | -0.28 USD | -0.63% | -3.20% | 8.49 USD | Technology |
-| 1123 | PBR | Petroleo Brasileiro S.A.- Petro | 0.98p | 33.3333% | -0.50 USD | -0.65% | -3.26% | 14.83 USD | Energy |
-| 1124 | AMD | Advanced Micro Devices, Inc. | 0.98p | 33.3333% | -5.70 USD | -0.65% | -3.33% | 165.29 USD | Technology |
-| 1125 | KALA | KALA BIO, Inc. | 0.98p | 33.3333% | -0.18 USD | -0.68% | -3.36% | 6.65 USD | Healthcare |
-| 1126 | OXY | Occidental Petroleum Corporatio | 0.97p | 33.3333% | -2.00 USD | -0.72% | -3.58% | 53.91 USD | Energy |
-| 1127 | QRTEA | Liberty Interactive Corporation | 0.96p | 33.3333% | -0.02 USD | -0.70% | -3.73% | 0.62 USD | Consumer Cyclical |
-| 1128 | CARA | Cara Therapeutics, Inc. | 0.96p | 33.3333% | -0.01 USD | -0.73% | -3.72% | 0.33 USD | Healthcare |
-| 1129 | CAN | Canaan Inc. | 0.96p | 33.3333% | -0.04 USD | -0.70% | -3.81% | 1.04 USD | Technology |
-| 1130 | DLTR | Dollar Tree, Inc. | 0.96p | 33.3333% | -2.66 USD | -0.77% | -3.83% | 66.83 USD | Consumer Defensive |
-| 1131 | RDHL | Redhill Biopharma Ltd. | 0.96p | 33.3333% | -0.32 USD | -0.77% | -3.86% | 10.17 USD | Healthcare |
-| 1132 | MYGN | Myriad Genetics, Inc. | 0.95p | 33.3333% | -1.04 USD | -0.71% | -3.98% | 25.13 USD | Healthcare |
-| 1133 | TAL | TAL Education Group | 0.94p | 33.3333% | -0.48 USD | -0.83% | -4.23% | 10.99 USD | Consumer Defensive |
-| 1134 | FANG | Diamondback Energy, Inc. | 0.93p | 33.3333% | -8.80 USD | -0.89% | -4.41% | 190.79 USD | Energy |
-| 1135 | NRG | NRG Energy, Inc. | 0.93p | 33.3333% | -4.21 USD | -0.88% | -4.46% | 91.12 USD | Utilities |
-| 1136 | COLL | Collegium Pharmaceutical, Inc. | 0.93p | 33.3333% | -1.80 USD | -0.89% | -4.52% | 38.09 USD | Healthcare |
-| 1137 | COP | ConocoPhillips | 0.93p | 33.3333% | -5.25 USD | -0.92% | -4.58% | 109.36 USD | Energy |
-| 1138 | GHG | GreenTree Hospitality Group Ltd | 0.93p | 33.3333% | -0.15 USD | -0.90% | -4.60% | 3.16 USD | Consumer Cyclical |
-| 1139 | MRO | Marathon Oil Corporation | 0.93p | 33.3333% | -1.35 USD | -0.94% | -4.64% | 27.72 USD | Energy |
-| 1140 | ALB | Albemarle Corporation | 0.92p | 33.3333% | -4.87 USD | -0.93% | -4.66% | 99.17 USD | Basic Materials |
-| 1141 | TME | Tencent Music Entertainment Gro | 0.92p | 33.3333% | -0.64 USD | -0.94% | -4.80% | 12.68 USD | Communication Services |
-| 1142 | RRC | Range Resources Corporation | 0.92p | 33.3333% | -1.55 USD | -0.97% | -4.82% | 30.46 USD | Energy |
-| 1143 | DESP | Despegar.com, Corp. | 0.92p | 33.3333% | -0.64 USD | -0.97% | -4.83% | 13.14 USD | Consumer Cyclical |
-| 1144 | QD | Qudian Inc. | 0.90p | 33.3333% | -0.12 USD | -1.06% | -5.38% | 2.13 USD | Financial Services |
-| 1145 | NEOG | Neogen Corporation | 0.88p | 33.3333% | -0.87 USD | -1.12% | -5.84% | 14.05 USD | Healthcare |
-| 1146 | JMIA | Jumia Technologies AG | 0.88p | 33.3333% | -0.33 USD | -1.13% | -5.89% | 5.29 USD | Consumer Cyclical |
-| 1147 | CNTG | Centogene N.V. | 0.87p | 20.0000% | -0.02 USD | 16.87% | -10.67% | 0.00 USD | Healthcare |
-| 1148 | MPC | Marathon Petroleum Corporation | 0.86p | 33.3333% | -10.77 USD | -1.22% | -6.22% | 163.25 USD | Energy |
-| 1149 | AOS | A.O. Smith Corporation | 0.86p | 33.3333% | -5.53 USD | -1.24% | -6.27% | 82.40 USD | Industrials |
-| 1150 | COMM | CommScope Holding Company, Inc. | 0.85p | 33.3333% | -0.39 USD | -1.27% | -6.50% | 5.63 USD | Technology |
-| 1151 | YUMC | Yum China Holdings, Inc. | 0.85p | 33.3333% | -3.25 USD | -1.30% | -6.49% | 48.00 USD | Consumer Cyclical |
-| 1152 | ATEX | Anterix Inc. | 0.84p | 33.3333% | -2.37 USD | -1.34% | -6.78% | 32.66 USD | Communication Services |
-| 1153 | CTMX | CytomX Therapeutics, Inc. | 0.84p | 33.3333% | -0.08 USD | -1.37% | -6.84% | 1.11 USD | Healthcare |
-| 1154 | EDU | New Oriental Education & Techno | 0.84p | 33.3333% | -5.44 USD | -1.39% | -6.84% | 74.83 USD | Consumer Defensive |
-| 1155 | UAA | Under Armour, Inc. | 0.82p | 16.6667% | 0.56 USD | 1.35% | 6.59% | 9.01 USD | Consumer Cyclical |
-| 1156 | PAVM | PAVmed Inc. | 0.81p | 33.3333% | -0.09 USD | -1.48% | -7.56% | 0.00 USD | Healthcare |
-| 1157 | SEDG | SolarEdge Technologies, Inc. | 0.80p | 33.3333% | -1.59 USD | -1.45% | -7.79% | 18.87 USD | Technology |
-| 1158 | BABA | Alibaba Group Holding Limited | 0.78p | 33.3333% | -9.71 USD | -1.67% | -8.26% | 107.76 USD | Consumer Cyclical |
-| 1159 | ADPT | Adaptive Biotechnologies Corpor | 0.77p | 33.3333% | -0.46 USD | -1.74% | -8.50% | 4.97 USD | Healthcare |
-| 1160 | FSLR | First Solar, Inc. | 0.77p | 33.3333% | -19.66 USD | -1.68% | -8.56% | 210.00 USD | Technology |
-| 1161 | TSLA | Tesla, Inc. | 0.75p | 33.3333% | -21.67 USD | -1.80% | -9.00% | 219.15 USD | Consumer Cyclical |
-| 1162 | UXIN | Uxin Limited | 0.74p | 33.3333% | -0.58 USD | -1.89% | -9.31% | 6.50 USD | Consumer Cyclical |
-| 1163 | HBIO | Harvard Bioscience, Inc. | 0.71p | 16.6667% | 0.09 USD | 0.82% | 3.75% | 2.50 USD | Healthcare |
-| 1164 | TNDM | Tandem Diabetes Care, Inc. | 0.69p | 33.3333% | -4.42 USD | -2.14% | -10.58% | 37.38 USD | Healthcare |
-| 1165 | AMSWA | American Software, Inc. | 0.69p | 20.0000% | 0.05 USD | 0.13% | 0.48% | 0.00 USD | Technology |
-| 1166 | ESTA | Establishment Labs Holdings Inc | 0.68p | 33.3333% | -4.95 USD | -2.13% | -10.71% | 41.58 USD | Healthcare |
-| 1167 | PDD | PDD Holdings Inc. | 0.66p | 33.3333% | -17.06 USD | -2.28% | -11.14% | 136.02 USD | Consumer Cyclical |
-| 1168 | SAVE | Spirit Airlines, Inc. | 0.66p | 33.3333% | -0.21 USD | -2.25% | -11.29% | 1.66 USD | Industrials |
-| 1169 | MCHX | Marchex, Inc. | 0.62p | 16.6667% | 0.03 USD | 0.34% | 1.64% | 0.00 USD | Communication Services |
-| 1170 | IP | International Paper Company | 0.59p | 16.6667% | 0.39 USD | 0.17% | 0.82% | 48.12 USD | Consumer Cyclical |
-| 1171 | AXNX | Axonics, Inc. | 0.59p | 16.6667% | 0.56 USD | 0.16% | 0.80% | 90.21 USD | Healthcare |
-| 1172 | SLM | SLM Corporation | 0.58p | 16.6667% | 0.16 USD | 0.15% | 0.70% | 23.10 USD | Financial Services |
-| 1173 | ARI | Apollo Commercial Real Estate F | 0.58p | 16.6667% | 0.06 USD | 0.14% | 0.68% | 8.89 USD | Real Estate |
-| 1174 | BUSE | First Busey Corporation | 0.58p | 16.6667% | 0.14 USD | 0.12% | 0.57% | 31.42 USD | Financial Services |
-| 1175 | GOLD | Barrick Gold Corporation | 0.58p | 16.6667% | 0.10 USD | 0.11% | 0.50% | 19.94 USD | Basic Materials |
-| 1176 | BFS | Saul Centers, Inc. | 0.57p | 16.6667% | 0.14 USD | 0.07% | 0.35% | 41.45 USD | Real Estate |
-| 1177 | ARC | ARC Document Solutions, Inc. | 0.57p | 16.6667% | 0.01 USD | 0.06% | 0.30% | 3.45 USD | Industrials |
-| 1178 | TMDX | TransMedics Group, Inc. | 0.56p | 16.6667% | 0.12 USD | 0.03% | 0.09% | 134.35 USD | Healthcare |
+| 968 | J | Jacobs Solutions Inc. | 1.15p | 33.3333% | 1.36 USD | 0.20% | 0.99% | 139.99 USD | Industrials |
+| 969 | PM | Philip Morris International Inc | 1.15p | 33.3333% | 1.17 USD | 0.20% | 0.98% | 120.15 USD | Consumer Defensive |
+| 970 | FUN | Six Flags Entertainment Corpora | 1.15p | 33.3333% | 0.36 USD | 0.24% | 0.93% | 39.08 USD | Consumer Cyclical |
+| 971 | NKE | Nike, Inc. | 1.15p | 33.3333% | 0.77 USD | 0.19% | 0.95% | 81.58 USD | Consumer Cyclical |
+| 972 | APTV | Aptiv PLC | 1.15p | 33.3333% | 0.62 USD | 0.18% | 0.88% | 70.97 USD | Consumer Cyclical |
+| 973 | AXTI | AXT Inc | 1.15p | 33.3333% | 0.02 USD | 0.22% | 0.81% | 2.52 USD | Technology |
+| 974 | TWIN | Twin Disc, Incorporated | 1.15p | 33.3333% | 0.10 USD | 0.19% | 0.83% | 15.80 USD | Industrials |
+| 975 | LILAK | Liberty Latin America Ltd. | 1.15p | 33.3333% | 0.08 USD | 0.17% | 0.85% | 9.50 USD | Communication Services |
+| 976 | DXCM | DexCom, Inc. | 1.14p | 33.3333% | 0.56 USD | 0.16% | 0.82% | 69.20 USD | Healthcare |
+| 977 | RCKT | Rocket Pharmaceuticals, Inc. | 1.14p | 33.3333% | 0.13 USD | 0.19% | 0.78% | 16.94 USD | Healthcare |
+| 978 | PAA | Plains All American Pipeline, L | 1.14p | 33.3333% | 0.14 USD | 0.16% | 0.80% | 17.68 USD | Energy |
+| 979 | MAIN | Main Street Capital Corporation | 1.14p | 33.3333% | 0.40 USD | 0.16% | 0.80% | 51.50 USD | Financial Services |
+| 980 | VST | Vistra Corp. | 1.14p | 33.3333% | 0.99 USD | 0.20% | 0.75% | 132.77 USD | Utilities |
+| 981 | ETR | Entergy Corporation | 1.14p | 33.3333% | 1.00 USD | 0.16% | 0.76% | 132.10 USD | Utilities |
+| 982 | WING | Wingstop Inc. | 1.14p | 33.3333% | 2.97 USD | 0.16% | 0.75% | 399.19 USD | Consumer Cyclical |
+| 983 | FE | FirstEnergy Corp. | 1.14p | 33.3333% | 0.30 USD | 0.14% | 0.70% | 43.18 USD | Utilities |
+| 984 | LILA | Liberty Latin America Ltd. | 1.14p | 33.3333% | 0.06 USD | 0.13% | 0.63% | 9.61 USD | Communication Services |
+| 985 | EXTR | Extreme Networks, Inc. | 1.14p | 33.3333% | 0.09 USD | 0.14% | 0.61% | 17.16 USD | Technology |
+| 986 | WDC | Western Digital Corporation | 1.14p | 33.3333% | 0.39 USD | 0.13% | 0.59% | 66.96 USD | Technology |
+| 987 | CLX | Clorox Company (The) | 1.13p | 33.3333% | 0.91 USD | 0.12% | 0.57% | 161.51 USD | Consumer Defensive |
+| 988 | GOOD | Gladstone Commercial Corporatio | 1.13p | 33.3333% | 0.09 USD | 0.12% | 0.56% | 16.10 USD | Real Estate |
+| 989 | STNE | StoneCo Ltd. | 1.13p | 33.3333% | 0.06 USD | 0.12% | 0.54% | 11.26 USD | Technology |
+| 990 | PKE | Park Aerospace Corp. | 1.13p | 33.3333% | 0.07 USD | 0.12% | 0.53% | 14.12 USD | Industrials |
+| 991 | LADR | Ladder Capital Corp | 1.13p | 33.3333% | 0.06 USD | 0.11% | 0.54% | 11.59 USD | Real Estate |
+| 992 | FCFS | FirstCash Holdings, Inc. | 1.13p | 33.3333% | 0.60 USD | 0.11% | 0.53% | 145.44 USD | Financial Services |
+| 993 | OGS | ONE Gas, Inc. | 1.13p | 33.3333% | 0.30 USD | 0.09% | 0.42% | 73.00 USD | Utilities |
+| 994 | PLD | Prologis, Inc. | 1.13p | 33.3333% | 0.46 USD | 0.08% | 0.38% | 121.05 USD | Real Estate |
+| 995 | SFIX | Stitch Fix, Inc. | 1.13p | 33.3333% | 0.01 USD | 0.08% | 0.37% | 2.73 USD | Consumer Cyclical |
+| 996 | AMRN | Amarin Corporation plc | 1.13p | 33.3333% | 0.00 USD | 0.08% | 0.34% | 0.59 USD | Healthcare |
+| 997 | AIV | Apartment Investment and Manage | 1.13p | 33.3333% | 0.03 USD | 0.07% | 0.35% | 9.11 USD | Real Estate |
+| 998 | DKNG | DraftKings Inc. | 1.13p | 33.3333% | 0.13 USD | 0.08% | 0.34% | 37.93 USD | Consumer Cyclical |
+| 999 | AVTR | Avantor, Inc. | 1.12p | 33.3333% | 0.07 USD | 0.06% | 0.28% | 25.19 USD | Healthcare |
+| 1000 | PVH | PVH Corp. | 1.12p | 33.3333% | 0.26 USD | 0.06% | 0.27% | 97.50 USD | Consumer Cyclical |
+| 1001 | CRMT | America's Car-Mart, Inc. | 1.12p | 33.3333% | 0.09 USD | 0.07% | 0.22% | 41.99 USD | Consumer Cyclical |
+| 1002 | DGII | Digi International Inc. | 1.12p | 33.3333% | 0.06 USD | 0.07% | 0.20% | 29.44 USD | Technology |
+| 1003 | VCYT | Veracyte, Inc. | 1.12p | 33.3333% | 0.06 USD | 0.09% | 0.18% | 33.94 USD | Healthcare |
+| 1004 | CNSL | Consolidated Communications Hol | 1.12p | 33.3333% | 0.01 USD | 0.04% | 0.22% | 4.64 USD | Communication Services |
+| 1005 | AIRG | Airgain, Inc. | 1.12p | 33.3333% | 0.01 USD | 0.11% | 0.11% | 9.38 USD | Technology |
+| 1006 | TWO | Two Harbors Investment Corp | 1.12p | 33.3333% | 0.02 USD | 0.03% | 0.16% | 12.90 USD | Real Estate |
+| 1007 | SRDX | Surmodics, Inc. | 1.12p | 33.3333% | 0.06 USD | 0.03% | 0.16% | 38.39 USD | Healthcare |
+| 1008 | SGH | SMART Global Holdings, Inc. | 1.12p | 33.3333% | 0.03 USD | 0.04% | 0.14% | 20.88 USD | Technology |
+| 1009 | CAH | Cardinal Health, Inc. | 1.12p | 33.3333% | 0.16 USD | 0.03% | 0.14% | 112.40 USD | Healthcare |
+| 1010 | BMI | Badger Meter, Inc. | 1.12p | 33.3333% | 0.32 USD | 0.03% | 0.14% | 225.69 USD | Technology |
+| 1011 | M | Macy's Inc | 1.12p | 33.3333% | 0.02 USD | 0.04% | 0.13% | 15.38 USD | Consumer Cyclical |
+| 1012 | AEE | Ameren Corporation | 1.12p | 33.3333% | 0.11 USD | 0.03% | 0.13% | 87.20 USD | Utilities |
+| 1013 | KFY | Korn Ferry | 1.12p | 33.3333% | 0.08 USD | 0.03% | 0.11% | 73.25 USD | Industrials |
+| 1014 | FGEN | FibroGen, Inc | 1.11p | 33.3333% | 0.00 USD | 0.08% | 0.03% | 0.35 USD | Healthcare |
+| 1015 | ALEX | Alexander & Baldwin, Inc. | 1.11p | 33.3333% | 0.01 USD | 0.02% | 0.05% | 18.90 USD | Real Estate |
+| 1016 | UTSI | UTStarcom Holdings Corp | 1.11p | 33.3333% | 0.00 USD | 0.04% | 0.00% | 0.00 USD | Technology |
+| 1017 | ROKU | Roku, Inc. | 1.11p | 33.3333% | 0.01 USD | 0.02% | 0.01% | 76.46 USD | Communication Services |
+| 1018 | BGFV | Big 5 Sporting Goods Corporatio | 1.11p | 33.3333% | 0.00 USD | 0.03% | 0.00% | 2.04 USD | Consumer Cyclical |
+| 1019 | NOC | Northrop Grumman Corporation | 1.11p | 33.3333% | 0.10 USD | 0.01% | 0.02% | 550.00 USD | Industrials |
+| 1020 | XEL | Xcel Energy Inc. | 1.11p | 33.3333% | 0.01 USD | 0.01% | 0.02% | 63.05 USD | Utilities |
+| 1021 | K | Kellanova | 1.11p | 33.3333% | 0.01 USD | 0.00% | 0.01% | 80.67 USD | Consumer Defensive |
+| 1022 | FTS | Fortis Inc. | 1.11p | 33.3333% | -0.01 USD | -0.00% | -0.02% | 44.00 USD | Utilities |
+| 1023 | JNPR | Juniper Networks, Inc. | 1.11p | 33.3333% | -0.01 USD | -0.01% | -0.03% | 38.84 USD | Technology |
+| 1024 | ES | Eversource Energy (D/B/A) | 1.11p | 33.3333% | -0.06 USD | -0.02% | -0.09% | 63.97 USD | Utilities |
+| 1025 | MPLX | MPLX LP | 1.11p | 33.3333% | -0.06 USD | -0.03% | -0.14% | 43.94 USD | Energy |
+| 1026 | TPR | Tapestry, Inc. | 1.10p | 33.3333% | -0.09 USD | -0.03% | -0.20% | 46.08 USD | Consumer Cyclical |
+| 1027 | XRAY | DENTSPLY SIRONA Inc. | 1.10p | 33.3333% | -0.05 USD | -0.04% | -0.20% | 24.45 USD | Healthcare |
+| 1028 | GERN | Geron Corporation | 1.10p | 33.3333% | -0.01 USD | -0.01% | -0.24% | 4.77 USD | Healthcare |
+| 1029 | STAG | Stag Industrial, Inc. | 1.10p | 33.3333% | -0.08 USD | -0.04% | -0.21% | 37.94 USD | Real Estate |
+| 1030 | CGC | Canopy Growth Corporation | 1.10p | 33.3333% | -0.01 USD | -0.02% | -0.24% | 4.21 USD | Healthcare |
+| 1031 | ECPG | Encore Capital Group Inc | 1.10p | 33.3333% | -0.10 USD | -0.04% | -0.22% | 44.78 USD | Financial Services |
+| 1032 | AKTS | Akoustis Technologies, Inc. | 1.10p | 33.3333% | -0.00 USD | 0.27% | -0.53% | 0.08 USD | Technology |
+| 1033 | TEVA | Teva Pharmaceutical Industries  | 1.10p | 33.3333% | -0.04 USD | -0.04% | -0.23% | 17.45 USD | Healthcare |
+| 1034 | AZPN | Aspen Technology, Inc. | 1.10p | 33.3333% | -0.63 USD | -0.04% | -0.26% | 255.86 USD | Technology |
+| 1035 | D | Dominion Energy, Inc. | 1.10p | 33.3333% | -0.16 USD | -0.05% | -0.28% | 56.95 USD | Utilities |
+| 1036 | GEOS | Geospace Technologies Corporati | 1.10p | 33.3333% | -0.03 USD | -0.05% | -0.29% | 10.50 USD | Energy |
+| 1037 | OI | O-I Glass, Inc. | 1.10p | 33.3333% | -0.04 USD | -0.05% | -0.30% | 13.15 USD | Consumer Cyclical |
+| 1038 | SSTK | Shutterstock, Inc. | 1.10p | 33.3333% | -0.11 USD | -0.06% | -0.36% | 32.00 USD | Communication Services |
+| 1039 | BRX | Brixmor Property Group Inc. | 1.10p | 33.3333% | -0.10 USD | -0.07% | -0.37% | 27.37 USD | Real Estate |
+| 1040 | KELYA | Kelly Services, Inc. | 1.10p | 33.3333% | -0.08 USD | -0.07% | -0.39% | 20.42 USD | Industrials |
+| 1041 | EXPE | Expedia Group, Inc. | 1.10p | 33.3333% | -0.59 USD | -0.08% | -0.39% | 158.96 USD | Consumer Cyclical |
+| 1042 | INCY | Incyte Corporation | 1.09p | 33.3333% | -0.32 USD | -0.09% | -0.49% | 65.46 USD | Healthcare |
+| 1043 | ARQT | Arcutis Biotherapeutics, Inc. | 1.09p | 33.3333% | -0.05 USD | -0.10% | -0.51% | 9.76 USD | Healthcare |
+| 1044 | TH | Target Hospitality Corp. | 1.09p | 33.3333% | -0.04 USD | -0.10% | -0.52% | 7.70 USD | Industrials |
+| 1045 | HSTM | HealthStream, Inc. | 1.09p | 33.3333% | -0.15 USD | -0.10% | -0.53% | 36.17 USD | Healthcare |
+| 1046 | SHAK | Shake Shack, Inc. | 1.09p | 33.3333% | -0.58 USD | -0.10% | -0.54% | 110.00 USD | Consumer Cyclical |
+| 1047 | FMC | FMC Corporation | 1.09p | 33.3333% | -0.35 USD | -0.09% | -0.55% | 62.30 USD | Basic Materials |
+| 1048 | CQP | Cheniere Energy Partners, LP | 1.09p | 33.3333% | -0.29 USD | -0.11% | -0.58% | 50.10 USD | Energy |
+| 1049 | SABR | Sabre Corporation | 1.09p | 33.3333% | -0.02 USD | -0.11% | -0.60% | 3.37 USD | Technology |
+| 1050 | DOC | Healthpeak Properties, Inc. | 1.09p | 33.3333% | -0.13 USD | -0.11% | -0.59% | 21.92 USD | Real Estate |
+| 1051 | UMC | United Microelectronics Corpora | 1.09p | 33.3333% | -0.05 USD | -0.12% | -0.61% | 8.24 USD | Technology |
+| 1052 | BYD | Boyd Gaming Corporation | 1.09p | 33.3333% | -0.42 USD | -0.12% | -0.65% | 64.04 USD | Consumer Cyclical |
+| 1053 | MDLZ | Mondelez International, Inc. | 1.08p | 33.3333% | -0.47 USD | -0.13% | -0.66% | 74.51 USD | Consumer Defensive |
+| 1054 | PNW | Pinnacle West Capital Corporati | 1.08p | 33.3333% | -0.58 USD | -0.13% | -0.67% | 86.61 USD | Utilities |
+| 1055 | SMCI | Super Micro Computer, Inc. | 1.08p | 33.3333% | -0.35 USD | -0.09% | -0.73% | 47.40 USD | Technology |
+| 1056 | BNS | Bank Nova Scotia Halifax Pfd 3 | 1.08p | 33.3333% | -0.37 USD | -0.14% | -0.70% | 52.37 USD | Financial Services |
+| 1057 | DRI | Darden Restaurants, Inc. | 1.08p | 33.3333% | -1.20 USD | -0.15% | -0.76% | 157.00 USD | Consumer Cyclical |
+| 1058 | PRGO | Perrigo Company plc | 1.08p | 33.3333% | -0.19 USD | -0.16% | -0.78% | 24.20 USD | Healthcare |
+| 1059 | WY | Weyerhaeuser Company | 1.08p | 33.3333% | -0.26 USD | -0.15% | -0.79% | 32.60 USD | Real Estate |
+| 1060 | JBT | John Bean Technologies Corporat | 1.08p | 33.3333% | -0.81 USD | -0.14% | -0.81% | 157.77 USD | Industrials |
+| 1061 | PBA | Pembina Pipeline Corp. | 1.08p | 33.3333% | -0.35 USD | -0.16% | -0.82% | 42.40 USD | Energy |
+| 1062 | PEG | Public Service Enterprise Group | 1.07p | 33.3333% | -0.82 USD | -0.17% | -0.91% | 89.11 USD | Utilities |
+| 1063 | BBY | Best Buy Co., Inc. | 1.07p | 33.3333% | -0.91 USD | -0.18% | -0.93% | 97.10 USD | Consumer Cyclical |
+| 1064 | EGRX | Eagle Pharmaceuticals, Inc. | 1.07p | 33.3333% | -0.05 USD | 6.53% | -7.69% | 0.00 USD | Healthcare |
+| 1065 | FORR | Forrester Research, Inc. | 1.07p | 33.3333% | -0.16 USD | -0.18% | -0.99% | 16.07 USD | Industrials |
+| 1066 | WES | Western Midstream Partners, LP | 1.07p | 33.3333% | -0.41 USD | -0.20% | -1.03% | 39.81 USD | Energy |
+| 1067 | SINT | SiNtx Technologies, Inc. | 1.07p | 33.3333% | -0.04 USD | 0.04% | -1.27% | 0.00 USD | Healthcare |
+| 1068 | BGS | B&G Foods, Inc. | 1.07p | 33.3333% | -0.09 USD | -0.20% | -1.09% | 8.08 USD | Consumer Defensive |
+| 1069 | EB | Eventbrite, Inc. | 1.07p | 33.3333% | -0.03 USD | -0.21% | -1.11% | 2.67 USD | Technology |
+| 1070 | SIG | Signet Jewelers Limited | 1.07p | 33.3333% | -1.09 USD | -0.21% | -1.10% | 99.02 USD | Consumer Cyclical |
+| 1071 | BNTX | BioNTech SE | 1.07p | 33.3333% | -1.41 USD | -0.22% | -1.16% | 120.25 USD | Healthcare |
+| 1072 | MGRC | McGrath RentCorp | 1.06p | 33.3333% | -1.26 USD | -0.23% | -1.16% | 107.56 USD | Industrials |
+| 1073 | TM | Toyota Motor Corporation | 1.06p | 33.3333% | -2.22 USD | -0.25% | -1.25% | 175.50 USD | Consumer Cyclical |
+| 1074 | BLMN | Bloomin' Brands, Inc. | 1.06p | 33.3333% | -0.20 USD | -0.24% | -1.28% | 15.45 USD | Consumer Cyclical |
+| 1075 | HAS | Hasbro, Inc. | 1.06p | 33.3333% | -0.92 USD | -0.25% | -1.27% | 71.60 USD | Consumer Cyclical |
+| 1076 | AROC | Archrock, Inc. | 1.06p | 33.3333% | -0.28 USD | -0.26% | -1.30% | 21.32 USD | Energy |
+| 1077 | CF | CF Industries Holdings, Inc. | 1.06p | 33.3333% | -1.17 USD | -0.26% | -1.33% | 87.54 USD | Basic Materials |
+| 1078 | RMR | The RMR Group Inc. | 1.06p | 33.3333% | -0.34 USD | -0.27% | -1.33% | 25.17 USD | Real Estate |
+| 1079 | SBUX | Starbucks Corporation | 1.06p | 33.3333% | -1.33 USD | -0.27% | -1.38% | 94.84 USD | Consumer Cyclical |
+| 1080 | LTC | LTC Properties, Inc. | 1.06p | 33.3333% | -0.50 USD | -0.28% | -1.38% | 35.71 USD | Real Estate |
+| 1081 | ARLP | Alliance Resource Partners, L.P | 1.05p | 33.3333% | -0.36 USD | -0.28% | -1.42% | 25.07 USD | Energy |
+| 1082 | CRDF | Cardiff Oncology, Inc. | 1.05p | 33.3333% | -0.04 USD | -0.21% | -1.50% | 2.64 USD | Healthcare |
+| 1083 | BMY | Bristol-Myers Squibb Company | 1.05p | 33.3333% | -0.77 USD | -0.29% | -1.44% | 52.68 USD | Healthcare |
+| 1084 | ACCO | Acco Brands Corporation | 1.05p | 33.3333% | -0.08 USD | -0.30% | -1.53% | 5.28 USD | Industrials |
+| 1085 | ALLK | Allakos Inc. | 1.05p | 33.3333% | -0.01 USD | -0.23% | -1.61% | 0.70 USD | Healthcare |
+| 1086 | CRBP | Corbus Pharmaceuticals Holdings | 1.05p | 33.3333% | -0.30 USD | -0.27% | -1.58% | 18.79 USD | Healthcare |
+| 1087 | ADM | Archer-Daniels-Midland Company | 1.05p | 33.3333% | -0.95 USD | -0.32% | -1.61% | 58.15 USD | Consumer Defensive |
+| 1088 | EL | Estee Lauder Companies, Inc. (T | 1.04p | 33.3333% | -1.60 USD | -0.32% | -1.67% | 94.39 USD | Consumer Defensive |
+| 1089 | MRNA | Moderna, Inc. | 1.04p | 33.3333% | -0.99 USD | -0.32% | -1.69% | 57.74 USD | Healthcare |
+| 1090 | HPP | Hudson Pacific Properties, Inc. | 1.04p | 33.3333% | -0.08 USD | -0.32% | -1.75% | 4.48 USD | Real Estate |
+| 1091 | PSEC | Prospect Capital Corporation | 1.04p | 33.3333% | -0.09 USD | -0.34% | -1.73% | 5.12 USD | Financial Services |
+| 1092 | AQN | Algonquin Power & Utilities Cor | 1.04p | 33.3333% | -0.09 USD | -0.34% | -1.75% | 5.08 USD | Utilities |
+| 1093 | AWRE | Aware, Inc. | 1.04p | 33.3333% | -0.03 USD | -0.35% | -1.75% | 0.00 USD | Technology |
+| 1094 | HRB | H&R Block, Inc. | 1.04p | 33.3333% | -1.08 USD | -0.35% | -1.75% | 60.79 USD | Consumer Cyclical |
+| 1095 | SIGA | SIGA Technologies Inc. | 1.04p | 33.3333% | -0.13 USD | -0.35% | -1.89% | 6.78 USD | Healthcare |
+| 1096 | EQT | EQT Corporation | 1.04p | 33.3333% | -0.70 USD | -0.37% | -1.88% | 36.66 USD | Energy |
+| 1097 | VLO | Valero Energy Corporation | 1.03p | 33.3333% | -2.81 USD | -0.35% | -1.95% | 141.42 USD | Energy |
+| 1098 | GRWG | GrowGeneration Corp. | 1.03p | 33.3333% | -0.04 USD | -0.35% | -1.95% | 2.02 USD | Consumer Cyclical |
+| 1099 | TTEC | TTEC Holdings, Inc. | 1.03p | 33.3333% | -0.12 USD | -0.37% | -2.02% | 5.85 USD | Technology |
+| 1100 | PT | Pintec Technology Holdings Limi | 1.03p | 33.3333% | -0.02 USD | -0.28% | -2.13% | 0.00 USD | Financial Services |
+| 1101 | ENTA | Enanta Pharmaceuticals, Inc. | 1.03p | 33.3333% | -0.24 USD | -0.37% | -2.08% | 11.34 USD | Healthcare |
+| 1102 | LYB | LyondellBasell Industries NV | 1.03p | 33.3333% | -1.95 USD | -0.41% | -2.04% | 93.78 USD | Basic Materials |
+| 1103 | NOV | NOV Inc. | 1.03p | 33.3333% | -0.34 USD | -0.40% | -2.06% | 16.21 USD | Energy |
+| 1104 | BLFS | BioLife Solutions, Inc. | 1.03p | 33.3333% | -0.51 USD | -0.38% | -2.13% | 23.57 USD | Healthcare |
+| 1105 | LAUR | Laureate Education, Inc. | 1.03p | 33.3333% | -0.33 USD | -0.42% | -2.11% | 15.30 USD | Consumer Defensive |
+| 1106 | BECN | Beacon Roofing Supply, Inc. | 1.03p | 33.3333% | -2.06 USD | -0.42% | -2.16% | 93.40 USD | Industrials |
+| 1107 | GO | Grocery Outlet Holding Corp. | 1.02p | 33.3333% | -0.35 USD | -0.42% | -2.16% | 15.84 USD | Consumer Defensive |
+| 1108 | NTR | Nutrien Ltd. | 1.02p | 33.3333% | -1.07 USD | -0.43% | -2.16% | 48.58 USD | Basic Materials |
+| 1109 | PSX | Phillips 66 | 1.02p | 33.3333% | -3.08 USD | -0.42% | -2.22% | 135.42 USD | Energy |
+| 1110 | WYNN | Wynn Resorts, Limited | 1.02p | 33.3333% | -2.46 USD | -0.45% | -2.31% | 103.99 USD | Consumer Cyclical |
+| 1111 | LTRPB | Liberty TripAdvisor Holdings, I | 1.02p | 20.0000% | 0.35 USD | 2.11% | 8.43% | 4.50 USD | Communication Services |
+| 1112 | CVGW | Calavo Growers, Inc. | 1.02p | 33.3333% | -0.69 USD | -0.47% | -2.40% | 28.13 USD | Consumer Defensive |
+| 1113 | GDEN | Golden Entertainment, Inc. | 1.01p | 33.3333% | -0.75 USD | -0.47% | -2.44% | 37.61 USD | Consumer Cyclical |
+| 1114 | ITUB | Itau Unibanco Banco Holding SA | 1.01p | 33.3333% | -0.17 USD | -0.52% | -2.64% | 6.29 USD | Financial Services |
+| 1115 | ASIX | AdvanSix Inc. | 1.00p | 33.3333% | -0.88 USD | -0.56% | -2.80% | 31.34 USD | Basic Materials |
+| 1116 | UPLD | Upland Software, Inc. | 1.00p | 33.3333% | -0.07 USD | -0.56% | -2.88% | 2.38 USD | Technology |
+| 1117 | DVAX | Dynavax Technologies Corporatio | 1.00p | 33.3333% | -0.31 USD | -0.57% | -2.88% | 11.91 USD | Healthcare |
+| 1118 | FSLY | Fastly, Inc. | 0.99p | 33.3333% | -0.23 USD | -0.61% | -3.08% | 7.25 USD | Technology |
+| 1119 | SXI | Standex International Corporati | 0.99p | 33.3333% | -5.60 USD | -0.61% | -3.08% | 181.77 USD | Industrials |
+| 1120 | ICHR | Ichor Holdings | 0.99p | 33.3333% | -0.98 USD | -0.61% | -3.15% | 38.14 USD | Technology |
+| 1121 | IMMR | Immersion Corporation | 0.98p | 33.3333% | -0.28 USD | -0.63% | -3.20% | 8.49 USD | Technology |
+| 1122 | PBR | Petroleo Brasileiro S.A.- Petro | 0.98p | 33.3333% | -0.50 USD | -0.65% | -3.26% | 14.83 USD | Energy |
+| 1123 | AMD | Advanced Micro Devices, Inc. | 0.98p | 33.3333% | -5.70 USD | -0.65% | -3.33% | 165.29 USD | Technology |
+| 1124 | KALA | KALA BIO, Inc. | 0.98p | 33.3333% | -0.18 USD | -0.68% | -3.36% | 6.65 USD | Healthcare |
+| 1125 | OXY | Occidental Petroleum Corporatio | 0.97p | 33.3333% | -2.00 USD | -0.72% | -3.58% | 53.91 USD | Energy |
+| 1126 | QRTEA | Liberty Interactive Corporation | 0.96p | 33.3333% | -0.02 USD | -0.70% | -3.73% | 0.62 USD | Consumer Cyclical |
+| 1127 | CARA | Cara Therapeutics, Inc. | 0.96p | 33.3333% | -0.01 USD | -0.73% | -3.72% | 0.33 USD | Healthcare |
+| 1128 | CAN | Canaan Inc. | 0.96p | 33.3333% | -0.04 USD | -0.70% | -3.81% | 1.04 USD | Technology |
+| 1129 | DLTR | Dollar Tree, Inc. | 0.96p | 33.3333% | -2.66 USD | -0.77% | -3.83% | 66.83 USD | Consumer Defensive |
+| 1130 | RDHL | Redhill Biopharma Ltd. | 0.96p | 33.3333% | -0.32 USD | -0.77% | -3.86% | 10.17 USD | Healthcare |
+| 1131 | MYGN | Myriad Genetics, Inc. | 0.95p | 33.3333% | -1.04 USD | -0.71% | -3.98% | 25.13 USD | Healthcare |
+| 1132 | TAL | TAL Education Group | 0.94p | 33.3333% | -0.48 USD | -0.83% | -4.23% | 10.99 USD | Consumer Defensive |
+| 1133 | FANG | Diamondback Energy, Inc. | 0.93p | 33.3333% | -8.80 USD | -0.89% | -4.41% | 190.79 USD | Energy |
+| 1134 | NRG | NRG Energy, Inc. | 0.93p | 33.3333% | -4.21 USD | -0.88% | -4.46% | 91.12 USD | Utilities |
+| 1135 | COLL | Collegium Pharmaceutical, Inc. | 0.93p | 33.3333% | -1.80 USD | -0.89% | -4.52% | 38.09 USD | Healthcare |
+| 1136 | COP | ConocoPhillips | 0.93p | 33.3333% | -5.25 USD | -0.92% | -4.58% | 109.36 USD | Energy |
+| 1137 | GHG | GreenTree Hospitality Group Ltd | 0.93p | 33.3333% | -0.15 USD | -0.90% | -4.60% | 3.16 USD | Consumer Cyclical |
+| 1138 | MRO | Marathon Oil Corporation | 0.93p | 33.3333% | -1.35 USD | -0.94% | -4.64% | 27.72 USD | Energy |
+| 1139 | ALB | Albemarle Corporation | 0.92p | 33.3333% | -4.87 USD | -0.93% | -4.66% | 99.17 USD | Basic Materials |
+| 1140 | TME | Tencent Music Entertainment Gro | 0.92p | 33.3333% | -0.64 USD | -0.94% | -4.80% | 12.68 USD | Communication Services |
+| 1141 | RRC | Range Resources Corporation | 0.92p | 33.3333% | -1.55 USD | -0.97% | -4.82% | 30.46 USD | Energy |
+| 1142 | DESP | Despegar.com, Corp. | 0.92p | 33.3333% | -0.64 USD | -0.97% | -4.83% | 13.14 USD | Consumer Cyclical |
+| 1143 | QD | Qudian Inc. | 0.90p | 33.3333% | -0.12 USD | -1.06% | -5.38% | 2.13 USD | Financial Services |
+| 1144 | NEOG | Neogen Corporation | 0.88p | 33.3333% | -0.87 USD | -1.12% | -5.84% | 14.05 USD | Healthcare |
+| 1145 | JMIA | Jumia Technologies AG | 0.88p | 33.3333% | -0.33 USD | -1.13% | -5.89% | 5.29 USD | Consumer Cyclical |
+| 1146 | CNTG | Centogene N.V. | 0.87p | 20.0000% | -0.02 USD | 16.87% | -10.67% | 0.00 USD | Healthcare |
+| 1147 | MPC | Marathon Petroleum Corporation | 0.86p | 33.3333% | -10.77 USD | -1.22% | -6.22% | 162.49 USD | Energy |
+| 1148 | AOS | A.O. Smith Corporation | 0.86p | 33.3333% | -5.53 USD | -1.24% | -6.27% | 82.40 USD | Industrials |
+| 1149 | COMM | CommScope Holding Company, Inc. | 0.85p | 33.3333% | -0.39 USD | -1.27% | -6.50% | 5.63 USD | Technology |
+| 1150 | YUMC | Yum China Holdings, Inc. | 0.85p | 33.3333% | -3.25 USD | -1.30% | -6.49% | 48.00 USD | Consumer Cyclical |
+| 1151 | ATEX | Anterix Inc. | 0.84p | 33.3333% | -2.37 USD | -1.34% | -6.78% | 32.66 USD | Communication Services |
+| 1152 | CTMX | CytomX Therapeutics, Inc. | 0.84p | 33.3333% | -0.08 USD | -1.37% | -6.84% | 1.11 USD | Healthcare |
+| 1153 | EDU | New Oriental Education & Techno | 0.84p | 33.3333% | -5.44 USD | -1.39% | -6.84% | 74.83 USD | Consumer Defensive |
+| 1154 | UAA | Under Armour, Inc. | 0.82p | 16.6667% | 0.56 USD | 1.35% | 6.59% | 9.01 USD | Consumer Cyclical |
+| 1155 | PAVM | PAVmed Inc. | 0.81p | 33.3333% | -0.09 USD | -1.48% | -7.56% | 0.00 USD | Healthcare |
+| 1156 | SEDG | SolarEdge Technologies, Inc. | 0.80p | 33.3333% | -1.59 USD | -1.45% | -7.79% | 18.87 USD | Technology |
+| 1157 | BABA | Alibaba Group Holding Limited | 0.78p | 33.3333% | -9.71 USD | -1.67% | -8.26% | 107.76 USD | Consumer Cyclical |
+| 1158 | ADPT | Adaptive Biotechnologies Corpor | 0.77p | 33.3333% | -0.46 USD | -1.74% | -8.50% | 4.97 USD | Healthcare |
+| 1159 | FSLR | First Solar, Inc. | 0.77p | 33.3333% | -19.66 USD | -1.68% | -8.56% | 210.00 USD | Technology |
+| 1160 | TSLA | Tesla, Inc. | 0.75p | 33.3333% | -21.67 USD | -1.80% | -9.00% | 219.15 USD | Consumer Cyclical |
+| 1161 | UXIN | Uxin Limited | 0.74p | 33.3333% | -0.58 USD | -1.89% | -9.31% | 6.50 USD | Consumer Cyclical |
+| 1162 | HBIO | Harvard Bioscience, Inc. | 0.71p | 16.6667% | 0.09 USD | 0.82% | 3.75% | 2.50 USD | Healthcare |
+| 1163 | TNDM | Tandem Diabetes Care, Inc. | 0.69p | 33.3333% | -4.42 USD | -2.14% | -10.58% | 37.38 USD | Healthcare |
+| 1164 | AMSWA | American Software, Inc. | 0.69p | 20.0000% | 0.05 USD | 0.13% | 0.48% | 0.00 USD | Technology |
+| 1165 | ESTA | Establishment Labs Holdings Inc | 0.68p | 33.3333% | -4.95 USD | -2.13% | -10.71% | 41.58 USD | Healthcare |
+| 1166 | PDD | PDD Holdings Inc. | 0.66p | 33.3333% | -17.06 USD | -2.28% | -11.14% | 136.02 USD | Consumer Cyclical |
+| 1167 | SAVE | Spirit Airlines, Inc. | 0.66p | 33.3333% | -0.21 USD | -2.25% | -11.29% | 1.66 USD | Industrials |
+| 1168 | MCHX | Marchex, Inc. | 0.62p | 16.6667% | 0.03 USD | 0.34% | 1.64% | 0.00 USD | Communication Services |
+| 1169 | IP | International Paper Company | 0.59p | 16.6667% | 0.39 USD | 0.17% | 0.82% | 48.12 USD | Consumer Cyclical |
+| 1170 | AXNX | Axonics, Inc. | 0.59p | 16.6667% | 0.56 USD | 0.16% | 0.80% | 90.21 USD | Healthcare |
+| 1171 | SLM | SLM Corporation | 0.58p | 16.6667% | 0.16 USD | 0.15% | 0.70% | 23.10 USD | Financial Services |
+| 1172 | ARI | Apollo Commercial Real Estate F | 0.58p | 16.6667% | 0.06 USD | 0.14% | 0.68% | 8.89 USD | Real Estate |
+| 1173 | BUSE | First Busey Corporation | 0.58p | 16.6667% | 0.14 USD | 0.12% | 0.57% | 31.42 USD | Financial Services |
+| 1174 | GOLD | Barrick Gold Corporation | 0.58p | 16.6667% | 0.10 USD | 0.11% | 0.50% | 19.94 USD | Basic Materials |
+| 1175 | BFS | Saul Centers, Inc. | 0.57p | 16.6667% | 0.14 USD | 0.07% | 0.35% | 41.45 USD | Real Estate |
+| 1176 | ARC | ARC Document Solutions, Inc. | 0.57p | 16.6667% | 0.01 USD | 0.06% | 0.30% | 3.45 USD | Industrials |
+| 1177 | TMDX | TransMedics Group, Inc. | 0.56p | 16.6667% | 0.12 USD | 0.03% | 0.09% | 134.35 USD | Healthcare |
+| 1178 | LEN | Lennar Corporation | 0.56p | 16.6667% | 0.13 USD | 0.02% | 0.07% | 181.84 USD | Consumer Cyclical |
 | 1179 | CRON | Cronos Group Inc. Common Share | 0.56p | 16.6667% | 0.00 USD | 0.03% | 0.00% | 2.22 USD | Healthcare |
 | 1180 | GH | Guardant Health, Inc. | 0.55p | 16.6667% | -0.01 USD | 0.01% | -0.05% | 26.73 USD | Healthcare |
 | 1181 | AGR | Avangrid, Inc. | 0.55p | 16.6667% | -0.02 USD | -0.01% | -0.06% | 35.75 USD | Utilities |
 | 1182 | EGP | EastGroup Properties, Inc. | 0.55p | 16.6667% | -0.19 USD | -0.02% | -0.11% | 285.07 USD | Real Estate |
 | 1183 | ULTA | Ulta Beauty, Inc. | 0.55p | 16.6667% | -0.69 USD | -0.02% | -0.19% | 369.63 USD | Consumer Cyclical |
 | 1184 | MNTX | Manitex International, Inc. | 0.55p | 16.6667% | -0.01 USD | -0.03% | -0.18% | 5.67 USD | Industrials |
-| 1185 | LEN | Lennar Corporation | 0.55p | 16.6667% | -0.37 USD | -0.04% | -0.20% | 181.84 USD | Consumer Cyclical |
-| 1186 | SITE | SiteOne Landscape Supply, Inc. | 0.55p | 16.6667% | -0.38 USD | -0.01% | -0.26% | 155.72 USD | Industrials |
-| 1187 | PFE | Pfizer, Inc. | 0.54p | 16.6667% | -0.12 USD | -0.06% | -0.41% | 29.08 USD | Healthcare |
-| 1188 | LBTYA | Liberty Global Ltd. | 0.54p | 16.6667% | -0.10 USD | -0.09% | -0.49% | 20.48 USD | Communication Services |
-| 1189 | DKS | Dick's Sporting Goods Inc | 0.53p | 16.6667% | -1.30 USD | -0.12% | -0.63% | 212.80 USD | Consumer Cyclical |
-| 1190 | ICL | ICL Group Ltd. | 0.53p | 16.6667% | -0.03 USD | -0.14% | -0.75% | 3.99 USD | Basic Materials |
-| 1191 | LBTYK | Liberty Global Ltd. | 0.52p | 16.6667% | -0.17 USD | -0.16% | -0.80% | 22.22 USD | Communication Services |
-| 1192 | TU | Telus Corporation | 0.52p | 16.6667% | -0.13 USD | -0.16% | -0.80% | 16.15 USD | Communication Services |
-| 1193 | ASUR | Asure Software Inc | 0.52p | 16.6667% | -0.08 USD | -0.18% | -0.92% | 8.62 USD | Technology |
-| 1194 | NIO | NIO Inc. | 0.52p | 33.3333% | -1.00 USD | -3.06% | -14.73% | 5.81 USD | Consumer Cyclical |
-| 1195 | OSUR | OraSure Technologies, Inc. | 0.52p | 16.6667% | -0.04 USD | -0.19% | -0.98% | 4.06 USD | Healthcare |
-| 1196 | CHT | Chunghwa Telecom Co., Ltd. | 0.51p | 16.6667% | -0.45 USD | -0.23% | -1.17% | 39.90 USD | Communication Services |
-| 1197 | KW | Kennedy-Wilson Holdings Inc. | 0.51p | 16.6667% | -0.13 USD | -0.24% | -1.20% | 10.73 USD | Real Estate |
-| 1198 | LAND | Gladstone Land Corporation | 0.50p | 16.6667% | -0.19 USD | -0.28% | -1.39% | 17.25 USD | Real Estate |
-| 1199 | RCI | Rogers Communication, Inc. | 0.50p | 16.6667% | -0.54 USD | -0.28% | -1.40% | 38.09 USD | Communication Services |
-| 1200 | MCRI | Monarch Casino & Resort, Inc. | 0.49p | 16.6667% | -1.22 USD | -0.32% | -1.59% | 75.37 USD | Consumer Cyclical |
-| 1201 | CCRN | Cross Country Healthcare, Inc. | 0.49p | 16.6667% | -0.20 USD | -0.32% | -1.60% | 12.30 USD | Healthcare |
-| 1202 | PLAB | Photronics, Inc. | 0.49p | 16.6667% | -0.42 USD | -0.34% | -1.71% | 24.16 USD | Technology |
-| 1203 | GIS | General Mills, Inc. | 0.48p | 16.6667% | -1.30 USD | -0.36% | -1.81% | 71.27 USD | Consumer Defensive |
-| 1204 | DAR | Darling Ingredients Inc. | 0.48p | 16.6667% | -0.71 USD | -0.37% | -1.90% | 36.67 USD | Consumer Defensive |
-| 1205 | KOPN | Kopin Corporation | 0.48p | 16.6667% | -0.01 USD | -0.39% | -2.00% | 0.74 USD | Technology |
-| 1206 | BJ | BJ's Wholesale Club Holdings, I | 0.48p | 16.6667% | -1.75 USD | -0.40% | -2.01% | 85.44 USD | Consumer Defensive |
-| 1207 | COTY | Coty Inc. | 0.47p | 16.6667% | -0.19 USD | -0.39% | -2.03% | 9.17 USD | Consumer Defensive |
-| 1208 | XRX | Xerox Holdings Corporation | 0.47p | 16.6667% | -0.21 USD | -0.40% | -2.02% | 10.22 USD | Technology |
-| 1209 | RBC | RBC Bearings Incorporated | 0.47p | 16.6667% | -6.11 USD | -0.43% | -2.13% | 280.81 USD | Industrials |
-| 1210 | NAVI | Navient Corporation | 0.47p | 16.6667% | -0.34 USD | -0.43% | -2.15% | 15.51 USD | Financial Services |
-| 1211 | LUV | Southwest Airlines Company | 0.47p | 16.6667% | -0.67 USD | -0.43% | -2.16% | 30.32 USD | Industrials |
-| 1212 | ARDX | Ardelyx, Inc. | 0.46p | 16.6667% | -0.14 USD | -0.44% | -2.28% | 6.01 USD | Healthcare |
-| 1213 | GPRO | GoPro, Inc. | 0.46p | 16.6667% | -0.03 USD | -0.45% | -2.29% | 1.45 USD | Technology |
-| 1214 | APRE | Aprea Therapeutics, Inc. | 0.46p | 16.6667% | -0.06 USD | -0.45% | -2.29% | 0.00 USD | Healthcare |
-| 1215 | CODI | D/B/A Compass Diversified Holdi | 0.46p | 16.6667% | -0.49 USD | -0.46% | -2.29% | 22.00 USD | Industrials |
-| 1216 | NYMT | New York Mortgage Trust, Inc. | 0.46p | 16.6667% | -0.13 USD | -0.46% | -2.30% | 5.55 USD | Real Estate |
-| 1217 | MAT | Mattel, Inc. | 0.46p | 16.6667% | -0.45 USD | -0.47% | -2.33% | 18.91 USD | Consumer Cyclical |
-| 1218 | GNPX | Genprex, Inc. | 0.46p | 16.6667% | -0.01 USD | -0.47% | -2.34% | 0.00 USD | Healthcare |
-| 1219 | BAND | Bandwidth Inc. | 0.45p | 16.6667% | -0.48 USD | -0.55% | -2.73% | 21.78 USD | Technology |
-| 1220 | BG | Bunge Limited | 0.45p | 16.6667% | -2.72 USD | -0.55% | -2.75% | 96.23 USD | Consumer Defensive |
-| 1221 | SRRK | Scholar Rock Holding Corporatio | 0.44p | 33.3333% | -5.76 USD | -3.34% | -16.80% | 28.56 USD | Healthcare |
-| 1222 | ETSY | Etsy, Inc. | 0.43p | 16.6667% | -1.58 USD | -0.62% | -3.09% | 49.61 USD | Consumer Cyclical |
-| 1223 | APPN | Appian Corporation | 0.43p | 16.6667% | -1.02 USD | -0.62% | -3.10% | 31.94 USD | Technology |
-| 1224 | LEVI | Levi Strauss & Co | 0.43p | 16.6667% | -0.62 USD | -0.63% | -3.15% | 19.09 USD | Consumer Cyclical |
-| 1225 | BLUE | bluebird bio, Inc. | 0.43p | 16.6667% | -0.02 USD | -0.60% | -3.21% | 0.64 USD | Healthcare |
-| 1226 | LPSN | LivePerson, Inc. | 0.42p | 16.6667% | -0.04 USD | -0.58% | -3.39% | 1.15 USD | Technology |
-| 1227 | TLRY | Tilray Brands, Inc. | 0.41p | 16.6667% | -0.06 USD | -0.72% | -3.64% | 1.61 USD | Healthcare |
-| 1228 | NREF | NexPoint Real Estate Finance, I | 0.41p | 16.6667% | -0.59 USD | -0.76% | -3.75% | 15.21 USD | Real Estate |
-| 1229 | GRVY | GRAVITY Co., Ltd. | 0.40p | 16.6667% | -2.38 USD | -0.77% | -3.88% | 58.95 USD | Communication Services |
-| 1230 | RLMD | Relmada Therapeutics, Inc. | 0.38p | 16.6667% | -0.15 USD | -0.86% | -4.29% | 3.38 USD | Healthcare |
-| 1231 | LAC | Lithium Americas Corp. | 0.38p | 16.6667% | -0.13 USD | -0.76% | -4.42% | 2.80 USD | Basic Materials |
-| 1232 | AIR | AAR Corp. | 0.38p | 16.6667% | -2.80 USD | -0.85% | -4.36% | 62.75 USD | Industrials |
-| 1233 | BA | Boeing Company (The) | 0.38p | 16.6667% | -6.92 USD | -0.88% | -4.44% | 148.68 USD | Industrials |
-| 1234 | ATHM | Autohome Inc. | 0.37p | 16.6667% | -1.57 USD | -0.93% | -4.63% | 34.23 USD | Communication Services |
+| 1185 | SITE | SiteOne Landscape Supply, Inc. | 0.55p | 16.6667% | -0.38 USD | -0.01% | -0.26% | 155.72 USD | Industrials |
+| 1186 | PFE | Pfizer, Inc. | 0.54p | 16.6667% | -0.12 USD | -0.06% | -0.41% | 29.08 USD | Healthcare |
+| 1187 | LBTYA | Liberty Global Ltd. | 0.54p | 16.6667% | -0.10 USD | -0.09% | -0.49% | 20.48 USD | Communication Services |
+| 1188 | DKS | Dick's Sporting Goods Inc | 0.53p | 16.6667% | -1.30 USD | -0.12% | -0.63% | 212.80 USD | Consumer Cyclical |
+| 1189 | ICL | ICL Group Ltd. | 0.53p | 16.6667% | -0.03 USD | -0.14% | -0.75% | 3.99 USD | Basic Materials |
+| 1190 | LBTYK | Liberty Global Ltd. | 0.52p | 16.6667% | -0.17 USD | -0.16% | -0.80% | 22.22 USD | Communication Services |
+| 1191 | TU | Telus Corporation | 0.52p | 16.6667% | -0.13 USD | -0.16% | -0.80% | 16.15 USD | Communication Services |
+| 1192 | ASUR | Asure Software Inc | 0.52p | 16.6667% | -0.08 USD | -0.18% | -0.92% | 8.62 USD | Technology |
+| 1193 | NIO | NIO Inc. | 0.52p | 33.3333% | -1.00 USD | -3.06% | -14.73% | 5.81 USD | Consumer Cyclical |
+| 1194 | OSUR | OraSure Technologies, Inc. | 0.52p | 16.6667% | -0.04 USD | -0.19% | -0.98% | 4.06 USD | Healthcare |
+| 1195 | CHT | Chunghwa Telecom Co., Ltd. | 0.51p | 16.6667% | -0.45 USD | -0.23% | -1.17% | 39.90 USD | Communication Services |
+| 1196 | KW | Kennedy-Wilson Holdings Inc. | 0.51p | 16.6667% | -0.13 USD | -0.24% | -1.20% | 10.73 USD | Real Estate |
+| 1197 | LAND | Gladstone Land Corporation | 0.50p | 16.6667% | -0.19 USD | -0.28% | -1.39% | 17.25 USD | Real Estate |
+| 1198 | RCI | Rogers Communication, Inc. | 0.50p | 16.6667% | -0.54 USD | -0.28% | -1.40% | 38.09 USD | Communication Services |
+| 1199 | MCRI | Monarch Casino & Resort, Inc. | 0.49p | 16.6667% | -1.22 USD | -0.32% | -1.59% | 75.37 USD | Consumer Cyclical |
+| 1200 | CCRN | Cross Country Healthcare, Inc. | 0.49p | 16.6667% | -0.20 USD | -0.32% | -1.60% | 12.30 USD | Healthcare |
+| 1201 | PLAB | Photronics, Inc. | 0.49p | 16.6667% | -0.42 USD | -0.34% | -1.71% | 24.16 USD | Technology |
+| 1202 | GIS | General Mills, Inc. | 0.48p | 16.6667% | -1.30 USD | -0.36% | -1.81% | 71.27 USD | Consumer Defensive |
+| 1203 | DAR | Darling Ingredients Inc. | 0.48p | 16.6667% | -0.71 USD | -0.37% | -1.90% | 36.67 USD | Consumer Defensive |
+| 1204 | KOPN | Kopin Corporation | 0.48p | 16.6667% | -0.01 USD | -0.39% | -2.00% | 0.74 USD | Technology |
+| 1205 | BJ | BJ's Wholesale Club Holdings, I | 0.48p | 16.6667% | -1.75 USD | -0.40% | -2.01% | 85.44 USD | Consumer Defensive |
+| 1206 | COTY | Coty Inc. | 0.47p | 16.6667% | -0.19 USD | -0.39% | -2.03% | 8.74 USD | Consumer Defensive |
+| 1207 | XRX | Xerox Holdings Corporation | 0.47p | 16.6667% | -0.21 USD | -0.40% | -2.02% | 10.22 USD | Technology |
+| 1208 | RBC | RBC Bearings Incorporated | 0.47p | 16.6667% | -6.11 USD | -0.43% | -2.13% | 280.81 USD | Industrials |
+| 1209 | NAVI | Navient Corporation | 0.47p | 16.6667% | -0.34 USD | -0.43% | -2.15% | 15.51 USD | Financial Services |
+| 1210 | LUV | Southwest Airlines Company | 0.47p | 16.6667% | -0.67 USD | -0.43% | -2.16% | 30.49 USD | Industrials |
+| 1211 | ARDX | Ardelyx, Inc. | 0.46p | 16.6667% | -0.14 USD | -0.44% | -2.28% | 6.01 USD | Healthcare |
+| 1212 | GPRO | GoPro, Inc. | 0.46p | 16.6667% | -0.03 USD | -0.45% | -2.29% | 1.45 USD | Technology |
+| 1213 | APRE | Aprea Therapeutics, Inc. | 0.46p | 16.6667% | -0.06 USD | -0.45% | -2.29% | 0.00 USD | Healthcare |
+| 1214 | CODI | D/B/A Compass Diversified Holdi | 0.46p | 16.6667% | -0.49 USD | -0.46% | -2.29% | 22.00 USD | Industrials |
+| 1215 | NYMT | New York Mortgage Trust, Inc. | 0.46p | 16.6667% | -0.13 USD | -0.46% | -2.30% | 5.55 USD | Real Estate |
+| 1216 | MAT | Mattel, Inc. | 0.46p | 16.6667% | -0.45 USD | -0.47% | -2.33% | 18.91 USD | Consumer Cyclical |
+| 1217 | GNPX | Genprex, Inc. | 0.46p | 16.6667% | -0.01 USD | -0.47% | -2.34% | 0.00 USD | Healthcare |
+| 1218 | BAND | Bandwidth Inc. | 0.45p | 16.6667% | -0.48 USD | -0.55% | -2.73% | 21.78 USD | Technology |
+| 1219 | BG | Bunge Limited | 0.45p | 16.6667% | -2.72 USD | -0.55% | -2.75% | 96.93 USD | Consumer Defensive |
+| 1220 | SRRK | Scholar Rock Holding Corporatio | 0.44p | 33.3333% | -5.76 USD | -3.34% | -16.80% | 28.56 USD | Healthcare |
+| 1221 | ETSY | Etsy, Inc. | 0.43p | 16.6667% | -1.58 USD | -0.62% | -3.09% | 49.61 USD | Consumer Cyclical |
+| 1222 | APPN | Appian Corporation | 0.43p | 16.6667% | -1.02 USD | -0.62% | -3.10% | 31.94 USD | Technology |
+| 1223 | LEVI | Levi Strauss & Co | 0.43p | 16.6667% | -0.62 USD | -0.63% | -3.15% | 19.09 USD | Consumer Cyclical |
+| 1224 | BLUE | bluebird bio, Inc. | 0.43p | 16.6667% | -0.02 USD | -0.60% | -3.21% | 0.64 USD | Healthcare |
+| 1225 | LPSN | LivePerson, Inc. | 0.42p | 16.6667% | -0.04 USD | -0.58% | -3.39% | 1.15 USD | Technology |
+| 1226 | TLRY | Tilray Brands, Inc. | 0.41p | 16.6667% | -0.06 USD | -0.72% | -3.64% | 1.61 USD | Healthcare |
+| 1227 | NREF | NexPoint Real Estate Finance, I | 0.41p | 16.6667% | -0.59 USD | -0.76% | -3.75% | 15.21 USD | Real Estate |
+| 1228 | GRVY | GRAVITY Co., Ltd. | 0.40p | 16.6667% | -2.38 USD | -0.77% | -3.88% | 58.95 USD | Communication Services |
+| 1229 | RLMD | Relmada Therapeutics, Inc. | 0.38p | 16.6667% | -0.15 USD | -0.86% | -4.29% | 3.38 USD | Healthcare |
+| 1230 | LAC | Lithium Americas Corp. | 0.38p | 16.6667% | -0.13 USD | -0.76% | -4.42% | 2.80 USD | Basic Materials |
+| 1231 | AIR | AAR Corp. | 0.38p | 16.6667% | -2.80 USD | -0.85% | -4.36% | 62.75 USD | Industrials |
+| 1232 | BA | Boeing Company (The) | 0.38p | 16.6667% | -6.92 USD | -0.88% | -4.44% | 148.68 USD | Industrials |
+| 1233 | ATHM | Autohome Inc. | 0.37p | 16.6667% | -1.57 USD | -0.93% | -4.63% | 34.23 USD | Communication Services |
+| 1234 | DG | Dollar General Corporation | 0.37p | 16.6667% | -3.95 USD | -0.95% | -4.72% | 79.97 USD | Consumer Defensive |
 | 1235 | KOS | Kosmos Energy Ltd. | 0.36p | 16.6667% | -0.22 USD | -0.98% | -4.90% | 4.26 USD | Energy |
 | 1236 | NAT | Nordic American Tankers Limited | 0.36p | 16.6667% | -0.19 USD | -1.01% | -4.99% | 3.64 USD | Energy |
 | 1237 | BLDP | Ballard Power Systems, Inc. | 0.35p | 16.6667% | -0.09 USD | -0.99% | -5.11% | 1.90 USD | Industrials |
 | 1238 | SSL | Sasol Ltd. | 0.35p | 16.6667% | -0.38 USD | -1.03% | -5.28% | 6.85 USD | Basic Materials |
 | 1239 | SBH | Sally Beauty Holdings, Inc. (Na | 0.34p | 16.6667% | -0.70 USD | -1.07% | -5.29% | 12.85 USD | Consumer Cyclical |
 | 1240 | BCOV | Brightcove Inc. | 0.34p | 16.6667% | -0.13 USD | -1.05% | -5.37% | 2.31 USD | Technology |
-| 1241 | DG | Dollar General Corporation | 0.34p | 16.6667% | -4.54 USD | -1.09% | -5.39% | 79.97 USD | Consumer Defensive |
-| 1242 | LUNA | Luna Innovations Incorporated | 0.34p | 33.3333% | -0.40 USD | -3.89% | -19.32% | 1.68 USD | Technology |
-| 1243 | FCEL | FuelCell Energy, Inc. | 0.32p | 16.6667% | -0.02 USD | -1.14% | -5.89% | 0.38 USD | Industrials |
-| 1244 | ACIU | AC Immune SA | 0.31p | 16.6667% | -0.21 USD | -1.24% | -6.18% | 3.23 USD | Healthcare |
-| 1245 | INSE | Inspired Entertainment, Inc. | 0.30p | 16.6667% | -0.62 USD | -1.31% | -6.43% | 9.05 USD | Consumer Cyclical |
-| 1246 | AES | The AES Corporation | 0.30p | 16.6667% | -1.21 USD | -1.32% | -6.48% | 17.49 USD | Utilities |
-| 1247 | IMAB | I-MAB | 0.29p | 16.6667% | -0.10 USD | -1.24% | -6.76% | 1.62 USD | Healthcare |
-| 1248 | RIG | Transocean Ltd (Switzerland) | 0.27p | 16.6667% | -0.33 USD | -1.47% | -7.22% | 4.23 USD | Energy |
-| 1249 | VAL | Valaris Limited | 0.26p | 16.6667% | -4.13 USD | -1.48% | -7.33% | 55.33 USD | Energy |
-| 1250 | PLUG | Plug Power, Inc. | 0.26p | 16.6667% | -0.17 USD | -1.42% | -7.56% | 2.09 USD | Industrials |
-| 1251 | GOOS | Canada Goose Holdings Inc. Subo | 0.24p | 16.6667% | -0.96 USD | -1.59% | -7.88% | 11.31 USD | Consumer Cyclical |
-| 1252 | FOSL | Fossil Group, Inc. | 0.18p | 16.6667% | -0.12 USD | -1.90% | -9.30% | 1.19 USD | Consumer Cyclical |
-| 1253 | HEPA | Hepion Pharmaceuticals, Inc. | 0.18p | 16.6667% | -0.06 USD | -1.95% | -9.45% | 0.00 USD | Healthcare |
-| 1254 | SBSW | D/B/A Sibanye-Stillwater Limite | 0.16p | 16.6667% | -0.44 USD | -2.02% | -9.84% | 4.03 USD | Basic Materials |
-| 1255 | LTRPA | Liberty TripAdvisor Holdings, I | 0.14p | 16.6667% | -0.05 USD | -2.13% | -10.31% | 0.45 USD | Communication Services |
+| 1241 | LUNA | Luna Innovations Incorporated | 0.34p | 33.3333% | -0.40 USD | -3.89% | -19.32% | 1.68 USD | Technology |
+| 1242 | FCEL | FuelCell Energy, Inc. | 0.32p | 16.6667% | -0.02 USD | -1.14% | -5.89% | 0.38 USD | Industrials |
+| 1243 | ACIU | AC Immune SA | 0.31p | 16.6667% | -0.21 USD | -1.24% | -6.18% | 3.23 USD | Healthcare |
+| 1244 | INSE | Inspired Entertainment, Inc. | 0.30p | 16.6667% | -0.62 USD | -1.31% | -6.43% | 9.05 USD | Consumer Cyclical |
+| 1245 | AES | The AES Corporation | 0.30p | 16.6667% | -1.21 USD | -1.32% | -6.48% | 17.49 USD | Utilities |
+| 1246 | IMAB | I-MAB | 0.29p | 16.6667% | -0.10 USD | -1.24% | -6.76% | 1.62 USD | Healthcare |
+| 1247 | RIG | Transocean Ltd (Switzerland) | 0.27p | 16.6667% | -0.33 USD | -1.47% | -7.22% | 4.22 USD | Energy |
+| 1248 | VAL | Valaris Limited | 0.26p | 16.6667% | -4.13 USD | -1.48% | -7.33% | 55.33 USD | Energy |
+| 1249 | PLUG | Plug Power, Inc. | 0.26p | 16.6667% | -0.17 USD | -1.42% | -7.56% | 2.09 USD | Industrials |
+| 1250 | GOOS | Canada Goose Holdings Inc. Subo | 0.24p | 16.6667% | -0.96 USD | -1.59% | -7.88% | 11.31 USD | Consumer Cyclical |
+| 1251 | FOSL | Fossil Group, Inc. | 0.18p | 16.6667% | -0.12 USD | -1.90% | -9.30% | 1.19 USD | Consumer Cyclical |
+| 1252 | HEPA | Hepion Pharmaceuticals, Inc. | 0.18p | 16.6667% | -0.06 USD | -1.95% | -9.45% | 0.00 USD | Healthcare |
+| 1253 | SBSW | D/B/A Sibanye-Stillwater Limite | 0.16p | 16.6667% | -0.44 USD | -2.02% | -9.84% | 4.03 USD | Basic Materials |
+| 1254 | LTRPA | Liberty TripAdvisor Holdings, I | 0.14p | 16.6667% | -0.05 USD | -2.13% | -10.31% | 0.45 USD | Communication Services |
+| 1255 | TD | Toronto Dominion Bank (The) | 0.14p | 16.6667% | -6.54 USD | -2.14% | -10.38% | 56.51 USD | Financial Services |
 | 1256 | SNCR | Synchronoss Technologies, Inc. | 0.10p | 16.6667% | -1.59 USD | -2.24% | -11.51% | 12.24 USD | Technology |
 | 1257 | SOHU | Sohu.com Limited | 0.10p | 16.6667% | -1.92 USD | -2.37% | -11.39% | 14.97 USD | Communication Services |
-| 1258 | TD | Toronto Dominion Bank (The) | 0.10p | 16.6667% | -7.29 USD | -2.37% | -11.43% | 56.51 USD | Financial Services |
-| 1259 | CHRS | Coherus BioSciences, Inc. | 0.06p | 16.6667% | -0.13 USD | -2.55% | -12.23% | 0.94 USD | Healthcare |
-| 1260 | ARCT | Arcturus Therapeutics Holdings  | 0.06p | 16.6667% | -2.95 USD | -2.54% | -12.36% | 20.95 USD | Healthcare |
-| 1261 | CUE | Cue Biopharma, Inc. | 0.05p | 16.6667% | -0.17 USD | -2.40% | -12.64% | 1.23 USD | Healthcare |
-| 1262 | BIDU | Baidu, Inc. | 0.01p | 16.6667% | -15.36 USD | -2.80% | -13.42% | 113.28 USD | Communication Services |
-| 1263 | YNDX | Yandex N.V. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Communication Services |
-| 1264 | SEAC | SeaChange International, Inc. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Technology |
-| 1265 | NTES | NetEase, Inc. | -0.03p | 16.6667% | -14.54 USD | -3.08% | -14.61% | 85.06 USD | Communication Services |
-| 1266 | YJ | Yunji Inc. - American Depositor | -0.05p | 16.6667% | -0.37 USD | -3.10% | -14.98% | 0.00 USD | Consumer Cyclical |
+| 1258 | CHRS | Coherus BioSciences, Inc. | 0.06p | 16.6667% | -0.13 USD | -2.55% | -12.23% | 0.94 USD | Healthcare |
+| 1259 | ARCT | Arcturus Therapeutics Holdings  | 0.06p | 16.6667% | -2.95 USD | -2.54% | -12.36% | 20.95 USD | Healthcare |
+| 1260 | CUE | Cue Biopharma, Inc. | 0.05p | 16.6667% | -0.17 USD | -2.40% | -12.64% | 1.23 USD | Healthcare |
+| 1261 | BIDU | Baidu, Inc. | 0.01p | 16.6667% | -15.36 USD | -2.80% | -13.42% | 113.28 USD | Communication Services |
+| 1262 | YNDX | Yandex N.V. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Communication Services |
+| 1263 | SEAC | SeaChange International, Inc. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Technology |
+| 1264 | NTES | NetEase, Inc. | -0.03p | 16.6667% | -14.54 USD | -3.08% | -14.61% | 85.06 USD | Communication Services |
+| 1265 | YJ | Yunji Inc. - American Depositor | -0.05p | 16.6667% | -0.37 USD | -3.10% | -14.98% | 0.00 USD | Consumer Cyclical |
+| 1266 | HUYA | HUYA Inc. | -0.06p | 16.6667% | -0.74 USD | -3.21% | -15.22% | 4.15 USD | Communication Services |
 | 1267 | IQ | iQIYI, Inc. | -0.08p | 16.6667% | -0.47 USD | -3.28% | -15.67% | 2.53 USD | Communication Services |
 | 1268 | XNET | Xunlei Limited | -0.08p | 16.6667% | -0.38 USD | -3.24% | -15.83% | 0.00 USD | Technology |
-| 1269 | MAYS | J. W. Mays, Inc. | -0.13p | 0.0000% | -1.48 USD | -0.80% | -3.22% | 0.00 USD | Real Estate |
-| 1270 | WB | Weibo Corporation | -0.14p | 16.6667% | -2.01 USD | -3.57% | -17.16% | 9.71 USD | Communication Services |
-| 1271 | DTIL | Precision BioSciences, Inc. | -0.14p | 0.0000% | -0.33 USD | -0.72% | -3.57% | 8.94 USD | Healthcare |
-| 1272 | FUTU | Futu Holdings Limited | -0.15p | 16.6667% | -22.58 USD | -3.62% | -17.51% | 106.44 USD | Financial Services |
-| 1273 | BZUN | Baozun Inc. | -0.15p | 16.6667% | -0.72 USD | -3.68% | -17.52% | 4.27 USD | Consumer Cyclical |
-| 1274 | UVV | Universal Corporation | -0.15p | 0.0000% | -1.98 USD | -0.77% | -3.81% | 50.94 USD | Consumer Defensive |
+| 1269 | UVV | Universal Corporation | -0.09p | 0.0000% | -1.16 USD | -0.46% | -2.27% | 50.94 USD | Consumer Defensive |
+| 1270 | MAYS | J. W. Mays, Inc. | -0.13p | 0.0000% | -1.48 USD | -0.80% | -3.22% | 0.00 USD | Real Estate |
+| 1271 | WB | Weibo Corporation | -0.14p | 16.6667% | -2.01 USD | -3.57% | -17.16% | 9.71 USD | Communication Services |
+| 1272 | DTIL | Precision BioSciences, Inc. | -0.14p | 0.0000% | -0.33 USD | -0.72% | -3.57% | 8.94 USD | Healthcare |
+| 1273 | FUTU | Futu Holdings Limited | -0.15p | 16.6667% | -22.58 USD | -3.62% | -17.51% | 106.44 USD | Financial Services |
+| 1274 | BZUN | Baozun Inc. | -0.15p | 16.6667% | -0.72 USD | -3.68% | -17.52% | 4.27 USD | Consumer Cyclical |
 | 1275 | ALGN | Align Technology, Inc. | -0.23p | 0.0000% | -13.58 USD | -1.18% | -5.78% | 221.28 USD | Healthcare |
 | 1276 | MARK | Remark Holdings, Inc. | -0.24p | 16.6667% | -0.03 USD | -3.82% | -20.00% | 0.12 USD | Technology |
 | 1277 | SSYS | Stratasys, Ltd. | -0.25p | 0.0000% | -0.49 USD | -1.28% | -6.27% | 7.26 USD | Technology |
@@ -1328,14 +1328,13 @@
 | 1281 | AMTD | AMTD IDEA Group | -0.52p | 0.0000% | -0.21 USD | -2.70% | -12.88% | 1.40 USD | Financial Services |
 | 1282 | CAMP | CAMP4 THERAPEUTICS CORPORATION | -0.60p | 0.0000% | -0.97 USD | -9.05% | -9.05% | 11.10 USD | Healthcare |
 | 1283 | JKS | JinkoSolar Holding Company Limi | -0.64p | 16.6667% | -9.65 USD | -6.38% | -29.45% | 23.60 USD | Technology |
-| 1284 | HUYA | HUYA Inc. | -0.72p | 16.6667% | -1.89 USD | -6.98% | -31.40% | 4.13 USD | Communication Services |
-| 1285 | MPW | Medical Properties Trust, Inc. | -0.76p | 0.0000% | -1.04 USD | -4.04% | -18.67% | 4.53 USD | Real Estate |
-| 1286 | FUV | Arcimoto, Inc. | -0.84p | 0.0000% | -0.01 USD | -5.17% | -20.00% | 0.00 USD | Consumer Cyclical |
-| 1287 | JFU | 9F Inc. | -0.88p | 16.6667% | -0.98 USD | -8.07% | -35.13% | 0.00 USD | Technology |
-| 1288 | EAF | GrafTech International Ltd. | -0.94p | 0.0000% | -0.44 USD | -5.06% | -23.16% | 1.51 USD | Industrials |
-| 1289 | OCFT | OneConnect Financial Technology | -1.40p | 16.6667% | -2.22 USD | -11.30% | -47.33% | 2.57 USD | Technology |
-| 1290 | MTEM | Molecular Templates, Inc. | -1.80p | 33.3333% | -1.05 USD | -14.27% | -72.92% | 0.37 USD | Healthcare |
-| 1291 | EVA | Enviva Inc. | -4.80p | 0.0000% | -0.07 USD | -49.64% | -94.29% | 0.00 USD | Basic Materials |
+| 1284 | MPW | Medical Properties Trust, Inc. | -0.76p | 0.0000% | -1.04 USD | -4.04% | -18.67% | 4.53 USD | Real Estate |
+| 1285 | FUV | Arcimoto, Inc. | -0.84p | 0.0000% | -0.01 USD | -5.17% | -20.00% | 0.00 USD | Consumer Cyclical |
+| 1286 | JFU | 9F Inc. | -0.88p | 16.6667% | -0.98 USD | -8.07% | -35.13% | 0.00 USD | Technology |
+| 1287 | EAF | GrafTech International Ltd. | -0.94p | 0.0000% | -0.44 USD | -5.06% | -23.16% | 1.51 USD | Industrials |
+| 1288 | OCFT | OneConnect Financial Technology | -1.40p | 16.6667% | -2.22 USD | -11.30% | -47.33% | 2.57 USD | Technology |
+| 1289 | MTEM | Molecular Templates, Inc. | -1.80p | 33.3333% | -1.05 USD | -14.27% | -72.92% | 0.37 USD | Healthcare |
+| 1290 | EVA | Enviva Inc. | -4.80p | 0.0000% | -0.07 USD | -49.64% | -94.29% | 0.00 USD | Basic Materials |
 
 
 ## Results for DAX - Last Week
@@ -1515,37 +1514,37 @@
 | 2 | MMM | 3M Company | 2.89p | 54.6875% | 32.45 USD | 0.48% | 31.41% | 135.60 USD | Industrials |
 | 3 | MCD | McDonald's Corporation | 2.83p | 64.0625% | 52.57 USD | 0.30% | 20.43% | 310.16 USD | Consumer Cyclical |
 | 4 | RTX | RTX Corporation | 2.61p | 57.8125% | 20.96 USD | 0.30% | 20.22% | 124.72 USD | Industrials |
-| 5 | META | Meta Platforms, Inc. | 2.57p | 56.2500% | 100.63 USD | 0.32% | 20.55% | 590.59 USD | Communication Services |
+| 5 | META | Meta Platforms, Inc. | 2.57p | 56.2500% | 101.10 USD | 0.32% | 20.66% | 590.59 USD | Communication Services |
 | 6 | NKE | Nike, Inc. | 2.54p | 64.0625% | 8.79 USD | 0.20% | 12.07% | 81.58 USD | Consumer Cyclical |
 | 7 | CSCO | Cisco Systems, Inc. | 2.52p | 60.9375% | 6.85 USD | 0.22% | 14.45% | 54.28 USD | Technology |
-| 8 | TRV | The Travelers Companies, Inc. | 2.43p | 62.5000% | 22.33 USD | 0.17% | 10.25% | 250.90 USD | Financial Services |
+| 8 | TRV | The Travelers Companies, Inc. | 2.45p | 62.5000% | 23.28 USD | 0.18% | 10.74% | 250.90 USD | Financial Services |
 | 9 | WMT | Walmart Inc. | 2.43p | 57.8125% | 10.30 USD | 0.23% | 14.72% | 80.47 USD | Consumer Defensive |
-| 10 | HD | Home Depot, Inc. (The) | 2.35p | 57.8125% | 46.30 USD | 0.19% | 12.54% | 416.50 USD | Consumer Cyclical |
-| 11 | AXP | American Express Company | 2.34p | 59.3750% | 26.89 USD | 0.18% | 10.77% | 277.70 USD | Financial Services |
-| 12 | VZ | Verizon Communications Inc. | 2.28p | 64.0625% | 1.74 USD | 0.08% | 4.20% | 43.21 USD | Communication Services |
+| 10 | HD | Home Depot, Inc. (The) | 2.37p | 57.8125% | 48.53 USD | 0.20% | 13.23% | 416.50 USD | Consumer Cyclical |
+| 11 | AXP | American Express Company | 2.35p | 59.3750% | 27.54 USD | 0.18% | 11.06% | 277.70 USD | Financial Services |
+| 12 | VZ | Verizon Communications Inc. | 2.33p | 64.0625% | 2.38 USD | 0.10% | 5.82% | 43.21 USD | Communication Services |
 | 13 | KO | Coca-Cola Company (The) | 2.25p | 57.8125% | 6.07 USD | 0.15% | 9.44% | 70.29 USD | Consumer Defensive |
 | 14 | V | Visa Inc. | 2.18p | 60.9375% | 11.43 USD | 0.07% | 4.25% | 281.22 USD | Financial Services |
 | 15 | CAT | Caterpillar, Inc. | 2.14p | 54.6875% | 33.37 USD | 0.16% | 9.25% | 394.50 USD | Industrials |
-| 16 | UNH | UnitedHealth Group Incorporated | 2.12p | 53.1250% | 56.53 USD | 0.16% | 10.30% | 607.11 USD | Healthcare |
+| 16 | UNH | UnitedHealth Group Incorporated | 2.13p | 53.1250% | 58.47 USD | 0.17% | 10.69% | 607.11 USD | Healthcare |
 | 17 | JPM | JP Morgan Chase & Co. | 2.10p | 59.3750% | 7.86 USD | 0.07% | 3.68% | 221.44 USD | Financial Services |
-| 18 | NVDA | NVIDIA Corporation | 2.09p | 53.1250% | 11.71 USD | 0.22% | 9.27% | 138.68 USD | Technology |
-| 19 | JNJ | Johnson & Johnson | 2.06p | 54.6875% | 10.59 USD | 0.11% | 7.01% | 161.98 USD | Healthcare |
+| 18 | JNJ | Johnson & Johnson | 2.09p | 54.6875% | 11.73 USD | 0.13% | 7.83% | 161.98 USD | Healthcare |
+| 19 | NVDA | NVIDIA Corporation | 2.09p | 53.1250% | 11.72 USD | 0.22% | 9.28% | 138.68 USD | Technology |
 | 20 | GS | Goldman Sachs Group, Inc. (The) | 2.01p | 56.2500% | 19.73 USD | 0.08% | 3.92% | 522.00 USD | Financial Services |
 | 21 | XOM | Exxon Mobil Corporation | 2.01p | 53.1250% | 8.04 USD | 0.12% | 6.93% | 123.89 USD | Energy |
-| 22 | CVX | Chevron Corporation | 1.85p | 59.3750% | -5.99 USD | -0.05% | -3.80% | 151.84 USD | Energy |
+| 22 | CVX | Chevron Corporation | 1.94p | 60.9375% | -4.24 USD | -0.03% | -2.72% | 151.84 USD | Energy |
 | 23 | AAPL | Apple Inc. | 1.82p | 56.2500% | -3.52 USD | -0.01% | -1.50% | 231.39 USD | Technology |
-| 24 | PG | Procter & Gamble Company (The) | 1.73p | 48.4375% | 5.56 USD | 0.06% | 3.33% | 172.72 USD | Consumer Defensive |
-| 25 | DIS | Walt Disney Company (The) | 1.65p | 53.1250% | -3.50 USD | -0.05% | -3.55% | 95.12 USD | Communication Services |
+| 24 | PG | Procter & Gamble Company (The) | 1.80p | 50.0000% | 6.56 USD | 0.07% | 3.95% | 172.72 USD | Consumer Defensive |
+| 25 | DIS | Walt Disney Company (The) | 1.65p | 53.1250% | -3.50 USD | -0.05% | -3.55% | 95.03 USD | Communication Services |
 | 26 | AMZN | Amazon.com, Inc. | 1.52p | 48.4375% | -5.48 USD | -0.02% | -2.84% | 187.63 USD | Consumer Cyclical |
-| 27 | GOOGL | Alphabet Inc. | 1.47p | 54.6875% | -18.96 USD | -0.16% | -10.31% | 171.89 USD | Communication Services |
+| 27 | GOOGL | Alphabet Inc. | 1.48p | 54.6875% | -18.72 USD | -0.16% | -10.19% | 171.89 USD | Communication Services |
 | 28 | PFE | Pfizer, Inc. | 1.41p | 43.7500% | -0.42 USD | -0.01% | -1.42% | 29.08 USD | Healthcare |
 | 29 | DOW | Dow Inc. | 1.39p | 43.7500% | -1.16 USD | -0.02% | -2.12% | 53.49 USD | Basic Materials |
 | 30 | MSFT | Microsoft Corporation | 1.39p | 48.4375% | -30.38 USD | -0.10% | -6.76% | 419.24 USD | Technology |
-| 31 | MRK | Merck & Company, Inc. | 1.14p | 46.8750% | -15.75 USD | -0.20% | -12.56% | 109.73 USD | Healthcare |
+| 31 | MRK | Merck & Company, Inc. | 1.16p | 46.8750% | -14.92 USD | -0.19% | -11.97% | 109.73 USD | Healthcare |
 | 32 | BA | Boeing Company (The) | 0.63p | 39.0625% | -37.06 USD | -0.32% | -19.92% | 148.68 USD | Industrials |
 | 33 | WBA | Walgreens Boots Alliance, Inc. | 0.57p | 40.6250% | -2.73 USD | -0.38% | -23.27% | 9.01 USD | Healthcare |
 | 34 | INTC | Intel Corporation | 0.44p | 45.3125% | -10.90 USD | -0.48% | -31.74% | 23.45 USD | Technology |
-| 35 | BRK.AX | BROOKSIDE FPO [BRK] | 0.20p | 21.5385% | -0.00 AUD | -0.11% | -15.38% | 0.01 AUD | Energy |
+| 35 | BRK.AX | BROOKSIDE FPO [BRK] | -0.10p | 20.3125% | -0.00 AUD | -0.27% | -23.08% | 0.01 AUD | Energy |
 
 
 ## Results for NASDAQ - Last Three Months
@@ -1586,154 +1585,154 @@
 | 32 | NTNX | Nutanix, Inc. | 2.99p | 60.9375% | 14.24 USD | 0.44% | 28.27% | 64.70 USD | Technology |
 | 33 | HLNE | Hamilton Lane Incorporated | 2.99p | 64.0625% | 35.58 USD | 0.37% | 25.13% | 177.26 USD | Financial Services |
 | 34 | UAL | United Airlines Holdings, Inc. | 2.95p | 53.1250% | 16.46 USD | 0.52% | 34.97% | 63.56 USD | Industrials |
-| 35 | BABA | Alibaba Group Holding Limited | 2.94p | 50.0000% | 29.43 USD | 0.54% | 37.55% | 107.76 USD | Consumer Cyclical |
+| 35 | BABA | Alibaba Group Holding Limited | 2.94p | 50.0000% | 29.43 USD | 0.54% | 37.55% | 107.78 USD | Consumer Cyclical |
 | 36 | IBM | International Business Machines | 2.93p | 60.9375% | 49.45 USD | 0.38% | 26.61% | 235.40 USD | Technology |
 | 37 | AFL | AFLAC Incorporated | 2.93p | 65.6250% | 20.52 USD | 0.32% | 21.93% | 113.94 USD | Financial Services |
-| 38 | HWM | Howmet Aerospace Inc. | 2.92p | 60.9375% | 21.27 USD | 0.40% | 26.14% | 102.70 USD | Industrials |
-| 39 | PYPL | PayPal Holdings, Inc. | 2.91p | 56.2500% | 18.86 USD | 0.45% | 30.51% | 80.69 USD | Financial Services |
-| 40 | EBAY | eBay Inc. | 2.89p | 65.6250% | 11.46 USD | 0.31% | 20.68% | 66.91 USD | Consumer Cyclical |
-| 41 | MMM | 3M Company | 2.89p | 54.6875% | 32.45 USD | 0.48% | 31.41% | 135.60 USD | Industrials |
-| 42 | CVLT | Commvault Systems, Inc. | 2.88p | 54.6875% | 39.11 USD | 0.49% | 31.34% | 163.98 USD | Technology |
-| 43 | RVLV | Revolve Group, Inc. | 2.87p | 45.3125% | 7.38 USD | 0.64% | 40.26% | 25.65 USD | Consumer Cyclical |
-| 44 | PTON | Peloton Interactive, Inc. | 2.87p | 48.4375% | 1.46 USD | 0.67% | 37.06% | 5.43 USD | Consumer Cyclical |
-| 45 | CVNA | Carvana Co. | 2.85p | 54.6875% | 44.06 USD | 0.49% | 30.38% | 190.18 USD | Consumer Cyclical |
-| 46 | LMT | Lockheed Martin Corporation | 2.85p | 54.6875% | 142.29 USD | 0.43% | 30.37% | 610.00 USD | Industrials |
-| 47 | HBI | Hanesbrands Inc. | 2.84p | 46.8750% | 2.00 USD | 0.57% | 37.88% | 7.32 USD | Consumer Cyclical |
-| 48 | MKTX | MarketAxess Holdings, Inc. | 2.83p | 56.2500% | 62.86 USD | 0.42% | 28.36% | 284.89 USD | Financial Services |
-| 49 | FISV | Fiserv, Inc. | 2.83p | 63.4921% | 33.21 USD | 0.32% | 21.13% | 0.00 USD |  |
-| 50 | MCD | McDonald's Corporation | 2.83p | 64.0625% | 52.57 USD | 0.30% | 20.43% | 310.16 USD | Consumer Cyclical |
-| 51 | EAF | GrafTech International Ltd. | 2.83p | 50.0000% | 0.37 USD | 0.83% | 33.94% | 1.51 USD | Industrials |
-| 52 | BMY | Bristol-Myers Squibb Company | 2.82p | 56.2500% | 11.47 USD | 0.41% | 27.84% | 52.68 USD | Healthcare |
-| 53 | VNOM | Viper Energy, Inc. | 2.81p | 57.8125% | 10.72 USD | 0.40% | 25.99% | 51.99 USD | Energy |
-| 54 | AIRG | Airgain, Inc. | 2.80p | 54.6875% | 2.07 USD | 0.46% | 28.95% | 9.38 USD | Technology |
-| 55 | CBRE | CBRE Group Inc | 2.79p | 57.8125% | 24.86 USD | 0.38% | 25.57% | 122.04 USD | Real Estate |
-| 56 | BLK | BlackRock, Inc. | 2.78p | 65.6250% | 147.78 USD | 0.26% | 17.51% | 991.01 USD | Financial Services |
-| 57 | CM | Canadian Imperial Bank of Comme | 2.78p | 62.5000% | 10.29 USD | 0.30% | 20.49% | 61.05 USD | Financial Services |
-| 58 | WMB | Williams Companies, Inc. (The) | 2.78p | 62.5000% | 8.67 USD | 0.31% | 20.47% | 50.99 USD | Energy |
-| 59 | ORCL | Oracle Corporation | 2.77p | 59.3750% | 33.51 USD | 0.36% | 23.50% | 176.81 USD | Technology |
-| 60 | IDCC | InterDigital, Inc. | 2.77p | 56.2500% | 32.71 USD | 0.39% | 26.56% | 155.98 USD | Technology |
-| 61 | GILD | Gilead Sciences, Inc. | 2.77p | 64.0625% | 13.41 USD | 0.28% | 18.72% | 89.20 USD | Healthcare |
-| 62 | SPOT | Spotify Technology S.A. | 2.77p | 57.8125% | 74.00 USD | 0.38% | 24.79% | 377.95 USD | Communication Services |
-| 63 | YEXT | Yext, Inc. | 2.76p | 50.0000% | 1.69 USD | 0.50% | 32.31% | 7.00 USD | Technology |
-| 64 | IRM | Iron Mountain Incorporated (Del | 2.75p | 60.9375% | 21.22 USD | 0.32% | 21.22% | 121.19 USD | Real Estate |
-| 65 | SATS | EchoStar Corporation | 2.75p | 57.8125% | 4.89 USD | 0.47% | 24.12% | 25.19 USD | Technology |
-| 66 | UIS | Unisys Corporation New | 2.75p | 53.1250% | 1.40 USD | 0.49% | 28.75% | 6.55 USD | Technology |
-| 67 | MCY | Mercury General Corporation | 2.74p | 65.6250% | 9.22 USD | 0.25% | 16.30% | 65.78 USD | Financial Services |
-| 68 | APPS | Digital Turbine, Inc. | 2.74p | 39.0625% | 1.04 USD | 0.96% | 42.11% | 3.55 USD | Technology |
-| 69 | AON | Aon plc | 2.72p | 60.9375% | 60.83 USD | 0.30% | 20.43% | 358.74 USD | Financial Services |
-| 70 | SKT | Tanger Inc. | 2.72p | 60.9375% | 5.67 USD | 0.30% | 20.27% | 33.77 USD | Real Estate |
-| 71 | TRP | TC Energy Corporation | 2.72p | 64.0625% | 6.85 USD | 0.26% | 17.16% | 46.76 USD | Energy |
-| 72 | NTGR | NETGEAR, Inc. | 2.71p | 48.4375% | 5.07 USD | 0.54% | 32.46% | 20.76 USD | Technology |
-| 73 | BXP | BXP, Inc. | 2.71p | 59.3750% | 15.04 USD | 0.33% | 21.69% | 84.49 USD | Real Estate |
-| 74 | FEIM | Frequency Electronics, Inc. | 2.71p | 46.8750% | 3.24 USD | 0.59% | 33.86% | 12.95 USD | Technology |
-| 75 | KMI | Kinder Morgan, Inc. | 2.70p | 57.8125% | 4.64 USD | 0.34% | 22.92% | 24.91 USD | Energy |
+| 38 | LMT | Lockheed Martin Corporation | 2.93p | 56.2500% | 144.89 USD | 0.44% | 31.09% | 609.50 USD | Industrials |
+| 39 | HWM | Howmet Aerospace Inc. | 2.92p | 60.9375% | 21.34 USD | 0.40% | 26.25% | 102.70 USD | Industrials |
+| 40 | MMM | 3M Company | 2.91p | 54.6875% | 33.00 USD | 0.48% | 32.12% | 135.60 USD | Industrials |
+| 41 | PYPL | PayPal Holdings, Inc. | 2.91p | 56.2500% | 18.86 USD | 0.45% | 30.51% | 80.69 USD | Financial Services |
+| 42 | EBAY | eBay Inc. | 2.89p | 65.6250% | 11.46 USD | 0.31% | 20.68% | 66.91 USD | Consumer Cyclical |
+| 43 | CVLT | Commvault Systems, Inc. | 2.88p | 54.6875% | 39.11 USD | 0.49% | 31.34% | 163.98 USD | Technology |
+| 44 | RVLV | Revolve Group, Inc. | 2.87p | 45.3125% | 7.38 USD | 0.64% | 40.26% | 25.65 USD | Consumer Cyclical |
+| 45 | PTON | Peloton Interactive, Inc. | 2.87p | 48.4375% | 1.46 USD | 0.67% | 37.06% | 5.43 USD | Consumer Cyclical |
+| 46 | GILD | Gilead Sciences, Inc. | 2.86p | 65.6250% | 14.07 USD | 0.30% | 19.83% | 89.20 USD | Healthcare |
+| 47 | CVNA | Carvana Co. | 2.85p | 54.6875% | 44.06 USD | 0.49% | 30.38% | 190.18 USD | Consumer Cyclical |
+| 48 | MCD | McDonald's Corporation | 2.85p | 64.0625% | 54.06 USD | 0.31% | 21.13% | 310.16 USD | Consumer Cyclical |
+| 49 | HBI | Hanesbrands Inc. | 2.84p | 46.8750% | 2.00 USD | 0.57% | 37.88% | 7.32 USD | Consumer Cyclical |
+| 50 | MKTX | MarketAxess Holdings, Inc. | 2.83p | 56.2500% | 62.86 USD | 0.42% | 28.36% | 284.89 USD | Financial Services |
+| 51 | FISV | Fiserv, Inc. | 2.83p | 63.4921% | 33.21 USD | 0.32% | 21.13% | 0.00 USD |  |
+| 52 | EAF | GrafTech International Ltd. | 2.83p | 50.0000% | 0.37 USD | 0.83% | 33.94% | 1.51 USD | Industrials |
+| 53 | BMY | Bristol-Myers Squibb Company | 2.82p | 56.2500% | 11.47 USD | 0.41% | 27.84% | 52.68 USD | Healthcare |
+| 54 | VNOM | Viper Energy, Inc. | 2.81p | 57.8125% | 10.72 USD | 0.40% | 25.99% | 51.99 USD | Energy |
+| 55 | AIRG | Airgain, Inc. | 2.80p | 54.6875% | 2.07 USD | 0.46% | 28.95% | 9.38 USD | Technology |
+| 56 | CBRE | CBRE Group Inc | 2.79p | 57.8125% | 24.86 USD | 0.38% | 25.57% | 122.04 USD | Real Estate |
+| 57 | ORCL | Oracle Corporation | 2.78p | 59.3750% | 33.83 USD | 0.36% | 23.78% | 176.81 USD | Technology |
+| 58 | BLK | BlackRock, Inc. | 2.78p | 65.6250% | 147.78 USD | 0.26% | 17.51% | 991.01 USD | Financial Services |
+| 59 | CM | Canadian Imperial Bank of Comme | 2.78p | 62.5000% | 10.29 USD | 0.30% | 20.49% | 61.05 USD | Financial Services |
+| 60 | WMB | Williams Companies, Inc. (The) | 2.78p | 62.5000% | 8.67 USD | 0.31% | 20.47% | 50.99 USD | Energy |
+| 61 | IRM | Iron Mountain Incorporated (Del | 2.77p | 60.9375% | 21.83 USD | 0.33% | 21.97% | 121.19 USD | Real Estate |
+| 62 | IDCC | InterDigital, Inc. | 2.77p | 56.2500% | 32.71 USD | 0.39% | 26.56% | 155.98 USD | Technology |
+| 63 | SPOT | Spotify Technology S.A. | 2.77p | 57.8125% | 74.00 USD | 0.38% | 24.79% | 377.95 USD | Communication Services |
+| 64 | YEXT | Yext, Inc. | 2.76p | 50.0000% | 1.69 USD | 0.50% | 32.31% | 7.00 USD | Technology |
+| 65 | KMI | Kinder Morgan, Inc. | 2.76p | 57.8125% | 4.91 USD | 0.36% | 24.58% | 24.91 USD | Energy |
+| 66 | SATS | EchoStar Corporation | 2.75p | 57.8125% | 4.89 USD | 0.47% | 24.12% | 25.19 USD | Technology |
+| 67 | UIS | Unisys Corporation New | 2.75p | 53.1250% | 1.40 USD | 0.49% | 28.75% | 6.55 USD | Technology |
+| 68 | MCY | Mercury General Corporation | 2.74p | 65.6250% | 9.22 USD | 0.25% | 16.30% | 65.78 USD | Financial Services |
+| 69 | APPS | Digital Turbine, Inc. | 2.74p | 39.0625% | 1.04 USD | 0.96% | 42.11% | 3.55 USD | Technology |
+| 70 | AON | Aon plc | 2.72p | 60.9375% | 60.83 USD | 0.30% | 20.43% | 358.74 USD | Financial Services |
+| 71 | SKT | Tanger Inc. | 2.72p | 60.9375% | 5.67 USD | 0.30% | 20.27% | 33.77 USD | Real Estate |
+| 72 | TRP | TC Energy Corporation | 2.72p | 64.0625% | 6.85 USD | 0.26% | 17.16% | 46.76 USD | Energy |
+| 73 | NTGR | NETGEAR, Inc. | 2.71p | 48.4375% | 5.07 USD | 0.54% | 32.46% | 20.76 USD | Technology |
+| 74 | BXP | BXP, Inc. | 2.71p | 59.3750% | 15.04 USD | 0.33% | 21.69% | 84.49 USD | Real Estate |
+| 75 | FEIM | Frequency Electronics, Inc. | 2.71p | 46.8750% | 3.24 USD | 0.59% | 33.86% | 12.95 USD | Technology |
 | 76 | NOW | ServiceNow, Inc. | 2.69p | 56.2500% | 183.90 USD | 0.37% | 24.17% | 944.69 USD | Technology |
-| 77 | ATO | Atmos Energy Corporation | 2.68p | 65.6250% | 17.94 USD | 0.22% | 14.66% | 141.31 USD | Utilities |
+| 77 | ATO | Atmos Energy Corporation | 2.68p | 65.6250% | 17.94 USD | 0.22% | 14.66% | 141.30 USD | Utilities |
 | 78 | AVAV | AeroVironment, Inc. | 2.68p | 53.1250% | 45.62 USD | 0.43% | 26.91% | 215.56 USD | Industrials |
 | 79 | DVA | DaVita Inc. | 2.68p | 62.5000% | 24.11 USD | 0.27% | 17.51% | 162.60 USD | Healthcare |
 | 80 | UAA | Under Armour, Inc. | 2.67p | 43.7500% | 2.39 USD | 0.56% | 35.83% | 9.01 USD | Consumer Cyclical |
 | 81 | CW | Curtiss-Wright Corporation | 2.66p | 57.8125% | 62.06 USD | 0.33% | 21.72% | 350.96 USD | Industrials |
-| 82 | TTD | The Trade Desk, Inc. | 2.65p | 62.5000% | 17.02 USD | 0.29% | 16.86% | 118.04 USD | Technology |
-| 83 | ADP | Automatic Data Processing, Inc. | 2.65p | 60.9375% | 45.18 USD | 0.27% | 18.38% | 291.10 USD | Technology |
-| 84 | MET | MetLife, Inc. | 2.64p | 65.6250% | 10.22 USD | 0.21% | 13.51% | 85.96 USD | Financial Services |
-| 85 | SNCR | Synchronoss Technologies, Inc. | 2.64p | 53.1250% | 2.50 USD | 0.47% | 25.72% | 12.24 USD | Technology |
-| 86 | TMUS | T-Mobile US, Inc. | 2.64p | 60.9375% | 32.93 USD | 0.27% | 18.00% | 215.96 USD | Communication Services |
-| 87 | VMD | Viemed Healthcare, Inc. | 2.64p | 57.8125% | 1.51 USD | 0.34% | 20.94% | 8.75 USD | Healthcare |
-| 88 | BK | The Bank of New York Mellon Cor | 2.63p | 60.9375% | 11.49 USD | 0.26% | 17.67% | 77.98 USD | Financial Services |
-| 89 | ACGL | Arch Capital Group Ltd. | 2.62p | 64.0625% | 13.98 USD | 0.23% | 14.40% | 111.12 USD | Financial Services |
-| 90 | UNM | Unum Group | 2.62p | 60.9375% | 9.34 USD | 0.27% | 17.42% | 63.03 USD | Financial Services |
-| 91 | VTR | Ventas, Inc. | 2.62p | 57.8125% | 10.83 USD | 0.30% | 20.40% | 63.88 USD | Real Estate |
-| 92 | PBA | Pembina Pipeline Corp. | 2.61p | 65.6250% | 4.71 USD | 0.19% | 12.54% | 42.40 USD | Energy |
-| 93 | RTX | RTX Corporation | 2.61p | 57.8125% | 20.96 USD | 0.30% | 20.22% | 124.72 USD | Industrials |
-| 94 | GE | GE Aerospace | 2.60p | 59.3750% | 29.78 USD | 0.29% | 18.29% | 192.82 USD | Industrials |
-| 95 | MELI | MercadoLibre, Inc. | 2.58p | 56.2500% | 359.53 USD | 0.33% | 20.90% | 2077.46 USD | Consumer Cyclical |
-| 96 | PM | Philip Morris International Inc | 2.58p | 64.0625% | 13.98 USD | 0.20% | 13.18% | 120.15 USD | Consumer Defensive |
-| 97 | MCHX | Marchex, Inc. | 2.57p | 48.4375% | 0.41 USD | 0.45% | 28.28% | 0.00 USD | Communication Services |
-| 98 | ILMN | Illumina, Inc. | 2.57p | 57.8125% | 23.84 USD | 0.31% | 19.04% | 149.20 USD | Healthcare |
-| 99 | CMTL | Comtech Telecommunications Corp | 2.57p | 45.3125% | 1.06 USD | 0.56% | 31.27% | 4.48 USD | Technology |
-| 100 | META | Meta Platforms, Inc. | 2.57p | 56.2500% | 100.63 USD | 0.32% | 20.55% | 590.59 USD | Communication Services |
-| 101 | EIX | Edison International | 2.57p | 62.5000% | 10.62 USD | 0.22% | 14.37% | 84.63 USD | Utilities |
-| 102 | COLL | Collegium Pharmaceutical, Inc. | 2.57p | 57.8125% | 6.05 USD | 0.31% | 18.94% | 38.09 USD | Healthcare |
-| 103 | ENB | Enbridge Inc | 2.57p | 62.5000% | 5.14 USD | 0.22% | 14.27% | 41.10 USD | Energy |
-| 104 | CF | CF Industries Holdings, Inc. | 2.57p | 57.8125% | 13.80 USD | 0.29% | 18.85% | 87.54 USD | Basic Materials |
-| 105 | GDDY | GoDaddy Inc. | 2.56p | 65.6250% | 16.43 USD | 0.18% | 11.13% | 167.00 USD | Technology |
-| 106 | BOX | Box, Inc. | 2.56p | 54.6875% | 5.86 USD | 0.33% | 21.89% | 32.72 USD | Technology |
-| 107 | KKR | KKR & Co. Inc. | 2.56p | 59.3750% | 19.87 USD | 0.27% | 17.03% | 137.77 USD | Financial Services |
-| 108 | HTLF | Heartland Financial USA, Inc. | 2.55p | 62.5000% | 7.22 USD | 0.23% | 13.86% | 59.37 USD | Financial Services |
-| 109 | VERI | Veritone, Inc. | 2.55p | 48.4375% | 0.91 USD | 0.65% | 27.33% | 5.17 USD | Technology |
-| 110 | NKE | Nike, Inc. | 2.54p | 64.0625% | 8.79 USD | 0.20% | 12.07% | 81.58 USD | Consumer Cyclical |
-| 111 | AMPH | Amphastar Pharmaceuticals, Inc. | 2.54p | 51.5625% | 9.65 USD | 0.38% | 24.34% | 49.35 USD | Healthcare |
-| 112 | NMRK | Newmark Group, Inc. | 2.54p | 53.1250% | 2.74 USD | 0.35% | 22.64% | 14.87 USD | Real Estate |
-| 113 | PPL | PPL Corporation | 2.54p | 62.5000% | 3.79 USD | 0.20% | 13.40% | 32.09 USD | Utilities |
-| 114 | SMAR | Smartsheet Inc. | 2.53p | 51.5625% | 10.86 USD | 0.36% | 24.04% | 56.20 USD | Technology |
-| 115 | WYNN | Wynn Resorts, Limited | 2.53p | 54.6875% | 18.00 USD | 0.33% | 20.94% | 103.99 USD | Consumer Cyclical |
-| 116 | MSI | Motorola Solutions, Inc. | 2.53p | 56.2500% | 76.92 USD | 0.29% | 19.42% | 489.69 USD | Technology |
-| 117 | OKE | ONEOK, Inc. | 2.53p | 60.9375% | 12.44 USD | 0.23% | 14.62% | 97.56 USD | Energy |
-| 118 | AMP | Ameriprise Financial, Inc. | 2.52p | 57.8125% | 75.30 USD | 0.27% | 17.55% | 515.95 USD | Financial Services |
-| 119 | CSCO | Cisco Systems, Inc. | 2.52p | 60.9375% | 6.85 USD | 0.22% | 14.45% | 54.28 USD | Technology |
-| 120 | WELL | Welltower Inc. | 2.51p | 54.6875% | 21.66 USD | 0.30% | 20.45% | 127.64 USD | Real Estate |
-| 121 | MA | Mastercard Incorporated | 2.51p | 60.9375% | 63.13 USD | 0.22% | 14.23% | 507.60 USD | Financial Services |
-| 122 | CAH | Cardinal Health, Inc. | 2.51p | 57.8125% | 16.51 USD | 0.26% | 17.30% | 112.40 USD | Healthcare |
-| 123 | ORI | Old Republic International Corp | 2.51p | 64.0625% | 3.56 USD | 0.17% | 11.10% | 35.66 USD | Financial Services |
-| 124 | ABT | Abbott Laboratories | 2.51p | 60.9375% | 14.53 USD | 0.22% | 14.15% | 117.00 USD | Healthcare |
-| 125 | ASIX | AdvanSix Inc. | 2.51p | 53.1250% | 5.46 USD | 0.34% | 21.80% | 31.34 USD | Basic Materials |
-| 126 | DEI | Douglas Emmett, Inc. | 2.50p | 54.6875% | 3.02 USD | 0.31% | 20.12% | 18.02 USD | Real Estate |
-| 127 | CPRI | Capri Holdings Limited | 2.50p | 53.1250% | 7.65 USD | 0.34% | 21.61% | 43.38 USD | Consumer Cyclical |
-| 128 | ANET | Arista Networks, Inc. | 2.50p | 59.3750% | 55.24 USD | 0.27% | 15.42% | 415.52 USD | Technology |
-| 129 | SHOP | Shopify Inc. | 2.50p | 54.6875% | 13.96 USD | 0.35% | 20.02% | 83.75 USD | Technology |
-| 130 | NEE | NextEra Energy, Inc. | 2.50p | 59.3750% | 11.01 USD | 0.24% | 15.31% | 82.86 USD | Utilities |
+| 82 | PBA | Pembina Pipeline Corp. | 2.66p | 65.6250% | 5.17 USD | 0.21% | 13.94% | 42.40 USD | Energy |
+| 83 | TTD | The Trade Desk, Inc. | 2.65p | 62.5000% | 17.02 USD | 0.29% | 16.86% | 118.04 USD | Technology |
+| 84 | ADP | Automatic Data Processing, Inc. | 2.65p | 60.9375% | 45.18 USD | 0.27% | 18.38% | 291.10 USD | Technology |
+| 85 | MET | MetLife, Inc. | 2.64p | 65.6250% | 10.22 USD | 0.21% | 13.51% | 85.96 USD | Financial Services |
+| 86 | SNCR | Synchronoss Technologies, Inc. | 2.64p | 53.1250% | 2.50 USD | 0.47% | 25.72% | 12.24 USD | Technology |
+| 87 | TMUS | T-Mobile US, Inc. | 2.64p | 60.9375% | 32.93 USD | 0.27% | 18.00% | 215.96 USD | Communication Services |
+| 88 | VMD | Viemed Healthcare, Inc. | 2.64p | 57.8125% | 1.51 USD | 0.34% | 20.94% | 8.75 USD | Healthcare |
+| 89 | ENB | Enbridge Inc | 2.63p | 62.5000% | 5.75 USD | 0.24% | 16.23% | 41.10 USD | Energy |
+| 90 | BK | The Bank of New York Mellon Cor | 2.63p | 60.9375% | 11.49 USD | 0.26% | 17.67% | 77.98 USD | Financial Services |
+| 91 | ACGL | Arch Capital Group Ltd. | 2.62p | 64.0625% | 13.98 USD | 0.23% | 14.40% | 111.12 USD | Financial Services |
+| 92 | UNM | Unum Group | 2.62p | 60.9375% | 9.34 USD | 0.27% | 17.42% | 63.03 USD | Financial Services |
+| 93 | VTR | Ventas, Inc. | 2.62p | 57.8125% | 10.83 USD | 0.30% | 20.40% | 63.88 USD | Real Estate |
+| 94 | RTX | RTX Corporation | 2.61p | 57.8125% | 20.96 USD | 0.30% | 20.22% | 124.72 USD | Industrials |
+| 95 | CSCO | Cisco Systems, Inc. | 2.60p | 62.5000% | 7.21 USD | 0.24% | 15.32% | 54.28 USD | Technology |
+| 96 | GE | GE Aerospace | 2.60p | 59.3750% | 29.78 USD | 0.29% | 18.29% | 192.82 USD | Industrials |
+| 97 | MELI | MercadoLibre, Inc. | 2.58p | 56.2500% | 359.53 USD | 0.33% | 20.90% | 2077.46 USD | Consumer Cyclical |
+| 98 | PM | Philip Morris International Inc | 2.58p | 64.0625% | 13.98 USD | 0.20% | 13.18% | 120.15 USD | Consumer Defensive |
+| 99 | META | Meta Platforms, Inc. | 2.57p | 56.2500% | 101.10 USD | 0.32% | 20.66% | 590.59 USD | Communication Services |
+| 100 | OKE | ONEOK, Inc. | 2.57p | 60.9375% | 13.45 USD | 0.25% | 16.00% | 97.56 USD | Energy |
+| 101 | MCHX | Marchex, Inc. | 2.57p | 48.4375% | 0.41 USD | 0.45% | 28.28% | 0.00 USD | Communication Services |
+| 102 | ILMN | Illumina, Inc. | 2.57p | 57.8125% | 23.84 USD | 0.31% | 19.04% | 149.20 USD | Healthcare |
+| 103 | CMTL | Comtech Telecommunications Corp | 2.57p | 45.3125% | 1.06 USD | 0.56% | 31.27% | 4.48 USD | Technology |
+| 104 | EIX | Edison International | 2.57p | 62.5000% | 10.62 USD | 0.22% | 14.37% | 84.63 USD | Utilities |
+| 105 | COLL | Collegium Pharmaceutical, Inc. | 2.57p | 57.8125% | 6.05 USD | 0.31% | 18.94% | 38.09 USD | Healthcare |
+| 106 | CF | CF Industries Holdings, Inc. | 2.57p | 57.8125% | 13.80 USD | 0.29% | 18.85% | 87.54 USD | Basic Materials |
+| 107 | GDDY | GoDaddy Inc. | 2.56p | 65.6250% | 16.43 USD | 0.18% | 11.13% | 167.00 USD | Technology |
+| 108 | BOX | Box, Inc. | 2.56p | 54.6875% | 5.86 USD | 0.33% | 21.89% | 32.72 USD | Technology |
+| 109 | NKE | Nike, Inc. | 2.56p | 64.0625% | 9.11 USD | 0.21% | 12.57% | 81.58 USD | Consumer Cyclical |
+| 110 | KKR | KKR & Co. Inc. | 2.56p | 59.3750% | 19.87 USD | 0.27% | 17.03% | 137.77 USD | Financial Services |
+| 111 | HTLF | Heartland Financial USA, Inc. | 2.55p | 62.5000% | 7.22 USD | 0.23% | 13.86% | 59.37 USD | Financial Services |
+| 112 | VERI | Veritone, Inc. | 2.55p | 48.4375% | 0.91 USD | 0.65% | 27.33% | 5.17 USD | Technology |
+| 113 | AMPH | Amphastar Pharmaceuticals, Inc. | 2.54p | 51.5625% | 9.65 USD | 0.38% | 24.34% | 49.35 USD | Healthcare |
+| 114 | NMRK | Newmark Group, Inc. | 2.54p | 53.1250% | 2.74 USD | 0.35% | 22.64% | 14.87 USD | Real Estate |
+| 115 | PPL | PPL Corporation | 2.54p | 62.5000% | 3.79 USD | 0.20% | 13.40% | 32.09 USD | Utilities |
+| 116 | SMAR | Smartsheet Inc. | 2.53p | 51.5625% | 10.86 USD | 0.36% | 24.04% | 56.20 USD | Technology |
+| 117 | WYNN | Wynn Resorts, Limited | 2.53p | 54.6875% | 18.00 USD | 0.33% | 20.94% | 103.99 USD | Consumer Cyclical |
+| 118 | MSI | Motorola Solutions, Inc. | 2.53p | 56.2500% | 76.92 USD | 0.29% | 19.42% | 489.69 USD | Technology |
+| 119 | NEE | NextEra Energy, Inc. | 2.52p | 59.3750% | 11.47 USD | 0.25% | 16.06% | 82.86 USD | Utilities |
+| 120 | AMP | Ameriprise Financial, Inc. | 2.52p | 57.8125% | 75.30 USD | 0.27% | 17.55% | 515.95 USD | Financial Services |
+| 121 | MA | Mastercard Incorporated | 2.52p | 60.9375% | 63.72 USD | 0.22% | 14.39% | 507.60 USD | Financial Services |
+| 122 | WELL | Welltower Inc. | 2.51p | 54.6875% | 21.66 USD | 0.30% | 20.45% | 127.64 USD | Real Estate |
+| 123 | CAH | Cardinal Health, Inc. | 2.51p | 57.8125% | 16.51 USD | 0.26% | 17.30% | 112.40 USD | Healthcare |
+| 124 | ORI | Old Republic International Corp | 2.51p | 64.0625% | 3.56 USD | 0.17% | 11.10% | 35.66 USD | Financial Services |
+| 125 | ABT | Abbott Laboratories | 2.51p | 60.9375% | 14.53 USD | 0.22% | 14.15% | 117.00 USD | Healthcare |
+| 126 | ASIX | AdvanSix Inc. | 2.51p | 53.1250% | 5.46 USD | 0.34% | 21.80% | 31.34 USD | Basic Materials |
+| 127 | DEI | Douglas Emmett, Inc. | 2.50p | 54.6875% | 3.02 USD | 0.31% | 20.12% | 18.02 USD | Real Estate |
+| 128 | CPRI | Capri Holdings Limited | 2.50p | 53.1250% | 7.65 USD | 0.34% | 21.61% | 43.38 USD | Consumer Cyclical |
+| 129 | ANET | Arista Networks, Inc. | 2.50p | 59.3750% | 55.24 USD | 0.27% | 15.42% | 414.16 USD | Technology |
+| 130 | SHOP | Shopify Inc. | 2.50p | 54.6875% | 13.96 USD | 0.35% | 20.02% | 83.75 USD | Technology |
 | 131 | TWLO | Twilio Inc. | 2.50p | 56.2500% | 11.01 USD | 0.30% | 18.36% | 70.99 USD | Technology |
 | 132 | ALL | Allstate Corporation (The) | 2.49p | 60.9375% | 22.72 USD | 0.21% | 13.54% | 192.04 USD | Financial Services |
 | 133 | BX | Blackstone Inc. | 2.49p | 60.9375% | 18.48 USD | 0.22% | 13.49% | 155.59 USD | Financial Services |
 | 134 | ICE | Intercontinental Exchange Inc. | 2.49p | 64.0625% | 15.46 USD | 0.16% | 10.38% | 167.57 USD | Financial Services |
 | 135 | LOW | Lowe's Companies, Inc. | 2.49p | 57.8125% | 39.76 USD | 0.25% | 16.50% | 280.73 USD | Consumer Cyclical |
 | 136 | AIZ | Assurant, Inc. | 2.48p | 60.9375% | 22.63 USD | 0.21% | 13.29% | 197.59 USD | Financial Services |
-| 137 | CHKP | Check Point Software Technologi | 2.47p | 54.6875% | 33.32 USD | 0.29% | 19.07% | 208.00 USD | Technology |
-| 138 | ACM | AECOM | 2.47p | 57.8125% | 14.60 USD | 0.25% | 15.91% | 106.25 USD | Industrials |
-| 139 | CLX | Clorox Company (The) | 2.46p | 54.6875% | 25.65 USD | 0.28% | 18.88% | 161.51 USD | Consumer Defensive |
-| 140 | PCG | Pacific Gas & Electric Co. | 2.46p | 59.3750% | 2.52 USD | 0.22% | 14.22% | 20.30 USD | Utilities |
-| 141 | LDOS | Leidos Holdings, Inc. | 2.46p | 62.5000% | 16.82 USD | 0.17% | 11.08% | 168.80 USD | Technology |
-| 142 | FIS | Fidelity National Information S | 2.46p | 59.3750% | 10.88 USD | 0.22% | 14.15% | 87.91 USD | Technology |
-| 143 | D | Dominion Energy, Inc. | 2.46p | 62.5000% | 5.64 USD | 0.17% | 11.00% | 56.95 USD | Utilities |
-| 144 | KTB | Kontoor Brands, Inc. | 2.45p | 53.1250% | 13.66 USD | 0.31% | 19.99% | 83.79 USD | Consumer Cyclical |
-| 145 | MDT | Medtronic plc. | 2.44p | 57.8125% | 11.91 USD | 0.23% | 15.25% | 90.01 USD | Healthcare |
-| 146 | HAS | Hasbro, Inc. | 2.44p | 57.8125% | 9.45 USD | 0.23% | 15.21% | 71.60 USD | Consumer Cyclical |
-| 147 | APD | Air Products and Chemicals, Inc | 2.44p | 53.1250% | 52.81 USD | 0.31% | 19.74% | 320.21 USD | Basic Materials |
-| 148 | BSX | Boston Scientific Corporation | 2.44p | 60.9375% | 9.41 USD | 0.19% | 12.04% | 87.48 USD | Healthcare |
-| 149 | BAM | Brookfield Asset Management Inc | 2.43p | 56.2500% | 6.97 USD | 0.26% | 16.53% | 51.24 USD | Financial Services |
-| 150 | OHI | Omega Healthcare Investors, Inc | 2.43p | 60.9375% | 4.25 USD | 0.18% | 11.90% | 39.92 USD | Real Estate |
-| 151 | CB | Chubb Limited | 2.43p | 62.5000% | 27.06 USD | 0.16% | 10.34% | 290.00 USD | Financial Services |
-| 152 | TRV | The Travelers Companies, Inc. | 2.43p | 62.5000% | 22.33 USD | 0.17% | 10.25% | 250.90 USD | Financial Services |
-| 153 | NRG | NRG Energy, Inc. | 2.43p | 54.6875% | 13.65 USD | 0.29% | 17.86% | 91.12 USD | Utilities |
-| 154 | SHAK | Shake Shack, Inc. | 2.43p | 50.0000% | 19.70 USD | 0.37% | 22.39% | 110.00 USD | Consumer Cyclical |
-| 155 | WMT | Walmart Inc. | 2.43p | 57.8125% | 10.30 USD | 0.23% | 14.72% | 80.47 USD | Consumer Defensive |
-| 156 | NDAQ | Nasdaq, Inc. | 2.42p | 57.8125% | 9.27 USD | 0.23% | 14.64% | 72.63 USD | Financial Services |
-| 157 | ERII | Energy Recovery, Inc. | 2.42p | 53.1250% | 2.96 USD | 0.34% | 19.21% | 18.38 USD | Industrials |
-| 158 | PAYX | Paychex, Inc. | 2.42p | 57.8125% | 18.07 USD | 0.22% | 14.54% | 142.37 USD | Technology |
-| 159 | RL | Ralph Lauren Corporation | 2.41p | 53.1250% | 32.91 USD | 0.29% | 19.00% | 206.07 USD | Consumer Cyclical |
-| 160 | T | AT&T Inc. | 2.41p | 59.3750% | 2.41 USD | 0.20% | 12.79% | 21.37 USD | Communication Services |
-| 161 | JEF | Jefferies Financial Group Inc. | 2.41p | 57.8125% | 8.13 USD | 0.23% | 14.32% | 64.99 USD | Financial Services |
-| 162 | GIS | General Mills, Inc. | 2.41p | 59.3750% | 7.93 USD | 0.19% | 12.61% | 71.27 USD | Consumer Defensive |
-| 163 | PRGS | Progress Software Corporation | 2.41p | 54.6875% | 9.72 USD | 0.27% | 17.19% | 66.31 USD | Technology |
+| 137 | PRGS | Progress Software Corporation | 2.47p | 56.2500% | 9.89 USD | 0.27% | 17.55% | 66.31 USD | Technology |
+| 138 | CHKP | Check Point Software Technologi | 2.47p | 54.6875% | 33.32 USD | 0.29% | 19.07% | 208.00 USD | Technology |
+| 139 | ACM | AECOM | 2.47p | 57.8125% | 14.60 USD | 0.25% | 15.91% | 106.25 USD | Industrials |
+| 140 | CLX | Clorox Company (The) | 2.46p | 54.6875% | 25.65 USD | 0.28% | 18.88% | 161.51 USD | Consumer Defensive |
+| 141 | PCG | Pacific Gas & Electric Co. | 2.46p | 59.3750% | 2.52 USD | 0.22% | 14.22% | 20.30 USD | Utilities |
+| 142 | LDOS | Leidos Holdings, Inc. | 2.46p | 62.5000% | 16.82 USD | 0.17% | 11.08% | 168.80 USD | Technology |
+| 143 | FIS | Fidelity National Information S | 2.46p | 59.3750% | 10.88 USD | 0.22% | 14.15% | 88.15 USD | Technology |
+| 144 | D | Dominion Energy, Inc. | 2.46p | 62.5000% | 5.64 USD | 0.17% | 11.00% | 56.95 USD | Utilities |
+| 145 | KTB | Kontoor Brands, Inc. | 2.45p | 53.1250% | 13.66 USD | 0.31% | 19.99% | 82.57 USD | Consumer Cyclical |
+| 146 | MDT | Medtronic plc. | 2.44p | 57.8125% | 11.91 USD | 0.23% | 15.25% | 90.01 USD | Healthcare |
+| 147 | HAS | Hasbro, Inc. | 2.44p | 57.8125% | 9.45 USD | 0.23% | 15.21% | 71.60 USD | Consumer Cyclical |
+| 148 | APD | Air Products and Chemicals, Inc | 2.44p | 53.1250% | 52.81 USD | 0.31% | 19.74% | 320.21 USD | Basic Materials |
+| 149 | BSX | Boston Scientific Corporation | 2.44p | 60.9375% | 9.41 USD | 0.19% | 12.04% | 87.48 USD | Healthcare |
+| 150 | WMT | Walmart Inc. | 2.44p | 57.8125% | 10.50 USD | 0.23% | 15.04% | 80.47 USD | Consumer Defensive |
+| 151 | BAM | Brookfield Asset Management Inc | 2.43p | 56.2500% | 6.97 USD | 0.26% | 16.53% | 51.24 USD | Financial Services |
+| 152 | OHI | Omega Healthcare Investors, Inc | 2.43p | 60.9375% | 4.25 USD | 0.18% | 11.90% | 39.92 USD | Real Estate |
+| 153 | CB | Chubb Limited | 2.43p | 62.5000% | 27.06 USD | 0.16% | 10.34% | 290.00 USD | Financial Services |
+| 154 | TRV | The Travelers Companies, Inc. | 2.43p | 62.5000% | 22.33 USD | 0.17% | 10.25% | 250.90 USD | Financial Services |
+| 155 | NRG | NRG Energy, Inc. | 2.43p | 54.6875% | 13.65 USD | 0.29% | 17.86% | 91.12 USD | Utilities |
+| 156 | SHAK | Shake Shack, Inc. | 2.43p | 50.0000% | 19.70 USD | 0.37% | 22.39% | 110.00 USD | Consumer Cyclical |
+| 157 | NDAQ | Nasdaq, Inc. | 2.42p | 57.8125% | 9.27 USD | 0.23% | 14.64% | 72.63 USD | Financial Services |
+| 158 | ERII | Energy Recovery, Inc. | 2.42p | 53.1250% | 2.96 USD | 0.34% | 19.21% | 18.38 USD | Industrials |
+| 159 | PAYX | Paychex, Inc. | 2.42p | 57.8125% | 18.07 USD | 0.22% | 14.54% | 142.37 USD | Technology |
+| 160 | RL | Ralph Lauren Corporation | 2.41p | 53.1250% | 32.91 USD | 0.29% | 19.00% | 206.07 USD | Consumer Cyclical |
+| 161 | T | AT&T Inc. | 2.41p | 59.3750% | 2.41 USD | 0.20% | 12.79% | 21.37 USD | Communication Services |
+| 162 | JEF | Jefferies Financial Group Inc. | 2.41p | 57.8125% | 8.13 USD | 0.23% | 14.32% | 64.99 USD | Financial Services |
+| 163 | GIS | General Mills, Inc. | 2.41p | 59.3750% | 7.93 USD | 0.19% | 12.61% | 71.27 USD | Consumer Defensive |
 | 164 | ED | Consolidated Edison, Inc. | 2.40p | 59.3750% | 11.49 USD | 0.19% | 12.55% | 102.81 USD | Utilities |
 | 165 | SUNS | Sunrise Realty Trust, Inc. | 2.40p | 48.4375% | 2.80 USD | 0.40% | 23.26% | 18.91 USD | Real Estate |
-| 166 | PSA | Public Storage | 2.40p | 59.3750% | 38.07 USD | 0.20% | 12.46% | 343.99 USD | Real Estate |
+| 166 | PSA | Public Storage | 2.40p | 59.3750% | 38.07 USD | 0.20% | 12.46% | 350.00 USD | Real Estate |
 | 167 | XNET | Xunlei Limited | 2.40p | 46.8750% | 0.40 USD | 0.42% | 24.69% | 0.00 USD | Technology |
 | 168 | BV | BrightView Holdings, Inc. | 2.40p | 50.0000% | 2.90 USD | 0.34% | 21.51% | 17.38 USD | Industrials |
-| 169 | NEM | Newmont Corporation | 2.38p | 57.8125% | 6.50 USD | 0.21% | 13.45% | 54.80 USD | Basic Materials |
-| 170 | R | Ryder System, Inc. | 2.37p | 59.3750% | 15.78 USD | 0.19% | 11.62% | 151.99 USD | Industrials |
-| 171 | KNSA | Kiniksa Pharmaceuticals, Ltd. | 2.37p | 51.5625% | 4.28 USD | 0.34% | 19.15% | 26.67 USD | Healthcare |
-| 172 | VIAV | Viavi Solutions Inc. | 2.36p | 53.1250% | 1.37 USD | 0.28% | 17.52% | 9.20 USD | Technology |
-| 173 | CRVL | CorVel Corp. | 2.36p | 59.3750% | 32.50 USD | 0.19% | 11.29% | 404.49 USD | Financial Services |
-| 174 | BZUN | Baozun Inc. | 2.36p | 48.4375% | 0.61 USD | 0.41% | 21.94% | 4.27 USD | Consumer Cyclical |
-| 175 | BLDR | Builders FirstSource, Inc. | 2.36p | 51.5625% | 31.27 USD | 0.31% | 18.90% | 197.23 USD | Industrials |
-| 176 | COLB | Columbia Banking System, Inc. | 2.36p | 54.6875% | 3.69 USD | 0.26% | 15.72% | 27.17 USD | Financial Services |
-| 177 | HD | Home Depot, Inc. (The) | 2.35p | 57.8125% | 46.30 USD | 0.19% | 12.54% | 416.50 USD | Consumer Cyclical |
-| 178 | CINF | Cincinnati Financial Corporatio | 2.35p | 60.9375% | 11.75 USD | 0.15% | 9.39% | 146.97 USD | Financial Services |
-| 179 | EXC | Exelon Corporation | 2.35p | 57.8125% | 4.41 USD | 0.19% | 12.42% | 39.94 USD | Utilities |
-| 180 | ADSK | Autodesk, Inc. | 2.35p | 57.8125% | 31.49 USD | 0.20% | 12.41% | 285.33 USD | Technology |
-| 181 | CVS | CVS Health Corporation | 2.34p | 57.8125% | 7.40 USD | 0.20% | 12.32% | 67.63 USD | Healthcare |
-| 182 | AXP | American Express Company | 2.34p | 59.3750% | 26.89 USD | 0.18% | 10.77% | 277.70 USD | Financial Services |
+| 169 | CVS | CVS Health Corporation | 2.39p | 57.8125% | 8.07 USD | 0.22% | 13.59% | 67.63 USD | Healthcare |
+| 170 | NEM | Newmont Corporation | 2.38p | 57.8125% | 6.50 USD | 0.21% | 13.45% | 54.80 USD | Basic Materials |
+| 171 | HD | Home Depot, Inc. (The) | 2.37p | 57.8125% | 48.53 USD | 0.20% | 13.23% | 416.50 USD | Consumer Cyclical |
+| 172 | R | Ryder System, Inc. | 2.37p | 59.3750% | 15.78 USD | 0.19% | 11.62% | 151.99 USD | Industrials |
+| 173 | KNSA | Kiniksa Pharmaceuticals, Ltd. | 2.37p | 51.5625% | 4.28 USD | 0.34% | 19.15% | 26.67 USD | Healthcare |
+| 174 | VIAV | Viavi Solutions Inc. | 2.36p | 53.1250% | 1.37 USD | 0.28% | 17.52% | 9.20 USD | Technology |
+| 175 | CRVL | CorVel Corp. | 2.36p | 59.3750% | 32.50 USD | 0.19% | 11.29% | 404.49 USD | Financial Services |
+| 176 | BZUN | Baozun Inc. | 2.36p | 48.4375% | 0.61 USD | 0.41% | 21.94% | 4.27 USD | Consumer Cyclical |
+| 177 | BLDR | Builders FirstSource, Inc. | 2.36p | 51.5625% | 31.27 USD | 0.31% | 18.90% | 197.23 USD | Industrials |
+| 178 | COLB | Columbia Banking System, Inc. | 2.36p | 54.6875% | 3.69 USD | 0.26% | 15.72% | 27.17 USD | Financial Services |
+| 179 | AXP | American Express Company | 2.35p | 59.3750% | 27.54 USD | 0.18% | 11.06% | 277.70 USD | Financial Services |
+| 180 | CINF | Cincinnati Financial Corporatio | 2.35p | 60.9375% | 11.75 USD | 0.15% | 9.39% | 146.97 USD | Financial Services |
+| 181 | EXC | Exelon Corporation | 2.35p | 57.8125% | 4.41 USD | 0.19% | 12.42% | 39.94 USD | Utilities |
+| 182 | ADSK | Autodesk, Inc. | 2.35p | 57.8125% | 31.49 USD | 0.20% | 12.41% | 285.33 USD | Technology |
 | 183 | NIO | NIO Inc. | 2.34p | 51.5625% | 0.89 USD | 0.38% | 18.16% | 5.81 USD | Consumer Cyclical |
 | 184 | MKC | McCormick & Company, Incorporat | 2.34p | 59.3750% | 7.73 USD | 0.16% | 10.54% | 80.72 USD | Consumer Defensive |
 | 185 | AXS | Axis Capital Holdings Limited | 2.34p | 57.8125% | 8.72 USD | 0.19% | 12.08% | 81.09 USD | Financial Services |
@@ -1743,357 +1742,357 @@
 | 189 | ROKU | Roku, Inc. | 2.33p | 51.5625% | 11.63 USD | 0.32% | 17.97% | 76.46 USD | Communication Services |
 | 190 | CUE | Cue Biopharma, Inc. | 2.33p | 39.0625% | 0.28 USD | 0.90% | 29.83% | 1.23 USD | Healthcare |
 | 191 | ZM | Zoom Video Communications, Inc. | 2.32p | 54.6875% | 8.73 USD | 0.24% | 14.76% | 67.91 USD | Technology |
-| 192 | RY | Royal Bank Of Canada | 2.32p | 57.8125% | 12.89 USD | 0.18% | 11.66% | 126.26 USD | Financial Services |
-| 193 | DGII | Digi International Inc. | 2.32p | 51.5625% | 4.42 USD | 0.31% | 17.69% | 29.44 USD | Technology |
-| 194 | OMC | Omnicom Group Inc. | 2.31p | 60.9375% | 7.91 USD | 0.14% | 8.30% | 103.40 USD | Communication Services |
-| 195 | LPSN | LivePerson, Inc. | 2.31p | 39.0625% | 0.26 USD | 0.75% | 29.55% | 1.15 USD | Technology |
-| 196 | FCPT | Four Corners Property Trust, In | 2.31p | 60.9375% | 2.20 USD | 0.13% | 8.27% | 29.36 USD | Real Estate |
-| 197 | XBIT | XBiotech Inc. | 2.31p | 51.5625% | 1.14 USD | 0.39% | 17.38% | 7.77 USD | Healthcare |
-| 198 | INFO | Harbor ETF Trust Harbor PanAgor | 2.29p | 66.6667% | 0.29 USD | 0.71% | 1.42% | 20.45 USD |  |
-| 199 | KDP | Keurig Dr Pepper Inc. | 2.29p | 56.2500% | 3.99 USD | 0.19% | 12.22% | 36.66 USD | Consumer Defensive |
-| 200 | ACN | Accenture plc | 2.29p | 56.2500% | 39.60 USD | 0.19% | 12.18% | 366.55 USD | Technology |
-| 201 | EVRG | Evergy, Inc. | 2.29p | 59.3750% | 4.96 USD | 0.14% | 9.06% | 59.75 USD | Utilities |
-| 202 | SRE | DBA Sempra | 2.28p | 59.3750% | 6.78 USD | 0.14% | 8.88% | 84.50 USD | Utilities |
-| 203 | VZ | Verizon Communications Inc. | 2.28p | 64.0625% | 1.74 USD | 0.08% | 4.20% | 43.21 USD | Communication Services |
-| 204 | GNW | Genworth Financial Inc | 2.28p | 56.2500% | 0.76 USD | 0.19% | 11.89% | 7.17 USD | Financial Services |
-| 205 | SPG | Simon Property Group, Inc. | 2.27p | 54.6875% | 20.17 USD | 0.21% | 13.31% | 171.74 USD | Real Estate |
-| 206 | SBUX | Starbucks Corporation | 2.27p | 42.1875% | 19.25 USD | 0.42% | 25.49% | 94.84 USD | Consumer Cyclical |
-| 207 | TILE | Interface, Inc. | 2.26p | 51.5625% | 2.68 USD | 0.26% | 16.06% | 19.39 USD | Industrials |
-| 208 | BRX | Brixmor Property Group Inc. | 2.26p | 56.2500% | 2.79 USD | 0.18% | 11.44% | 27.37 USD | Real Estate |
-| 209 | BL | BlackLine, Inc. | 2.26p | 51.5625% | 7.72 USD | 0.26% | 15.86% | 56.45 USD | Technology |
-| 210 | FTS | Fortis Inc. | 2.25p | 57.8125% | 3.82 USD | 0.15% | 9.59% | 44.00 USD | Utilities |
-| 211 | ABBV | AbbVie Inc. | 2.25p | 51.5625% | 26.45 USD | 0.24% | 15.63% | 195.87 USD | Healthcare |
-| 212 | KO | Coca-Cola Company (The) | 2.25p | 57.8125% | 6.07 USD | 0.15% | 9.44% | 70.29 USD | Consumer Defensive |
-| 213 | SYK | Stryker Corporation | 2.25p | 59.3750% | 26.28 USD | 0.13% | 7.88% | 363.00 USD | Healthcare |
-| 214 | CRM | Salesforce, Inc. | 2.24p | 53.1250% | 35.61 USD | 0.22% | 13.91% | 291.35 USD | Technology |
-| 215 | MTB | M&T Bank Corporation | 2.24p | 53.1250% | 22.44 USD | 0.22% | 13.76% | 190.00 USD | Financial Services |
-| 216 | LAZ | Lazard, Inc. | 2.23p | 51.5625% | 6.88 USD | 0.26% | 15.18% | 54.99 USD | Financial Services |
-| 217 | CME | CME Group Inc. | 2.23p | 53.1250% | 26.83 USD | 0.21% | 13.59% | 233.92 USD | Financial Services |
-| 218 | FLS | Flowserve Corporation | 2.23p | 59.3750% | 3.81 USD | 0.13% | 7.40% | 55.24 USD | Industrials |
-| 219 | TSCO | Tractor Supply Company | 2.23p | 59.3750% | 20.57 USD | 0.12% | 7.26% | 303.90 USD | Consumer Cyclical |
-| 220 | VLY | Valley National Bancorp | 2.22p | 50.0000% | 1.30 USD | 0.27% | 16.43% | 9.22 USD | Financial Services |
-| 221 | IIPR | Innovative Industrial Propertie | 2.22p | 57.8125% | 10.48 USD | 0.14% | 8.61% | 135.00 USD | Real Estate |
-| 222 | FOXA | Fox Corporation | 2.22p | 53.1250% | 4.82 USD | 0.20% | 13.12% | 41.57 USD | Communication Services |
-| 223 | CSGS | CSG Systems International, Inc. | 2.21p | 56.2500% | 4.42 USD | 0.17% | 10.01% | 62.02 USD | Technology |
-| 224 | CMI | Cummins Inc. | 2.21p | 53.1250% | 38.94 USD | 0.21% | 13.00% | 342.41 USD | Industrials |
-| 225 | ISRG | Intuitive Surgical, Inc. | 2.21p | 54.6875% | 49.60 USD | 0.19% | 11.32% | 487.73 USD | Healthcare |
-| 226 | RCL | Royal Caribbean Cruises Ltd. | 2.21p | 51.5625% | 24.70 USD | 0.25% | 14.35% | 197.22 USD | Consumer Cyclical |
-| 227 | DUK | Duke Energy Corporation (Holdin | 2.20p | 57.8125% | 8.56 USD | 0.13% | 8.04% | 115.08 USD | Utilities |
-| 228 | AVB | AvalonBay Communities, Inc. | 2.19p | 57.8125% | 16.12 USD | 0.13% | 7.84% | 223.99 USD | Real Estate |
-| 229 | KHC | The Kraft Heinz Company | 2.19p | 57.8125% | 2.52 USD | 0.12% | 7.67% | 37.08 USD | Consumer Defensive |
-| 230 | SO | Southern Company (The) | 2.19p | 54.6875% | 8.72 USD | 0.17% | 10.75% | 90.00 USD | Utilities |
-| 231 | IRDM | Iridium Communications Inc | 2.19p | 51.5625% | 3.64 USD | 0.24% | 13.79% | 30.05 USD | Communication Services |
-| 232 | EPR | EPR Properties | 2.18p | 54.6875% | 4.70 USD | 0.17% | 10.66% | 48.98 USD | Real Estate |
-| 233 | A | Agilent Technologies, Inc. | 2.18p | 59.3750% | 8.19 USD | 0.10% | 6.02% | 144.49 USD | Healthcare |
-| 234 | PANW | Palo Alto Networks, Inc. | 2.18p | 54.6875% | 35.41 USD | 0.18% | 10.46% | 374.03 USD | Technology |
-| 235 | V | Visa Inc. | 2.18p | 60.9375% | 11.43 USD | 0.07% | 4.25% | 281.22 USD | Financial Services |
-| 236 | SBGI | Sinclair, Inc. | 2.17p | 53.1250% | 1.83 USD | 0.23% | 11.78% | 17.38 USD | Communication Services |
-| 237 | L | Loews Corporation | 2.17p | 62.5000% | 1.99 USD | 0.05% | 2.54% | 80.43 USD | Financial Services |
-| 238 | PH | Parker-Hannifin Corporation | 2.16p | 51.5625% | 74.85 USD | 0.22% | 13.16% | 644.69 USD | Industrials |
-| 239 | MMC | Marsh & McLennan Companies, Inc | 2.16p | 60.9375% | 8.61 USD | 0.07% | 3.93% | 227.65 USD | Financial Services |
-| 240 | WB | Weibo Corporation | 2.16p | 46.8750% | 1.46 USD | 0.33% | 17.72% | 9.71 USD | Communication Services |
-| 241 | HUBS | HubSpot, Inc. | 2.16p | 50.0000% | 71.28 USD | 0.23% | 14.58% | 567.00 USD | Technology |
-| 242 | RDCM | Radcom Ltd. | 2.16p | 53.1250% | 1.08 USD | 0.21% | 11.44% | 10.68 USD | Communication Services |
-| 243 | ATEN | A10 Networks, Inc. | 2.16p | 59.3750% | 0.73 USD | 0.10% | 5.22% | 14.68 USD | Technology |
-| 244 | GWW | W.W. Grainger, Inc. | 2.15p | 53.1250% | 110.30 USD | 0.18% | 11.16% | 1762.27 USD | Industrials |
-| 245 | LITE | Lumentum Holdings Inc. | 2.15p | 46.8750% | 10.14 USD | 0.33% | 17.16% | 72.45 USD | Technology |
-| 246 | CCI | Crown Castle Inc. | 2.14p | 56.2500% | 8.13 USD | 0.13% | 7.82% | 112.20 USD | Real Estate |
-| 247 | BMO | Bank Of Montreal | 2.14p | 57.8125% | 5.49 USD | 0.11% | 6.26% | 93.71 USD | Financial Services |
-| 248 | BTU | Peabody Energy Corporation | 2.14p | 51.5625% | 2.95 USD | 0.21% | 12.39% | 26.69 USD | Energy |
-| 249 | AWR | American States Water Company | 2.14p | 56.2500% | 6.14 USD | 0.13% | 7.75% | 86.53 USD | Utilities |
-| 250 | CAT | Caterpillar, Inc. | 2.14p | 54.6875% | 33.37 USD | 0.16% | 9.25% | 394.50 USD | Industrials |
-| 251 | BHC | Bausch Health Companies Inc. | 2.14p | 54.6875% | 0.69 USD | 0.23% | 9.14% | 8.45 USD | Healthcare |
-| 252 | CCEP | Coca-Cola Europacific Partners  | 2.13p | 57.8125% | 4.49 USD | 0.10% | 6.08% | 78.41 USD | Consumer Defensive |
-| 253 | SUPN | Supernus Pharmaceuticals, Inc. | 2.13p | 50.0000% | 3.98 USD | 0.24% | 13.75% | 32.96 USD | Healthcare |
-| 254 | ESS | Essex Property Trust, Inc. | 2.13p | 59.3750% | 12.60 USD | 0.08% | 4.52% | 295.69 USD | Real Estate |
-| 255 | MCO | Moody's Corporation | 2.13p | 57.8125% | 27.08 USD | 0.10% | 5.99% | 479.46 USD | Financial Services |
-| 256 | CARG | CarGurus, Inc. | 2.13p | 46.8750% | 4.44 USD | 0.29% | 16.64% | 31.15 USD | Consumer Cyclical |
-| 257 | KIM | Kimco Realty Corporation (HC) | 2.13p | 53.1250% | 2.22 USD | 0.17% | 10.48% | 23.46 USD | Real Estate |
-| 258 | AGYS | Agilysys, Inc. | 2.12p | 56.2500% | 8.01 USD | 0.13% | 7.35% | 149.05 USD | Technology |
-| 259 | MS | Morgan Stanley | 2.12p | 57.8125% | 6.06 USD | 0.10% | 5.71% | 112.90 USD | Financial Services |
-| 260 | NOK | Nokia Corporation Sponsored | 2.12p | 50.0000% | 0.52 USD | 0.22% | 13.40% | 4.39 USD | Technology |
-| 261 | UNH | UnitedHealth Group Incorporated | 2.12p | 53.1250% | 56.53 USD | 0.16% | 10.30% | 607.11 USD | Healthcare |
-| 262 | LIN | Linde plc | 2.12p | 56.2500% | 31.85 USD | 0.11% | 7.15% | 477.76 USD | Basic Materials |
-| 263 | EMN | Eastman Chemical Company | 2.12p | 53.1250% | 10.23 USD | 0.17% | 10.21% | 110.48 USD | Basic Materials |
-| 264 | CTSH | Cognizant Technology Solutions  | 2.12p | 59.3750% | 2.98 USD | 0.07% | 4.04% | 76.79 USD | Technology |
-| 265 | NET | Cloudflare, Inc. | 2.11p | 51.5625% | 9.80 USD | 0.21% | 11.67% | 93.86 USD | Technology |
-| 266 | AB | AllianceBernstein Holding L.P. | 2.11p | 56.2500% | 2.37 USD | 0.12% | 7.02% | 36.56 USD | Financial Services |
-| 267 | TTWO | Take-Two Interactive Software,  | 2.11p | 62.5000% | 1.33 USD | 0.03% | 0.86% | 155.54 USD | Communication Services |
-| 268 | ERIC | Ericsson | 2.11p | 51.5625% | 0.78 USD | 0.18% | 11.54% | 7.54 USD | Technology |
-| 269 | MHK | Mohawk Industries, Inc. | 2.11p | 43.7500% | 25.48 USD | 0.32% | 19.20% | 157.61 USD | Consumer Cyclical |
-| 270 | FFIN | First Financial Bankshares, Inc | 2.11p | 53.1250% | 3.37 USD | 0.17% | 9.87% | 37.57 USD | Financial Services |
-| 271 | JPM | JP Morgan Chase & Co. | 2.10p | 59.3750% | 7.86 USD | 0.07% | 3.68% | 221.44 USD | Financial Services |
-| 272 | BIP | Brookfield Infrastructure Partn | 2.10p | 54.6875% | 2.58 USD | 0.13% | 8.19% | 34.25 USD | Utilities |
-| 273 | CTVA | Corteva, Inc. | 2.10p | 56.2500% | 3.56 USD | 0.11% | 6.57% | 57.58 USD | Basic Materials |
-| 274 | VKTX | Viking Therapeutics, Inc. | 2.09p | 46.8750% | 8.80 USD | 0.40% | 15.44% | 68.70 USD | Healthcare |
-| 275 | DAL | Delta Air Lines, Inc. | 2.09p | 46.8750% | 7.16 USD | 0.25% | 15.56% | 53.36 USD | Industrials |
-| 276 | EVR | Evercore Inc. | 2.09p | 51.5625% | 26.68 USD | 0.18% | 10.92% | 284.22 USD | Financial Services |
-| 277 | NVDA | NVIDIA Corporation | 2.09p | 53.1250% | 11.71 USD | 0.22% | 9.27% | 138.68 USD | Technology |
-| 278 | MAC | Macerich Company (The) | 2.09p | 50.0000% | 1.99 USD | 0.21% | 12.35% | 18.11 USD | Real Estate |
-| 279 | CVGW | Calavo Growers, Inc. | 2.08p | 43.7500% | 4.38 USD | 0.30% | 18.46% | 28.13 USD | Consumer Defensive |
-| 280 | ECL | Ecolab Inc. | 2.08p | 57.8125% | 11.25 USD | 0.08% | 4.59% | 257.00 USD | Basic Materials |
-| 281 | BNS | Bank Nova Scotia Halifax Pfd 3 | 2.08p | 53.1250% | 4.41 USD | 0.15% | 9.19% | 52.37 USD | Financial Services |
-| 282 | MPLX | MPLX LP | 2.08p | 57.8125% | 1.86 USD | 0.07% | 4.40% | 43.94 USD | Energy |
-| 283 | SKYW | SkyWest, Inc. | 2.07p | 56.2500% | 5.12 USD | 0.12% | 5.84% | 92.81 USD | Industrials |
-| 284 | MDB | MongoDB, Inc. | 2.07p | 50.0000% | 30.88 USD | 0.24% | 11.96% | 289.34 USD | Technology |
-| 285 | USB | U.S. Bancorp | 2.07p | 53.1250% | 3.83 USD | 0.15% | 8.85% | 47.11 USD | Financial Services |
-| 286 | HBAN | Huntington Bancshares Incorpora | 2.07p | 53.1250% | 1.25 USD | 0.15% | 8.76% | 16.23 USD | Financial Services |
-| 287 | BMI | Badger Meter, Inc. | 2.07p | 50.0000% | 23.82 USD | 0.19% | 11.83% | 225.69 USD | Technology |
-| 288 | JNJ | Johnson & Johnson | 2.06p | 54.6875% | 10.59 USD | 0.11% | 7.01% | 161.98 USD | Healthcare |
-| 289 | GM | General Motors Company | 2.06p | 64.0625% | -1.14 USD | -0.01% | -2.29% | 48.65 USD | Consumer Cyclical |
-| 290 | MO | Altria Group, Inc. | 2.06p | 57.8125% | 1.83 USD | 0.07% | 3.81% | 49.78 USD | Consumer Defensive |
-| 291 | PEP | Pepsico, Inc. | 2.06p | 54.6875% | 11.34 USD | 0.11% | 6.88% | 176.21 USD | Consumer Defensive |
-| 292 | CMA | Comerica Incorporated | 2.05p | 54.6875% | 3.89 USD | 0.13% | 6.77% | 61.37 USD | Financial Services |
-| 293 | UBER | Uber Technologies, Inc. | 2.05p | 46.8750% | 10.64 USD | 0.25% | 14.32% | 85.09 USD | Technology |
-| 294 | EQIX | Equinix, Inc. | 2.05p | 54.6875% | 53.40 USD | 0.11% | 6.57% | 866.35 USD | Real Estate |
-| 295 | AKAM | Akamai Technologies, Inc. | 2.03p | 54.6875% | 6.09 USD | 0.11% | 6.25% | 108.05 USD | Technology |
-| 296 | DHR | Danaher Corporation | 2.03p | 53.1250% | 19.42 USD | 0.13% | 7.70% | 272.20 USD | Healthcare |
-| 297 | AVGO | Broadcom Inc. | 2.03p | 53.1250% | 12.93 USD | 0.19% | 7.63% | 182.37 USD | Technology |
-| 298 | MPWR | Monolithic Power Systems, Inc. | 2.03p | 54.6875% | 53.73 USD | 0.17% | 6.04% | 943.82 USD | Technology |
-| 299 | SLG | SL Green Realty Corp | 2.03p | 50.0000% | 6.77 USD | 0.18% | 10.71% | 72.00 USD | Real Estate |
-| 300 | BCC | Boise Cascade, L.L.C. | 2.03p | 56.2500% | 6.18 USD | 0.11% | 4.52% | 150.71 USD | Basic Materials |
-| 301 | JCI | Johnson Controls International  | 2.03p | 53.1250% | 5.50 USD | 0.13% | 7.62% | 77.98 USD | Industrials |
-| 302 | BYD | Boyd Gaming Corporation | 2.02p | 51.5625% | 5.28 USD | 0.15% | 8.97% | 64.04 USD | Consumer Cyclical |
-| 303 | TAP | Molson Coors Beverage Company | 2.02p | 56.2500% | 2.27 USD | 0.08% | 4.32% | 55.19 USD | Consumer Defensive |
-| 304 | CNP | CenterPoint Energy, Inc (Holdin | 2.02p | 56.2500% | 1.21 USD | 0.08% | 4.24% | 29.76 USD | Utilities |
-| 305 | KEY | KeyCorp | 2.02p | 51.5625% | 1.41 USD | 0.16% | 8.82% | 17.40 USD | Financial Services |
-| 306 | VOD | Vodafone Group Plc | 2.01p | 53.1250% | 0.65 USD | 0.12% | 7.20% | 9.70 USD | Communication Services |
-| 307 | MDU | MDU Resources Group, Inc. | 2.01p | 50.0000% | 2.68 USD | 0.17% | 10.24% | 28.89 USD | Industrials |
-| 308 | ETN | Eaton Corporation, PLC | 2.01p | 56.2500% | 13.15 USD | 0.09% | 3.96% | 345.53 USD | Industrials |
-| 309 | RACE | Ferrari N.V. | 2.01p | 48.4375% | 50.01 USD | 0.19% | 11.65% | 488.75 USD | Consumer Cyclical |
-| 310 | Z | Zillow Group, Inc. | 2.01p | 43.7500% | 8.76 USD | 0.30% | 16.22% | 62.81 USD | Communication Services |
-| 311 | GS | Goldman Sachs Group, Inc. (The) | 2.01p | 56.2500% | 19.73 USD | 0.08% | 3.92% | 522.00 USD | Financial Services |
-| 312 | BBSI | Barrett Business Services, Inc. | 2.01p | 53.1250% | 2.42 USD | 0.12% | 6.97% | 37.21 USD | Industrials |
-| 313 | XOM | Exxon Mobil Corporation | 2.01p | 53.1250% | 8.04 USD | 0.12% | 6.93% | 123.89 USD | Energy |
-| 314 | KMB | Kimberly-Clark Corporation | 2.01p | 59.3750% | 1.08 USD | 0.02% | 0.76% | 143.74 USD | Consumer Defensive |
-| 315 | BAP | Credicorp Ltd. | 2.00p | 51.5625% | 14.42 USD | 0.14% | 8.43% | 189.99 USD | Financial Services |
-| 316 | VICI | VICI Properties Inc. | 2.00p | 51.5625% | 2.51 USD | 0.13% | 8.29% | 32.83 USD | Real Estate |
-| 317 | CYBR | CyberArk Software Ltd. | 2.00p | 53.1250% | 18.37 USD | 0.12% | 6.65% | 378.73 USD | Technology |
-| 318 | CRT | Cross Timbers Royalty Trust | 2.00p | 48.4375% | 1.12 USD | 0.20% | 11.22% | 11.13 USD | Energy |
-| 319 | NSC | Norfolk Southern Corporation | 1.99p | 51.5625% | 19.05 USD | 0.14% | 8.11% | 260.00 USD | Industrials |
-| 320 | CI | The Cigna Group | 1.99p | 56.2500% | 11.74 USD | 0.06% | 3.46% | 362.00 USD | Healthcare |
-| 321 | GFL | GFL Environmental Inc. Subordin | 1.99p | 56.2500% | 1.35 USD | 0.06% | 3.43% | 40.83 USD | Industrials |
-| 322 | HLIT | Harmonic Inc. | 1.99p | 50.0000% | 1.20 USD | 0.20% | 9.54% | 13.80 USD | Technology |
-| 323 | QD | Qudian Inc. | 1.99p | 48.4375% | 0.21 USD | 0.23% | 11.05% | 2.13 USD | Financial Services |
-| 324 | DE | Deere & Company | 1.99p | 51.5625% | 30.21 USD | 0.13% | 8.00% | 407.27 USD | Industrials |
-| 325 | HASI | HA Sustainable Infrastructure C | 1.99p | 53.1250% | 2.12 USD | 0.12% | 6.45% | 34.93 USD | Real Estate |
-| 326 | TSM | Taiwan Semiconductor Manufactur | 1.99p | 56.2500% | 6.17 USD | 0.10% | 3.32% | 192.88 USD | Technology |
-| 327 | WEN | Wendy's Company (The) | 1.99p | 51.5625% | 1.43 USD | 0.14% | 7.96% | 19.41 USD | Consumer Cyclical |
-| 328 | AMRX | Amneal Pharmaceuticals, Inc. | 1.98p | 45.3125% | 1.06 USD | 0.24% | 13.95% | 8.67 USD | Healthcare |
-| 329 | EOG | EOG Resources, Inc. | 1.98p | 59.3750% | -0.05 USD | 0.01% | -0.04% | 131.25 USD | Energy |
-| 330 | SYY | Sysco Corporation | 1.98p | 56.2500% | 2.19 USD | 0.06% | 3.00% | 75.40 USD | Consumer Defensive |
-| 331 | SPWH | Sportsman's Warehouse Holdings, | 1.98p | 48.4375% | 0.27 USD | 0.27% | 10.59% | 2.84 USD | Consumer Cyclical |
-| 332 | LBTYK | Liberty Global Ltd. | 1.98p | 50.0000% | 1.77 USD | 0.15% | 9.13% | 22.22 USD | Communication Services |
-| 333 | AEP | American Electric Power Company | 1.97p | 51.5625% | 6.94 USD | 0.12% | 7.56% | 98.80 USD | Utilities |
-| 334 | FDS | FactSet Research Systems Inc. | 1.97p | 54.6875% | 19.61 USD | 0.08% | 4.43% | 472.07 USD | Financial Services |
-| 335 | BKU | BankUnited, Inc. | 1.97p | 51.5625% | 2.50 USD | 0.13% | 7.29% | 36.85 USD | Financial Services |
-| 336 | DD | DuPont de Nemours, Inc. | 1.96p | 53.1250% | 4.64 USD | 0.10% | 5.64% | 86.70 USD | Basic Materials |
-| 337 | SIG | Signet Jewelers Limited | 1.96p | 48.4375% | 9.05 USD | 0.19% | 10.22% | 99.02 USD | Consumer Cyclical |
-| 338 | TMO | Thermo Fisher Scientific Inc | 1.96p | 50.0000% | 48.37 USD | 0.14% | 8.71% | 606.00 USD | Healthcare |
-| 339 | BRC | Brady Corporation | 1.96p | 50.0000% | 5.97 USD | 0.14% | 8.65% | 74.98 USD | Industrials |
-| 340 | NFLX | Netflix, Inc. | 1.96p | 50.0000% | 56.68 USD | 0.14% | 8.64% | 713.05 USD | Communication Services |
-| 341 | O | Realty Income Corporation | 1.96p | 48.4375% | 5.74 USD | 0.16% | 10.18% | 62.14 USD | Real Estate |
-| 342 | JKHY | Jack Henry & Associates, Inc. | 1.96p | 50.0000% | 14.55 USD | 0.14% | 8.57% | 184.32 USD | Technology |
-| 343 | GOOD | Gladstone Commercial Corporatio | 1.95p | 50.0000% | 1.26 USD | 0.14% | 8.50% | 16.10 USD | Real Estate |
-| 344 | EXR | Extra Space Storage Inc | 1.95p | 54.6875% | 6.33 USD | 0.07% | 3.84% | 172.91 USD | Real Estate |
-| 345 | ABCB | Ameris Bancorp | 1.95p | 50.0000% | 4.96 USD | 0.14% | 8.42% | 70.00 USD | Financial Services |
-| 346 | TEF | Telefonica SA | 1.95p | 48.4375% | 0.43 USD | 0.15% | 9.89% | 4.84 USD | Communication Services |
-| 347 | EQR | Equity Residential | 1.94p | 51.5625% | 4.59 USD | 0.11% | 6.65% | 74.24 USD | Real Estate |
-| 348 | HSIC | Henry Schein, Inc. | 1.94p | 53.1250% | 3.42 USD | 0.10% | 5.06% | 71.04 USD | Healthcare |
-| 349 | PNC | PNC Financial Services Group, I | 1.94p | 51.5625% | 11.54 USD | 0.11% | 6.52% | 188.40 USD | Financial Services |
-| 350 | FAST | Fastenal Company | 1.94p | 46.8750% | 7.66 USD | 0.18% | 11.10% | 79.90 USD | Industrials |
-| 351 | EXTR | Extreme Networks, Inc. | 1.93p | 51.5625% | 0.89 USD | 0.13% | 6.34% | 17.16 USD | Technology |
-| 352 | KEP | Korea Electric Power Corporatio | 1.93p | 51.5625% | 0.45 USD | 0.12% | 6.31% | 8.16 USD | Utilities |
-| 353 | CAG | ConAgra Brands, Inc. | 1.93p | 56.2500% | 0.46 USD | 0.04% | 1.59% | 29.49 USD | Consumer Defensive |
-| 354 | AVA | Avista Corporation | 1.92p | 54.6875% | 1.10 USD | 0.05% | 2.98% | 38.32 USD | Utilities |
-| 355 | EA | Electronic Arts Inc. | 1.92p | 59.3750% | -2.50 USD | -0.02% | -1.70% | 144.21 USD | Communication Services |
-| 356 | GLW | Corning Incorporated | 1.92p | 56.2500% | 0.63 USD | 0.04% | 1.36% | 46.92 USD | Technology |
-| 357 | MFA | MFA Financial, Inc. | 1.92p | 51.5625% | 0.69 USD | 0.10% | 5.89% | 12.43 USD | Real Estate |
-| 358 | BKNG | Booking Holdings Inc. Common St | 1.92p | 53.1250% | 178.63 USD | 0.09% | 4.34% | 4302.77 USD | Consumer Cyclical |
-| 359 | IPG | Interpublic Group of Companies, | 1.92p | 54.6875% | 0.85 USD | 0.05% | 2.77% | 31.45 USD | Communication Services |
-| 360 | MCRI | Monarch Casino & Resort, Inc. | 1.91p | 51.5625% | 3.99 USD | 0.10% | 5.59% | 75.37 USD | Consumer Cyclical |
-| 361 | LTC | LTC Properties, Inc. | 1.91p | 59.3750% | -0.76 USD | -0.03% | -2.09% | 35.71 USD | Real Estate |
-| 362 | SQ | Block, Inc. | 1.91p | 57.8125% | -0.42 USD | 0.02% | -0.58% | 71.63 USD | Technology |
-| 363 | LEN | Lennar Corporation | 1.91p | 50.0000% | 11.98 USD | 0.12% | 7.06% | 181.84 USD | Consumer Cyclical |
-| 364 | BHP | BHP Group Limited | 1.90p | 53.1250% | 2.23 USD | 0.08% | 3.90% | 59.58 USD | Basic Materials |
-| 365 | MNST | Monster Beverage Corporation | 1.90p | 54.6875% | 1.19 USD | 0.06% | 2.36% | 51.70 USD | Consumer Defensive |
-| 366 | BKE | Buckle, Inc. (The) | 1.90p | 50.0000% | 2.77 USD | 0.13% | 6.87% | 42.81 USD | Consumer Cyclical |
-| 367 | INCY | Incyte Corporation | 1.90p | 54.6875% | 1.44 USD | 0.05% | 2.25% | 65.46 USD | Healthcare |
-| 368 | VRTX | Vertex Pharmaceuticals Incorpor | 1.90p | 57.8125% | -4.16 USD | -0.00% | -0.85% | 484.88 USD | Healthcare |
-| 369 | MTCH | Match Group, Inc. | 1.90p | 46.8750% | 3.38 USD | 0.18% | 9.82% | 37.80 USD | Communication Services |
-| 370 | NTRS | Northern Trust Corporation | 1.89p | 53.1250% | 3.30 USD | 0.07% | 3.64% | 94.14 USD | Financial Services |
-| 371 | GLOB | Globant S.A. | 1.89p | 51.5625% | 10.37 USD | 0.10% | 5.16% | 211.23 USD | Technology |
-| 372 | AA | Alcoa Corporation | 1.89p | 48.4375% | 3.14 USD | 0.18% | 8.12% | 41.98 USD | Basic Materials |
-| 373 | CATY | Cathay General Bancorp | 1.89p | 51.5625% | 2.12 USD | 0.09% | 4.99% | 55.92 USD | Financial Services |
-| 374 | BBY | Best Buy Co., Inc. | 1.89p | 45.3125% | 9.66 USD | 0.19% | 11.07% | 97.10 USD | Consumer Cyclical |
-| 375 | PDD | PDD Holdings Inc. | 1.88p | 56.2500% | 0.19 USD | 0.15% | 0.14% | 136.02 USD | Consumer Cyclical |
-| 376 | SNA | Snap-On Incorporated | 1.88p | 50.0000% | 17.72 USD | 0.11% | 6.35% | 308.00 USD | Industrials |
-| 377 | ITW | Illinois Tool Works Inc. | 1.88p | 53.1250% | 8.01 USD | 0.05% | 3.16% | 261.66 USD | Industrials |
-| 378 | COST | Costco Wholesale Corporation | 1.87p | 51.5625% | 38.99 USD | 0.08% | 4.58% | 890.22 USD | Consumer Defensive |
-| 379 | IVZ | Invesco Ltd | 1.87p | 48.4375% | 1.25 USD | 0.14% | 7.58% | 17.73 USD | Financial Services |
-| 380 | WCN | Waste Connections, Inc. | 1.87p | 56.2500% | -0.18 USD | 0.00% | -0.10% | 183.22 USD | Industrials |
-| 381 | LBTYA | Liberty Global Ltd. | 1.87p | 48.4375% | 1.43 USD | 0.13% | 7.51% | 20.48 USD | Communication Services |
-| 382 | WTS | Watts Water Technologies, Inc. | 1.87p | 51.5625% | 8.66 USD | 0.08% | 4.37% | 218.72 USD | Industrials |
-| 383 | BAH | Booz Allen Hamilton Holding Cor | 1.87p | 53.1250% | 4.46 USD | 0.06% | 2.82% | 170.00 USD | Industrials |
-| 384 | AEM | Agnico Eagle Mines Limited | 1.87p | 51.5625% | 3.33 USD | 0.08% | 4.35% | 79.61 USD | Basic Materials |
-| 385 | TAL | TAL Education Group | 1.86p | 46.8750% | 0.88 USD | 0.24% | 8.80% | 10.99 USD | Consumer Defensive |
-| 386 | LUV | Southwest Airlines Company | 1.86p | 50.0000% | 1.66 USD | 0.11% | 5.78% | 30.32 USD | Industrials |
-| 387 | BIDU | Baidu, Inc. | 1.86p | 50.0000% | 5.38 USD | 0.13% | 5.74% | 113.28 USD | Communication Services |
-| 388 | ACCO | Acco Brands Corporation | 1.86p | 50.0000% | 0.28 USD | 0.11% | 5.74% | 5.28 USD | Industrials |
-| 389 | NTAP | NetApp, Inc. | 1.86p | 59.3750% | -4.73 USD | -0.04% | -3.59% | 126.88 USD | Technology |
-| 390 | IP | International Paper Company | 1.86p | 50.0000% | 2.57 USD | 0.10% | 5.65% | 48.12 USD | Consumer Cyclical |
-| 391 | UNP | Union Pacific Corporation | 1.85p | 54.6875% | 2.21 USD | 0.02% | 0.91% | 246.48 USD | Industrials |
-| 392 | BKH | Black Hills Corporation | 1.85p | 51.5625% | 2.31 USD | 0.07% | 3.97% | 60.95 USD | Utilities |
-| 393 | AMT | American Tower Corporation (REI | 1.85p | 50.0000% | 11.55 USD | 0.09% | 5.50% | 221.63 USD | Real Estate |
-| 394 | CVX | Chevron Corporation | 1.85p | 59.3750% | -5.99 USD | -0.05% | -3.80% | 151.84 USD | Energy |
-| 395 | DFS | Discover Financial Services | 1.85p | 51.5625% | 5.49 USD | 0.08% | 3.87% | 147.51 USD | Financial Services |
-| 396 | GCI | Gannett Co., Inc. | 1.85p | 46.8750% | 0.42 USD | 0.24% | 8.40% | 5.50 USD | Communication Services |
-| 397 | CPRT | Copart, Inc. | 1.85p | 53.1250% | 1.25 USD | 0.05% | 2.31% | 59.85 USD | Industrials |
-| 398 | SYF | Synchrony Financial | 1.85p | 51.5625% | 1.98 USD | 0.08% | 3.83% | 55.00 USD | Financial Services |
-| 399 | FCX | Freeport-McMoRan, Inc. | 1.85p | 57.8125% | -1.21 USD | -0.01% | -2.42% | 48.93 USD | Basic Materials |
-| 400 | STX | Seagate Technology Holdings PLC | 1.84p | 53.1250% | 2.35 USD | 0.06% | 2.16% | 111.10 USD | Technology |
-| 401 | STWD | STARWOOD PROPERTY TRUST, INC. S | 1.84p | 56.2500% | -0.19 USD | -0.01% | -0.94% | 20.03 USD | Real Estate |
-| 402 | IR | Ingersoll Rand Inc. | 1.84p | 53.1250% | 2.10 USD | 0.05% | 2.09% | 102.44 USD | Industrials |
-| 403 | EGBN | Eagle Bancorp, Inc. | 1.84p | 48.4375% | 1.51 USD | 0.13% | 6.68% | 24.17 USD | Financial Services |
-| 404 | PRU | Prudential Financial, Inc. | 1.84p | 56.2500% | -1.35 USD | 0.00% | -1.07% | 125.16 USD | Financial Services |
-| 405 | AES | The AES Corporation | 1.84p | 56.2500% | -0.19 USD | 0.01% | -1.08% | 17.49 USD | Utilities |
-| 406 | GD | General Dynamics Corporation | 1.84p | 51.5625% | 10.27 USD | 0.06% | 3.52% | 302.09 USD | Industrials |
-| 407 | KEYS | Keysight Technologies Inc. | 1.83p | 48.4375% | 9.50 USD | 0.13% | 6.36% | 160.00 USD | Technology |
-| 408 | WFC | Wells Fargo & Company | 1.83p | 51.5625% | 1.92 USD | 0.07% | 3.19% | 62.20 USD | Financial Services |
-| 409 | HPQ | HP Inc. | 1.83p | 56.2500% | -0.56 USD | -0.01% | -1.47% | 37.50 USD | Technology |
-| 410 | AAPL | Apple Inc. | 1.82p | 56.2500% | -3.52 USD | -0.01% | -1.50% | 231.39 USD | Technology |
-| 411 | KR | Kroger Company (The) | 1.82p | 51.5625% | 1.67 USD | 0.06% | 3.12% | 55.29 USD | Consumer Defensive |
-| 412 | EXPE | Expedia Group, Inc. | 1.82p | 46.8750% | 10.71 USD | 0.15% | 7.67% | 158.96 USD | Consumer Cyclical |
-| 413 | SBH | Sally Beauty Holdings, Inc. (Na | 1.82p | 46.8750% | 0.89 USD | 0.16% | 7.64% | 12.85 USD | Consumer Cyclical |
-| 414 | NWL | Newell Brands Inc. | 1.82p | 42.1875% | 0.81 USD | 0.32% | 12.16% | 7.51 USD | Consumer Defensive |
-| 415 | BLFS | BioLife Solutions, Inc. | 1.82p | 51.5625% | 0.67 USD | 0.10% | 2.94% | 23.57 USD | Healthcare |
-| 416 | WM | Waste Management, Inc. | 1.81p | 57.8125% | -7.39 USD | -0.04% | -3.35% | 213.92 USD | Industrials |
-| 417 | CRTO | Criteo S.A. | 1.81p | 53.1250% | 0.46 USD | 0.05% | 1.15% | 40.79 USD | Communication Services |
-| 418 | FLR | Fluor Corporation | 1.81p | 51.5625% | 1.35 USD | 0.06% | 2.69% | 51.48 USD | Industrials |
-| 419 | ORA | Ormat Technologies, Inc. | 1.81p | 53.1250% | 0.86 USD | 0.03% | 1.13% | 115.41 USD | Utilities |
-| 420 | ES | Eversource Energy (D/B/A) | 1.81p | 46.8750% | 4.30 USD | 0.12% | 7.20% | 63.97 USD | Utilities |
-| 421 | CCJ | Cameco Corporation | 1.81p | 53.1250% | 0.51 USD | 0.06% | 0.99% | 51.99 USD | Energy |
-| 422 | MAR | Marriott International | 1.80p | 51.5625% | 6.45 USD | 0.05% | 2.53% | 261.67 USD | Consumer Cyclical |
-| 423 | BDX | Becton, Dickinson and Company | 1.80p | 50.0000% | 9.32 USD | 0.07% | 4.04% | 240.05 USD | Healthcare |
-| 424 | ZTS | Zoetis Inc. | 1.80p | 48.4375% | 9.74 USD | 0.09% | 5.33% | 193.36 USD | Healthcare |
-| 425 | BKR | Baker Hughes Company | 1.79p | 50.0000% | 1.33 USD | 0.07% | 3.68% | 39.64 USD | Energy |
-| 426 | TGNA | TEGNA Inc | 1.79p | 53.1250% | 0.08 USD | 0.03% | 0.50% | 16.22 USD | Communication Services |
-| 427 | CSGP | CoStar Group, Inc. | 1.79p | 53.1250% | 0.37 USD | 0.02% | 0.48% | 77.43 USD | Real Estate |
-| 428 | EXPD | Expeditors International of Was | 1.78p | 53.1250% | 0.49 USD | 0.02% | 0.40% | 121.91 USD | Industrials |
-| 429 | WY | Weyerhaeuser Company | 1.78p | 43.7500% | 2.86 USD | 0.16% | 9.62% | 32.60 USD | Real Estate |
-| 430 | DRI | Darden Restaurants, Inc. | 1.78p | 45.3125% | 11.62 USD | 0.14% | 8.00% | 157.00 USD | Consumer Cyclical |
-| 431 | MAT | Mattel, Inc. | 1.78p | 42.1875% | 1.88 USD | 0.20% | 11.05% | 18.91 USD | Consumer Cyclical |
-| 432 | GEOS | Geospace Technologies Corporati | 1.78p | 48.4375% | 0.48 USD | 0.11% | 4.80% | 10.50 USD | Energy |
-| 433 | COF | Capital One Financial Corporati | 1.77p | 48.4375% | 7.05 USD | 0.09% | 4.71% | 157.49 USD | Financial Services |
-| 434 | CHK | Chesapeake Energy Corporation | 1.77p | 47.6190% | 4.56 USD | 0.10% | 5.51% | 0.00 USD | Energy |
-| 435 | RGLD | Royal Gold, Inc. | 1.77p | 51.5625% | 2.26 USD | 0.04% | 1.61% | 142.36 USD | Basic Materials |
-| 436 | TPR | Tapestry, Inc. | 1.77p | 46.8750% | 2.63 USD | 0.11% | 6.12% | 46.08 USD | Consumer Cyclical |
-| 437 | UMH | UMH Properties, Inc. | 1.77p | 46.8750% | 1.08 USD | 0.10% | 6.12% | 19.12 USD | Real Estate |
-| 438 | ANSS | ANSYS, Inc. | 1.77p | 51.5625% | 4.94 USD | 0.04% | 1.50% | 359.64 USD | Technology |
-| 439 | SHYF | The Shyft Group, Inc. | 1.77p | 51.5625% | 0.17 USD | 0.11% | 1.41% | 12.27 USD | Industrials |
-| 440 | HEES | H&E Equipment Services, Inc. | 1.77p | 54.6875% | -0.87 USD | 0.00% | -1.63% | 52.61 USD | Industrials |
-| 441 | CSX | CSX Corporation | 1.77p | 53.1250% | -0.04 USD | 0.01% | -0.11% | 35.31 USD | Industrials |
-| 442 | RDUS | Radius Recycling, Inc. | 1.77p | 53.1250% | -0.03 USD | 0.05% | -0.17% | 17.90 USD | Basic Materials |
-| 443 | TD | Toronto Dominion Bank (The) | 1.77p | 56.2500% | -1.90 USD | -0.04% | -3.25% | 56.51 USD | Financial Services |
-| 444 | CMCSA | Comcast Corporation | 1.76p | 46.8750% | 2.36 USD | 0.10% | 5.96% | 41.99 USD | Communication Services |
-| 445 | TEAM | Atlassian Corporation | 1.76p | 46.8750% | 10.83 USD | 0.14% | 5.91% | 194.62 USD | Technology |
-| 446 | FMC | FMC Corporation | 1.76p | 46.8750% | 3.49 USD | 0.12% | 5.89% | 62.30 USD | Basic Materials |
-| 447 | COR | Cencora, Inc. | 1.76p | 53.1250% | -0.57 USD | 0.00% | -0.25% | 225.81 USD | Healthcare |
-| 448 | CPB | Campbell Soup Company | 1.76p | 48.4375% | 2.00 USD | 0.08% | 4.34% | 50.23 USD | Consumer Defensive |
-| 449 | TFC | Truist Financial Corporation | 1.76p | 50.0000% | 1.15 USD | 0.05% | 2.71% | 43.90 USD | Financial Services |
-| 450 | WW | WW International, Inc. | 1.76p | 40.6250% | 0.16 USD | 0.79% | 11.35% | 1.60 USD | Consumer Cyclical |
-| 451 | LTM | LATAM Airlines Group S.A. | 1.76p | 47.3684% | 1.30 USD | 0.10% | 5.26% | 25.98 USD | Industrials |
-| 452 | CMG | Chipotle Mexican Grill, Inc. | 1.76p | 50.0000% | 1.54 USD | 0.06% | 2.67% | 59.40 USD | Consumer Cyclical |
-| 453 | HON | Honeywell International Inc. | 1.76p | 53.1250% | -0.87 USD | 0.00% | -0.40% | 217.64 USD | Industrials |
-| 454 | SCWX | SecureWorks Corp. | 1.75p | 43.7500% | 0.64 USD | 0.24% | 8.61% | 9.31 USD | Technology |
-| 455 | MDLZ | Mondelez International, Inc. | 1.75p | 45.3125% | 4.70 USD | 0.12% | 7.14% | 74.51 USD | Consumer Defensive |
-| 456 | JNPR | Juniper Networks, Inc. | 1.75p | 48.4375% | 1.48 USD | 0.06% | 3.97% | 38.84 USD | Technology |
-| 457 | GHM | Graham Corporation | 1.75p | 54.6875% | -0.72 USD | -0.01% | -2.27% | 31.16 USD | Industrials |
-| 458 | PAYC | Paycom Software, Inc. | 1.74p | 50.0000% | 3.65 USD | 0.05% | 2.27% | 164.02 USD | Technology |
-| 459 | GOLD | Barrick Gold Corporation | 1.74p | 48.4375% | 0.73 USD | 0.08% | 3.79% | 19.94 USD | Basic Materials |
-| 460 | CEIX | CONSOL Energy Inc. | 1.74p | 48.4375% | 4.03 USD | 0.09% | 3.78% | 109.95 USD | Energy |
-| 461 | NREF | NexPoint Real Estate Finance, I | 1.74p | 53.1250% | -0.13 USD | 0.01% | -0.85% | 15.21 USD | Real Estate |
-| 462 | AIG | American International Group, I | 1.74p | 53.1250% | -0.67 USD | 0.00% | -0.86% | 77.82 USD | Financial Services |
-| 463 | PETS | PetMed Express, Inc. | 1.74p | 53.1250% | -0.04 USD | 0.05% | -0.99% | 4.02 USD | Healthcare |
-| 464 | STZ | Constellation Brands, Inc. | 1.74p | 53.1250% | -2.38 USD | -0.01% | -0.96% | 247.24 USD | Consumer Defensive |
-| 465 | ADPT | Adaptive Biotechnologies Corpor | 1.74p | 40.6250% | 0.50 USD | 0.28% | 11.24% | 4.97 USD | Healthcare |
-| 466 | RIO | Rio Tinto Plc | 1.74p | 50.0000% | 1.38 USD | 0.05% | 2.08% | 67.60 USD | Basic Materials |
-| 467 | AMGN | Amgen Inc. | 1.74p | 54.6875% | -8.52 USD | -0.03% | -2.56% | 324.67 USD | Healthcare |
-| 468 | MC | Moelis & Company | 1.74p | 46.8750% | 3.39 USD | 0.10% | 5.11% | 69.63 USD | Financial Services |
-| 469 | TEVA | Teva Pharmaceutical Industries  | 1.74p | 48.4375% | 0.59 USD | 0.07% | 3.54% | 17.45 USD | Healthcare |
-| 470 | DELL | Dell Technologies Inc. | 1.73p | 56.2500% | -5.91 USD | -0.02% | -4.40% | 128.29 USD | Technology |
-| 471 | PG | Procter & Gamble Company (The) | 1.73p | 48.4375% | 5.56 USD | 0.06% | 3.33% | 172.72 USD | Consumer Defensive |
-| 472 | WIX | Wix.com Ltd. | 1.73p | 54.6875% | -4.79 USD | -0.02% | -2.86% | 163.03 USD | Technology |
-| 473 | PLNT | Planet Fitness, Inc. | 1.73p | 45.3125% | 4.93 USD | 0.11% | 6.37% | 82.16 USD | Consumer Cyclical |
-| 474 | CHWY | Chewy, Inc. | 1.72p | 48.4375% | 0.88 USD | 0.10% | 3.19% | 28.45 USD | Consumer Cyclical |
-| 475 | AAL | American Airlines Group, Inc. | 1.72p | 45.3125% | 0.68 USD | 0.13% | 6.08% | 11.89 USD | Industrials |
-| 476 | ALLT | Allot Ltd. | 1.72p | 46.8750% | 0.13 USD | 0.11% | 4.50% | 3.76 USD | Technology |
-| 477 | LULU | lululemon athletica inc. | 1.71p | 53.1250% | -5.00 USD | 0.00% | -1.71% | 298.59 USD | Consumer Cyclical |
-| 478 | XPER | Xperi Inc. | 1.71p | 45.3125% | 0.49 USD | 0.13% | 5.87% | 9.13 USD | Technology |
-| 479 | ET | Energy Transfer LP | 1.71p | 50.0000% | 0.19 USD | 0.03% | 1.16% | 16.56 USD | Energy |
-| 480 | EPD | Enterprise Products Partners L. | 1.71p | 51.5625% | -0.12 USD | -0.00% | -0.41% | 29.54 USD | Energy |
-| 481 | GAIN | Gladstone Investment Corporatio | 1.70p | 53.1250% | -0.28 USD | -0.02% | -1.97% | 13.96 USD | Financial Services |
-| 482 | HRB | H&R Block, Inc. | 1.70p | 42.1875% | 4.90 USD | 0.15% | 8.79% | 60.79 USD | Consumer Cyclical |
-| 483 | HST | Host Hotels & Resorts, Inc. | 1.70p | 54.6875% | -0.66 USD | -0.04% | -3.56% | 17.92 USD | Real Estate |
-| 484 | AEYE | AudioEye, Inc. | 1.70p | 46.8750% | 0.88 USD | 0.28% | 3.90% | 23.59 USD | Technology |
-| 485 | AMRC | Ameresco, Inc. | 1.70p | 46.8750% | 1.35 USD | 0.14% | 4.02% | 34.74 USD | Industrials |
-| 486 | ARLP | Alliance Resource Partners, L.P | 1.69p | 51.5625% | -0.18 USD | -0.00% | -0.71% | 25.07 USD | Energy |
-| 487 | BAX | Baxter International Inc. | 1.69p | 46.8750% | 1.37 USD | 0.08% | 3.85% | 36.86 USD | Healthcare |
-| 488 | KFY | Korn Ferry | 1.69p | 48.4375% | 1.59 USD | 0.05% | 2.24% | 73.25 USD | Industrials |
-| 489 | CIM | Chimera Investment Corporation | 1.69p | 51.5625% | -0.13 USD | 0.00% | -0.84% | 15.51 USD | Real Estate |
-| 490 | ITUB | Itau Unibanco Banco Holding SA | 1.69p | 50.0000% | 0.04 USD | 0.02% | 0.64% | 6.27 USD | Financial Services |
-| 491 | HES | Hess Corporation | 1.69p | 57.8125% | -10.64 USD | -0.10% | -7.07% | 139.42 USD | Energy |
-| 492 | SCHW | Charles Schwab Corporation (The | 1.69p | 50.0000% | 0.39 USD | 0.02% | 0.58% | 68.00 USD | Financial Services |
-| 493 | SAND | Sandstorm Gold Ltd. | 1.68p | 50.0000% | 0.03 USD | 0.03% | 0.51% | 5.91 USD | Basic Materials |
-| 494 | LEVI | Levi Strauss & Co | 1.68p | 50.0000% | 0.09 USD | 0.03% | 0.47% | 19.09 USD | Consumer Cyclical |
-| 495 | ALB | Albemarle Corporation | 1.68p | 48.4375% | 1.89 USD | 0.10% | 1.93% | 99.17 USD | Basic Materials |
-| 496 | PK | Park Hotels & Resorts Inc. | 1.68p | 54.6875% | -0.63 USD | -0.05% | -4.18% | 14.50 USD | Real Estate |
-| 497 | INVH | Invitation Homes Inc. | 1.68p | 56.2500% | -2.07 USD | -0.08% | -5.78% | 33.85 USD | Real Estate |
-| 498 | PPBI | Pacific Premier Bancorp Inc | 1.68p | 53.1250% | -0.74 USD | -0.02% | -2.73% | 26.44 USD | Financial Services |
-| 499 | CL | Colgate-Palmolive Company | 1.68p | 46.8750% | 3.33 USD | 0.06% | 3.42% | 100.72 USD | Consumer Defensive |
-| 500 | DDOG | Datadog, Inc. | 1.68p | 51.5625% | -1.65 USD | 0.00% | -1.26% | 129.14 USD | Technology |
-| 501 | AGNC | AGNC Investment Corp. | 1.67p | 51.5625% | -0.14 USD | -0.02% | -1.33% | 10.38 USD | Real Estate |
-| 502 | TJX | TJX Companies, Inc. (The) | 1.67p | 50.0000% | 0.22 USD | 0.01% | 0.19% | 115.50 USD | Consumer Cyclical |
-| 503 | FTI | TechnipFMC plc | 1.67p | 53.1250% | -0.83 USD | -0.02% | -2.96% | 28.48 USD | Energy |
-| 504 | ATGE | Adtalem Global Education Inc. | 1.67p | 53.1250% | -2.30 USD | -0.03% | -2.98% | 78.26 USD | Consumer Defensive |
-| 505 | LTRX | Lantronix, Inc. | 1.67p | 45.3125% | 0.18 USD | 0.14% | 4.58% | 4.14 USD | Technology |
-| 506 | MNTX | Manitex International, Inc. | 1.67p | 35.9375% | 0.68 USD | 0.43% | 13.65% | 5.67 USD | Industrials |
-| 507 | PAVM | PAVmed Inc. | 1.67p | 43.7500% | 0.06 USD | 0.46% | 5.77% | 0.00 USD | Healthcare |
-| 508 | PSX | Phillips 66 | 1.67p | 53.1250% | -4.36 USD | -0.03% | -3.12% | 135.42 USD | Energy |
-| 509 | WDAY | Workday, Inc. | 1.66p | 46.8750% | 6.84 USD | 0.07% | 2.90% | 242.48 USD | Technology |
-| 510 | YUM | Yum! Brands, Inc. | 1.66p | 45.3125% | 5.73 USD | 0.07% | 4.44% | 134.90 USD | Consumer Cyclical |
-| 511 | DLR | Digital Realty Trust, Inc. | 1.66p | 50.0000% | -0.35 USD | 0.01% | -0.22% | 162.50 USD | Real Estate |
-| 512 | TSN | Tyson Foods, Inc. | 1.66p | 48.4375% | 0.78 USD | 0.03% | 1.32% | 59.92 USD | Consumer Defensive |
-| 513 | GRMN | Garmin Ltd. | 1.66p | 53.1250% | -5.78 USD | -0.04% | -3.33% | 169.42 USD | Technology |
-| 514 | VUZI | Vuzix Corporation | 1.66p | 45.3125% | 0.06 USD | 0.17% | 4.26% | 1.52 USD | Technology |
-| 515 | C | Citigroup, Inc. | 1.66p | 51.5625% | -1.26 USD | -0.01% | -1.87% | 66.06 USD | Financial Services |
-| 516 | CATO | Cato Corporation (The) | 1.65p | 43.7500% | 0.30 USD | 0.12% | 5.75% | 5.81 USD | Consumer Cyclical |
-| 517 | HRL | Hormel Foods Corporation | 1.65p | 50.0000% | -0.13 USD | 0.00% | -0.41% | 31.46 USD | Consumer Defensive |
-| 518 | PPG | PPG Industries, Inc. | 1.65p | 53.1250% | -4.73 USD | -0.05% | -3.55% | 128.35 USD | Basic Materials |
-| 519 | DIS | Walt Disney Company (The) | 1.65p | 53.1250% | -3.50 USD | -0.05% | -3.55% | 95.12 USD | Communication Services |
-| 520 | TU | Telus Corporation | 1.65p | 46.8750% | 0.40 USD | 0.04% | 2.54% | 16.15 USD | Communication Services |
-| 521 | TXN | Texas Instruments Incorporated | 1.65p | 48.4375% | 2.04 USD | 0.04% | 0.98% | 208.80 USD | Technology |
-| 522 | BCRX | BioCryst Pharmaceuticals, Inc. | 1.64p | 51.5625% | -0.17 USD | 0.00% | -2.23% | 7.47 USD | Healthcare |
-| 523 | PRFT | Perficient, Inc. | 1.64p | 48.2143% | 0.81 USD | 0.02% | 1.08% | 0.00 USD | Technology |
-| 524 | BSM | Black Stone Minerals, L.P. | 1.64p | 53.1250% | -0.59 USD | -0.05% | -3.77% | 15.23 USD | Energy |
-| 525 | CCL | Carnival Corporation | 1.64p | 43.7500% | 1.03 USD | 0.12% | 5.37% | 20.25 USD | Consumer Cyclical |
-| 526 | DOC | Healthpeak Properties, Inc. | 1.64p | 45.3125% | 0.80 USD | 0.07% | 3.80% | 21.92 USD | Real Estate |
-| 527 | BEP | Brookfield Renewable Partners L | 1.64p | 48.4375% | 0.17 USD | 0.03% | 0.66% | 26.40 USD | Utilities |
-| 528 | SJM | The J.M. Smucker Company | 1.64p | 48.4375% | 0.71 USD | 0.02% | 0.60% | 120.41 USD | Consumer Defensive |
-| 529 | MAIN | Main Street Capital Corporation | 1.63p | 48.4375% | 0.28 USD | 0.01% | 0.55% | 51.50 USD | Financial Services |
-| 530 | SLM | SLM Corporation | 1.63p | 51.5625% | -0.61 USD | -0.02% | -2.57% | 23.10 USD | Financial Services |
-| 531 | EQT | EQT Corporation | 1.63p | 46.8750% | 0.72 USD | 0.05% | 2.01% | 36.66 USD | Energy |
-| 532 | TGT | Target Corporation | 1.63p | 46.8750% | 2.96 USD | 0.05% | 1.91% | 158.58 USD | Consumer Defensive |
+| 192 | SPG | Simon Property Group, Inc. | 2.32p | 54.6875% | 22.06 USD | 0.23% | 14.74% | 173.06 USD | Real Estate |
+| 193 | RY | Royal Bank Of Canada | 2.32p | 57.8125% | 12.89 USD | 0.18% | 11.66% | 126.26 USD | Financial Services |
+| 194 | DGII | Digi International Inc. | 2.32p | 51.5625% | 4.42 USD | 0.31% | 17.69% | 29.44 USD | Technology |
+| 195 | OMC | Omnicom Group Inc. | 2.31p | 60.9375% | 7.91 USD | 0.14% | 8.30% | 103.40 USD | Communication Services |
+| 196 | LPSN | LivePerson, Inc. | 2.31p | 39.0625% | 0.26 USD | 0.75% | 29.55% | 1.15 USD | Technology |
+| 197 | FCPT | Four Corners Property Trust, In | 2.31p | 60.9375% | 2.20 USD | 0.13% | 8.27% | 29.36 USD | Real Estate |
+| 198 | XBIT | XBiotech Inc. | 2.31p | 51.5625% | 1.14 USD | 0.39% | 17.38% | 7.77 USD | Healthcare |
+| 199 | INFO | Harbor ETF Trust Harbor PanAgor | 2.29p | 66.6667% | 0.29  | 0.71% | 1.42% | 0.00  |  |
+| 200 | KDP | Keurig Dr Pepper Inc. | 2.29p | 56.2500% | 3.99 USD | 0.19% | 12.22% | 36.66 USD | Consumer Defensive |
+| 201 | ACN | Accenture plc | 2.29p | 56.2500% | 39.60 USD | 0.19% | 12.18% | 366.55 USD | Technology |
+| 202 | EVRG | Evergy, Inc. | 2.29p | 59.3750% | 4.96 USD | 0.14% | 9.06% | 59.75 USD | Utilities |
+| 203 | SRE | DBA Sempra | 2.28p | 59.3750% | 6.78 USD | 0.14% | 8.88% | 83.74 USD | Utilities |
+| 204 | VZ | Verizon Communications Inc. | 2.28p | 64.0625% | 1.74 USD | 0.08% | 4.20% | 43.21 USD | Communication Services |
+| 205 | GNW | Genworth Financial Inc | 2.28p | 56.2500% | 0.76 USD | 0.19% | 11.89% | 7.17 USD | Financial Services |
+| 206 | KO | Coca-Cola Company (The) | 2.27p | 57.8125% | 6.51 USD | 0.16% | 10.19% | 70.29 USD | Consumer Defensive |
+| 207 | SBUX | Starbucks Corporation | 2.27p | 42.1875% | 19.25 USD | 0.42% | 25.49% | 94.84 USD | Consumer Cyclical |
+| 208 | TILE | Interface, Inc. | 2.26p | 51.5625% | 2.68 USD | 0.26% | 16.06% | 19.39 USD | Industrials |
+| 209 | BRX | Brixmor Property Group Inc. | 2.26p | 56.2500% | 2.79 USD | 0.18% | 11.44% | 27.37 USD | Real Estate |
+| 210 | BL | BlackLine, Inc. | 2.26p | 51.5625% | 7.72 USD | 0.26% | 15.86% | 56.45 USD | Technology |
+| 211 | FTS | Fortis Inc. | 2.25p | 57.8125% | 3.82 USD | 0.15% | 9.59% | 44.00 USD | Utilities |
+| 212 | CRM | Salesforce, Inc. | 2.25p | 53.1250% | 36.01 USD | 0.22% | 14.09% | 291.64 USD | Technology |
+| 213 | ABBV | AbbVie Inc. | 2.25p | 51.5625% | 26.45 USD | 0.24% | 15.63% | 195.87 USD | Healthcare |
+| 214 | SYK | Stryker Corporation | 2.25p | 59.3750% | 26.28 USD | 0.13% | 7.88% | 363.00 USD | Healthcare |
+| 215 | CCI | Crown Castle Inc. | 2.24p | 57.8125% | 9.50 USD | 0.15% | 9.26% | 112.20 USD | Real Estate |
+| 216 | MTB | M&T Bank Corporation | 2.24p | 53.1250% | 22.44 USD | 0.22% | 13.76% | 190.00 USD | Financial Services |
+| 217 | V | Visa Inc. | 2.23p | 62.5000% | 11.97 USD | 0.08% | 4.45% | 281.22 USD | Financial Services |
+| 218 | LAZ | Lazard, Inc. | 2.23p | 51.5625% | 6.88 USD | 0.26% | 15.18% | 54.99 USD | Financial Services |
+| 219 | CME | CME Group Inc. | 2.23p | 53.1250% | 26.83 USD | 0.21% | 13.59% | 233.92 USD | Financial Services |
+| 220 | FLS | Flowserve Corporation | 2.23p | 59.3750% | 3.81 USD | 0.13% | 7.40% | 55.24 USD | Industrials |
+| 221 | TSCO | Tractor Supply Company | 2.23p | 59.3750% | 20.57 USD | 0.12% | 7.26% | 303.90 USD | Consumer Cyclical |
+| 222 | VLY | Valley National Bancorp | 2.22p | 50.0000% | 1.30 USD | 0.27% | 16.43% | 9.22 USD | Financial Services |
+| 223 | IIPR | Innovative Industrial Propertie | 2.22p | 57.8125% | 10.48 USD | 0.14% | 8.61% | 135.00 USD | Real Estate |
+| 224 | FOXA | Fox Corporation | 2.22p | 53.1250% | 4.82 USD | 0.20% | 13.12% | 41.57 USD | Communication Services |
+| 225 | RCL | Royal Caribbean Cruises Ltd. | 2.21p | 51.5625% | 25.10 USD | 0.25% | 14.62% | 197.22 USD | Consumer Cyclical |
+| 226 | CSGS | CSG Systems International, Inc. | 2.21p | 56.2500% | 4.42 USD | 0.17% | 10.01% | 62.02 USD | Technology |
+| 227 | CMI | Cummins Inc. | 2.21p | 53.1250% | 38.94 USD | 0.21% | 13.00% | 342.41 USD | Industrials |
+| 228 | NOK | Nokia Corporation Sponsored | 2.21p | 51.5625% | 0.55 USD | 0.23% | 14.41% | 4.39 USD | Technology |
+| 229 | ISRG | Intuitive Surgical, Inc. | 2.21p | 54.6875% | 49.60 USD | 0.19% | 11.32% | 487.73 USD | Healthcare |
+| 230 | DUK | Duke Energy Corporation (Holdin | 2.20p | 57.8125% | 8.56 USD | 0.13% | 8.04% | 115.08 USD | Utilities |
+| 231 | AVB | AvalonBay Communities, Inc. | 2.19p | 57.8125% | 16.12 USD | 0.13% | 7.84% | 223.99 USD | Real Estate |
+| 232 | KHC | The Kraft Heinz Company | 2.19p | 57.8125% | 2.52 USD | 0.12% | 7.67% | 37.08 USD | Consumer Defensive |
+| 233 | SO | Southern Company (The) | 2.19p | 54.6875% | 8.72 USD | 0.17% | 10.75% | 90.00 USD | Utilities |
+| 234 | IRDM | Iridium Communications Inc | 2.19p | 51.5625% | 3.64 USD | 0.24% | 13.79% | 30.05 USD | Communication Services |
+| 235 | EPR | EPR Properties | 2.18p | 54.6875% | 4.70 USD | 0.17% | 10.66% | 48.98 USD | Real Estate |
+| 236 | A | Agilent Technologies, Inc. | 2.18p | 59.3750% | 8.19 USD | 0.10% | 6.02% | 144.49 USD | Healthcare |
+| 237 | MAC | Macerich Company (The) | 2.18p | 51.5625% | 2.17 USD | 0.22% | 13.65% | 18.11 USD | Real Estate |
+| 238 | PANW | Palo Alto Networks, Inc. | 2.18p | 54.6875% | 35.41 USD | 0.18% | 10.46% | 374.03 USD | Technology |
+| 239 | SBGI | Sinclair, Inc. | 2.17p | 53.1250% | 1.83 USD | 0.23% | 11.78% | 17.38 USD | Communication Services |
+| 240 | L | Loews Corporation | 2.17p | 62.5000% | 1.99 USD | 0.05% | 2.54% | 80.43 USD | Financial Services |
+| 241 | PH | Parker-Hannifin Corporation | 2.16p | 51.5625% | 74.85 USD | 0.22% | 13.16% | 644.69 USD | Industrials |
+| 242 | MMC | Marsh & McLennan Companies, Inc | 2.16p | 60.9375% | 8.61 USD | 0.07% | 3.93% | 227.65 USD | Financial Services |
+| 243 | WB | Weibo Corporation | 2.16p | 46.8750% | 1.46 USD | 0.33% | 17.72% | 9.71 USD | Communication Services |
+| 244 | HUBS | HubSpot, Inc. | 2.16p | 50.0000% | 71.28 USD | 0.23% | 14.58% | 567.00 USD | Technology |
+| 245 | RDCM | Radcom Ltd. | 2.16p | 53.1250% | 1.08 USD | 0.21% | 11.44% | 10.68 USD | Communication Services |
+| 246 | ATEN | A10 Networks, Inc. | 2.16p | 59.3750% | 0.73 USD | 0.10% | 5.22% | 14.68 USD | Technology |
+| 247 | BTU | Peabody Energy Corporation | 2.15p | 51.5625% | 3.03 USD | 0.21% | 12.78% | 26.69 USD | Energy |
+| 248 | CAT | Caterpillar, Inc. | 2.15p | 54.6875% | 34.83 USD | 0.16% | 9.70% | 394.50 USD | Industrials |
+| 249 | GWW | W.W. Grainger, Inc. | 2.15p | 53.1250% | 110.30 USD | 0.18% | 11.16% | 1762.27 USD | Industrials |
+| 250 | LITE | Lumentum Holdings Inc. | 2.15p | 46.8750% | 10.14 USD | 0.33% | 17.16% | 72.45 USD | Technology |
+| 251 | BMO | Bank Of Montreal | 2.14p | 57.8125% | 5.49 USD | 0.11% | 6.26% | 93.71 USD | Financial Services |
+| 252 | AWR | American States Water Company | 2.14p | 56.2500% | 6.14 USD | 0.13% | 7.75% | 86.53 USD | Utilities |
+| 253 | BHC | Bausch Health Companies Inc. | 2.14p | 54.6875% | 0.69 USD | 0.23% | 9.14% | 8.45 USD | Healthcare |
+| 254 | CCEP | Coca-Cola Europacific Partners  | 2.13p | 57.8125% | 4.49 USD | 0.10% | 6.08% | 78.41 USD | Consumer Defensive |
+| 255 | SUPN | Supernus Pharmaceuticals, Inc. | 2.13p | 50.0000% | 3.98 USD | 0.24% | 13.75% | 32.96 USD | Healthcare |
+| 256 | ESS | Essex Property Trust, Inc. | 2.13p | 59.3750% | 12.60 USD | 0.08% | 4.52% | 295.69 USD | Real Estate |
+| 257 | MCO | Moody's Corporation | 2.13p | 57.8125% | 27.08 USD | 0.10% | 5.99% | 480.95 USD | Financial Services |
+| 258 | CARG | CarGurus, Inc. | 2.13p | 46.8750% | 4.44 USD | 0.29% | 16.64% | 31.15 USD | Consumer Cyclical |
+| 259 | KIM | Kimco Realty Corporation (HC) | 2.13p | 53.1250% | 2.22 USD | 0.17% | 10.48% | 23.46 USD | Real Estate |
+| 260 | MO | Altria Group, Inc. | 2.13p | 57.8125% | 2.76 USD | 0.10% | 5.85% | 49.78 USD | Consumer Defensive |
+| 261 | AGYS | Agilysys, Inc. | 2.12p | 56.2500% | 8.01 USD | 0.13% | 7.35% | 149.05 USD | Technology |
+| 262 | MS | Morgan Stanley | 2.12p | 57.8125% | 6.06 USD | 0.10% | 5.71% | 112.90 USD | Financial Services |
+| 263 | UNH | UnitedHealth Group Incorporated | 2.12p | 53.1250% | 56.53 USD | 0.16% | 10.30% | 607.11 USD | Healthcare |
+| 264 | LIN | Linde plc | 2.12p | 56.2500% | 31.85 USD | 0.11% | 7.15% | 477.76 USD | Basic Materials |
+| 265 | EMN | Eastman Chemical Company | 2.12p | 53.1250% | 10.23 USD | 0.17% | 10.21% | 110.48 USD | Basic Materials |
+| 266 | CTSH | Cognizant Technology Solutions  | 2.12p | 59.3750% | 2.98 USD | 0.07% | 4.04% | 76.79 USD | Technology |
+| 267 | NET | Cloudflare, Inc. | 2.11p | 51.5625% | 9.80 USD | 0.21% | 11.67% | 93.86 USD | Technology |
+| 268 | DAL | Delta Air Lines, Inc. | 2.11p | 46.8750% | 7.45 USD | 0.26% | 16.30% | 53.36 USD | Industrials |
+| 269 | AB | AllianceBernstein Holding L.P. | 2.11p | 56.2500% | 2.37 USD | 0.12% | 7.02% | 36.56 USD | Financial Services |
+| 270 | TTWO | Take-Two Interactive Software,  | 2.11p | 62.5000% | 1.33 USD | 0.03% | 0.86% | 155.54 USD | Communication Services |
+| 271 | ERIC | Ericsson | 2.11p | 51.5625% | 0.78 USD | 0.18% | 11.54% | 7.54 USD | Technology |
+| 272 | MHK | Mohawk Industries, Inc. | 2.11p | 43.7500% | 25.48 USD | 0.32% | 19.20% | 159.03 USD | Consumer Cyclical |
+| 273 | FFIN | First Financial Bankshares, Inc | 2.11p | 53.1250% | 3.37 USD | 0.17% | 9.87% | 37.57 USD | Financial Services |
+| 274 | JPM | JP Morgan Chase & Co. | 2.10p | 59.3750% | 7.86 USD | 0.07% | 3.68% | 221.44 USD | Financial Services |
+| 275 | BIP | Brookfield Infrastructure Partn | 2.10p | 54.6875% | 2.58 USD | 0.13% | 8.19% | 34.25 USD | Utilities |
+| 276 | CTVA | Corteva, Inc. | 2.10p | 56.2500% | 3.56 USD | 0.11% | 6.57% | 57.58 USD | Basic Materials |
+| 277 | VKTX | Viking Therapeutics, Inc. | 2.09p | 46.8750% | 8.80 USD | 0.40% | 15.44% | 68.70 USD | Healthcare |
+| 278 | EVR | Evercore Inc. | 2.09p | 51.5625% | 26.68 USD | 0.18% | 10.92% | 284.22 USD | Financial Services |
+| 279 | JNJ | Johnson & Johnson | 2.09p | 54.6875% | 11.73 USD | 0.13% | 7.83% | 161.98 USD | Healthcare |
+| 280 | NVDA | NVIDIA Corporation | 2.09p | 53.1250% | 11.71 USD | 0.22% | 9.27% | 138.68 USD | Technology |
+| 281 | XOM | Exxon Mobil Corporation | 2.09p | 54.6875% | 8.97 USD | 0.13% | 7.79% | 123.89 USD | Energy |
+| 282 | CVGW | Calavo Growers, Inc. | 2.08p | 43.7500% | 4.38 USD | 0.30% | 18.46% | 28.13 USD | Consumer Defensive |
+| 283 | PEP | Pepsico, Inc. | 2.08p | 54.6875% | 12.59 USD | 0.12% | 7.70% | 176.21 USD | Consumer Defensive |
+| 284 | ECL | Ecolab Inc. | 2.08p | 57.8125% | 11.25 USD | 0.08% | 4.59% | 257.00 USD | Basic Materials |
+| 285 | BNS | Bank Nova Scotia Halifax Pfd 3 | 2.08p | 53.1250% | 4.41 USD | 0.15% | 9.19% | 52.37 USD | Financial Services |
+| 286 | MPLX | MPLX LP | 2.08p | 57.8125% | 1.86 USD | 0.07% | 4.40% | 43.94 USD | Energy |
+| 287 | SKYW | SkyWest, Inc. | 2.07p | 56.2500% | 5.12 USD | 0.12% | 5.84% | 92.81 USD | Industrials |
+| 288 | MDB | MongoDB, Inc. | 2.07p | 50.0000% | 30.88 USD | 0.24% | 11.96% | 289.34 USD | Technology |
+| 289 | USB | U.S. Bancorp | 2.07p | 53.1250% | 3.83 USD | 0.15% | 8.85% | 47.11 USD | Financial Services |
+| 290 | HBAN | Huntington Bancshares Incorpora | 2.07p | 53.1250% | 1.25 USD | 0.15% | 8.76% | 16.23 USD | Financial Services |
+| 291 | BMI | Badger Meter, Inc. | 2.07p | 50.0000% | 23.82 USD | 0.19% | 11.83% | 225.69 USD | Technology |
+| 292 | GM | General Motors Company | 2.07p | 64.0625% | -1.02 USD | -0.01% | -2.05% | 48.65 USD | Consumer Cyclical |
+| 293 | CMA | Comerica Incorporated | 2.05p | 54.6875% | 3.89 USD | 0.13% | 6.77% | 61.37 USD | Financial Services |
+| 294 | UBER | Uber Technologies, Inc. | 2.05p | 46.8750% | 10.64 USD | 0.25% | 14.32% | 85.09 USD | Technology |
+| 295 | EQIX | Equinix, Inc. | 2.05p | 54.6875% | 53.40 USD | 0.11% | 6.57% | 866.35 USD | Real Estate |
+| 296 | AVGO | Broadcom Inc. | 2.04p | 53.1250% | 13.49 USD | 0.19% | 7.99% | 182.37 USD | Technology |
+| 297 | AKAM | Akamai Technologies, Inc. | 2.03p | 54.6875% | 6.09 USD | 0.11% | 6.25% | 108.05 USD | Technology |
+| 298 | DHR | Danaher Corporation | 2.03p | 53.1250% | 19.42 USD | 0.13% | 7.70% | 272.20 USD | Healthcare |
+| 299 | MPWR | Monolithic Power Systems, Inc. | 2.03p | 54.6875% | 53.73 USD | 0.17% | 6.04% | 943.82 USD | Technology |
+| 300 | SLG | SL Green Realty Corp | 2.03p | 50.0000% | 6.77 USD | 0.18% | 10.71% | 72.00 USD | Real Estate |
+| 301 | BCC | Boise Cascade, L.L.C. | 2.03p | 56.2500% | 6.18 USD | 0.11% | 4.52% | 159.00 USD | Basic Materials |
+| 302 | JCI | Johnson Controls International  | 2.03p | 53.1250% | 5.50 USD | 0.13% | 7.62% | 77.98 USD | Industrials |
+| 303 | BYD | Boyd Gaming Corporation | 2.02p | 51.5625% | 5.28 USD | 0.15% | 8.97% | 64.04 USD | Consumer Cyclical |
+| 304 | TAP | Molson Coors Beverage Company | 2.02p | 56.2500% | 2.27 USD | 0.08% | 4.32% | 55.19 USD | Consumer Defensive |
+| 305 | CNP | CenterPoint Energy, Inc (Holdin | 2.02p | 56.2500% | 1.21 USD | 0.08% | 4.24% | 29.76 USD | Utilities |
+| 306 | KEY | KeyCorp | 2.02p | 51.5625% | 1.41 USD | 0.16% | 8.82% | 17.40 USD | Financial Services |
+| 307 | VOD | Vodafone Group Plc | 2.01p | 53.1250% | 0.65 USD | 0.12% | 7.20% | 9.70 USD | Communication Services |
+| 308 | MDU | MDU Resources Group, Inc. | 2.01p | 50.0000% | 2.68 USD | 0.17% | 10.24% | 28.89 USD | Industrials |
+| 309 | ETN | Eaton Corporation, PLC | 2.01p | 56.2500% | 13.15 USD | 0.09% | 3.96% | 346.65 USD | Industrials |
+| 310 | RACE | Ferrari N.V. | 2.01p | 48.4375% | 50.01 USD | 0.19% | 11.65% | 480.42 USD | Consumer Cyclical |
+| 311 | Z | Zillow Group, Inc. | 2.01p | 43.7500% | 8.76 USD | 0.30% | 16.22% | 62.81 USD | Communication Services |
+| 312 | GS | Goldman Sachs Group, Inc. (The) | 2.01p | 56.2500% | 19.73 USD | 0.08% | 3.92% | 522.00 USD | Financial Services |
+| 313 | O | Realty Income Corporation | 2.01p | 48.4375% | 6.47 USD | 0.18% | 11.62% | 62.14 USD | Real Estate |
+| 314 | BBSI | Barrett Business Services, Inc. | 2.01p | 53.1250% | 2.42 USD | 0.12% | 6.97% | 37.21 USD | Industrials |
+| 315 | KMB | Kimberly-Clark Corporation | 2.01p | 59.3750% | 1.08 USD | 0.02% | 0.76% | 143.74 USD | Consumer Defensive |
+| 316 | BAP | Credicorp Ltd. | 2.00p | 51.5625% | 14.42 USD | 0.14% | 8.43% | 189.99 USD | Financial Services |
+| 317 | SYY | Sysco Corporation | 2.00p | 56.2500% | 2.68 USD | 0.07% | 3.69% | 75.40 USD | Consumer Defensive |
+| 318 | VICI | VICI Properties Inc. | 2.00p | 51.5625% | 2.51 USD | 0.13% | 8.29% | 32.83 USD | Real Estate |
+| 319 | CYBR | CyberArk Software Ltd. | 2.00p | 53.1250% | 18.37 USD | 0.12% | 6.65% | 378.73 USD | Technology |
+| 320 | CRT | Cross Timbers Royalty Trust | 2.00p | 48.4375% | 1.12 USD | 0.20% | 11.22% | 11.13 USD | Energy |
+| 321 | NSC | Norfolk Southern Corporation | 1.99p | 51.5625% | 19.05 USD | 0.14% | 8.11% | 260.00 USD | Industrials |
+| 322 | CI | The Cigna Group | 1.99p | 56.2500% | 11.74 USD | 0.06% | 3.46% | 362.00 USD | Healthcare |
+| 323 | GFL | GFL Environmental Inc. Subordin | 1.99p | 56.2500% | 1.35 USD | 0.06% | 3.43% | 40.83 USD | Industrials |
+| 324 | HLIT | Harmonic Inc. | 1.99p | 50.0000% | 1.20 USD | 0.20% | 9.54% | 13.80 USD | Technology |
+| 325 | QD | Qudian Inc. | 1.99p | 48.4375% | 0.21 USD | 0.23% | 11.05% | 2.13 USD | Financial Services |
+| 326 | DE | Deere & Company | 1.99p | 51.5625% | 30.21 USD | 0.13% | 8.00% | 407.27 USD | Industrials |
+| 327 | HASI | HA Sustainable Infrastructure C | 1.99p | 53.1250% | 2.12 USD | 0.12% | 6.45% | 34.93 USD | Real Estate |
+| 328 | TSM | Taiwan Semiconductor Manufactur | 1.99p | 56.2500% | 6.17 USD | 0.10% | 3.32% | 192.88 USD | Technology |
+| 329 | WEN | Wendy's Company (The) | 1.99p | 51.5625% | 1.43 USD | 0.14% | 7.96% | 19.41 USD | Consumer Cyclical |
+| 330 | AMRX | Amneal Pharmaceuticals, Inc. | 1.98p | 45.3125% | 1.06 USD | 0.24% | 13.95% | 8.67 USD | Healthcare |
+| 331 | EOG | EOG Resources, Inc. | 1.98p | 59.3750% | -0.05 USD | 0.01% | -0.04% | 131.25 USD | Energy |
+| 332 | SPWH | Sportsman's Warehouse Holdings, | 1.98p | 48.4375% | 0.27 USD | 0.27% | 10.59% | 2.84 USD | Consumer Cyclical |
+| 333 | LBTYK | Liberty Global Ltd. | 1.98p | 50.0000% | 1.77 USD | 0.15% | 9.13% | 22.22 USD | Communication Services |
+| 334 | AEP | American Electric Power Company | 1.97p | 51.5625% | 6.94 USD | 0.12% | 7.56% | 98.80 USD | Utilities |
+| 335 | FDS | FactSet Research Systems Inc. | 1.97p | 54.6875% | 19.61 USD | 0.08% | 4.43% | 472.07 USD | Financial Services |
+| 336 | BKU | BankUnited, Inc. | 1.97p | 51.5625% | 2.50 USD | 0.13% | 7.29% | 36.85 USD | Financial Services |
+| 337 | DD | DuPont de Nemours, Inc. | 1.96p | 53.1250% | 4.64 USD | 0.10% | 5.64% | 86.70 USD | Basic Materials |
+| 338 | SIG | Signet Jewelers Limited | 1.96p | 48.4375% | 9.05 USD | 0.19% | 10.22% | 99.02 USD | Consumer Cyclical |
+| 339 | TMO | Thermo Fisher Scientific Inc | 1.96p | 50.0000% | 48.37 USD | 0.14% | 8.71% | 606.00 USD | Healthcare |
+| 340 | LTC | LTC Properties, Inc. | 1.96p | 59.3750% | -0.20 USD | -0.00% | -0.54% | 35.71 USD | Real Estate |
+| 341 | BRC | Brady Corporation | 1.96p | 50.0000% | 5.97 USD | 0.14% | 8.65% | 74.98 USD | Industrials |
+| 342 | NFLX | Netflix, Inc. | 1.96p | 50.0000% | 56.68 USD | 0.14% | 8.64% | 713.05 USD | Communication Services |
+| 343 | JKHY | Jack Henry & Associates, Inc. | 1.96p | 50.0000% | 14.55 USD | 0.14% | 8.57% | 184.32 USD | Technology |
+| 344 | GOOD | Gladstone Commercial Corporatio | 1.95p | 50.0000% | 1.26 USD | 0.14% | 8.50% | 16.10 USD | Real Estate |
+| 345 | EXR | Extra Space Storage Inc | 1.95p | 54.6875% | 6.33 USD | 0.07% | 3.84% | 172.91 USD | Real Estate |
+| 346 | ABCB | Ameris Bancorp | 1.95p | 50.0000% | 4.96 USD | 0.14% | 8.42% | 70.00 USD | Financial Services |
+| 347 | TEF | Telefonica SA | 1.95p | 48.4375% | 0.43 USD | 0.15% | 9.89% | 4.84 USD | Communication Services |
+| 348 | EQR | Equity Residential | 1.94p | 51.5625% | 4.59 USD | 0.11% | 6.65% | 74.24 USD | Real Estate |
+| 349 | HSIC | Henry Schein, Inc. | 1.94p | 53.1250% | 3.42 USD | 0.10% | 5.06% | 71.04 USD | Healthcare |
+| 350 | PNC | PNC Financial Services Group, I | 1.94p | 51.5625% | 11.54 USD | 0.11% | 6.52% | 188.40 USD | Financial Services |
+| 351 | CVX | Chevron Corporation | 1.94p | 60.9375% | -4.24 USD | -0.03% | -2.72% | 151.84 USD | Energy |
+| 352 | FAST | Fastenal Company | 1.94p | 46.8750% | 7.66 USD | 0.18% | 11.10% | 79.90 USD | Industrials |
+| 353 | EXTR | Extreme Networks, Inc. | 1.93p | 51.5625% | 0.89 USD | 0.13% | 6.34% | 17.16 USD | Technology |
+| 354 | KEP | Korea Electric Power Corporatio | 1.93p | 51.5625% | 0.45 USD | 0.12% | 6.31% | 8.16 USD | Utilities |
+| 355 | CAG | ConAgra Brands, Inc. | 1.93p | 56.2500% | 0.46 USD | 0.04% | 1.59% | 29.49 USD | Consumer Defensive |
+| 356 | BKNG | Booking Holdings Inc. Common St | 1.93p | 53.1250% | 188.16 USD | 0.09% | 4.58% | 4302.77 USD | Consumer Cyclical |
+| 357 | EA | Electronic Arts Inc. | 1.93p | 59.3750% | -2.31 USD | -0.02% | -1.58% | 144.21 USD | Communication Services |
+| 358 | AVA | Avista Corporation | 1.92p | 54.6875% | 1.10 USD | 0.05% | 2.98% | 38.32 USD | Utilities |
+| 359 | GLW | Corning Incorporated | 1.92p | 56.2500% | 0.63 USD | 0.04% | 1.36% | 46.92 USD | Technology |
+| 360 | MFA | MFA Financial, Inc. | 1.92p | 51.5625% | 0.69 USD | 0.10% | 5.89% | 12.43 USD | Real Estate |
+| 361 | IPG | Interpublic Group of Companies, | 1.92p | 54.6875% | 0.85 USD | 0.05% | 2.77% | 31.45 USD | Communication Services |
+| 362 | MCRI | Monarch Casino & Resort, Inc. | 1.91p | 51.5625% | 3.99 USD | 0.10% | 5.59% | 75.37 USD | Consumer Cyclical |
+| 363 | SQ | Block, Inc. | 1.91p | 57.8125% | -0.42 USD | 0.02% | -0.58% | 71.63 USD | Technology |
+| 364 | LEN | Lennar Corporation | 1.91p | 50.0000% | 11.98 USD | 0.12% | 7.06% | 181.84 USD | Consumer Cyclical |
+| 365 | BHP | BHP Group Limited | 1.90p | 53.1250% | 2.23 USD | 0.08% | 3.90% | 59.58 USD | Basic Materials |
+| 366 | MNST | Monster Beverage Corporation | 1.90p | 54.6875% | 1.19 USD | 0.06% | 2.36% | 51.70 USD | Consumer Defensive |
+| 367 | BKE | Buckle, Inc. (The) | 1.90p | 50.0000% | 2.77 USD | 0.13% | 6.87% | 42.81 USD | Consumer Cyclical |
+| 368 | INCY | Incyte Corporation | 1.90p | 54.6875% | 1.44 USD | 0.05% | 2.25% | 65.46 USD | Healthcare |
+| 369 | VRTX | Vertex Pharmaceuticals Incorpor | 1.90p | 57.8125% | -4.16 USD | -0.00% | -0.85% | 484.88 USD | Healthcare |
+| 370 | AGNC | AGNC Investment Corp. | 1.90p | 54.6875% | 0.22 USD | 0.04% | 2.19% | 10.38 USD | Real Estate |
+| 371 | MTCH | Match Group, Inc. | 1.90p | 46.8750% | 3.38 USD | 0.18% | 9.82% | 37.80 USD | Communication Services |
+| 372 | NTRS | Northern Trust Corporation | 1.89p | 53.1250% | 3.30 USD | 0.07% | 3.64% | 94.14 USD | Financial Services |
+| 373 | GLOB | Globant S.A. | 1.89p | 51.5625% | 10.37 USD | 0.10% | 5.16% | 211.23 USD | Technology |
+| 374 | AA | Alcoa Corporation | 1.89p | 48.4375% | 3.14 USD | 0.18% | 8.12% | 41.98 USD | Basic Materials |
+| 375 | CATY | Cathay General Bancorp | 1.89p | 51.5625% | 2.12 USD | 0.09% | 4.99% | 55.92 USD | Financial Services |
+| 376 | BBY | Best Buy Co., Inc. | 1.89p | 45.3125% | 9.66 USD | 0.19% | 11.07% | 97.10 USD | Consumer Cyclical |
+| 377 | PDD | PDD Holdings Inc. | 1.88p | 56.2500% | 0.19 USD | 0.15% | 0.14% | 136.02 USD | Consumer Cyclical |
+| 378 | SNA | Snap-On Incorporated | 1.88p | 50.0000% | 17.72 USD | 0.11% | 6.35% | 308.00 USD | Industrials |
+| 379 | COST | Costco Wholesale Corporation | 1.88p | 51.5625% | 40.20 USD | 0.08% | 4.73% | 890.22 USD | Consumer Defensive |
+| 380 | ITW | Illinois Tool Works Inc. | 1.88p | 53.1250% | 8.01 USD | 0.05% | 3.16% | 261.66 USD | Industrials |
+| 381 | IVZ | Invesco Ltd | 1.87p | 48.4375% | 1.25 USD | 0.14% | 7.58% | 17.73 USD | Financial Services |
+| 382 | WCN | Waste Connections, Inc. | 1.87p | 56.2500% | -0.18 USD | 0.00% | -0.10% | 183.22 USD | Industrials |
+| 383 | LBTYA | Liberty Global Ltd. | 1.87p | 48.4375% | 1.43 USD | 0.13% | 7.51% | 20.48 USD | Communication Services |
+| 384 | WTS | Watts Water Technologies, Inc. | 1.87p | 51.5625% | 8.66 USD | 0.08% | 4.37% | 331.07 USD | Industrials |
+| 385 | BAH | Booz Allen Hamilton Holding Cor | 1.87p | 53.1250% | 4.46 USD | 0.06% | 2.82% | 170.00 USD | Industrials |
+| 386 | AEM | Agnico Eagle Mines Limited | 1.87p | 51.5625% | 3.33 USD | 0.08% | 4.35% | 79.61 USD | Basic Materials |
+| 387 | TAL | TAL Education Group | 1.86p | 46.8750% | 0.88 USD | 0.24% | 8.80% | 10.99 USD | Consumer Defensive |
+| 388 | LUV | Southwest Airlines Company | 1.86p | 50.0000% | 1.66 USD | 0.11% | 5.78% | 30.49 USD | Industrials |
+| 389 | BIDU | Baidu, Inc. | 1.86p | 50.0000% | 5.38 USD | 0.13% | 5.74% | 113.28 USD | Communication Services |
+| 390 | ACCO | Acco Brands Corporation | 1.86p | 50.0000% | 0.28 USD | 0.11% | 5.74% | 5.28 USD | Industrials |
+| 391 | NTAP | NetApp, Inc. | 1.86p | 59.3750% | -4.73 USD | -0.04% | -3.59% | 126.88 USD | Technology |
+| 392 | IP | International Paper Company | 1.86p | 50.0000% | 2.57 USD | 0.10% | 5.65% | 48.12 USD | Consumer Cyclical |
+| 393 | GD | General Dynamics Corporation | 1.86p | 51.5625% | 11.67 USD | 0.07% | 4.02% | 302.09 USD | Industrials |
+| 394 | UNP | Union Pacific Corporation | 1.85p | 54.6875% | 2.21 USD | 0.02% | 0.91% | 246.48 USD | Industrials |
+| 395 | BKH | Black Hills Corporation | 1.85p | 51.5625% | 2.31 USD | 0.07% | 3.97% | 60.95 USD | Utilities |
+| 396 | AMT | American Tower Corporation (REI | 1.85p | 50.0000% | 11.55 USD | 0.09% | 5.50% | 221.63 USD | Real Estate |
+| 397 | DFS | Discover Financial Services | 1.85p | 51.5625% | 5.49 USD | 0.08% | 3.87% | 147.82 USD | Financial Services |
+| 398 | GCI | Gannett Co., Inc. | 1.85p | 46.8750% | 0.42 USD | 0.24% | 8.40% | 5.50 USD | Communication Services |
+| 399 | CPRT | Copart, Inc. | 1.85p | 53.1250% | 1.25 USD | 0.05% | 2.31% | 59.85 USD | Industrials |
+| 400 | SYF | Synchrony Financial | 1.85p | 51.5625% | 1.98 USD | 0.08% | 3.83% | 55.00 USD | Financial Services |
+| 401 | FCX | Freeport-McMoRan, Inc. | 1.85p | 57.8125% | -1.21 USD | -0.01% | -2.42% | 48.95 USD | Basic Materials |
+| 402 | STX | Seagate Technology Holdings PLC | 1.84p | 53.1250% | 2.35 USD | 0.06% | 2.16% | 111.10 USD | Technology |
+| 403 | STWD | STARWOOD PROPERTY TRUST, INC. S | 1.84p | 56.2500% | -0.19 USD | -0.01% | -0.94% | 20.03 USD | Real Estate |
+| 404 | IR | Ingersoll Rand Inc. | 1.84p | 53.1250% | 2.10 USD | 0.05% | 2.09% | 102.44 USD | Industrials |
+| 405 | EGBN | Eagle Bancorp, Inc. | 1.84p | 48.4375% | 1.51 USD | 0.13% | 6.68% | 24.17 USD | Financial Services |
+| 406 | PRU | Prudential Financial, Inc. | 1.84p | 56.2500% | -1.35 USD | 0.00% | -1.07% | 125.17 USD | Financial Services |
+| 407 | AES | The AES Corporation | 1.84p | 56.2500% | -0.19 USD | 0.01% | -1.08% | 17.49 USD | Utilities |
+| 408 | KEYS | Keysight Technologies Inc. | 1.83p | 48.4375% | 9.50 USD | 0.13% | 6.36% | 159.66 USD | Technology |
+| 409 | AAPL | Apple Inc. | 1.83p | 56.2500% | -3.25 USD | -0.01% | -1.39% | 231.39 USD | Technology |
+| 410 | WFC | Wells Fargo & Company | 1.83p | 51.5625% | 1.92 USD | 0.07% | 3.19% | 62.20 USD | Financial Services |
+| 411 | WM | Waste Management, Inc. | 1.83p | 57.8125% | -6.59 USD | -0.04% | -3.00% | 213.92 USD | Industrials |
+| 412 | HPQ | HP Inc. | 1.83p | 56.2500% | -0.56 USD | -0.01% | -1.47% | 37.50 USD | Technology |
+| 413 | KR | Kroger Company (The) | 1.82p | 51.5625% | 1.67 USD | 0.06% | 3.12% | 55.30 USD | Consumer Defensive |
+| 414 | EXPE | Expedia Group, Inc. | 1.82p | 46.8750% | 10.71 USD | 0.15% | 7.67% | 158.96 USD | Consumer Cyclical |
+| 415 | SBH | Sally Beauty Holdings, Inc. (Na | 1.82p | 46.8750% | 0.89 USD | 0.16% | 7.64% | 12.85 USD | Consumer Cyclical |
+| 416 | NWL | Newell Brands Inc. | 1.82p | 42.1875% | 0.81 USD | 0.32% | 12.16% | 7.51 USD | Consumer Defensive |
+| 417 | BLFS | BioLife Solutions, Inc. | 1.82p | 51.5625% | 0.67 USD | 0.10% | 2.94% | 23.57 USD | Healthcare |
+| 418 | MAR | Marriott International | 1.81p | 51.5625% | 7.17 USD | 0.06% | 2.82% | 261.67 USD | Consumer Cyclical |
+| 419 | CRTO | Criteo S.A. | 1.81p | 53.1250% | 0.46 USD | 0.05% | 1.15% | 40.79 USD | Communication Services |
+| 420 | FLR | Fluor Corporation | 1.81p | 51.5625% | 1.35 USD | 0.06% | 2.69% | 51.48 USD | Industrials |
+| 421 | ORA | Ormat Technologies, Inc. | 1.81p | 53.1250% | 0.86 USD | 0.03% | 1.13% | 115.41 USD | Utilities |
+| 422 | ES | Eversource Energy (D/B/A) | 1.81p | 46.8750% | 4.30 USD | 0.12% | 7.20% | 63.97 USD | Utilities |
+| 423 | CCJ | Cameco Corporation | 1.81p | 53.1250% | 0.51 USD | 0.06% | 0.99% | 51.99 USD | Energy |
+| 424 | BDX | Becton, Dickinson and Company | 1.80p | 50.0000% | 9.32 USD | 0.07% | 4.04% | 240.05 USD | Healthcare |
+| 425 | PG | Procter & Gamble Company (The) | 1.80p | 50.0000% | 6.56 USD | 0.07% | 3.95% | 172.72 USD | Consumer Defensive |
+| 426 | ZTS | Zoetis Inc. | 1.80p | 48.4375% | 9.74 USD | 0.09% | 5.33% | 193.36 USD | Healthcare |
+| 427 | BKR | Baker Hughes Company | 1.79p | 50.0000% | 1.33 USD | 0.07% | 3.68% | 39.64 USD | Energy |
+| 428 | TGNA | TEGNA Inc | 1.79p | 53.1250% | 0.08 USD | 0.03% | 0.50% | 16.22 USD | Communication Services |
+| 429 | CSGP | CoStar Group, Inc. | 1.79p | 53.1250% | 0.37 USD | 0.02% | 0.48% | 77.43 USD | Real Estate |
+| 430 | EXPD | Expeditors International of Was | 1.78p | 53.1250% | 0.49 USD | 0.02% | 0.40% | 121.91 USD | Industrials |
+| 431 | WY | Weyerhaeuser Company | 1.78p | 43.7500% | 2.86 USD | 0.16% | 9.62% | 32.60 USD | Real Estate |
+| 432 | DRI | Darden Restaurants, Inc. | 1.78p | 45.3125% | 11.62 USD | 0.14% | 8.00% | 157.00 USD | Consumer Cyclical |
+| 433 | MAT | Mattel, Inc. | 1.78p | 42.1875% | 1.88 USD | 0.20% | 11.05% | 18.91 USD | Consumer Cyclical |
+| 434 | GEOS | Geospace Technologies Corporati | 1.78p | 48.4375% | 0.48 USD | 0.11% | 4.80% | 10.50 USD | Energy |
+| 435 | ET | Energy Transfer LP | 1.78p | 50.0000% | 0.51 USD | 0.06% | 3.19% | 16.56 USD | Energy |
+| 436 | COF | Capital One Financial Corporati | 1.77p | 48.4375% | 7.05 USD | 0.09% | 4.71% | 157.49 USD | Financial Services |
+| 437 | CHK | Chesapeake Energy Corporation | 1.77p | 47.6190% | 4.56 USD | 0.10% | 5.51% | 0.00 USD | Energy |
+| 438 | RGLD | Royal Gold, Inc. | 1.77p | 51.5625% | 2.26 USD | 0.04% | 1.61% | 142.36 USD | Basic Materials |
+| 439 | TPR | Tapestry, Inc. | 1.77p | 46.8750% | 2.63 USD | 0.11% | 6.12% | 46.08 USD | Consumer Cyclical |
+| 440 | UMH | UMH Properties, Inc. | 1.77p | 46.8750% | 1.08 USD | 0.10% | 6.12% | 19.12 USD | Real Estate |
+| 441 | ANSS | ANSYS, Inc. | 1.77p | 51.5625% | 4.94 USD | 0.04% | 1.50% | 359.64 USD | Technology |
+| 442 | SHYF | The Shyft Group, Inc. | 1.77p | 51.5625% | 0.17 USD | 0.11% | 1.41% | 12.27 USD | Industrials |
+| 443 | HEES | H&E Equipment Services, Inc. | 1.77p | 54.6875% | -0.87 USD | 0.00% | -1.63% | 52.61 USD | Industrials |
+| 444 | CSX | CSX Corporation | 1.77p | 53.1250% | -0.04 USD | 0.01% | -0.11% | 35.31 USD | Industrials |
+| 445 | RDUS | Radius Recycling, Inc. | 1.77p | 53.1250% | -0.03 USD | 0.05% | -0.17% | 17.90 USD | Basic Materials |
+| 446 | EPD | Enterprise Products Partners L. | 1.77p | 51.5625% | 0.41 USD | 0.03% | 1.40% | 29.54 USD | Energy |
+| 447 | TD | Toronto Dominion Bank (The) | 1.77p | 56.2500% | -1.90 USD | -0.04% | -3.25% | 56.51 USD | Financial Services |
+| 448 | CMCSA | Comcast Corporation | 1.76p | 46.8750% | 2.36 USD | 0.10% | 5.96% | 41.99 USD | Communication Services |
+| 449 | TEAM | Atlassian Corporation | 1.76p | 46.8750% | 10.83 USD | 0.14% | 5.91% | 194.62 USD | Technology |
+| 450 | FMC | FMC Corporation | 1.76p | 46.8750% | 3.49 USD | 0.12% | 5.89% | 62.30 USD | Basic Materials |
+| 451 | COR | Cencora, Inc. | 1.76p | 53.1250% | -0.57 USD | 0.00% | -0.25% | 225.81 USD | Healthcare |
+| 452 | CPB | Campbell Soup Company | 1.76p | 48.4375% | 2.00 USD | 0.08% | 4.34% | 50.23 USD | Consumer Defensive |
+| 453 | AMGN | Amgen Inc. | 1.76p | 54.6875% | -6.22 USD | -0.02% | -1.88% | 324.67 USD | Healthcare |
+| 454 | TFC | Truist Financial Corporation | 1.76p | 50.0000% | 1.15 USD | 0.05% | 2.71% | 43.90 USD | Financial Services |
+| 455 | WW | WW International, Inc. | 1.76p | 40.6250% | 0.16 USD | 0.79% | 11.35% | 1.60 USD | Consumer Cyclical |
+| 456 | LTM | LATAM Airlines Group S.A. | 1.76p | 47.3684% | 1.30 USD | 0.10% | 5.26% | 25.98 USD | Industrials |
+| 457 | CMG | Chipotle Mexican Grill, Inc. | 1.76p | 50.0000% | 1.54 USD | 0.06% | 2.67% | 59.40 USD | Consumer Cyclical |
+| 458 | HON | Honeywell International Inc. | 1.76p | 53.1250% | -0.87 USD | 0.00% | -0.40% | 217.64 USD | Industrials |
+| 459 | MAIN | Main Street Capital Corporation | 1.76p | 50.0000% | 1.33 USD | 0.05% | 2.66% | 51.50 USD | Financial Services |
+| 460 | SCWX | SecureWorks Corp. | 1.75p | 43.7500% | 0.64 USD | 0.24% | 8.61% | 9.31 USD | Technology |
+| 461 | MDLZ | Mondelez International, Inc. | 1.75p | 45.3125% | 4.70 USD | 0.12% | 7.14% | 74.51 USD | Consumer Defensive |
+| 462 | JNPR | Juniper Networks, Inc. | 1.75p | 48.4375% | 1.48 USD | 0.06% | 3.97% | 38.84 USD | Technology |
+| 463 | GHM | Graham Corporation | 1.75p | 54.6875% | -0.72 USD | -0.01% | -2.27% | 31.16 USD | Industrials |
+| 464 | PAYC | Paycom Software, Inc. | 1.74p | 50.0000% | 3.65 USD | 0.05% | 2.27% | 167.37 USD | Technology |
+| 465 | GOLD | Barrick Gold Corporation | 1.74p | 48.4375% | 0.73 USD | 0.08% | 3.79% | 19.94 USD | Basic Materials |
+| 466 | CEIX | CONSOL Energy Inc. | 1.74p | 48.4375% | 4.03 USD | 0.09% | 3.78% | 109.95 USD | Energy |
+| 467 | NREF | NexPoint Real Estate Finance, I | 1.74p | 53.1250% | -0.13 USD | 0.01% | -0.85% | 15.21 USD | Real Estate |
+| 468 | AIG | American International Group, I | 1.74p | 53.1250% | -0.67 USD | 0.00% | -0.86% | 77.82 USD | Financial Services |
+| 469 | PETS | PetMed Express, Inc. | 1.74p | 53.1250% | -0.04 USD | 0.05% | -0.99% | 4.02 USD | Healthcare |
+| 470 | STZ | Constellation Brands, Inc. | 1.74p | 53.1250% | -2.38 USD | -0.01% | -0.96% | 247.24 USD | Consumer Defensive |
+| 471 | ADPT | Adaptive Biotechnologies Corpor | 1.74p | 40.6250% | 0.50 USD | 0.28% | 11.24% | 4.97 USD | Healthcare |
+| 472 | TSN | Tyson Foods, Inc. | 1.74p | 50.0000% | 1.23 USD | 0.04% | 2.09% | 59.92 USD | Consumer Defensive |
+| 473 | PK | Park Hotels & Resorts Inc. | 1.74p | 54.6875% | -0.38 USD | -0.02% | -2.53% | 14.50 USD | Real Estate |
+| 474 | RIO | Rio Tinto Plc | 1.74p | 50.0000% | 1.38 USD | 0.05% | 2.08% | 67.60 USD | Basic Materials |
+| 475 | MC | Moelis & Company | 1.74p | 46.8750% | 3.39 USD | 0.10% | 5.11% | 69.63 USD | Financial Services |
+| 476 | TEVA | Teva Pharmaceutical Industries  | 1.74p | 48.4375% | 0.59 USD | 0.07% | 3.54% | 17.45 USD | Healthcare |
+| 477 | DELL | Dell Technologies Inc. | 1.73p | 56.2500% | -5.91 USD | -0.02% | -4.40% | 128.29 USD | Technology |
+| 478 | WIX | Wix.com Ltd. | 1.73p | 54.6875% | -4.79 USD | -0.02% | -2.86% | 163.03 USD | Technology |
+| 479 | PLNT | Planet Fitness, Inc. | 1.73p | 45.3125% | 4.93 USD | 0.11% | 6.37% | 82.99 USD | Consumer Cyclical |
+| 480 | CHWY | Chewy, Inc. | 1.72p | 48.4375% | 0.88 USD | 0.10% | 3.19% | 28.45 USD | Consumer Cyclical |
+| 481 | AAL | American Airlines Group, Inc. | 1.72p | 45.3125% | 0.68 USD | 0.13% | 6.08% | 11.89 USD | Industrials |
+| 482 | ALLT | Allot Ltd. | 1.72p | 46.8750% | 0.13 USD | 0.11% | 4.50% | 3.76 USD | Technology |
+| 483 | LULU | lululemon athletica inc. | 1.71p | 53.1250% | -5.00 USD | 0.00% | -1.71% | 298.59 USD | Consumer Cyclical |
+| 484 | XPER | Xperi Inc. | 1.71p | 45.3125% | 0.49 USD | 0.13% | 5.87% | 9.13 USD | Technology |
+| 485 | GAIN | Gladstone Investment Corporatio | 1.70p | 53.1250% | -0.28 USD | -0.02% | -1.97% | 13.96 USD | Financial Services |
+| 486 | HRB | H&R Block, Inc. | 1.70p | 42.1875% | 4.90 USD | 0.15% | 8.79% | 60.79 USD | Consumer Cyclical |
+| 487 | HST | Host Hotels & Resorts, Inc. | 1.70p | 54.6875% | -0.66 USD | -0.04% | -3.56% | 17.92 USD | Real Estate |
+| 488 | AEYE | AudioEye, Inc. | 1.70p | 46.8750% | 0.88 USD | 0.28% | 3.90% | 23.59 USD | Technology |
+| 489 | AMRC | Ameresco, Inc. | 1.70p | 46.8750% | 1.35 USD | 0.14% | 4.02% | 34.74 USD | Industrials |
+| 490 | ARLP | Alliance Resource Partners, L.P | 1.69p | 51.5625% | -0.18 USD | -0.00% | -0.71% | 25.07 USD | Energy |
+| 491 | BAX | Baxter International Inc. | 1.69p | 46.8750% | 1.37 USD | 0.08% | 3.85% | 36.86 USD | Healthcare |
+| 492 | PSX | Phillips 66 | 1.69p | 53.1250% | -3.21 USD | -0.02% | -2.31% | 135.42 USD | Energy |
+| 493 | KFY | Korn Ferry | 1.69p | 48.4375% | 1.59 USD | 0.05% | 2.24% | 73.25 USD | Industrials |
+| 494 | CIM | Chimera Investment Corporation | 1.69p | 51.5625% | -0.13 USD | 0.00% | -0.84% | 15.51 USD | Real Estate |
+| 495 | ITUB | Itau Unibanco Banco Holding SA | 1.69p | 50.0000% | 0.04 USD | 0.02% | 0.64% | 6.29 USD | Financial Services |
+| 496 | HES | Hess Corporation | 1.69p | 57.8125% | -10.64 USD | -0.10% | -7.07% | 139.42 USD | Energy |
+| 497 | C | Citigroup, Inc. | 1.69p | 51.5625% | -0.62 USD | 0.00% | -0.93% | 66.06 USD | Financial Services |
+| 498 | SCHW | Charles Schwab Corporation (The | 1.69p | 50.0000% | 0.39 USD | 0.02% | 0.58% | 68.00 USD | Financial Services |
+| 499 | SAND | Sandstorm Gold Ltd. | 1.68p | 50.0000% | 0.03 USD | 0.03% | 0.51% | 5.92 USD | Basic Materials |
+| 500 | LEVI | Levi Strauss & Co | 1.68p | 50.0000% | 0.09 USD | 0.03% | 0.47% | 19.09 USD | Consumer Cyclical |
+| 501 | ALB | Albemarle Corporation | 1.68p | 48.4375% | 1.89 USD | 0.10% | 1.93% | 99.17 USD | Basic Materials |
+| 502 | INVH | Invitation Homes Inc. | 1.68p | 56.2500% | -2.07 USD | -0.08% | -5.78% | 33.85 USD | Real Estate |
+| 503 | PPBI | Pacific Premier Bancorp Inc | 1.68p | 53.1250% | -0.74 USD | -0.02% | -2.73% | 26.44 USD | Financial Services |
+| 504 | CL | Colgate-Palmolive Company | 1.68p | 46.8750% | 3.33 USD | 0.06% | 3.42% | 100.72 USD | Consumer Defensive |
+| 505 | FTI | TechnipFMC plc | 1.68p | 53.1250% | -0.78 USD | -0.02% | -2.78% | 28.48 USD | Energy |
+| 506 | DDOG | Datadog, Inc. | 1.68p | 51.5625% | -1.65 USD | 0.00% | -1.26% | 129.14 USD | Technology |
+| 507 | TJX | TJX Companies, Inc. (The) | 1.67p | 50.0000% | 0.22 USD | 0.01% | 0.19% | 115.50 USD | Consumer Cyclical |
+| 508 | ATGE | Adtalem Global Education Inc. | 1.67p | 53.1250% | -2.30 USD | -0.03% | -2.98% | 78.26 USD | Consumer Defensive |
+| 509 | LTRX | Lantronix, Inc. | 1.67p | 45.3125% | 0.18 USD | 0.14% | 4.58% | 4.14 USD | Technology |
+| 510 | MNTX | Manitex International, Inc. | 1.67p | 35.9375% | 0.68 USD | 0.43% | 13.65% | 5.67 USD | Industrials |
+| 511 | PAVM | PAVmed Inc. | 1.67p | 43.7500% | 0.06 USD | 0.46% | 5.77% | 0.00 USD | Healthcare |
+| 512 | WDAY | Workday, Inc. | 1.66p | 46.8750% | 6.84 USD | 0.07% | 2.90% | 242.48 USD | Technology |
+| 513 | YUM | Yum! Brands, Inc. | 1.66p | 45.3125% | 5.73 USD | 0.07% | 4.44% | 134.90 USD | Consumer Cyclical |
+| 514 | DLR | Digital Realty Trust, Inc. | 1.66p | 50.0000% | -0.35 USD | 0.01% | -0.22% | 162.50 USD | Real Estate |
+| 515 | GRMN | Garmin Ltd. | 1.66p | 53.1250% | -5.78 USD | -0.04% | -3.33% | 169.42 USD | Technology |
+| 516 | VUZI | Vuzix Corporation | 1.66p | 45.3125% | 0.06 USD | 0.17% | 4.26% | 1.52 USD | Technology |
+| 517 | TGT | Target Corporation | 1.65p | 46.8750% | 4.16 USD | 0.06% | 2.71% | 158.58 USD | Consumer Defensive |
+| 518 | CATO | Cato Corporation (The) | 1.65p | 43.7500% | 0.30 USD | 0.12% | 5.75% | 5.81 USD | Consumer Cyclical |
+| 519 | HRL | Hormel Foods Corporation | 1.65p | 50.0000% | -0.13 USD | 0.00% | -0.41% | 31.46 USD | Consumer Defensive |
+| 520 | PPG | PPG Industries, Inc. | 1.65p | 53.1250% | -4.73 USD | -0.05% | -3.55% | 128.35 USD | Basic Materials |
+| 521 | DIS | Walt Disney Company (The) | 1.65p | 53.1250% | -3.50 USD | -0.05% | -3.55% | 95.03 USD | Communication Services |
+| 522 | TU | Telus Corporation | 1.65p | 46.8750% | 0.40 USD | 0.04% | 2.54% | 16.15 USD | Communication Services |
+| 523 | TXN | Texas Instruments Incorporated | 1.65p | 48.4375% | 2.04 USD | 0.04% | 0.98% | 208.80 USD | Technology |
+| 524 | BCRX | BioCryst Pharmaceuticals, Inc. | 1.64p | 51.5625% | -0.17 USD | 0.00% | -2.23% | 7.47 USD | Healthcare |
+| 525 | PRFT | Perficient, Inc. | 1.64p | 48.2143% | 0.81 USD | 0.02% | 1.08% | 0.00 USD | Technology |
+| 526 | BSM | Black Stone Minerals, L.P. | 1.64p | 53.1250% | -0.59 USD | -0.05% | -3.77% | 15.09 USD | Energy |
+| 527 | CCL | Carnival Corporation | 1.64p | 43.7500% | 1.03 USD | 0.12% | 5.37% | 20.29 USD | Consumer Cyclical |
+| 528 | DOC | Healthpeak Properties, Inc. | 1.64p | 45.3125% | 0.80 USD | 0.07% | 3.80% | 21.92 USD | Real Estate |
+| 529 | BEP | Brookfield Renewable Partners L | 1.64p | 48.4375% | 0.17 USD | 0.03% | 0.66% | 26.40 USD | Utilities |
+| 530 | SJM | The J.M. Smucker Company | 1.64p | 48.4375% | 0.71 USD | 0.02% | 0.60% | 120.41 USD | Consumer Defensive |
+| 531 | SLM | SLM Corporation | 1.63p | 51.5625% | -0.61 USD | -0.02% | -2.57% | 23.10 USD | Financial Services |
+| 532 | EQT | EQT Corporation | 1.63p | 46.8750% | 0.72 USD | 0.05% | 2.01% | 36.66 USD | Energy |
 | 533 | BILL | BILL Holdings, Inc. | 1.63p | 48.4375% | 0.19 USD | 0.05% | 0.34% | 56.50 USD | Technology |
 | 534 | MRO | Marathon Oil Corporation | 1.63p | 53.1250% | -1.23 USD | -0.06% | -4.25% | 27.72 USD | Energy |
 | 535 | KLAC | KLA Corporation | 1.63p | 53.1250% | -37.53 USD | -0.00% | -4.33% | 829.72 USD | Technology |
-| 536 | XYL | Xylem Inc. | 1.62p | 51.5625% | -4.02 USD | -0.03% | -2.85% | 137.23 USD | Industrials |
-| 537 | AVY | Avery Dennison Corporation | 1.62p | 50.0000% | -2.95 USD | -0.01% | -1.32% | 231.26 USD | Consumer Cyclical |
-| 538 | NAVI | Navient Corporation | 1.62p | 50.0000% | -0.22 USD | -0.00% | -1.40% | 15.51 USD | Financial Services |
-| 539 | ZS | Zscaler, Inc. | 1.61p | 51.5625% | -6.38 USD | 0.00% | -3.14% | 196.76 USD | Technology |
-| 540 | BYSI | BeyondSpring, Inc. | 1.61p | 45.3125% | 0.07 USD | 0.12% | 2.89% | 0.00 USD | Healthcare |
-| 541 | CHEF | The Chefs' Warehouse, Inc. | 1.61p | 54.6875% | -2.69 USD | -0.08% | -6.31% | 51.00 USD | Consumer Defensive |
-| 542 | LEG | Leggett & Platt, Incorporated | 1.61p | 45.3125% | 0.36 USD | 0.07% | 2.86% | 12.94 USD | Consumer Cyclical |
+| 536 | LEG | Leggett & Platt, Incorporated | 1.62p | 45.3125% | 0.41 USD | 0.08% | 3.29% | 12.94 USD | Consumer Cyclical |
+| 537 | XYL | Xylem Inc. | 1.62p | 51.5625% | -4.02 USD | -0.03% | -2.85% | 137.23 USD | Industrials |
+| 538 | AVY | Avery Dennison Corporation | 1.62p | 50.0000% | -2.95 USD | -0.01% | -1.32% | 231.26 USD | Consumer Cyclical |
+| 539 | NAVI | Navient Corporation | 1.62p | 50.0000% | -0.22 USD | -0.00% | -1.40% | 15.51 USD | Financial Services |
+| 540 | ZS | Zscaler, Inc. | 1.61p | 51.5625% | -6.38 USD | 0.00% | -3.14% | 196.76 USD | Technology |
+| 541 | BYSI | BeyondSpring, Inc. | 1.61p | 45.3125% | 0.07 USD | 0.12% | 2.89% | 0.00 USD | Healthcare |
+| 542 | CHEF | The Chefs' Warehouse, Inc. | 1.61p | 54.6875% | -2.69 USD | -0.08% | -6.31% | 51.00 USD | Consumer Defensive |
 | 543 | WPC | W. P. Carey Inc. REIT | 1.61p | 45.3125% | 1.67 USD | 0.05% | 2.87% | 60.70 USD | Real Estate |
 | 544 | AER | AerCap Holdings N.V. | 1.61p | 48.4375% | -0.22 USD | 0.01% | -0.23% | 97.90 USD | Industrials |
 | 545 | SWN | Southwestern Energy Company | 1.61p | 44.4444% | 0.25 USD | 0.08% | 3.64% | 0.00 USD | Energy |
@@ -2105,56 +2104,56 @@
 | 551 | GDEN | Golden Entertainment, Inc. | 1.59p | 50.0000% | -0.71 USD | -0.01% | -2.31% | 37.61 USD | Consumer Cyclical |
 | 552 | AVT | Avnet, Inc. | 1.59p | 45.3125% | 1.20 USD | 0.05% | 2.22% | 55.41 USD | Technology |
 | 553 | WES | Western Midstream Partners, LP | 1.58p | 53.1250% | -2.33 USD | -0.08% | -5.58% | 39.81 USD | Energy |
-| 554 | OSW | OneSpaWorld Holdings Limited | 1.58p | 48.4375% | -0.17 USD | -0.00% | -1.00% | 16.91 USD | Consumer Cyclical |
-| 555 | KELYA | Kelly Services, Inc. | 1.58p | 56.2500% | -1.94 USD | -0.13% | -8.69% | 20.42 USD | Industrials |
-| 556 | RNST | Renasant Corporation | 1.58p | 53.1250% | -1.96 USD | -0.08% | -5.62% | 33.81 USD | Financial Services |
-| 557 | GOOG | Alphabet Inc. | 1.58p | 57.8125% | -19.15 USD | -0.16% | -10.32% | 166.43 USD | Communication Services |
-| 558 | CWH | Camping World Holdings, Inc. | 1.58p | 45.3125% | 0.44 USD | 0.08% | 1.91% | 23.51 USD | Consumer Cyclical |
-| 559 | XENE | Xenon Pharmaceuticals Inc. | 1.57p | 50.0000% | -1.18 USD | -0.02% | -2.75% | 41.79 USD | Healthcare |
-| 560 | SCSC | ScanSource, Inc. | 1.57p | 45.3125% | 0.85 USD | 0.05% | 1.79% | 48.47 USD | Technology |
-| 561 | TRUE | TrueCar, Inc. | 1.57p | 50.0000% | -0.11 USD | 0.01% | -2.89% | 3.73 USD | Communication Services |
-| 562 | TXT | Textron Inc. | 1.57p | 53.1250% | -5.59 USD | -0.09% | -5.95% | 88.26 USD | Industrials |
-| 563 | AG | First Majestic Silver Corp. | 1.57p | 51.5625% | -0.31 USD | 0.01% | -4.53% | 6.51 USD | Basic Materials |
-| 564 | AROW | Arrow Financial Corporation | 1.57p | 50.0000% | -0.89 USD | -0.03% | -2.97% | 29.17 USD | Financial Services |
-| 565 | BBDC | Barings BDC, Inc. | 1.56p | 51.5625% | -0.47 USD | -0.07% | -4.62% | 9.82 USD | Financial Services |
-| 566 | NLY | Annaly Capital Management Inc. | 1.56p | 51.5625% | -0.96 USD | -0.07% | -4.63% | 19.80 USD | Real Estate |
-| 567 | ALG | Alamo Group, Inc. | 1.56p | 50.0000% | -5.86 USD | -0.04% | -3.17% | 188.88 USD | Industrials |
-| 568 | ALEX | Alexander & Baldwin, Inc. | 1.56p | 43.7500% | 0.53 USD | 0.06% | 2.95% | 18.90 USD | Real Estate |
-| 569 | CHTR | Charter Communications, Inc. | 1.56p | 45.3125% | 4.38 USD | 0.06% | 1.34% | 331.83 USD | Communication Services |
-| 570 | LNTH | Lantheus Holdings, Inc. | 1.55p | 53.1250% | -7.58 USD | -0.08% | -6.41% | 142.32 USD | Healthcare |
-| 571 | MRVL | Marvell Technology, Inc. | 1.55p | 43.7500% | 2.08 USD | 0.12% | 2.75% | 77.69 USD | Technology |
-| 572 | AMS | American Shared Hospital Servic | 1.55p | 46.8750% | -0.01 USD | 0.05% | -0.31% | 3.28 USD | Healthcare |
-| 573 | CRDF | Cardiff Oncology, Inc. | 1.55p | 45.3125% | 0.03 USD | 0.12% | 1.15% | 2.64 USD | Healthcare |
-| 574 | GNL | Global Net Lease, Inc. | 1.55p | 48.4375% | -0.16 USD | -0.02% | -1.90% | 8.32 USD | Real Estate |
-| 575 | ARCO | Arcos Dorados Holdings Inc. | 1.55p | 46.8750% | -0.04 USD | 0.03% | -0.40% | 10.25 USD | Consumer Cyclical |
-| 576 | FRT | Federal Realty Investment Trust | 1.55p | 43.7500% | 2.83 USD | 0.05% | 2.60% | 111.67 USD | Real Estate |
-| 577 | MCK | McKesson Corporation | 1.55p | 59.3750% | -74.67 USD | -0.19% | -12.79% | 509.69 USD | Healthcare |
-| 578 | BC | Brunswick Corporation | 1.55p | 45.3125% | 0.84 USD | 0.04% | 1.02% | 82.62 USD | Consumer Cyclical |
-| 579 | FULT | Fulton Financial Corporation | 1.54p | 50.0000% | -0.68 USD | -0.04% | -3.62% | 20.74 USD | Financial Services |
-| 580 | PBI | Pitney Bowes Inc. | 1.54p | 46.8750% | -0.04 USD | 0.03% | -0.56% | 7.04 USD | Industrials |
-| 581 | STAG | Stag Industrial, Inc. | 1.54p | 48.4375% | -0.82 USD | -0.03% | -2.15% | 37.94 USD | Real Estate |
-| 582 | OZK | Bank OZK | 1.54p | 51.5625% | -2.50 USD | -0.07% | -5.37% | 44.07 USD | Financial Services |
-| 583 | EPAM | EPAM Systems, Inc. | 1.54p | 51.5625% | -11.35 USD | -0.07% | -5.42% | 201.58 USD | Technology |
-| 584 | PLD | Prologis, Inc. | 1.53p | 46.8750% | -1.03 USD | -0.00% | -0.85% | 121.05 USD | Real Estate |
-| 585 | FDX | FedEx Corporation | 1.53p | 60.9375% | -46.07 USD | -0.22% | -14.69% | 267.25 USD | Industrials |
-| 586 | FNV | Franco-Nevada Corporation | 1.53p | 51.5625% | -7.27 USD | -0.08% | -5.54% | 124.62 USD | Basic Materials |
-| 587 | AMED | Amedisys Inc | 1.53p | 46.8750% | -0.93 USD | -0.01% | -0.95% | 104.04 USD | Healthcare |
-| 588 | AXSM | Axsome Therapeutics, Inc. | 1.53p | 45.3125% | 0.47 USD | 0.03% | 0.55% | 85.47 USD | Healthcare |
-| 589 | KW | Kennedy-Wilson Holdings Inc. | 1.52p | 45.3125% | 0.03 USD | 0.02% | 0.28% | 10.73 USD | Real Estate |
-| 590 | LLY | Eli Lilly and Company | 1.52p | 46.8750% | -12.09 USD | 0.01% | -1.28% | 932.20 USD | Healthcare |
-| 591 | AMZN | Amazon.com, Inc. | 1.52p | 48.4375% | -5.48 USD | -0.02% | -2.84% | 187.63 USD | Consumer Cyclical |
-| 592 | CODX | Co-Diagnostics, Inc. | 1.52p | 45.3125% | 0.00 USD | 0.18% | 0.00% | 1.36 USD | Healthcare |
-| 593 | NAT | Nordic American Tankers Limited | 1.52p | 50.0000% | -0.17 USD | -0.06% | -4.49% | 3.64 USD | Energy |
-| 594 | WU | Western Union Company (The) | 1.51p | 51.5625% | -0.76 USD | -0.09% | -6.03% | 11.93 USD | Financial Services |
-| 595 | ENIC | Enel Chile S.A. | 1.51p | 48.4375% | -0.09 USD | -0.03% | -3.09% | 2.83 USD | Utilities |
-| 596 | NICE | NICE Ltd | 1.51p | 50.0000% | -8.44 USD | -0.05% | -4.64% | 173.65 USD | Technology |
-| 597 | LOGI | Logitech International S.A. - R | 1.51p | 50.0000% | -4.30 USD | -0.06% | -4.65% | 88.26 USD | Technology |
-| 598 | UVV | Universal Corporation | 1.51p | 43.7500% | 0.73 USD | 0.04% | 1.48% | 50.94 USD | Consumer Defensive |
-| 599 | GPC | Genuine Parts Company | 1.51p | 46.8750% | -2.28 USD | -0.02% | -1.61% | 138.99 USD | Consumer Cyclical |
-| 600 | SPNS | Sapiens International Corporati | 1.51p | 54.6875% | -3.71 USD | -0.14% | -9.39% | 35.83 USD | Technology |
-| 601 | JKS | JinkoSolar Holding Company Limi | 1.50p | 45.3125% | -0.09 USD | 0.14% | -0.39% | 23.60 USD | Technology |
-| 602 | OGI | Organigram Holdings Inc. | 1.50p | 43.7500% | 0.02 USD | 0.12% | 1.14% | 1.80 USD | Healthcare |
-| 603 | COP | ConocoPhillips | 1.50p | 50.0000% | -5.72 USD | -0.07% | -4.97% | 109.36 USD | Energy |
+| 554 | GOOG | Alphabet Inc. | 1.58p | 57.8125% | -18.91 USD | -0.16% | -10.21% | 166.43 USD | Communication Services |
+| 555 | OSW | OneSpaWorld Holdings Limited | 1.58p | 48.4375% | -0.17 USD | -0.00% | -1.00% | 16.91 USD | Consumer Cyclical |
+| 556 | KELYA | Kelly Services, Inc. | 1.58p | 56.2500% | -1.94 USD | -0.13% | -8.69% | 20.42 USD | Industrials |
+| 557 | RNST | Renasant Corporation | 1.58p | 53.1250% | -1.96 USD | -0.08% | -5.62% | 33.81 USD | Financial Services |
+| 558 | LLY | Eli Lilly and Company | 1.58p | 48.4375% | -10.78 USD | 0.01% | -1.15% | 932.20 USD | Healthcare |
+| 559 | CWH | Camping World Holdings, Inc. | 1.58p | 45.3125% | 0.44 USD | 0.08% | 1.91% | 23.51 USD | Consumer Cyclical |
+| 560 | XENE | Xenon Pharmaceuticals Inc. | 1.57p | 50.0000% | -1.18 USD | -0.02% | -2.75% | 41.79 USD | Healthcare |
+| 561 | STAG | Stag Industrial, Inc. | 1.57p | 48.4375% | -0.47 USD | -0.01% | -1.24% | 37.94 USD | Real Estate |
+| 562 | SCSC | ScanSource, Inc. | 1.57p | 45.3125% | 0.85 USD | 0.05% | 1.79% | 48.47 USD | Technology |
+| 563 | TRUE | TrueCar, Inc. | 1.57p | 50.0000% | -0.11 USD | 0.01% | -2.89% | 3.73 USD | Communication Services |
+| 564 | TXT | Textron Inc. | 1.57p | 53.1250% | -5.59 USD | -0.09% | -5.95% | 88.26 USD | Industrials |
+| 565 | PBI | Pitney Bowes Inc. | 1.57p | 46.8750% | 0.01 USD | 0.04% | 0.12% | 7.04 USD | Industrials |
+| 566 | AG | First Majestic Silver Corp. | 1.57p | 51.5625% | -0.31 USD | 0.01% | -4.53% | 6.51 USD | Basic Materials |
+| 567 | AROW | Arrow Financial Corporation | 1.57p | 50.0000% | -0.89 USD | -0.03% | -2.97% | 29.17 USD | Financial Services |
+| 568 | BBDC | Barings BDC, Inc. | 1.56p | 51.5625% | -0.47 USD | -0.07% | -4.62% | 9.82 USD | Financial Services |
+| 569 | NLY | Annaly Capital Management Inc. | 1.56p | 51.5625% | -0.96 USD | -0.07% | -4.63% | 19.80 USD | Real Estate |
+| 570 | ALG | Alamo Group, Inc. | 1.56p | 50.0000% | -5.86 USD | -0.04% | -3.17% | 182.80 USD | Industrials |
+| 571 | ALEX | Alexander & Baldwin, Inc. | 1.56p | 43.7500% | 0.53 USD | 0.06% | 2.95% | 18.90 USD | Real Estate |
+| 572 | CHTR | Charter Communications, Inc. | 1.56p | 45.3125% | 4.38 USD | 0.06% | 1.34% | 331.83 USD | Communication Services |
+| 573 | LNTH | Lantheus Holdings, Inc. | 1.55p | 53.1250% | -7.58 USD | -0.08% | -6.41% | 142.32 USD | Healthcare |
+| 574 | MRVL | Marvell Technology, Inc. | 1.55p | 43.7500% | 2.08 USD | 0.12% | 2.75% | 77.69 USD | Technology |
+| 575 | AMS | American Shared Hospital Servic | 1.55p | 46.8750% | -0.01 USD | 0.05% | -0.31% | 3.28 USD | Healthcare |
+| 576 | CRDF | Cardiff Oncology, Inc. | 1.55p | 45.3125% | 0.03 USD | 0.12% | 1.15% | 2.64 USD | Healthcare |
+| 577 | GNL | Global Net Lease, Inc. | 1.55p | 48.4375% | -0.16 USD | -0.02% | -1.90% | 8.32 USD | Real Estate |
+| 578 | ARCO | Arcos Dorados Holdings Inc. | 1.55p | 46.8750% | -0.04 USD | 0.03% | -0.40% | 10.25 USD | Consumer Cyclical |
+| 579 | FDX | FedEx Corporation | 1.55p | 60.9375% | -44.54 USD | -0.22% | -14.28% | 267.25 USD | Industrials |
+| 580 | FRT | Federal Realty Investment Trust | 1.55p | 43.7500% | 2.83 USD | 0.05% | 2.60% | 111.67 USD | Real Estate |
+| 581 | MCK | McKesson Corporation | 1.55p | 59.3750% | -74.67 USD | -0.19% | -12.79% | 509.69 USD | Healthcare |
+| 582 | BC | Brunswick Corporation | 1.55p | 45.3125% | 0.84 USD | 0.04% | 1.02% | 82.62 USD | Consumer Cyclical |
+| 583 | FULT | Fulton Financial Corporation | 1.54p | 50.0000% | -0.68 USD | -0.04% | -3.62% | 20.74 USD | Financial Services |
+| 584 | OZK | Bank OZK | 1.54p | 51.5625% | -2.50 USD | -0.07% | -5.37% | 44.07 USD | Financial Services |
+| 585 | EPAM | EPAM Systems, Inc. | 1.54p | 51.5625% | -11.35 USD | -0.07% | -5.42% | 201.58 USD | Technology |
+| 586 | PLD | Prologis, Inc. | 1.53p | 46.8750% | -1.03 USD | -0.00% | -0.85% | 121.05 USD | Real Estate |
+| 587 | FNV | Franco-Nevada Corporation | 1.53p | 51.5625% | -7.27 USD | -0.08% | -5.54% | 124.62 USD | Basic Materials |
+| 588 | AMED | Amedisys Inc | 1.53p | 46.8750% | -0.93 USD | -0.01% | -0.95% | 104.04 USD | Healthcare |
+| 589 | AXSM | Axsome Therapeutics, Inc. | 1.53p | 45.3125% | 0.47 USD | 0.03% | 0.55% | 85.47 USD | Healthcare |
+| 590 | COP | ConocoPhillips | 1.52p | 50.0000% | -4.89 USD | -0.06% | -4.28% | 109.36 USD | Energy |
+| 591 | KW | Kennedy-Wilson Holdings Inc. | 1.52p | 45.3125% | 0.03 USD | 0.02% | 0.28% | 10.73 USD | Real Estate |
+| 592 | AMZN | Amazon.com, Inc. | 1.52p | 48.4375% | -5.48 USD | -0.02% | -2.84% | 187.63 USD | Consumer Cyclical |
+| 593 | CODX | Co-Diagnostics, Inc. | 1.52p | 45.3125% | 0.00 USD | 0.18% | 0.00% | 1.36 USD | Healthcare |
+| 594 | NAT | Nordic American Tankers Limited | 1.52p | 50.0000% | -0.17 USD | -0.06% | -4.49% | 3.64 USD | Energy |
+| 595 | WU | Western Union Company (The) | 1.51p | 51.5625% | -0.76 USD | -0.09% | -6.03% | 11.93 USD | Financial Services |
+| 596 | ENIC | Enel Chile S.A. | 1.51p | 48.4375% | -0.09 USD | -0.03% | -3.09% | 2.83 USD | Utilities |
+| 597 | NICE | NICE Ltd | 1.51p | 50.0000% | -8.44 USD | -0.05% | -4.64% | 173.65 USD | Technology |
+| 598 | LOGI | Logitech International S.A. - R | 1.51p | 50.0000% | -4.30 USD | -0.06% | -4.65% | 88.26 USD | Technology |
+| 599 | UVV | Universal Corporation | 1.51p | 43.7500% | 0.73 USD | 0.04% | 1.48% | 50.94 USD | Consumer Defensive |
+| 600 | GPC | Genuine Parts Company | 1.51p | 46.8750% | -2.28 USD | -0.02% | -1.61% | 138.99 USD | Consumer Cyclical |
+| 601 | SPNS | Sapiens International Corporati | 1.51p | 54.6875% | -3.71 USD | -0.14% | -9.39% | 35.83 USD | Technology |
+| 602 | JKS | JinkoSolar Holding Company Limi | 1.50p | 45.3125% | -0.09 USD | 0.14% | -0.39% | 23.60 USD | Technology |
+| 603 | OGI | Organigram Holdings Inc. | 1.50p | 43.7500% | 0.02 USD | 0.12% | 1.14% | 1.80 USD | Healthcare |
 | 604 | MTSI | MACOM Technology Solutions Hold | 1.49p | 45.3125% | -0.66 USD | 0.03% | -0.56% | 116.66 USD | Technology |
 | 605 | PACB | Pacific Biosciences of Californ | 1.49p | 50.0000% | -0.12 USD | 0.19% | -5.53% | 2.06 USD | Healthcare |
 | 606 | CAL | Caleres, Inc. | 1.49p | 50.0000% | -1.83 USD | -0.02% | -5.32% | 32.60 USD | Consumer Cyclical |
@@ -2164,21 +2163,21 @@
 | 610 | PBR | Petroleo Brasileiro S.A.- Petro | 1.48p | 46.8750% | -0.36 USD | -0.02% | -2.37% | 14.83 USD | Energy |
 | 611 | FL | Foot Locker, Inc. | 1.48p | 53.1250% | -2.23 USD | -0.09% | -8.58% | 23.77 USD | Consumer Cyclical |
 | 612 | AGR | Avangrid, Inc. | 1.48p | 43.7500% | 0.24 USD | 0.01% | 0.68% | 35.75 USD | Utilities |
-| 613 | GOOGL | Alphabet Inc. | 1.47p | 54.6875% | -18.96 USD | -0.16% | -10.31% | 171.89 USD | Communication Services |
-| 614 | FANG | Diamondback Energy, Inc. | 1.47p | 53.1250% | -18.36 USD | -0.12% | -8.78% | 190.79 USD | Energy |
-| 615 | VRSK | Verisk Analytics, Inc. | 1.47p | 48.4375% | -11.91 USD | -0.06% | -4.24% | 269.43 USD | Industrials |
-| 616 | BB | BlackBerry Limited | 1.47p | 46.8750% | -0.07 USD | -0.01% | -2.73% | 2.50 USD | Technology |
-| 617 | ASB | Associated Banc-Corp | 1.47p | 50.0000% | -1.37 USD | -0.08% | -5.84% | 22.09 USD | Financial Services |
-| 618 | RDVT | Red Violet, Inc. | 1.47p | 42.1875% | 0.47 USD | 0.07% | 1.80% | 26.88 USD | Technology |
-| 619 | PAA | Plains All American Pipeline, L | 1.47p | 50.0000% | -1.10 USD | -0.09% | -5.86% | 17.68 USD | Energy |
-| 620 | LILA | Liberty Latin America Ltd. | 1.46p | 48.4375% | -0.45 USD | -0.05% | -4.48% | 9.61 USD | Communication Services |
-| 621 | AROC | Archrock, Inc. | 1.46p | 51.5625% | -1.77 USD | -0.10% | -7.67% | 21.32 USD | Energy |
-| 622 | LILAK | Liberty Latin America Ltd. | 1.46p | 50.0000% | -0.62 USD | -0.08% | -6.13% | 9.50 USD | Communication Services |
-| 623 | MPC | Marathon Petroleum Corporation | 1.46p | 46.8750% | -5.17 USD | -0.03% | -3.08% | 163.25 USD | Energy |
+| 613 | GOOGL | Alphabet Inc. | 1.48p | 54.6875% | -18.72 USD | -0.16% | -10.19% | 171.89 USD | Communication Services |
+| 614 | MPC | Marathon Petroleum Corporation | 1.47p | 46.8750% | -4.36 USD | -0.02% | -2.62% | 162.49 USD | Energy |
+| 615 | FANG | Diamondback Energy, Inc. | 1.47p | 53.1250% | -18.36 USD | -0.12% | -8.78% | 190.79 USD | Energy |
+| 616 | VRSK | Verisk Analytics, Inc. | 1.47p | 48.4375% | -11.91 USD | -0.06% | -4.24% | 269.43 USD | Industrials |
+| 617 | BB | BlackBerry Limited | 1.47p | 46.8750% | -0.07 USD | -0.01% | -2.73% | 2.50 USD | Technology |
+| 618 | ASB | Associated Banc-Corp | 1.47p | 50.0000% | -1.37 USD | -0.08% | -5.84% | 22.09 USD | Financial Services |
+| 619 | RDVT | Red Violet, Inc. | 1.47p | 42.1875% | 0.47 USD | 0.07% | 1.80% | 26.88 USD | Technology |
+| 620 | PAA | Plains All American Pipeline, L | 1.47p | 50.0000% | -1.10 USD | -0.09% | -5.86% | 17.68 USD | Energy |
+| 621 | LILA | Liberty Latin America Ltd. | 1.46p | 48.4375% | -0.45 USD | -0.05% | -4.48% | 9.61 USD | Communication Services |
+| 622 | AROC | Archrock, Inc. | 1.46p | 51.5625% | -1.77 USD | -0.10% | -7.67% | 21.32 USD | Energy |
+| 623 | LILAK | Liberty Latin America Ltd. | 1.46p | 50.0000% | -0.62 USD | -0.08% | -6.13% | 9.50 USD | Communication Services |
 | 624 | APTV | Aptiv PLC | 1.46p | 46.8750% | -2.32 USD | -0.03% | -3.16% | 70.97 USD | Consumer Cyclical |
 | 625 | DKNG | DraftKings Inc. | 1.46p | 48.4375% | -1.88 USD | -0.04% | -4.72% | 37.93 USD | Consumer Cyclical |
 | 626 | HPE | Hewlett Packard Enterprise Comp | 1.45p | 46.8750% | -0.71 USD | -0.02% | -3.31% | 20.77 USD | Technology |
-| 627 | DOV | Dover Corporation | 1.45p | 42.1875% | 2.24 USD | 0.03% | 1.17% | 193.67 USD | Industrials |
+| 627 | DOV | Dover Corporation | 1.45p | 42.1875% | 2.24 USD | 0.03% | 1.17% | 194.57 USD | Industrials |
 | 628 | MGRC | McGrath RentCorp | 1.45p | 48.4375% | -5.68 USD | -0.06% | -5.02% | 107.56 USD | Industrials |
 | 629 | VLO | Valero Energy Corporation | 1.44p | 48.4375% | -7.66 USD | -0.06% | -5.15% | 141.42 USD | Energy |
 | 630 | AAN | Aarons Holdings Company, Inc. | 1.44p | 42.1053% | 0.10 USD | 0.02% | 1.00% | 0.00 USD | Industrials |
@@ -2189,162 +2188,162 @@
 | 635 | LYFT | Lyft, Inc. | 1.43p | 43.7500% | -0.12 USD | 0.06% | -0.90% | 13.88 USD | Technology |
 | 636 | SPH | Suburban Propane Partners, L.P. | 1.42p | 46.8750% | -0.80 USD | -0.06% | -4.15% | 18.56 USD | Utilities |
 | 637 | EHTH | eHealth, Inc. | 1.42p | 46.8750% | -0.20 USD | 0.04% | -4.25% | 4.54 USD | Financial Services |
-| 638 | KRMD | KORU Medical Systems, Inc. | 1.42p | 40.6250% | 0.05 USD | 0.09% | 1.87% | 3.39 USD | Healthcare |
-| 639 | CRNT | Ceragon Networks Ltd. | 1.42p | 48.4375% | -0.16 USD | -0.06% | -5.93% | 2.55 USD | Technology |
-| 640 | HUYA | HUYA Inc. | 1.41p | 43.7500% | -0.06 USD | 0.08% | -1.43% | 4.15 USD | Communication Services |
-| 641 | MRAM | Everspin Technologies, Inc. | 1.41p | 48.4375% | -0.41 USD | -0.05% | -6.01% | 6.36 USD | Technology |
-| 642 | ADNT | Adient plc | 1.41p | 56.2500% | -3.47 USD | -0.20% | -13.70% | 22.27 USD | Consumer Cyclical |
-| 643 | TDC | Teradata Corporation | 1.41p | 51.5625% | -3.18 USD | -0.11% | -9.11% | 31.97 USD | Technology |
-| 644 | PFE | Pfizer, Inc. | 1.41p | 43.7500% | -0.42 USD | -0.01% | -1.42% | 29.08 USD | Healthcare |
-| 645 | SHO | Sunstone Hotel Investors, Inc.  | 1.41p | 45.3125% | -0.33 USD | -0.04% | -3.09% | 10.34 USD | Real Estate |
-| 646 | RPD | Rapid7, Inc. | 1.40p | 43.7500% | -0.70 USD | 0.01% | -1.70% | 40.62 USD | Technology |
-| 647 | EGP | EastGroup Properties, Inc. | 1.40p | 45.3125% | -6.08 USD | -0.05% | -3.31% | 285.07 USD | Real Estate |
-| 648 | BAC | Bank of America Corporation | 1.39p | 46.8750% | -2.22 USD | -0.07% | -5.03% | 41.93 USD | Financial Services |
-| 649 | PLYM | Plymouth Industrial REIT, Inc. | 1.39p | 51.5625% | -2.29 USD | -0.15% | -9.66% | 21.40 USD | Real Estate |
-| 650 | FSLR | First Solar, Inc. | 1.39p | 46.8750% | -11.29 USD | -0.02% | -5.10% | 210.00 USD | Technology |
-| 651 | JWN | Nordstrom, Inc. | 1.39p | 45.3125% | -0.84 USD | -0.04% | -3.54% | 22.97 USD | Consumer Cyclical |
-| 652 | CQP | Cheniere Energy Partners, LP | 1.39p | 46.8750% | -2.73 USD | -0.07% | -5.18% | 50.10 USD | Energy |
-| 653 | DOW | Dow Inc. | 1.39p | 43.7500% | -1.16 USD | -0.02% | -2.12% | 53.49 USD | Basic Materials |
-| 654 | MSFT | Microsoft Corporation | 1.39p | 48.4375% | -30.38 USD | -0.10% | -6.76% | 419.24 USD | Technology |
+| 638 | JWN | Nordstrom, Inc. | 1.42p | 45.3125% | -0.64 USD | -0.02% | -2.71% | 22.97 USD | Consumer Cyclical |
+| 639 | KRMD | KORU Medical Systems, Inc. | 1.42p | 40.6250% | 0.05 USD | 0.09% | 1.87% | 3.39 USD | Healthcare |
+| 640 | CRNT | Ceragon Networks Ltd. | 1.42p | 48.4375% | -0.16 USD | -0.06% | -5.93% | 2.55 USD | Technology |
+| 641 | BAC | Bank of America Corporation | 1.41p | 46.8750% | -1.93 USD | -0.06% | -4.41% | 41.93 USD | Financial Services |
+| 642 | HUYA | HUYA Inc. | 1.41p | 43.7500% | -0.06 USD | 0.08% | -1.43% | 4.15 USD | Communication Services |
+| 643 | MRAM | Everspin Technologies, Inc. | 1.41p | 48.4375% | -0.41 USD | -0.05% | -6.01% | 6.36 USD | Technology |
+| 644 | ADNT | Adient plc | 1.41p | 56.2500% | -3.47 USD | -0.20% | -13.70% | 22.34 USD | Consumer Cyclical |
+| 645 | TDC | Teradata Corporation | 1.41p | 51.5625% | -3.18 USD | -0.11% | -9.11% | 31.97 USD | Technology |
+| 646 | PFE | Pfizer, Inc. | 1.41p | 43.7500% | -0.42 USD | -0.01% | -1.42% | 29.08 USD | Healthcare |
+| 647 | SHO | Sunstone Hotel Investors, Inc.  | 1.41p | 45.3125% | -0.33 USD | -0.04% | -3.09% | 10.34 USD | Real Estate |
+| 648 | RPD | Rapid7, Inc. | 1.40p | 43.7500% | -0.70 USD | 0.01% | -1.70% | 40.62 USD | Technology |
+| 649 | EGP | EastGroup Properties, Inc. | 1.40p | 45.3125% | -6.08 USD | -0.05% | -3.31% | 285.07 USD | Real Estate |
+| 650 | PLYM | Plymouth Industrial REIT, Inc. | 1.39p | 51.5625% | -2.29 USD | -0.15% | -9.66% | 22.05 USD | Real Estate |
+| 651 | FSLR | First Solar, Inc. | 1.39p | 46.8750% | -11.29 USD | -0.02% | -5.10% | 210.00 USD | Technology |
+| 652 | MSFT | Microsoft Corporation | 1.39p | 48.4375% | -29.57 USD | -0.10% | -6.59% | 419.24 USD | Technology |
+| 653 | CQP | Cheniere Energy Partners, LP | 1.39p | 46.8750% | -2.73 USD | -0.07% | -5.18% | 50.10 USD | Energy |
+| 654 | DOW | Dow Inc. | 1.39p | 43.7500% | -1.16 USD | -0.02% | -2.12% | 53.49 USD | Basic Materials |
 | 655 | ESI | Element Solutions Inc. | 1.38p | 50.0000% | -2.40 USD | -0.12% | -8.40% | 27.55 USD | Basic Materials |
 | 656 | ANAB | AnaptysBio, Inc. | 1.38p | 40.6250% | 0.26 USD | 0.07% | 0.75% | 34.77 USD | Healthcare |
 | 657 | AEIS | Advanced Energy Industries, Inc | 1.37p | 48.4375% | -8.51 USD | -0.08% | -7.11% | 111.20 USD | Industrials |
 | 658 | AOS | A.O. Smith Corporation | 1.37p | 51.5625% | -9.36 USD | -0.15% | -10.18% | 82.40 USD | Industrials |
 | 659 | ATRO | Astronics Corporation | 1.37p | 51.5625% | -2.32 USD | -0.13% | -10.24% | 26.09 USD | Industrials |
 | 660 | LAUR | Laureate Education, Inc. | 1.37p | 43.7500% | -0.40 USD | -0.02% | -2.55% | 15.30 USD | Consumer Defensive |
-| 661 | UMC | United Microelectronics Corpora | 1.37p | 42.1875% | -0.09 USD | 0.02% | -1.09% | 8.24 USD | Technology |
-| 662 | IDXX | IDEXX Laboratories, Inc. | 1.36p | 45.3125% | -21.52 USD | -0.06% | -4.31% | 515.30 USD | Healthcare |
-| 663 | MGTX | MeiraGTx Holdings plc | 1.36p | 45.3125% | -0.22 USD | 0.01% | -4.53% | 4.65 USD | Healthcare |
-| 664 | PII | Polaris Inc. | 1.36p | 45.3125% | -3.86 USD | -0.04% | -4.53% | 82.50 USD | Consumer Cyclical |
-| 665 | TDOC | Teladoc Health, Inc. | 1.35p | 51.5625% | -1.09 USD | -0.12% | -10.80% | 9.02 USD | Healthcare |
-| 666 | NTR | Nutrien Ltd. | 1.35p | 45.3125% | -2.37 USD | -0.06% | -4.66% | 48.58 USD | Basic Materials |
-| 667 | GWRS | Global Water Resources, Inc. | 1.35p | 43.7500% | -0.41 USD | -0.03% | -3.19% | 12.44 USD | Utilities |
-| 668 | SABR | Sabre Corporation | 1.35p | 42.1875% | -0.06 USD | 0.02% | -1.76% | 3.37 USD | Technology |
-| 669 | CNSL | Consolidated Communications Hol | 1.35p | 37.5000% | 0.13 USD | 0.05% | 2.89% | 4.64 USD | Communication Services |
-| 670 | CDNS | Cadence Design Systems, Inc. | 1.35p | 50.0000% | -29.59 USD | -0.12% | -9.49% | 282.23 USD | Technology |
-| 671 | ASUR | Asure Software Inc | 1.35p | 50.0000% | -0.90 USD | -0.14% | -9.49% | 8.62 USD | Technology |
-| 672 | INMD | InMode Ltd. | 1.34p | 53.1250% | -2.41 USD | -0.16% | -12.64% | 16.69 USD | Healthcare |
-| 673 | SCM | Stellus Capital Investment Corp | 1.34p | 42.1875% | -0.27 USD | -0.03% | -1.89% | 14.06 USD | Financial Services |
-| 674 | BJ | BJ's Wholesale Club Holdings, I | 1.34p | 46.8750% | -6.02 USD | -0.10% | -6.59% | 85.44 USD | Consumer Defensive |
-| 675 | MANU | Manchester | 1.34p | 45.3125% | -0.87 USD | -0.07% | -5.07% | 16.40 USD | Communication Services |
-| 676 | AU | AngloGold Ashanti PLC | 1.33p | 48.4375% | -2.47 USD | -0.11% | -8.29% | 27.19 USD | Basic Materials |
-| 677 | ROST | Ross Stores, Inc. | 1.33p | 43.7500% | -5.55 USD | -0.05% | -3.73% | 143.37 USD | Consumer Cyclical |
-| 678 | ADBE | Adobe Inc. | 1.33p | 50.0000% | -56.89 USD | -0.15% | -10.04% | 509.67 USD | Technology |
-| 679 | BAND | Bandwidth Inc. | 1.33p | 54.6875% | -2.97 USD | -0.12% | -14.80% | 21.78 USD | Technology |
-| 680 | WWD | Woodward, Inc. | 1.32p | 51.5625% | -21.84 USD | -0.16% | -11.66% | 165.48 USD | Industrials |
-| 681 | MPW | Medical Properties Trust, Inc. | 1.32p | 45.3125% | -0.27 USD | -0.02% | -5.62% | 4.53 USD | Real Estate |
-| 682 | ADVM | Adverum Biotechnologies, Inc. | 1.32p | 53.1250% | -1.19 USD | -0.15% | -13.34% | 7.75 USD | Healthcare |
-| 683 | CXW | CoreCivic, Inc. | 1.32p | 48.4375% | -1.31 USD | -0.12% | -8.72% | 13.66 USD | Industrials |
-| 684 | CODI | D/B/A Compass Diversified Holdi | 1.32p | 51.5625% | -2.80 USD | -0.18% | -11.81% | 22.00 USD | Industrials |
-| 685 | UTSI | UTStarcom Holdings Corp | 1.32p | 42.1875% | -0.08 USD | 0.06% | -2.68% | 0.00 USD | Technology |
-| 686 | INTU | Intuit Inc. | 1.31p | 46.8750% | -48.99 USD | -0.11% | -7.35% | 617.33 USD | Technology |
-| 687 | REGN | Regeneron Pharmaceuticals, Inc. | 1.31p | 46.8750% | -80.74 USD | -0.11% | -7.37% | 1015.70 USD | Healthcare |
-| 688 | ARE | Alexandria Real Estate Equities | 1.31p | 45.3125% | -7.59 USD | -0.09% | -5.95% | 120.51 USD | Real Estate |
-| 689 | LYB | LyondellBasell Industries NV | 1.31p | 43.7500% | -4.32 USD | -0.06% | -4.42% | 93.78 USD | Basic Materials |
-| 690 | FSLY | Fastly, Inc. | 1.31p | 48.4375% | -0.73 USD | -0.08% | -9.16% | 7.25 USD | Technology |
-| 691 | AGRX | Agile Therapeutics, Inc. | 1.30p | 33.3333% | 0.08 USD | 0.19% | 5.59% | 1.52 USD | Healthcare |
-| 692 | WSR | Whitestone REIT | 1.30p | 39.0625% | -0.01 USD | 0.01% | -0.07% | 14.25 USD | Real Estate |
-| 693 | IVR | INVESCO MORTGAGE CAPITAL INC | 1.30p | 51.5625% | -1.22 USD | -0.20% | -12.40% | 8.61 USD | Real Estate |
-| 694 | AL | Air Lease Corporation | 1.30p | 50.0000% | -5.48 USD | -0.15% | -10.99% | 44.44 USD | Industrials |
-| 695 | ACB | Aurora Cannabis Inc. | 1.30p | 48.4375% | -0.59 USD | -0.09% | -9.50% | 5.66 USD | Healthcare |
-| 696 | AMBA | Ambarella, Inc. | 1.29p | 46.8750% | -5.21 USD | -0.06% | -7.98% | 60.14 USD | Technology |
-| 697 | NUE | Nucor Corporation | 1.29p | 46.8750% | -13.30 USD | -0.12% | -8.01% | 152.91 USD | Basic Materials |
-| 698 | CE | Celanese Corporation | 1.29p | 46.8750% | -11.85 USD | -0.11% | -8.03% | 135.53 USD | Basic Materials |
-| 699 | LADR | Ladder Capital Corp | 1.29p | 45.3125% | -0.79 USD | -0.10% | -6.58% | 11.59 USD | Real Estate |
-| 700 | ARCH | Arch Resources, Inc. | 1.28p | 48.4375% | -15.80 USD | -0.14% | -9.77% | 150.00 USD | Basic Materials |
-| 701 | SLB | Schlumberger N.V. | 1.28p | 46.8750% | -4.02 USD | -0.12% | -8.25% | 44.82 USD | Energy |
-| 702 | DAR | Darling Ingredients Inc. | 1.28p | 40.6250% | -0.81 USD | 0.01% | -2.16% | 36.67 USD | Consumer Defensive |
-| 703 | MYGN | Myriad Genetics, Inc. | 1.28p | 46.8750% | -2.29 USD | -0.10% | -8.36% | 25.13 USD | Healthcare |
-| 704 | DVAX | Dynavax Technologies Corporatio | 1.28p | 42.1875% | -0.41 USD | -0.04% | -3.77% | 11.91 USD | Healthcare |
-| 705 | BGS | B&G Foods, Inc. | 1.28p | 40.6250% | -0.19 USD | -0.01% | -2.28% | 8.08 USD | Consumer Defensive |
-| 706 | PVH | PVH Corp. | 1.28p | 46.8750% | -9.02 USD | -0.12% | -8.47% | 97.50 USD | Consumer Cyclical |
-| 707 | UPS | United Parcel Service, Inc. | 1.27p | 46.8750% | -12.76 USD | -0.13% | -8.66% | 134.88 USD | Industrials |
-| 708 | TWO | Two Harbors Investment Corp | 1.27p | 46.8750% | -1.22 USD | -0.14% | -8.68% | 12.90 USD | Real Estate |
+| 661 | TWO | Two Harbors Investment Corp | 1.37p | 46.8750% | -0.76 USD | -0.09% | -5.62% | 12.90 USD | Real Estate |
+| 662 | UMC | United Microelectronics Corpora | 1.37p | 42.1875% | -0.09 USD | 0.02% | -1.09% | 8.24 USD | Technology |
+| 663 | IDXX | IDEXX Laboratories, Inc. | 1.36p | 45.3125% | -21.52 USD | -0.06% | -4.31% | 515.30 USD | Healthcare |
+| 664 | UPS | United Parcel Service, Inc. | 1.36p | 48.4375% | -10.91 USD | -0.11% | -7.50% | 134.88 USD | Industrials |
+| 665 | MGTX | MeiraGTx Holdings plc | 1.36p | 45.3125% | -0.22 USD | 0.01% | -4.53% | 4.65 USD | Healthcare |
+| 666 | PII | Polaris Inc. | 1.36p | 45.3125% | -3.86 USD | -0.04% | -4.53% | 81.97 USD | Consumer Cyclical |
+| 667 | TDOC | Teladoc Health, Inc. | 1.35p | 51.5625% | -1.09 USD | -0.12% | -10.80% | 9.02 USD | Healthcare |
+| 668 | NTR | Nutrien Ltd. | 1.35p | 45.3125% | -2.37 USD | -0.06% | -4.66% | 48.58 USD | Basic Materials |
+| 669 | GWRS | Global Water Resources, Inc. | 1.35p | 43.7500% | -0.41 USD | -0.03% | -3.19% | 12.44 USD | Utilities |
+| 670 | SABR | Sabre Corporation | 1.35p | 42.1875% | -0.06 USD | 0.02% | -1.76% | 3.37 USD | Technology |
+| 671 | CNSL | Consolidated Communications Hol | 1.35p | 37.5000% | 0.13 USD | 0.05% | 2.89% | 4.64 USD | Communication Services |
+| 672 | CDNS | Cadence Design Systems, Inc. | 1.35p | 50.0000% | -29.59 USD | -0.12% | -9.49% | 282.23 USD | Technology |
+| 673 | ASUR | Asure Software Inc | 1.35p | 50.0000% | -0.90 USD | -0.14% | -9.49% | 8.62 USD | Technology |
+| 674 | INMD | InMode Ltd. | 1.34p | 53.1250% | -2.41 USD | -0.16% | -12.64% | 16.69 USD | Healthcare |
+| 675 | SCM | Stellus Capital Investment Corp | 1.34p | 42.1875% | -0.27 USD | -0.03% | -1.89% | 14.06 USD | Financial Services |
+| 676 | BJ | BJ's Wholesale Club Holdings, I | 1.34p | 46.8750% | -6.02 USD | -0.10% | -6.59% | 85.44 USD | Consumer Defensive |
+| 677 | MANU | Manchester | 1.34p | 45.3125% | -0.87 USD | -0.07% | -5.07% | 16.40 USD | Communication Services |
+| 678 | AU | AngloGold Ashanti PLC | 1.33p | 48.4375% | -2.47 USD | -0.11% | -8.29% | 27.31 USD | Basic Materials |
+| 679 | ROST | Ross Stores, Inc. | 1.33p | 43.7500% | -5.55 USD | -0.05% | -3.73% | 143.37 USD | Consumer Cyclical |
+| 680 | ADBE | Adobe Inc. | 1.33p | 50.0000% | -56.89 USD | -0.15% | -10.04% | 509.67 USD | Technology |
+| 681 | BAND | Bandwidth Inc. | 1.33p | 54.6875% | -2.97 USD | -0.12% | -14.80% | 21.78 USD | Technology |
+| 682 | WWD | Woodward, Inc. | 1.32p | 51.5625% | -21.84 USD | -0.16% | -11.66% | 165.48 USD | Industrials |
+| 683 | MPW | Medical Properties Trust, Inc. | 1.32p | 45.3125% | -0.27 USD | -0.02% | -5.62% | 4.70 USD | Real Estate |
+| 684 | ADVM | Adverum Biotechnologies, Inc. | 1.32p | 53.1250% | -1.19 USD | -0.15% | -13.34% | 7.75 USD | Healthcare |
+| 685 | CXW | CoreCivic, Inc. | 1.32p | 48.4375% | -1.31 USD | -0.12% | -8.72% | 13.66 USD | Industrials |
+| 686 | CODI | D/B/A Compass Diversified Holdi | 1.32p | 51.5625% | -2.80 USD | -0.18% | -11.81% | 22.00 USD | Industrials |
+| 687 | UTSI | UTStarcom Holdings Corp | 1.32p | 42.1875% | -0.08 USD | 0.06% | -2.68% | 0.00 USD | Technology |
+| 688 | INTU | Intuit Inc. | 1.31p | 46.8750% | -48.99 USD | -0.11% | -7.35% | 617.33 USD | Technology |
+| 689 | REGN | Regeneron Pharmaceuticals, Inc. | 1.31p | 46.8750% | -80.74 USD | -0.11% | -7.37% | 1015.70 USD | Healthcare |
+| 690 | ARE | Alexandria Real Estate Equities | 1.31p | 45.3125% | -7.59 USD | -0.09% | -5.95% | 120.51 USD | Real Estate |
+| 691 | LYB | LyondellBasell Industries NV | 1.31p | 43.7500% | -4.32 USD | -0.06% | -4.42% | 93.78 USD | Basic Materials |
+| 692 | FSLY | Fastly, Inc. | 1.31p | 48.4375% | -0.73 USD | -0.08% | -9.16% | 7.34 USD | Technology |
+| 693 | AGRX | Agile Therapeutics, Inc. | 1.30p | 33.3333% | 0.08 USD | 0.19% | 5.59% | 1.52 USD | Healthcare |
+| 694 | SLB | Schlumberger N.V. | 1.30p | 46.8750% | -3.70 USD | -0.11% | -7.65% | 44.10 USD | Energy |
+| 695 | WSR | Whitestone REIT | 1.30p | 39.0625% | -0.01 USD | 0.01% | -0.07% | 14.25 USD | Real Estate |
+| 696 | IVR | INVESCO MORTGAGE CAPITAL INC | 1.30p | 51.5625% | -1.22 USD | -0.20% | -12.40% | 8.61 USD | Real Estate |
+| 697 | AL | Air Lease Corporation | 1.30p | 50.0000% | -5.48 USD | -0.15% | -10.99% | 44.44 USD | Industrials |
+| 698 | ACB | Aurora Cannabis Inc. | 1.30p | 48.4375% | -0.59 USD | -0.09% | -9.50% | 5.66 USD | Healthcare |
+| 699 | AMBA | Ambarella, Inc. | 1.29p | 46.8750% | -5.21 USD | -0.06% | -7.98% | 60.14 USD | Technology |
+| 700 | NUE | Nucor Corporation | 1.29p | 46.8750% | -13.30 USD | -0.12% | -8.01% | 152.91 USD | Basic Materials |
+| 701 | CE | Celanese Corporation | 1.29p | 46.8750% | -11.85 USD | -0.11% | -8.03% | 135.53 USD | Basic Materials |
+| 702 | LADR | Ladder Capital Corp | 1.29p | 45.3125% | -0.79 USD | -0.10% | -6.58% | 11.59 USD | Real Estate |
+| 703 | ARCH | Arch Resources, Inc. | 1.28p | 48.4375% | -15.80 USD | -0.14% | -9.77% | 150.00 USD | Basic Materials |
+| 704 | DAR | Darling Ingredients Inc. | 1.28p | 40.6250% | -0.81 USD | 0.01% | -2.16% | 36.67 USD | Consumer Defensive |
+| 705 | MYGN | Myriad Genetics, Inc. | 1.28p | 46.8750% | -2.29 USD | -0.10% | -8.36% | 25.13 USD | Healthcare |
+| 706 | DVAX | Dynavax Technologies Corporatio | 1.28p | 42.1875% | -0.41 USD | -0.04% | -3.77% | 11.91 USD | Healthcare |
+| 707 | BGS | B&G Foods, Inc. | 1.28p | 40.6250% | -0.19 USD | -0.01% | -2.28% | 8.08 USD | Consumer Defensive |
+| 708 | PVH | PVH Corp. | 1.28p | 46.8750% | -9.02 USD | -0.12% | -8.47% | 97.50 USD | Consumer Cyclical |
 | 709 | NTIC | Northern Technologies Internati | 1.27p | 43.7500% | -0.76 USD | -0.06% | -5.73% | 16.19 USD | Basic Materials |
 | 710 | HP | Helmerich & Payne, Inc. | 1.26p | 50.0000% | -4.91 USD | -0.17% | -12.00% | 35.92 USD | Energy |
-| 711 | NEP | NextEra Energy Partners, LP | 1.26p | 45.3125% | -2.08 USD | -0.10% | -7.42% | 25.99 USD | Utilities |
-| 712 | MDRX | Veradigm Inc. | 1.25p | 43.7500% | -0.60 USD | -0.09% | -6.09% | 0.00 USD | Healthcare |
-| 713 | AN | AutoNation, Inc. | 1.25p | 45.3125% | -14.23 USD | -0.10% | -7.84% | 171.05 USD | Consumer Cyclical |
-| 714 | LECO | Lincoln Electric Holdings, Inc. | 1.24p | 45.3125% | -16.56 USD | -0.11% | -7.88% | 193.64 USD | Industrials |
-| 715 | ANGO | AngioDynamics, Inc. | 1.24p | 51.5625% | -1.06 USD | -0.19% | -14.11% | 8.19 USD | Healthcare |
-| 716 | CRWD | CrowdStrike Holdings, Inc. | 1.24p | 53.1250% | -58.53 USD | -0.21% | -15.86% | 326.12 USD | Technology |
-| 717 | REAL | The RealReal, Inc. | 1.23p | 48.4375% | -0.42 USD | -0.06% | -11.35% | 3.37 USD | Consumer Cyclical |
-| 718 | GOOS | Canada Goose Holdings Inc. Subo | 1.23p | 43.7500% | -0.81 USD | -0.07% | -6.73% | 11.31 USD | Consumer Cyclical |
-| 719 | AMAT | Applied Materials, Inc. | 1.23p | 50.0000% | -31.95 USD | -0.16% | -13.00% | 222.75 USD | Technology |
-| 720 | TSLA | Tesla, Inc. | 1.23p | 51.5625% | -37.40 USD | -0.17% | -14.58% | 219.15 USD | Consumer Cyclical |
-| 721 | NSP | Insperity, Inc. | 1.23p | 48.4375% | -11.50 USD | -0.18% | -11.49% | 89.09 USD | Industrials |
-| 722 | FVRR | Fiverr International Ltd. | 1.22p | 45.3125% | -2.15 USD | -0.07% | -8.51% | 23.20 USD | Communication Services |
-| 723 | M | Macy's Inc | 1.22p | 45.3125% | -1.43 USD | -0.10% | -8.51% | 15.38 USD | Consumer Cyclical |
+| 711 | M | Macy's Inc | 1.26p | 45.3125% | -1.23 USD | -0.09% | -7.41% | 15.38 USD | Consumer Cyclical |
+| 712 | NEP | NextEra Energy Partners, LP | 1.26p | 45.3125% | -2.08 USD | -0.10% | -7.42% | 25.99 USD | Utilities |
+| 713 | MDRX | Veradigm Inc. | 1.25p | 43.7500% | -0.60 USD | -0.09% | -6.09% | 0.00 USD | Healthcare |
+| 714 | AN | AutoNation, Inc. | 1.25p | 45.3125% | -14.23 USD | -0.10% | -7.84% | 171.05 USD | Consumer Cyclical |
+| 715 | LECO | Lincoln Electric Holdings, Inc. | 1.24p | 45.3125% | -16.56 USD | -0.11% | -7.88% | 193.64 USD | Industrials |
+| 716 | ANGO | AngioDynamics, Inc. | 1.24p | 51.5625% | -1.06 USD | -0.19% | -14.11% | 8.19 USD | Healthcare |
+| 717 | CRWD | CrowdStrike Holdings, Inc. | 1.24p | 53.1250% | -58.53 USD | -0.21% | -15.86% | 326.12 USD | Technology |
+| 718 | REAL | The RealReal, Inc. | 1.23p | 48.4375% | -0.42 USD | -0.06% | -11.35% | 3.37 USD | Consumer Cyclical |
+| 719 | GOOS | Canada Goose Holdings Inc. Subo | 1.23p | 43.7500% | -0.81 USD | -0.07% | -6.73% | 11.31 USD | Consumer Cyclical |
+| 720 | AMAT | Applied Materials, Inc. | 1.23p | 50.0000% | -31.95 USD | -0.16% | -13.00% | 222.75 USD | Technology |
+| 721 | TSLA | Tesla, Inc. | 1.23p | 51.5625% | -37.40 USD | -0.17% | -14.58% | 219.15 USD | Consumer Cyclical |
+| 722 | NSP | Insperity, Inc. | 1.23p | 48.4375% | -11.50 USD | -0.18% | -11.49% | 89.09 USD | Industrials |
+| 723 | FVRR | Fiverr International Ltd. | 1.22p | 45.3125% | -2.15 USD | -0.07% | -8.51% | 23.20 USD | Communication Services |
 | 724 | HOG | Harley-Davidson, Inc. | 1.22p | 39.0625% | -0.87 USD | -0.01% | -2.39% | 35.44 USD | Consumer Cyclical |
 | 725 | SSL | Sasol Ltd. | 1.21p | 45.3125% | -0.66 USD | -0.09% | -8.82% | 6.85 USD | Basic Materials |
 | 726 | BJRI | BJ's Restaurants, Inc. | 1.21p | 48.4375% | -4.51 USD | -0.15% | -11.94% | 33.29 USD | Consumer Cyclical |
 | 727 | XRAY | DENTSPLY SIRONA Inc. | 1.21p | 45.3125% | -2.38 USD | -0.13% | -8.88% | 24.45 USD | Healthcare |
-| 728 | BG | Bunge Limited | 1.21p | 50.0000% | -15.17 USD | -0.22% | -13.62% | 96.23 USD | Consumer Defensive |
+| 728 | BG | Bunge Limited | 1.21p | 50.0000% | -15.17 USD | -0.22% | -13.62% | 96.93 USD | Consumer Defensive |
 | 729 | ALGN | Align Technology, Inc. | 1.20p | 46.8750% | -26.27 USD | -0.14% | -10.61% | 221.28 USD | Healthcare |
 | 730 | MOS | Mosaic Company (The) | 1.20p | 48.4375% | -3.63 USD | -0.18% | -12.19% | 26.01 USD | Basic Materials |
-| 731 | CFFN | Capitol Federal Financial, Inc. | 1.19p | 40.6250% | -0.31 USD | -0.06% | -4.99% | 5.91 USD | Financial Services |
-| 732 | DVN | Devon Energy Corporation | 1.19p | 46.8750% | -5.37 USD | -0.17% | -11.13% | 42.87 USD | Energy |
-| 733 | APPF | AppFolio, Inc. | 1.18p | 50.0000% | -38.09 USD | -0.22% | -14.39% | 226.69 USD | Technology |
-| 734 | AWRE | Aware, Inc. | 1.18p | 37.5000% | -0.04 USD | 0.06% | -2.24% | 0.00 USD | Technology |
-| 735 | CLFD | Clearfield, Inc. | 1.18p | 50.0000% | -6.12 USD | -0.22% | -14.51% | 36.09 USD | Technology |
-| 736 | RRC | Range Resources Corporation | 1.17p | 46.8750% | -3.98 USD | -0.18% | -11.52% | 30.46 USD | Energy |
-| 737 | APPN | Appian Corporation | 1.17p | 45.3125% | -3.58 USD | -0.10% | -10.10% | 31.94 USD | Technology |
-| 738 | PD | PagerDuty, Inc. | 1.17p | 45.3125% | -2.10 USD | -0.13% | -10.12% | 18.73 USD | Technology |
-| 739 | NXPI | NXP Semiconductors N.V. | 1.17p | 51.5625% | -47.34 USD | -0.24% | -16.28% | 243.64 USD | Technology |
-| 740 | GPS | Gap, Inc. (The) | 1.16p | 44.4444% | -2.26 USD | -0.12% | -9.39% | 0.00 USD | Consumer Cyclical |
-| 741 | PSEC | Prospect Capital Corporation | 1.16p | 43.7500% | -0.49 USD | -0.13% | -8.75% | 5.12 USD | Financial Services |
-| 742 | WHR | Whirlpool Corporation | 1.16p | 42.1875% | -8.12 USD | -0.10% | -7.23% | 104.29 USD | Consumer Cyclical |
-| 743 | ADM | Archer-Daniels-Midland Company | 1.16p | 45.3125% | -6.65 USD | -0.16% | -10.30% | 57.82 USD | Consumer Defensive |
-| 744 | HAL | Halliburton Company | 1.16p | 50.0000% | -5.38 USD | -0.24% | -14.96% | 30.46 USD | Energy |
+| 731 | GPS | Gap, Inc. (The) | 1.19p | 44.4444% | -2.09 USD | -0.10% | -8.73% | 0.00 USD | Consumer Cyclical |
+| 732 | CFFN | Capitol Federal Financial, Inc. | 1.19p | 40.6250% | -0.31 USD | -0.06% | -4.99% | 5.91 USD | Financial Services |
+| 733 | DVN | Devon Energy Corporation | 1.19p | 46.8750% | -5.37 USD | -0.17% | -11.13% | 42.44 USD | Energy |
+| 734 | APPF | AppFolio, Inc. | 1.18p | 50.0000% | -38.09 USD | -0.22% | -14.39% | 226.69 USD | Technology |
+| 735 | AWRE | Aware, Inc. | 1.18p | 37.5000% | -0.04 USD | 0.06% | -2.24% | 0.00 USD | Technology |
+| 736 | HAL | Halliburton Company | 1.18p | 50.0000% | -5.18 USD | -0.23% | -14.47% | 30.30 USD | Energy |
+| 737 | CLFD | Clearfield, Inc. | 1.18p | 50.0000% | -6.12 USD | -0.22% | -14.51% | 36.09 USD | Technology |
+| 738 | RRC | Range Resources Corporation | 1.17p | 46.8750% | -3.98 USD | -0.18% | -11.52% | 30.46 USD | Energy |
+| 739 | APPN | Appian Corporation | 1.17p | 45.3125% | -3.58 USD | -0.10% | -10.10% | 31.94 USD | Technology |
+| 740 | PD | PagerDuty, Inc. | 1.17p | 45.3125% | -2.10 USD | -0.13% | -10.12% | 18.73 USD | Technology |
+| 741 | NXPI | NXP Semiconductors N.V. | 1.17p | 51.5625% | -47.34 USD | -0.24% | -16.28% | 243.64 USD | Technology |
+| 742 | PSEC | Prospect Capital Corporation | 1.16p | 43.7500% | -0.49 USD | -0.13% | -8.75% | 5.12 USD | Financial Services |
+| 743 | WHR | Whirlpool Corporation | 1.16p | 42.1875% | -8.12 USD | -0.10% | -7.23% | 104.29 USD | Consumer Cyclical |
+| 744 | ADM | Archer-Daniels-Midland Company | 1.16p | 45.3125% | -6.65 USD | -0.16% | -10.30% | 58.15 USD | Consumer Defensive |
 | 745 | MU | Micron Technology, Inc. | 1.16p | 50.0000% | -19.15 USD | -0.19% | -15.02% | 108.34 USD | Technology |
 | 746 | ANIP | ANI Pharmaceuticals, Inc. | 1.16p | 43.7500% | -5.73 USD | -0.11% | -8.92% | 58.66 USD | Healthcare |
 | 747 | DAKT | Daktronics, Inc. | 1.14p | 45.3125% | -1.64 USD | -0.14% | -10.83% | 13.54 USD | Technology |
 | 748 | MRK | Merck & Company, Inc. | 1.14p | 46.8750% | -15.75 USD | -0.20% | -12.56% | 109.73 USD | Healthcare |
 | 749 | ANIK | Anika Therapeutics Inc. | 1.13p | 45.3125% | -3.21 USD | -0.18% | -11.24% | 25.43 USD | Healthcare |
 | 750 | DNOW | DNOW Inc. | 1.13p | 45.3125% | -1.63 USD | -0.17% | -11.32% | 12.92 USD | Industrials |
-| 751 | MRSN | Mersana Therapeutics, Inc. | 1.13p | 42.1875% | -0.19 USD | 0.07% | -8.44% | 2.08 USD | Healthcare |
-| 752 | OSUR | OraSure Technologies, Inc. | 1.13p | 45.3125% | -0.52 USD | -0.16% | -11.38% | 4.06 USD | Healthcare |
-| 753 | KMX | CarMax Inc | 1.12p | 46.8750% | -10.98 USD | -0.20% | -13.07% | 73.04 USD | Consumer Cyclical |
-| 754 | NTES | NetEase, Inc. | 1.12p | 42.1875% | -7.96 USD | -0.10% | -8.56% | 85.06 USD | Communication Services |
-| 755 | OXY | Occidental Petroleum Corporatio | 1.11p | 46.8750% | -8.21 USD | -0.21% | -13.22% | 53.91 USD | Energy |
-| 756 | ARQT | Arcutis Biotherapeutics, Inc. | 1.11p | 42.1875% | -0.93 USD | -0.06% | -8.72% | 9.76 USD | Healthcare |
-| 757 | DAVA | Endava plc | 1.11p | 50.0000% | -5.13 USD | -0.25% | -16.34% | 26.14 USD | Technology |
-| 758 | NVO | Novo Nordisk A/S | 1.11p | 48.4375% | -21.09 USD | -0.23% | -14.97% | 119.93 USD | Healthcare |
-| 759 | TRIP | TripAdvisor, Inc. | 1.10p | 51.5625% | -3.29 USD | -0.27% | -18.24% | 14.79 USD | Consumer Cyclical |
-| 760 | MUR | Murphy Oil Corporation | 1.10p | 48.4375% | -6.39 USD | -0.24% | -15.26% | 35.41 USD | Energy |
-| 761 | QLYS | Qualys, Inc. | 1.09p | 48.4375% | -23.07 USD | -0.24% | -15.53% | 125.50 USD | Technology |
-| 762 | SEAC | SeaChange International, Inc. | 1.09p | 18.7500% | 0.84 USD | 0.27% | 13.64% | 0.00 USD | Technology |
-| 763 | IMKTA | Ingles Markets, Incorporated | 1.09p | 50.0000% | -12.86 USD | -0.28% | -17.16% | 78.28 USD | Consumer Defensive |
-| 764 | DKS | Dick's Sporting Goods Inc | 1.08p | 42.1875% | -21.57 USD | -0.13% | -9.52% | 212.80 USD | Consumer Cyclical |
-| 765 | EL | Estee Lauder Companies, Inc. (T | 1.08p | 39.0625% | -6.55 USD | -0.08% | -6.49% | 94.39 USD | Consumer Defensive |
-| 766 | WDC | Western Digital Corporation | 1.06p | 45.3125% | -10.23 USD | -0.18% | -13.28% | 66.96 USD | Technology |
-| 767 | GEO | Geo Group Inc (The) REIT | 1.06p | 50.0000% | -3.21 USD | -0.27% | -17.87% | 14.72 USD | Industrials |
-| 768 | ICL | ICL Group Ltd. | 1.06p | 43.7500% | -0.54 USD | -0.17% | -11.92% | 3.99 USD | Basic Materials |
-| 769 | MNR | Mach Natural Resources LP | 1.05p | 46.8750% | -3.00 USD | -0.24% | -15.03% | 17.00 USD | Energy |
-| 770 | CRUS | Cirrus Logic, Inc. | 1.05p | 45.3125% | -19.34 USD | -0.19% | -13.56% | 123.41 USD | Technology |
-| 771 | CRON | Cronos Group Inc. Common Share | 1.05p | 40.6250% | -0.22 USD | -0.12% | -9.09% | 2.22 USD | Healthcare |
-| 772 | TM | Toyota Motor Corporation | 1.05p | 46.8750% | -31.50 USD | -0.24% | -15.25% | 175.50 USD | Consumer Cyclical |
-| 773 | KSS | Kohl's Corporation | 1.04p | 45.3125% | -3.10 USD | -0.21% | -13.84% | 19.28 USD | Consumer Cyclical |
-| 774 | ECPG | Encore Capital Group Inc | 1.03p | 39.0625% | -3.89 USD | -0.11% | -8.00% | 44.78 USD | Financial Services |
-| 775 | EW | Edwards Lifesciences Corporatio | 1.02p | 51.5625% | -18.10 USD | -0.25% | -20.63% | 69.73 USD | Healthcare |
-| 776 | MRUS | Merus N.V. | 1.02p | 42.1875% | -6.67 USD | -0.17% | -11.34% | 52.25 USD | Healthcare |
-| 777 | BYND | Beyond Meat, Inc. | 1.02p | 42.1875% | -0.86 USD | -0.07% | -11.48% | 6.64 USD | Consumer Defensive |
-| 778 | XRX | Xerox Holdings Corporation | 1.02p | 45.3125% | -1.72 USD | -0.22% | -14.47% | 10.22 USD | Technology |
-| 779 | BEN | Franklin Resources, Inc. | 1.02p | 46.8750% | -3.85 USD | -0.25% | -16.06% | 20.02 USD | Financial Services |
-| 780 | CCRN | Cross Country Healthcare, Inc. | 1.02p | 50.0000% | -2.91 USD | -0.29% | -19.16% | 12.30 USD | Healthcare |
-| 781 | WINA | Winmark Corporation | 1.01p | 43.7500% | -56.12 USD | -0.20% | -13.27% | 368.10 USD | Consumer Cyclical |
-| 782 | TER | Teradyne, Inc. | 1.01p | 48.4375% | -29.36 USD | -0.24% | -18.01% | 133.79 USD | Technology |
-| 783 | BBIO | BridgeBio Pharma, Inc. | 1.01p | 42.1875% | -3.47 USD | -0.15% | -11.86% | 25.80 USD | Healthcare |
-| 784 | LAND | Gladstone Land Corporation | 1.00p | 40.6250% | -1.58 USD | -0.17% | -10.48% | 17.25 USD | Real Estate |
-| 785 | MCHP | Microchip Technology Incorporat | 1.00p | 46.8750% | -15.82 USD | -0.25% | -16.69% | 79.01 USD | Technology |
-| 786 | ARI | Apollo Commercial Real Estate F | 0.99p | 48.4375% | -1.99 USD | -0.31% | -18.41% | 8.89 USD | Real Estate |
-| 787 | KRYS | Krystal Biotech, Inc. | 0.99p | 43.7500% | -28.97 USD | -0.21% | -13.89% | 180.05 USD | Healthcare |
-| 788 | LAC | Lithium Americas Corp. | 0.99p | 42.1875% | -0.40 USD | -0.09% | -12.46% | 2.80 USD | Basic Materials |
-| 789 | VFF | Village Farms International, In | 0.98p | 43.7500% | -0.15 USD | -0.17% | -14.06% | 0.95 USD | Consumer Defensive |
-| 790 | AIR | AAR Corp. | 0.98p | 48.4375% | -14.09 USD | -0.29% | -18.65% | 62.75 USD | Industrials |
-| 791 | NYMT | New York Mortgage Trust, Inc. | 0.98p | 48.4375% | -1.27 USD | -0.31% | -18.68% | 5.55 USD | Real Estate |
-| 792 | COTY | Coty Inc. | 0.98p | 39.0625% | -0.96 USD | -0.14% | -9.48% | 9.17 USD | Consumer Defensive |
-| 793 | APA | APA Corporation | 0.98p | 45.3125% | -4.97 USD | -0.24% | -15.69% | 28.35 USD | Energy |
+| 751 | OXY | Occidental Petroleum Corporatio | 1.13p | 46.8750% | -7.95 USD | -0.21% | -12.85% | 53.91 USD | Energy |
+| 752 | MRSN | Mersana Therapeutics, Inc. | 1.13p | 42.1875% | -0.19 USD | 0.07% | -8.44% | 2.08 USD | Healthcare |
+| 753 | OSUR | OraSure Technologies, Inc. | 1.13p | 45.3125% | -0.52 USD | -0.16% | -11.38% | 4.06 USD | Healthcare |
+| 754 | KMX | CarMax Inc | 1.12p | 46.8750% | -10.98 USD | -0.20% | -13.07% | 73.04 USD | Consumer Cyclical |
+| 755 | KSS | Kohl's Corporation | 1.12p | 45.3125% | -2.54 USD | -0.17% | -11.62% | 19.28 USD | Consumer Cyclical |
+| 756 | NTES | NetEase, Inc. | 1.12p | 42.1875% | -7.96 USD | -0.10% | -8.56% | 85.06 USD | Communication Services |
+| 757 | ARQT | Arcutis Biotherapeutics, Inc. | 1.11p | 42.1875% | -0.93 USD | -0.06% | -8.72% | 9.76 USD | Healthcare |
+| 758 | DAVA | Endava plc | 1.11p | 50.0000% | -5.13 USD | -0.25% | -16.34% | 26.14 USD | Technology |
+| 759 | NVO | Novo Nordisk A/S | 1.11p | 48.4375% | -21.09 USD | -0.23% | -14.97% | 120.25 USD | Healthcare |
+| 760 | TRIP | TripAdvisor, Inc. | 1.10p | 51.5625% | -3.29 USD | -0.27% | -18.24% | 14.79 USD | Consumer Cyclical |
+| 761 | MUR | Murphy Oil Corporation | 1.10p | 48.4375% | -6.39 USD | -0.24% | -15.26% | 35.41 USD | Energy |
+| 762 | QLYS | Qualys, Inc. | 1.09p | 48.4375% | -23.07 USD | -0.24% | -15.53% | 125.50 USD | Technology |
+| 763 | SEAC | SeaChange International, Inc. | 1.09p | 18.7500% | 0.84 USD | 0.27% | 13.64% | 0.00 USD | Technology |
+| 764 | IMKTA | Ingles Markets, Incorporated | 1.09p | 50.0000% | -12.86 USD | -0.28% | -17.16% | 78.28 USD | Consumer Defensive |
+| 765 | DKS | Dick's Sporting Goods Inc | 1.08p | 42.1875% | -21.57 USD | -0.13% | -9.52% | 212.80 USD | Consumer Cyclical |
+| 766 | EL | Estee Lauder Companies, Inc. (T | 1.08p | 39.0625% | -6.55 USD | -0.08% | -6.49% | 94.39 USD | Consumer Defensive |
+| 767 | NYMT | New York Mortgage Trust, Inc. | 1.07p | 48.4375% | -1.06 USD | -0.26% | -16.11% | 5.55 USD | Real Estate |
+| 768 | WDC | Western Digital Corporation | 1.06p | 45.3125% | -10.23 USD | -0.18% | -13.28% | 66.96 USD | Technology |
+| 769 | GEO | Geo Group Inc (The) REIT | 1.06p | 50.0000% | -3.21 USD | -0.27% | -17.87% | 14.72 USD | Industrials |
+| 770 | ICL | ICL Group Ltd. | 1.06p | 43.7500% | -0.54 USD | -0.17% | -11.92% | 3.99 USD | Basic Materials |
+| 771 | MNR | Mach Natural Resources LP | 1.05p | 46.8750% | -3.00 USD | -0.24% | -15.03% | 17.00 USD | Energy |
+| 772 | CRUS | Cirrus Logic, Inc. | 1.05p | 45.3125% | -19.34 USD | -0.19% | -13.56% | 123.41 USD | Technology |
+| 773 | CRON | Cronos Group Inc. Common Share | 1.05p | 40.6250% | -0.22 USD | -0.12% | -9.09% | 2.22 USD | Healthcare |
+| 774 | TM | Toyota Motor Corporation | 1.05p | 46.8750% | -31.50 USD | -0.24% | -15.25% | 175.50 USD | Consumer Cyclical |
+| 775 | ECPG | Encore Capital Group Inc | 1.03p | 39.0625% | -3.89 USD | -0.11% | -8.00% | 44.78 USD | Financial Services |
+| 776 | EW | Edwards Lifesciences Corporatio | 1.02p | 51.5625% | -18.10 USD | -0.25% | -20.63% | 69.73 USD | Healthcare |
+| 777 | MRUS | Merus N.V. | 1.02p | 42.1875% | -6.67 USD | -0.17% | -11.34% | 52.25 USD | Healthcare |
+| 778 | BYND | Beyond Meat, Inc. | 1.02p | 42.1875% | -0.86 USD | -0.07% | -11.48% | 6.64 USD | Consumer Defensive |
+| 779 | XRX | Xerox Holdings Corporation | 1.02p | 45.3125% | -1.72 USD | -0.22% | -14.47% | 10.22 USD | Technology |
+| 780 | BEN | Franklin Resources, Inc. | 1.02p | 46.8750% | -3.85 USD | -0.25% | -16.06% | 20.02 USD | Financial Services |
+| 781 | CCRN | Cross Country Healthcare, Inc. | 1.02p | 50.0000% | -2.91 USD | -0.29% | -19.16% | 12.30 USD | Healthcare |
+| 782 | WINA | Winmark Corporation | 1.01p | 43.7500% | -56.12 USD | -0.20% | -13.27% | 368.10 USD | Consumer Cyclical |
+| 783 | TER | Teradyne, Inc. | 1.01p | 48.4375% | -29.36 USD | -0.24% | -18.01% | 133.79 USD | Technology |
+| 784 | BBIO | BridgeBio Pharma, Inc. | 1.01p | 42.1875% | -3.47 USD | -0.15% | -11.86% | 25.80 USD | Healthcare |
+| 785 | APA | APA Corporation | 1.00p | 45.3125% | -4.72 USD | -0.23% | -15.03% | 28.35 USD | Energy |
+| 786 | LAND | Gladstone Land Corporation | 1.00p | 40.6250% | -1.58 USD | -0.17% | -10.48% | 17.25 USD | Real Estate |
+| 787 | MCHP | Microchip Technology Incorporat | 1.00p | 46.8750% | -15.82 USD | -0.25% | -16.69% | 79.01 USD | Technology |
+| 788 | ARI | Apollo Commercial Real Estate F | 0.99p | 48.4375% | -1.99 USD | -0.31% | -18.41% | 8.89 USD | Real Estate |
+| 789 | KRYS | Krystal Biotech, Inc. | 0.99p | 43.7500% | -28.97 USD | -0.21% | -13.89% | 180.05 USD | Healthcare |
+| 790 | LAC | Lithium Americas Corp. | 0.99p | 42.1875% | -0.40 USD | -0.09% | -12.46% | 2.81 USD | Basic Materials |
+| 791 | VFF | Village Farms International, In | 0.98p | 43.7500% | -0.15 USD | -0.17% | -14.06% | 0.95 USD | Consumer Defensive |
+| 792 | AIR | AAR Corp. | 0.98p | 48.4375% | -14.09 USD | -0.29% | -18.65% | 62.75 USD | Industrials |
+| 793 | COTY | Coty Inc. | 0.98p | 39.0625% | -0.96 USD | -0.14% | -9.48% | 8.74 USD | Consumer Defensive |
 | 794 | ENPH | Enphase Energy, Inc. | 0.98p | 42.1875% | -14.70 USD | -0.16% | -12.65% | 101.51 USD | Technology |
 | 795 | ARCT | Arcturus Therapeutics Holdings  | 0.97p | 46.8750% | -4.46 USD | -0.24% | -17.57% | 20.95 USD | Healthcare |
 | 796 | AQN | Algonquin Power & Utilities Cor | 0.97p | 48.4375% | -1.20 USD | -0.31% | -19.17% | 5.08 USD | Utilities |
@@ -2359,15 +2358,15 @@
 | 805 | SONO | Sonos, Inc. | 0.94p | 45.3125% | -2.48 USD | -0.26% | -16.89% | 12.24 USD | Technology |
 | 806 | GERN | Geron Corporation | 0.93p | 45.3125% | -0.85 USD | -0.25% | -17.03% | 4.77 USD | Healthcare |
 | 807 | DMRC | Digimarc Corporation | 0.93p | 42.1875% | -4.89 USD | -0.18% | -14.18% | 37.36 USD | Technology |
-| 808 | ATOM | Atomera Incorporated | 0.92p | 37.5000% | -0.41 USD | -0.03% | -10.00% | 3.72 USD | Technology |
-| 809 | GNTX | Gentex Corporation | 0.92p | 43.7500% | -5.64 USD | -0.27% | -16.03% | 30.71 USD | Consumer Cyclical |
-| 810 | TMDX | TransMedics Group, Inc. | 0.91p | 39.0625% | -17.57 USD | -0.13% | -11.58% | 134.35 USD | Healthcare |
-| 811 | OKTA | Okta, Inc. | 0.91p | 50.0000% | -22.42 USD | -0.36% | -22.33% | 78.02 USD | Technology |
-| 812 | SWKS | Skyworks Solutions, Inc. | 0.91p | 45.3125% | -21.53 USD | -0.28% | -17.84% | 99.24 USD | Technology |
-| 813 | SPCE | Virgin Galactic Holdings, Inc. | 0.90p | 45.3125% | -1.45 USD | -0.18% | -18.03% | 6.58 USD | Industrials |
-| 814 | CAN | Canaan Inc. | 0.90p | 43.7500% | -0.20 USD | -0.16% | -16.53% | 1.04 USD | Technology |
-| 815 | F | Ford Motor Company | 0.90p | 51.5625% | -3.47 USD | -0.39% | -24.11% | 10.91 USD | Consumer Cyclical |
-| 816 | QCOM | QUALCOMM Incorporated | 0.90p | 42.1875% | -31.60 USD | -0.21% | -15.07% | 178.00 USD | Technology |
+| 808 | SWKS | Skyworks Solutions, Inc. | 0.92p | 45.3125% | -20.75 USD | -0.27% | -17.30% | 99.24 USD | Technology |
+| 809 | ATOM | Atomera Incorporated | 0.92p | 37.5000% | -0.41 USD | -0.03% | -10.00% | 3.72 USD | Technology |
+| 810 | GNTX | Gentex Corporation | 0.92p | 43.7500% | -5.64 USD | -0.27% | -16.03% | 30.71 USD | Consumer Cyclical |
+| 811 | TMDX | TransMedics Group, Inc. | 0.91p | 39.0625% | -17.57 USD | -0.13% | -11.58% | 134.35 USD | Healthcare |
+| 812 | QCOM | QUALCOMM Incorporated | 0.91p | 42.1875% | -30.52 USD | -0.20% | -14.63% | 178.00 USD | Technology |
+| 813 | OKTA | Okta, Inc. | 0.91p | 50.0000% | -22.42 USD | -0.36% | -22.33% | 78.02 USD | Technology |
+| 814 | SPCE | Virgin Galactic Holdings, Inc. | 0.90p | 45.3125% | -1.45 USD | -0.18% | -18.03% | 6.58 USD | Industrials |
+| 815 | CAN | Canaan Inc. | 0.90p | 43.7500% | -0.20 USD | -0.16% | -16.53% | 1.04 USD | Technology |
+| 816 | F | Ford Motor Company | 0.90p | 51.5625% | -3.47 USD | -0.39% | -24.11% | 10.91 USD | Consumer Cyclical |
 | 817 | PLAB | Photronics, Inc. | 0.89p | 40.6250% | -3.85 USD | -0.19% | -13.75% | 24.16 USD | Technology |
 | 818 | ACHC | Acadia Healthcare Company, Inc. | 0.89p | 43.7500% | -11.55 USD | -0.24% | -16.87% | 56.97 USD | Healthcare |
 | 819 | NC | NACCO Industries, Inc. | 0.89p | 43.7500% | -5.52 USD | -0.26% | -16.87% | 27.50 USD | Energy |
@@ -2416,20 +2415,20 @@
 | 862 | SSTI | SoundThinking, Inc. | 0.65p | 40.6250% | -3.03 USD | -0.31% | -20.91% | 11.52 USD | Technology |
 | 863 | GO | Grocery Outlet Holding Corp. | 0.64p | 43.7500% | -5.06 USD | -0.40% | -24.22% | 15.84 USD | Consumer Defensive |
 | 864 | NXTC | NextCure, Inc. | 0.63p | 40.6250% | -0.38 USD | -0.34% | -21.35% | 1.81 USD | Healthcare |
-| 865 | BA | Boeing Company (The) | 0.63p | 39.0625% | -37.06 USD | -0.32% | -19.92% | 148.68 USD | Industrials |
-| 866 | GOGO | Gogo Inc. | 0.62p | 45.3125% | -2.49 USD | -0.41% | -26.18% | 8.06 USD | Communication Services |
-| 867 | GRWG | GrowGeneration Corp. | 0.62p | 40.6250% | -0.56 USD | -0.30% | -21.79% | 2.02 USD | Consumer Cyclical |
-| 868 | GT | The Goodyear Tire & Rubber Comp | 0.62p | 48.4375% | -3.52 USD | -0.49% | -29.46% | 9.59 USD | Consumer Cyclical |
-| 869 | RDHL | Redhill Biopharma Ltd. | 0.61p | 39.0625% | -2.14 USD | 0.48% | -21.19% | 10.17 USD | Healthcare |
-| 870 | AVDL | Avadel Pharmaceuticals plc | 0.60p | 40.6250% | -3.74 USD | -0.37% | -22.12% | 13.18 USD | Healthcare |
-| 871 | GME | GameStop Corporation | 0.60p | 43.7500% | -7.21 USD | -0.39% | -25.26% | 21.43 USD | Consumer Cyclical |
-| 872 | TLRY | Tilray Brands, Inc. | 0.60p | 35.9375% | -0.34 USD | -0.26% | -17.62% | 1.61 USD | Healthcare |
-| 873 | SGH | SMART Global Holdings, Inc. | 0.59p | 42.1875% | -6.61 USD | -0.39% | -24.07% | 20.88 USD | Technology |
-| 874 | COCP | Cocrystal Pharma, Inc. | 0.59p | 39.0625% | -0.48 USD | -0.28% | -21.15% | 0.00 USD | Healthcare |
-| 875 | ALRM | Alarm.com Holdings, Inc. | 0.58p | 40.6250% | -15.99 USD | -0.39% | -22.94% | 53.74 USD | Technology |
-| 876 | SIRI | SiriusXM Holdings Inc. | 0.58p | 48.4375% | -11.90 USD | -0.51% | -30.67% | 26.99 USD | Communication Services |
-| 877 | AMKR | Amkor Technology, Inc. | 0.57p | 46.8750% | -13.07 USD | -0.46% | -29.25% | 32.99 USD | Technology |
-| 878 | WBA | Walgreens Boots Alliance, Inc. | 0.57p | 40.6250% | -2.73 USD | -0.38% | -23.27% | 9.01 USD | Healthcare |
+| 865 | WBA | Walgreens Boots Alliance, Inc. | 0.63p | 40.6250% | -2.46 USD | -0.35% | -21.44% | 9.01 USD | Healthcare |
+| 866 | BA | Boeing Company (The) | 0.63p | 39.0625% | -37.06 USD | -0.32% | -19.92% | 148.68 USD | Industrials |
+| 867 | GOGO | Gogo Inc. | 0.62p | 45.3125% | -2.49 USD | -0.41% | -26.18% | 8.06 USD | Communication Services |
+| 868 | GRWG | GrowGeneration Corp. | 0.62p | 40.6250% | -0.56 USD | -0.30% | -21.79% | 2.02 USD | Consumer Cyclical |
+| 869 | GT | The Goodyear Tire & Rubber Comp | 0.62p | 48.4375% | -3.52 USD | -0.49% | -29.46% | 9.59 USD | Consumer Cyclical |
+| 870 | RDHL | Redhill Biopharma Ltd. | 0.61p | 39.0625% | -2.14 USD | 0.48% | -21.19% | 10.17 USD | Healthcare |
+| 871 | AVDL | Avadel Pharmaceuticals plc | 0.60p | 40.6250% | -3.74 USD | -0.37% | -22.12% | 13.18 USD | Healthcare |
+| 872 | GME | GameStop Corporation | 0.60p | 43.7500% | -7.21 USD | -0.39% | -25.26% | 21.43 USD | Consumer Cyclical |
+| 873 | TLRY | Tilray Brands, Inc. | 0.60p | 35.9375% | -0.34 USD | -0.26% | -17.62% | 1.61 USD | Healthcare |
+| 874 | SGH | SMART Global Holdings, Inc. | 0.59p | 42.1875% | -6.61 USD | -0.39% | -24.07% | 20.88 USD | Technology |
+| 875 | COCP | Cocrystal Pharma, Inc. | 0.59p | 39.0625% | -0.48 USD | -0.28% | -21.15% | 0.00 USD | Healthcare |
+| 876 | ALRM | Alarm.com Holdings, Inc. | 0.58p | 40.6250% | -15.99 USD | -0.39% | -22.94% | 53.74 USD | Technology |
+| 877 | SIRI | SiriusXM Holdings Inc. | 0.58p | 48.4375% | -11.90 USD | -0.51% | -30.67% | 26.99 USD | Communication Services |
+| 878 | AMKR | Amkor Technology, Inc. | 0.57p | 46.8750% | -13.07 USD | -0.46% | -29.25% | 32.99 USD | Technology |
 | 879 | AMSC | American Superconductor Corpora | 0.56p | 43.7500% | -8.61 USD | -0.34% | -26.56% | 23.82 USD | Industrials |
 | 880 | CACC | Credit Acceptance Corporation | 0.56p | 42.1875% | -152.54 USD | -0.42% | -24.96% | 460.76 USD | Financial Services |
 | 881 | YJ | Yunji Inc. - American Depositor | 0.56p | 40.6250% | -0.66 USD | -0.01% | -23.91% | 0.00 USD | Consumer Cyclical |
@@ -2446,14 +2445,14 @@
 | 892 | BEAT | Heartbeam, Inc. | 0.49p | 37.5000% | -0.65 USD | -0.32% | -22.34% | 2.73 USD | Healthcare |
 | 893 | AVNW | Aviat Networks, Inc. | 0.49p | 40.6250% | -7.70 USD | -0.40% | -25.43% | 22.68 USD | Technology |
 | 894 | RIOT | Riot Platforms, Inc. | 0.45p | 45.3125% | -3.96 USD | -0.49% | -31.18% | 8.77 USD | Financial Services |
-| 895 | GRVY | GRAVITY Co., Ltd. | 0.44p | 39.0625% | -20.11 USD | -0.43% | -25.45% | 58.95 USD | Communication Services |
-| 896 | AMN | AMN Healthcare Services Inc | 0.44p | 42.1875% | -16.10 USD | -0.48% | -28.60% | 40.00 USD | Healthcare |
-| 897 | INTC | Intel Corporation | 0.44p | 45.3125% | -10.90 USD | -0.48% | -31.74% | 23.45 USD | Technology |
+| 895 | INTC | Intel Corporation | 0.45p | 45.3125% | -10.68 USD | -0.47% | -31.31% | 23.45 USD | Technology |
+| 896 | GRVY | GRAVITY Co., Ltd. | 0.44p | 39.0625% | -20.11 USD | -0.43% | -25.45% | 58.95 USD | Communication Services |
+| 897 | AMN | AMN Healthcare Services Inc | 0.44p | 42.1875% | -16.10 USD | -0.48% | -28.60% | 40.00 USD | Healthcare |
 | 898 | GPRO | GoPro, Inc. | 0.43p | 40.6250% | -0.48 USD | -0.44% | -27.27% | 1.45 USD | Technology |
 | 899 | ATRA | Atara Biotherapeutics, Inc. | 0.43p | 46.8750% | -4.12 USD | -0.41% | -33.58% | 8.20 USD | Healthcare |
 | 900 | BE | Bloom Energy Corporation | 0.42p | 43.7500% | -4.62 USD | -0.49% | -30.64% | 10.45 USD | Industrials |
 | 901 | RIG | Transocean Ltd (Switzerland) | 0.41p | 37.5000% | -1.39 USD | -0.39% | -24.69% | 4.22 USD | Energy |
-| 902 | HUM | Humana Inc. | 0.41p | 45.3125% | -128.00 USD | -0.57% | -32.36% | 267.58 USD | Healthcare |
+| 902 | HUM | Humana Inc. | 0.41p | 45.3125% | -128.00 USD | -0.57% | -32.36% | 267.57 USD | Healthcare |
 | 903 | ALLO | Allogene Therapeutics, Inc. | 0.41p | 37.5000% | -0.87 USD | -0.33% | -24.86% | 2.65 USD | Healthcare |
 | 904 | UCTT | Ultra Clean Holdings, Inc. | 0.38p | 39.0625% | -15.25 USD | -0.42% | -27.14% | 40.99 USD | Technology |
 | 905 | ACLS | Axcelis Technologies, Inc. | 0.38p | 40.6250% | -42.27 USD | -0.46% | -28.68% | 130.12 USD | Technology |
@@ -2475,7 +2474,7 @@
 | 921 | IQ | iQIYI, Inc. | 0.20p | 39.0625% | -1.22 USD | -0.50% | -32.53% | 2.53 USD | Communication Services |
 | 922 | ELF | e.l.f. Beauty, Inc. | 0.19p | 45.3125% | -73.59 USD | -0.69% | -38.93% | 115.80 USD | Consumer Defensive |
 | 923 | DG | Dollar General Corporation | 0.19p | 43.7500% | -47.72 USD | -0.63% | -37.43% | 79.97 USD | Consumer Defensive |
-| 924 | VAL | Valaris Limited | 0.18p | 40.6250% | -27.61 USD | -0.64% | -34.57% | 55.33 USD | Energy |
+| 924 | VAL | Valaris Limited | 0.18p | 40.6250% | -27.61 USD | -0.64% | -34.57% | 52.25 USD | Energy |
 | 925 | BLDP | Ballard Power Systems, Inc. | 0.17p | 40.6250% | -0.89 USD | -0.61% | -34.77% | 1.90 USD | Industrials |
 | 926 | KALA | KALA BIO, Inc. | 0.15p | 39.0625% | -2.65 USD | -0.61% | -33.89% | 6.65 USD | Healthcare |
 | 927 | ARLO | Arlo Technologies, Inc. | 0.14p | 37.5000% | -5.55 USD | -0.57% | -32.67% | 11.46 USD | Industrials |
@@ -2539,10 +2538,10 @@
 | 985 | ATNI | ATN International, Inc. | 3.16p | 56.2500% | 8.79 USD | 0.55% | 37.87% | 32.09 USD | Communication Services |
 | 986 | GWRE | Guidewire Software, Inc. | 3.12p | 60.9375% | 45.78 USD | 0.46% | 32.21% | 188.98 USD | Technology |
 | 987 | CHUY | Chuy's Holdings, Inc. | 3.10p | 44.4444% | 12.13 USD | 0.77% | 47.85% | 0.00 USD | Consumer Cyclical |
-| 988 | COHR | Coherent Corp. | 3.01p | 62.5000% | 22.10 USD | 0.46% | 27.46% | 102.67 USD | Technology |
+| 988 | COHR | Coherent Corp. | 3.01p | 62.5000% | 22.10 USD | 0.46% | 27.46% | 102.88 USD | Technology |
 | 989 | IBKR | Interactive Brokers Group, Inc. | 3.00p | 67.1875% | 27.64 USD | 0.33% | 22.35% | 151.38 USD | Financial Services |
 | 990 | GL | Globe Life Inc. | 2.96p | 65.6250% | 20.27 USD | 0.34% | 22.90% | 109.90 USD | Financial Services |
-| 991 | TRU | TransUnion | 2.96p | 57.8125% | 24.94 USD | 0.44% | 30.43% | 117.00 USD | Financial Services |
+| 991 | TRU | TransUnion | 2.96p | 57.8125% | 24.94 USD | 0.44% | 30.43% | 107.70 USD | Financial Services |
 | 992 | CACI | CACI International, Inc. | 2.94p | 68.7500% | 84.90 USD | 0.29% | 19.16% | 844.14 USD | Technology |
 | 993 | FRHC | Freedom Holding Corp. | 2.90p | 65.6250% | 17.17 USD | 0.32% | 20.93% | 99.91 USD | Financial Services |
 | 994 | CHRW | C.H. Robinson Worldwide, Inc. | 2.79p | 57.8125% | 22.42 USD | 0.38% | 25.55% | 117.89 USD | Industrials |
@@ -2577,7 +2576,7 @@
 | 1023 | CMS | CMS Energy Corporation | 2.51p | 60.9375% | 8.59 USD | 0.21% | 14.02% | 69.91 USD | Utilities |
 | 1024 | PLXS | Plexus Corp. | 2.47p | 57.8125% | 19.03 USD | 0.26% | 16.01% | 138.34 USD | Technology |
 | 1025 | TTEK | Tetra Tech, Inc. | 2.45p | 54.6875% | 7.68 USD | 0.29% | 18.57% | 49.12 USD | Industrials |
-| 1026 | PWR | Quanta Services, Inc. | 2.44p | 53.1250% | 51.61 USD | 0.32% | 19.90% | 320.00 USD | Industrials |
+| 1026 | PWR | Quanta Services, Inc. | 2.44p | 53.1250% | 51.61 USD | 0.32% | 19.90% | 311.97 USD | Industrials |
 | 1027 | AC | Associated Capital Group, Inc. | 2.44p | 57.8125% | 4.89 USD | 0.24% | 15.30% | 58.80 USD | Financial Services |
 | 1028 | VRNS | Varonis Systems, Inc. | 2.43p | 54.6875% | 9.14 USD | 0.30% | 18.01% | 75.90 USD | Technology |
 | 1029 | AEE | Ameren Corporation | 2.43p | 54.6875% | 13.32 USD | 0.27% | 18.02% | 87.20 USD | Utilities |
@@ -2588,19 +2587,19 @@
 | 1034 | THC | Tenet Healthcare Corporation | 2.38p | 54.6875% | 21.90 USD | 0.26% | 16.42% | 156.30 USD | Healthcare |
 | 1035 | OCFT | OneConnect Financial Technology | 2.38p | 37.5000% | 0.61 USD | 1.05% | 32.80% | 2.57 USD | Technology |
 | 1036 | XEL | Xcel Energy Inc. | 2.34p | 53.1250% | 9.09 USD | 0.25% | 16.86% | 63.05 USD | Utilities |
-| 1037 | J | Jacobs Solutions Inc. | 2.34p | 59.3750% | 13.40 USD | 0.17% | 10.64% | 139.99 USD | Industrials |
+| 1037 | J | Jacobs Solutions Inc. | 2.34p | 59.3750% | 13.40 USD | 0.17% | 10.64% | 139.91 USD | Industrials |
 | 1038 | TREE | LendingTree, Inc. | 2.31p | 56.2500% | 6.85 USD | 0.27% | 12.70% | 61.00 USD | Financial Services |
 | 1039 | DTE | DTE Energy Company | 2.30p | 59.3750% | 10.88 USD | 0.15% | 9.49% | 125.70 USD | Utilities |
 | 1040 | SBAC | SBA Communications Corporation | 2.30p | 56.2500% | 26.76 USD | 0.20% | 12.56% | 239.95 USD | Real Estate |
 | 1041 | ZBRA | Zebra Technologies Corporation | 2.30p | 56.2500% | 41.92 USD | 0.20% | 12.49% | 377.88 USD | Technology |
 | 1042 | SSNC | SS&C Technologies Holdings, Inc | 2.28p | 56.2500% | 8.15 USD | 0.19% | 12.08% | 75.65 USD | Technology |
 | 1043 | MSTR | MicroStrategy Incorporated | 2.28p | 46.8750% | 35.24 USD | 0.46% | 21.17% | 202.35 USD | Technology |
-| 1044 | ADC | Agree Realty Corporation | 2.27p | 54.6875% | 8.72 USD | 0.20% | 13.29% | 74.50 USD | Real Estate |
+| 1044 | ADC | Agree Realty Corporation | 2.27p | 54.6875% | 8.72 USD | 0.20% | 13.29% | 74.72 USD | Real Estate |
 | 1045 | IT | Gartner, Inc. | 2.27p | 54.6875% | 61.20 USD | 0.21% | 13.13% | 528.97 USD | Technology |
 | 1046 | PHM | PulteGroup, Inc. | 2.26p | 53.1250% | 17.98 USD | 0.23% | 14.43% | 142.34 USD | Consumer Cyclical |
 | 1047 | AZPN | Aspen Technology, Inc. | 2.26p | 50.0000% | 35.34 USD | 0.29% | 17.49% | 255.86 USD | Technology |
 | 1048 | LOCO | El Pollo Loco Holdings, Inc. | 2.26p | 51.5625% | 1.85 USD | 0.25% | 15.87% | 13.53 USD | Consumer Cyclical |
-| 1049 | MAS | Masco Corporation | 2.25p | 53.1250% | 10.51 USD | 0.22% | 14.15% | 84.82 USD | Industrials |
+| 1049 | MAS | Masco Corporation | 2.25p | 53.1250% | 10.51 USD | 0.22% | 14.15% | 85.39 USD | Industrials |
 | 1050 | SPTN | SpartanNash Company | 2.25p | 54.6875% | 2.39 USD | 0.20% | 12.51% | 21.55 USD | Consumer Defensive |
 | 1051 | FE | FirstEnergy Corp. | 2.24p | 56.2500% | 4.20 USD | 0.17% | 10.78% | 43.18 USD | Utilities |
 | 1052 | TOWN | Towne Bank | 2.23p | 56.2500% | 3.32 USD | 0.17% | 10.62% | 34.62 USD | Financial Services |
@@ -2658,7 +2657,7 @@
 | 1104 | VSEC | VSE Corporation | 1.94p | 57.8125% | 0.19 USD | 0.03% | 0.21% | 92.11 USD | Industrials |
 | 1105 | VRSN | VeriSign, Inc. | 1.93p | 53.1250% | 8.59 USD | 0.08% | 4.78% | 188.47 USD | Technology |
 | 1106 | WK | Workiva Inc. | 1.93p | 51.5625% | 4.72 USD | 0.12% | 6.28% | 79.97 USD | Technology |
-| 1107 | MAA | Mid-America Apartment Communiti | 1.92p | 50.0000% | 10.85 USD | 0.12% | 7.61% | 154.98 USD | Real Estate |
+| 1107 | MAA | Mid-America Apartment Communiti | 1.92p | 50.0000% | 10.85 USD | 0.12% | 7.61% | 154.14 USD | Real Estate |
 | 1108 | RVNC | Revance Therapeutics, Inc. | 1.92p | 35.9375% | 0.89 USD | 0.79% | 20.94% | 6.55 USD | Healthcare |
 | 1109 | CBU | Community Financial System, Inc | 1.92p | 50.0000% | 4.22 USD | 0.13% | 7.45% | 61.01 USD | Financial Services |
 | 1110 | DJCO | Daily Journal Corp. (S.C.) | 1.92p | 51.5625% | 25.99 USD | 0.12% | 5.80% | 479.16 USD | Technology |
@@ -2668,7 +2667,7 @@
 | 1114 | SGRY | Surgery Partners, Inc. | 1.88p | 42.1875% | 3.92 USD | 0.26% | 14.09% | 31.84 USD | Healthcare |
 | 1115 | WING | Wingstop Inc. | 1.88p | 53.1250% | 12.31 USD | 0.08% | 3.18% | 399.19 USD | Consumer Cyclical |
 | 1116 | COOP | Mr. Cooper Group Inc. | 1.87p | 48.4375% | 6.70 USD | 0.13% | 7.49% | 96.19 USD | Financial Services |
-| 1117 | SUI | Sun Communities, Inc. | 1.86p | 53.1250% | 3.48 USD | 0.05% | 2.75% | 130.02 USD | Real Estate |
+| 1117 | SUI | Sun Communities, Inc. | 1.86p | 53.1250% | 3.48 USD | 0.05% | 2.75% | 130.88 USD | Real Estate |
 | 1118 | ADUS | Addus HomeCare Corporation | 1.86p | 48.4375% | 8.98 USD | 0.12% | 7.31% | 168.52 USD | Healthcare |
 | 1119 | PLMR | Palomar Holdings, Inc. | 1.86p | 48.4375% | 6.48 USD | 0.13% | 7.10% | 97.84 USD | Financial Services |
 | 1120 | SWX | Southwest Gas Holdings, Inc. | 1.85p | 54.6875% | 0.64 USD | 0.02% | 0.87% | 74.46 USD | Utilities |
@@ -2714,7 +2713,7 @@
 | 1160 | BHF | Brighthouse Financial, Inc. | 1.67p | 56.2500% | -2.94 USD | -0.08% | -5.94% | 46.64 USD | Financial Services |
 | 1161 | SIGI | Selective Insurance Group, Inc. | 1.67p | 54.6875% | -4.46 USD | -0.03% | -4.45% | 95.84 USD | Financial Services |
 | 1162 | UTL | UNITIL Corporation | 1.65p | 46.8750% | 1.55 USD | 0.05% | 2.71% | 60.01 USD | Utilities |
-| 1163 | SNX | TD SYNNEX Corporation | 1.65p | 48.4375% | 1.30 USD | 0.03% | 1.10% | 123.00 USD | Technology |
+| 1163 | SNX | TD SYNNEX Corporation | 1.65p | 48.4375% | 1.30 USD | 0.03% | 1.10% | 120.25 USD | Technology |
 | 1164 | SEE | Sealed Air Corporation | 1.65p | 53.1250% | -1.33 USD | -0.04% | -3.61% | 35.39 USD | Consumer Cyclical |
 | 1165 | OSIS | OSI Systems, Inc. | 1.64p | 50.0000% | -1.13 USD | 0.01% | -0.75% | 149.73 USD | Technology |
 | 1166 | DX | Dynex Capital, Inc. | 1.64p | 51.5625% | -0.31 USD | -0.03% | -2.46% | 12.33 USD | Real Estate |
@@ -2739,7 +2738,7 @@
 | 1185 | VMC | Vulcan Materials Company (Holdi | 1.54p | 51.5625% | -14.11 USD | -0.07% | -5.37% | 260.00 USD | Basic Materials |
 | 1186 | ROP | Roper Technologies, Inc. | 1.54p | 48.4375% | -13.24 USD | -0.03% | -2.33% | 554.87 USD | Technology |
 | 1187 | FHB | First Hawaiian, Inc. | 1.54p | 48.4375% | -0.57 USD | -0.02% | -2.36% | 23.65 USD | Financial Services |
-| 1188 | SITE | SiteOne Landscape Supply, Inc. | 1.53p | 43.7500% | 2.90 USD | 0.06% | 2.02% | 155.72 USD | Industrials |
+| 1188 | SITE | SiteOne Landscape Supply, Inc. | 1.53p | 43.7500% | 2.90 USD | 0.06% | 2.02% | 147.20 USD | Industrials |
 | 1189 | MLM | Martin Marietta Materials, Inc. | 1.52p | 50.0000% | -25.11 USD | -0.06% | -4.35% | 580.71 USD | Basic Materials |
 | 1190 | ADI | Analog Devices, Inc. | 1.52p | 48.4375% | -6.90 USD | -0.01% | -2.84% | 245.66 USD | Technology |
 | 1191 | MUSA | Murphy USA Inc. | 1.52p | 46.8750% | -6.41 USD | -0.01% | -1.29% | 498.72 USD | Consumer Cyclical |
@@ -2758,20 +2757,20 @@
 | 1204 | SAFT | Safety Insurance Group, Inc. | 1.41p | 45.3125% | -2.40 USD | -0.03% | -2.89% | 80.80 USD | Financial Services |
 | 1205 | HSTM | HealthStream, Inc. | 1.40p | 48.4375% | -1.88 USD | -0.09% | -6.23% | 36.17 USD | Healthcare |
 | 1206 | OFIX | Orthofix Medical Inc. | 1.40p | 42.1875% | -0.04 USD | 0.05% | -0.25% | 16.13 USD | Healthcare |
-| 1207 | ROK | Rockwell Automation, Inc. | 1.40p | 48.4375% | -19.10 USD | -0.09% | -6.49% | 279.00 USD | Industrials |
+| 1207 | ROK | Rockwell Automation, Inc. | 1.40p | 48.4375% | -19.10 USD | -0.09% | -6.49% | 276.33 USD | Industrials |
 | 1208 | SPSC | SPS Commerce, Inc. | 1.39p | 48.4375% | -13.61 USD | -0.09% | -6.50% | 195.86 USD | Technology |
 | 1209 | RYTM | Rhythm Pharmaceuticals, Inc. | 1.39p | 48.4375% | -3.65 USD | -0.07% | -6.77% | 63.25 USD | Healthcare |
 | 1210 | NWSA | News Corporation | 1.38p | 50.0000% | -2.40 USD | -0.13% | -8.44% | 26.06 USD | Communication Services |
 | 1211 | BEAM | Beam Therapeutics Inc. | 1.37p | 43.7500% | -0.70 USD | 0.04% | -2.57% | 26.61 USD | Healthcare |
 | 1212 | SCVL | Shoe Carnival, Inc. | 1.34p | 45.3125% | -2.05 USD | -0.04% | -5.02% | 38.80 USD | Consumer Cyclical |
 | 1213 | TFSL | TFS Financial Corporation | 1.34p | 45.3125% | -0.70 USD | -0.07% | -5.11% | 13.02 USD | Financial Services |
-| 1214 | SXI | Standex International Corporati | 1.33p | 46.8750% | -12.74 USD | -0.10% | -6.75% | 181.77 USD | Industrials |
+| 1214 | SXI | Standex International Corporati | 1.33p | 46.8750% | -12.74 USD | -0.10% | -6.75% | 279.08 USD | Industrials |
 | 1215 | DESP | Despegar.com, Corp. | 1.33p | 53.1250% | -1.89 USD | -0.17% | -13.04% | 13.14 USD | Consumer Cyclical |
 | 1216 | PKE | Park Aerospace Corp. | 1.32p | 46.8750% | -1.01 USD | -0.10% | -7.03% | 14.12 USD | Industrials |
-| 1217 | TEL | TE Connectivity plc | 1.32p | 46.8750% | -11.35 USD | -0.11% | -7.11% | 148.08 USD | Technology |
+| 1217 | TEL | TE Connectivity plc | 1.32p | 46.8750% | -11.35 USD | -0.11% | -7.11% | 148.94 USD | Technology |
 | 1218 | ASGN | ASGN Incorporated | 1.28p | 43.7500% | -5.50 USD | -0.06% | -5.33% | 102.46 USD | Technology |
 | 1219 | SLAB | Silicon Laboratories, Inc. | 1.28p | 45.3125% | -8.66 USD | -0.06% | -6.92% | 116.57 USD | Technology |
-| 1220 | GATX | GATX Corporation | 1.27p | 48.4375% | -15.11 USD | -0.15% | -10.06% | 141.91 USD | Industrials |
+| 1220 | GATX | GATX Corporation | 1.27p | 48.4375% | -15.11 USD | -0.15% | -10.06% | 142.02 USD | Industrials |
 | 1221 | SANM | Sanmina Corporation | 1.26p | 46.8750% | -6.54 USD | -0.12% | -8.84% | 67.57 USD | Technology |
 | 1222 | CABO | Cable One, Inc. | 1.26p | 43.7500% | -21.38 USD | -0.05% | -5.89% | 366.80 USD | Communication Services |
 | 1223 | RGCO | RGC Resources Inc. | 1.24p | 45.3125% | -1.80 USD | -0.09% | -7.91% | 27.05 USD | Utilities |
@@ -2784,7 +2783,7 @@
 | 1230 | SILC | Silicom Ltd | 1.15p | 48.4375% | -2.20 USD | -0.19% | -13.79% | 13.85 USD | Technology |
 | 1231 | PRGO | Perrigo Company plc | 1.15p | 45.3125% | -2.91 USD | -0.17% | -10.74% | 24.20 USD | Healthcare |
 | 1232 | EXPI | eXp World Holdings, Inc. | 1.14p | 40.6250% | -0.90 USD | -0.05% | -6.41% | 13.17 USD | Real Estate |
-| 1233 | TNC | Tennant Company | 1.11p | 46.8750% | -14.32 USD | -0.21% | -13.22% | 94.09 USD | Industrials |
+| 1233 | TNC | Tennant Company | 1.11p | 46.8750% | -14.32 USD | -0.21% | -13.22% | 94.52 USD | Industrials |
 | 1234 | BUSE | First Busey Corporation | 1.11p | 42.1875% | -2.41 USD | -0.13% | -8.82% | 31.42 USD | Financial Services |
 | 1235 | OLLI | Ollie's Bargain Outlet Holdings | 1.10p | 42.1875% | -9.32 USD | -0.12% | -8.96% | 94.78 USD | Consumer Defensive |
 | 1236 | BLD | TopBuild Corp. | 1.10p | 46.8750% | -64.36 USD | -0.20% | -13.83% | 421.72 USD | Industrials |
@@ -2826,7 +2825,7 @@
 | 1272 | ALEC | Alector, Inc. | 0.60p | 37.5000% | -1.18 USD | -0.23% | -19.41% | 4.91 USD | Healthcare |
 | 1273 | RCKT | Rocket Pharmaceuticals, Inc. | 0.58p | 45.3125% | -6.45 USD | -0.44% | -27.62% | 16.94 USD | Healthcare |
 | 1274 | PRTA | Prothena Corporation plc | 0.50p | 43.7500% | -6.81 USD | -0.47% | -28.22% | 17.39 USD | Healthcare |
-| 1275 | PRO | PROS Holdings, Inc. | 0.46p | 42.1875% | -7.22 USD | -0.47% | -27.97% | 18.56 USD | Technology |
+| 1275 | PRO | PROS Holdings, Inc. | 0.46p | 42.1875% | -7.22 USD | -0.47% | -27.97% | 19.86 USD | Technology |
 | 1276 | SSTK | Shutterstock, Inc. | 0.45p | 42.1875% | -12.01 USD | -0.49% | -28.11% | 32.00 USD | Communication Services |
 | 1277 | KE | Kimball Electronics, Inc. | 0.45p | 40.6250% | -6.49 USD | -0.46% | -26.73% | 17.81 USD | Industrials |
 | 1278 | TTEC | TTEC Holdings, Inc. | 0.43p | 37.5000% | -1.89 USD | -0.20% | -24.51% | 5.85 USD | Technology |
@@ -3105,7 +3104,7 @@
 | 33 | AGX | Argan, Inc. | 8.85p | 55.1339% | 77.14 USD | 0.29% | 210.13% | 121.99 USD | Industrials |
 | 34 | PHM | PulteGroup, Inc. | 8.82p | 55.8036% | 96.34 USD | 0.27% | 208.53% | 142.34 USD | Consumer Cyclical |
 | 35 | ARLO | Arlo Technologies, Inc. | 8.82p | 51.5625% | 7.78 USD | 0.34% | 212.57% | 11.46 USD | Industrials |
-| 36 | BLDR | Builders FirstSource, Inc. | 8.58p | 56.2500% | 131.36 USD | 0.28% | 201.01% | 197.23 USD | Industrials |
+| 36 | BLDR | Builders FirstSource, Inc. | 8.58p | 56.2500% | 131.36 USD | 0.28% | 201.01% | 197.87 USD | Industrials |
 | 37 | WING | Wingstop Inc. | 8.58p | 58.0357% | 265.61 USD | 0.27% | 199.05% | 399.19 USD | Consumer Cyclical |
 | 38 | CRWD | CrowdStrike Holdings, Inc. | 8.57p | 56.0268% | 207.24 USD | 0.29% | 200.66% | 326.12 USD | Technology |
 | 39 | GWRE | Guidewire Software, Inc. | 8.46p | 54.9107% | 125.02 USD | 0.27% | 198.76% | 188.98 USD | Technology |
@@ -3143,7 +3142,7 @@
 | 71 | MELI | MercadoLibre, Inc. | 6.86p | 53.7946% | 1253.85 USD | 0.23% | 151.78% | 2077.46 USD | Consumer Cyclical |
 | 72 | NOW | ServiceNow, Inc. | 6.85p | 60.2679% | 559.19 USD | 0.22% | 145.06% | 944.69 USD | Technology |
 | 73 | GCI | Gannett Co., Inc. | 6.85p | 49.5536% | 3.30 USD | 0.31% | 155.66% | 5.50 USD | Communication Services |
-| 74 | CCL | Carnival Corporation | 6.82p | 50.8929% | 12.24 USD | 0.25% | 153.58% | 20.25 USD | Consumer Cyclical |
+| 74 | CCL | Carnival Corporation | 6.82p | 50.8929% | 12.24 USD | 0.25% | 153.58% | 20.29 USD | Consumer Cyclical |
 | 75 | IRM | Iron Mountain Incorporated (Del | 6.76p | 58.4821% | 71.53 USD | 0.21% | 144.01% | 121.19 USD | Real Estate |
 | 76 | VRNS | Varonis Systems, Inc. | 6.73p | 52.4554% | 35.87 USD | 0.23% | 149.22% | 75.90 USD | Technology |
 | 77 | DESP | Despegar.com, Corp. | 6.72p | 49.7768% | 7.59 USD | 0.26% | 151.50% | 13.14 USD | Consumer Cyclical |
@@ -3167,11 +3166,11 @@
 | 95 | GDDY | GoDaddy Inc. | 5.99p | 58.7054% | 89.81 USD | 0.19% | 120.94% | 167.00 USD | Technology |
 | 96 | KRYS | Krystal Biotech, Inc. | 5.99p | 52.6786% | 100.35 USD | 0.24% | 126.66% | 180.05 USD | Healthcare |
 | 97 | CCJ | Cameco Corporation | 5.98p | 52.9018% | 28.94 USD | 0.21% | 126.16% | 51.99 USD | Energy |
-| 98 | RACE | Ferrari N.V. | 5.91p | 54.6875% | 263.86 USD | 0.19% | 122.51% | 488.75 USD | Consumer Cyclical |
+| 98 | RACE | Ferrari N.V. | 5.91p | 54.6875% | 263.86 USD | 0.19% | 122.51% | 480.42 USD | Consumer Cyclical |
 | 99 | ETN | Eaton Corporation, PLC | 5.90p | 57.5893% | 187.86 USD | 0.19% | 119.09% | 346.65 USD | Industrials |
 | 100 | PH | Parker-Hannifin Corporation | 5.86p | 54.9107% | 351.77 USD | 0.19% | 120.57% | 644.69 USD | Industrials |
 | 101 | XBIT | XBiotech Inc. | 5.85p | 47.5446% | 4.32 USD | 0.29% | 127.81% | 7.77 USD | Healthcare |
-| 102 | PWR | Quanta Services, Inc. | 5.85p | 54.0179% | 170.37 USD | 0.20% | 121.16% | 320.00 USD | Industrials |
+| 102 | PWR | Quanta Services, Inc. | 5.85p | 54.0179% | 170.37 USD | 0.20% | 121.16% | 311.97 USD | Industrials |
 | 103 | PNR | Pentair plc. | 5.82p | 55.8036% | 53.62 USD | 0.19% | 118.63% | 98.78 USD | Industrials |
 | 104 | TMHC | Taylor Morrison Home Corporatio | 5.80p | 54.6875% | 37.24 USD | 0.20% | 119.21% | 68.77 USD | Consumer Cyclical |
 | 105 | VCTR | Victory Capital Holdings, Inc.  | 5.80p | 57.1429% | 31.54 USD | 0.19% | 116.64% | 58.68 USD | Financial Services |
@@ -3187,7 +3186,7 @@
 | 115 | AMZN | Amazon.com, Inc. | 5.72p | 52.9018% | 101.72 USD | 0.19% | 118.53% | 187.63 USD | Consumer Cyclical |
 | 116 | LNTH | Lantheus Holdings, Inc. | 5.71p | 52.4554% | 60.05 USD | 0.24% | 118.51% | 142.32 USD | Healthcare |
 | 117 | DVA | DaVita Inc. | 5.70p | 54.6875% | 86.99 USD | 0.19% | 116.23% | 162.60 USD | Healthcare |
-| 118 | CRM | Salesforce, Inc. | 5.68p | 53.7946% | 156.86 USD | 0.19% | 116.38% | 291.35 USD | Technology |
+| 118 | CRM | Salesforce, Inc. | 5.68p | 53.7946% | 156.86 USD | 0.19% | 116.38% | 291.64 USD | Technology |
 | 119 | IBKR | Interactive Brokers Group, Inc. | 5.64p | 56.9196% | 79.92 USD | 0.18% | 111.96% | 151.38 USD | Financial Services |
 | 120 | CARG | CarGurus, Inc. | 5.63p | 52.2321% | 16.75 USD | 0.20% | 116.56% | 31.15 USD | Consumer Cyclical |
 | 121 | NET | Cloudflare, Inc. | 5.61p | 50.2232% | 50.73 USD | 0.24% | 117.92% | 93.86 USD | Technology |
@@ -3210,11 +3209,11 @@
 | 138 | ELF | e.l.f. Beauty, Inc. | 5.40p | 53.1250% | 60.09 USD | 0.23% | 108.58% | 115.80 USD | Consumer Defensive |
 | 139 | CSL | Carlisle Companies Incorporated | 5.37p | 55.5804% | 246.64 USD | 0.18% | 105.27% | 489.95 USD | Industrials |
 | 140 | DHI | D.R. Horton, Inc. | 5.36p | 54.2411% | 96.43 USD | 0.18% | 106.34% | 186.92 USD | Consumer Cyclical |
-| 141 | KTB | Kontoor Brands, Inc. | 5.35p | 54.0179% | 42.24 USD | 0.19% | 106.29% | 83.79 USD | Consumer Cyclical |
+| 141 | KTB | Kontoor Brands, Inc. | 5.35p | 54.0179% | 42.24 USD | 0.19% | 106.29% | 82.57 USD | Consumer Cyclical |
 | 142 | BX | Blackstone Inc. | 5.33p | 55.5804% | 79.36 USD | 0.18% | 104.24% | 155.59 USD | Financial Services |
 | 143 | BMI | Badger Meter, Inc. | 5.33p | 54.2411% | 115.56 USD | 0.18% | 105.37% | 225.69 USD | Technology |
 | 144 | PLMR | Palomar Holdings, Inc. | 5.32p | 50.6696% | 50.91 USD | 0.20% | 108.60% | 97.84 USD | Financial Services |
-| 145 | BCC | Boise Cascade, L.L.C. | 5.32p | 55.3571% | 72.86 USD | 0.19% | 103.91% | 150.71 USD | Basic Materials |
+| 145 | BCC | Boise Cascade, L.L.C. | 5.32p | 55.3571% | 72.86 USD | 0.19% | 103.91% | 159.00 USD | Basic Materials |
 | 146 | MIRM | Mirum Pharmaceuticals, Inc. | 5.28p | 52.0089% | 20.49 USD | 0.21% | 106.28% | 39.81 USD | Healthcare |
 | 147 | LRCX | Lam Research Corporation | 5.26p | 50.8929% | 44.27 USD | 0.19% | 106.85% | 89.10 USD | Technology |
 | 148 | GSIT | GSI Technology, Inc. | 5.23p | 43.9732% | 1.91 USD | 0.62% | 112.35% | 3.65 USD | Technology |
@@ -3222,7 +3221,7 @@
 | 150 | TSLA | Tesla, Inc. | 5.20p | 52.9018% | 111.06 USD | 0.22% | 102.74% | 219.15 USD | Consumer Cyclical |
 | 151 | OLLI | Ollie's Bargain Outlet Holdings | 5.17p | 52.4554% | 47.88 USD | 0.18% | 102.37% | 94.78 USD | Consumer Defensive |
 | 152 | COST | Costco Wholesale Corporation | 5.13p | 57.5893% | 436.48 USD | 0.16% | 96.29% | 890.22 USD | Consumer Defensive |
-| 153 | HUBB | Hubbell Inc | 5.10p | 56.4732% | 226.01 USD | 0.17% | 96.38% | 483.54 USD | Industrials |
+| 153 | HUBB | Hubbell Inc | 5.10p | 56.4732% | 226.01 USD | 0.17% | 96.38% | 461.66 USD | Industrials |
 | 154 | KEQU | Kewaunee Scientific Corporation | 5.10p | 44.1964% | 17.09 USD | 0.22% | 108.51% | 0.00 USD | Consumer Cyclical |
 | 155 | INSG | Inseego Corp. | 5.09p | 39.5089% | 9.92 USD | 0.45% | 112.73% | 23.85 USD | Technology |
 | 156 | GWW | W.W. Grainger, Inc. | 5.09p | 54.9107% | 542.44 USD | 0.16% | 97.57% | 1762.27 USD | Industrials |
@@ -3232,7 +3231,7 @@
 | 160 | VSEC | VSE Corporation | 5.04p | 54.4643% | 45.06 USD | 0.19% | 96.70% | 92.11 USD | Industrials |
 | 161 | PGR | Progressive Corporation (The) | 5.00p | 56.2500% | 121.74 USD | 0.16% | 93.55% | 252.69 USD | Financial Services |
 | 162 | IR | Ingersoll Rand Inc. | 4.95p | 54.9107% | 49.44 USD | 0.16% | 93.28% | 102.44 USD | Industrials |
-| 163 | HUBS | HubSpot, Inc. | 4.94p | 54.6875% | 270.20 USD | 0.18% | 93.21% | 567.00 USD | Technology |
+| 163 | HUBS | HubSpot, Inc. | 4.94p | 54.6875% | 270.20 USD | 0.18% | 93.21% | 565.00 USD | Technology |
 | 164 | BSX | Boston Scientific Corporation | 4.91p | 56.9196% | 41.54 USD | 0.15% | 90.28% | 87.48 USD | Healthcare |
 | 165 | CTAS | Cintas Corporation | 4.89p | 58.2589% | 99.25 USD | 0.15% | 88.42% | 211.59 USD | Industrials |
 | 166 | TILE | Interface, Inc. | 4.83p | 51.3393% | 9.36 USD | 0.18% | 93.51% | 19.39 USD | Industrials |
@@ -3240,7 +3239,7 @@
 | 168 | WELL | Welltower Inc. | 4.79p | 52.9018% | 60.65 USD | 0.15% | 90.59% | 127.64 USD | Real Estate |
 | 169 | CEIX | CONSOL Energy Inc. | 4.78p | 53.5714% | 52.36 USD | 0.18% | 89.80% | 109.95 USD | Energy |
 | 170 | TYL | Tyler Technologies, Inc. | 4.77p | 55.1339% | 280.36 USD | 0.15% | 87.80% | 600.86 USD | Technology |
-| 171 | JBL | Jabil Inc. | 4.77p | 55.5804% | 58.59 USD | 0.17% | 87.21% | 126.38 USD | Technology |
+| 171 | JBL | Jabil Inc. | 4.77p | 55.5804% | 58.59 USD | 0.17% | 87.21% | 126.48 USD | Technology |
 | 172 | BRO | Brown & Brown, Inc. | 4.77p | 55.8036% | 49.29 USD | 0.15% | 87.01% | 106.07 USD | Financial Services |
 | 173 | AXP | American Express Company | 4.76p | 54.6875% | 129.40 USD | 0.15% | 87.96% | 277.70 USD | Financial Services |
 | 174 | MTSI | MACOM Technology Solutions Hold | 4.76p | 53.1250% | 55.07 USD | 0.17% | 89.44% | 116.66 USD | Technology |
@@ -3277,13 +3276,13 @@
 | 205 | ZS | Zscaler, Inc. | 4.44p | 54.4643% | 86.55 USD | 0.18% | 78.55% | 196.76 USD | Technology |
 | 206 | VNOM | Viper Energy, Inc. | 4.41p | 53.1250% | 22.95 USD | 0.15% | 79.08% | 51.99 USD | Energy |
 | 207 | DJCO | Daily Journal Corp. (S.C.) | 4.41p | 53.1250% | 209.08 USD | 0.15% | 78.97% | 479.16 USD | Technology |
-| 208 | TRU | TransUnion | 4.41p | 50.8929% | 47.89 USD | 0.16% | 81.16% | 117.00 USD | Financial Services |
+| 208 | TRU | TransUnion | 4.41p | 50.8929% | 47.89 USD | 0.16% | 81.16% | 107.70 USD | Financial Services |
 | 209 | MC | Moelis & Company | 4.40p | 53.1250% | 30.70 USD | 0.15% | 78.78% | 69.63 USD | Financial Services |
 | 210 | MUSA | Murphy USA Inc. | 4.40p | 52.4554% | 216.62 USD | 0.14% | 79.40% | 498.72 USD | Consumer Cyclical |
-| 211 | MAS | Masco Corporation | 4.40p | 52.9018% | 37.39 USD | 0.14% | 78.85% | 84.82 USD | Industrials |
+| 211 | MAS | Masco Corporation | 4.40p | 52.9018% | 37.39 USD | 0.14% | 78.85% | 85.39 USD | Industrials |
 | 212 | TEVA | Teva Pharmaceutical Industries  | 4.38p | 50.4464% | 7.71 USD | 0.16% | 80.90% | 17.45 USD | Healthcare |
 | 213 | MAR | Marriott International | 4.38p | 54.2411% | 113.81 USD | 0.14% | 77.03% | 261.67 USD | Consumer Cyclical |
-| 214 | MCO | Moody's Corporation | 4.37p | 57.5893% | 202.97 USD | 0.13% | 73.41% | 479.46 USD | Financial Services |
+| 214 | MCO | Moody's Corporation | 4.37p | 57.5893% | 202.97 USD | 0.13% | 73.41% | 480.95 USD | Financial Services |
 | 215 | CACI | CACI International, Inc. | 4.36p | 59.1518% | 220.06 USD | 0.13% | 71.45% | 844.14 USD | Technology |
 | 216 | APH | Amphenol Corporation | 4.35p | 54.0179% | 29.18 USD | 0.14% | 76.39% | 67.32 USD | Technology |
 | 217 | BECN | Beacon Roofing Supply, Inc. | 4.32p | 52.6786% | 40.51 USD | 0.15% | 76.65% | 93.40 USD | Industrials |
@@ -3292,14 +3291,14 @@
 | 220 | PAHC | Phibro Animal Health Corporatio | 4.29p | 50.8929% | 10.62 USD | 0.17% | 77.69% | 30.73 USD | Healthcare |
 | 221 | MSFT | Microsoft Corporation | 4.29p | 53.5714% | 179.56 USD | 0.14% | 74.95% | 419.24 USD | Technology |
 | 222 | AMPH | Amphastar Pharmaceuticals, Inc. | 4.27p | 53.1250% | 21.09 USD | 0.16% | 74.79% | 49.35 USD | Healthcare |
-| 223 | NVO | Novo Nordisk A/S | 4.25p | 52.4554% | 51.30 USD | 0.14% | 74.91% | 119.93 USD | Healthcare |
+| 223 | NVO | Novo Nordisk A/S | 4.25p | 52.4554% | 51.30 USD | 0.14% | 74.91% | 120.25 USD | Healthcare |
 | 224 | TRNS | Transcat, Inc. | 4.24p | 52.0089% | 54.72 USD | 0.15% | 74.96% | 163.68 USD | Industrials |
 | 225 | FISV | Fiserv, Inc. | 4.23p | 58.3815% | 77.39 USD | 0.16% | 68.51% | 0.00 USD |  |
 | 226 | VRTX | Vertex Pharmaceuticals Incorpor | 4.23p | 57.3661% | 198.80 USD | 0.13% | 69.51% | 484.88 USD | Healthcare |
-| 227 | HRB | H&R Block, Inc. | 4.21p | 53.3482% | 25.58 USD | 0.14% | 72.94% | 60.79 USD | Consumer Cyclical |
+| 227 | HRB | H&R Block, Inc. | 4.21p | 53.3482% | 25.58 USD | 0.14% | 72.94% | 61.07 USD | Consumer Cyclical |
 | 228 | RYTM | Rhythm Pharmaceuticals, Inc. | 4.21p | 50.6696% | 21.60 USD | 0.19% | 75.42% | 63.25 USD | Healthcare |
 | 229 | FEIM | Frequency Electronics, Inc. | 4.21p | 45.0893% | 5.73 USD | 0.18% | 80.93% | 12.95 USD | Technology |
-| 230 | SXI | Standex International Corporati | 4.20p | 53.5714% | 73.82 USD | 0.14% | 72.24% | 181.77 USD | Industrials |
+| 230 | SXI | Standex International Corporati | 4.20p | 53.5714% | 73.82 USD | 0.14% | 72.24% | 279.08 USD | Industrials |
 | 231 | SNPS | Synopsys, Inc. | 4.20p | 55.1339% | 225.78 USD | 0.14% | 70.63% | 545.88 USD | Technology |
 | 232 | TTEK | Tetra Tech, Inc. | 4.18p | 54.0179% | 20.38 USD | 0.13% | 71.21% | 49.12 USD | Industrials |
 | 233 | FTNT | Fortinet, Inc. | 4.18p | 54.4643% | 34.31 USD | 0.15% | 70.71% | 82.86 USD | Technology |
@@ -3321,7 +3320,7 @@
 | 249 | QCOM | QUALCOMM Incorporated | 4.00p | 53.7946% | 70.84 USD | 0.14% | 66.08% | 178.00 USD | Technology |
 | 250 | CAT | Caterpillar, Inc. | 4.00p | 54.9107% | 155.07 USD | 0.13% | 64.92% | 394.50 USD | Industrials |
 | 251 | MLM | Martin Marietta Materials, Inc. | 3.99p | 56.2500% | 214.16 USD | 0.12% | 63.33% | 580.71 USD | Basic Materials |
-| 252 | DKS | Dick's Sporting Goods Inc | 3.98p | 49.3304% | 84.33 USD | 0.15% | 69.94% | 212.80 USD | Consumer Cyclical |
+| 252 | DKS | Dick's Sporting Goods Inc | 3.98p | 49.3304% | 84.33 USD | 0.15% | 69.94% | 205.95 USD | Consumer Cyclical |
 | 253 | PCAR | PACCAR Inc. | 3.97p | 54.0179% | 42.60 USD | 0.12% | 64.92% | 108.38 USD | Industrials |
 | 254 | COF | Capital One Financial Corporati | 3.97p | 50.4464% | 63.64 USD | 0.13% | 68.45% | 157.49 USD | Financial Services |
 | 255 | SCVL | Shoe Carnival, Inc. | 3.97p | 48.8839% | 15.95 USD | 0.15% | 69.96% | 38.80 USD | Consumer Cyclical |
@@ -3334,7 +3333,7 @@
 | 262 | AFL | AFLAC Incorporated | 3.91p | 57.8125% | 42.49 USD | 0.11% | 59.36% | 113.94 USD | Financial Services |
 | 263 | BHE | Benchmark Electronics, Inc. | 3.90p | 51.7857% | 17.46 USD | 0.14% | 65.03% | 46.75 USD | Technology |
 | 264 | AMP | Ameriprise Financial, Inc. | 3.88p | 54.0179% | 193.69 USD | 0.12% | 62.35% | 515.95 USD | Financial Services |
-| 265 | DAL | Delta Air Lines, Inc. | 3.88p | 53.1250% | 20.57 USD | 0.13% | 63.08% | 53.36 USD | Industrials |
+| 265 | DAL | Delta Air Lines, Inc. | 3.88p | 53.1250% | 20.57 USD | 0.13% | 63.08% | 53.46 USD | Industrials |
 | 266 | ESTC | Elastic N.V. | 3.87p | 50.2232% | 32.96 USD | 0.17% | 65.71% | 84.00 USD | Technology |
 | 267 | HIG | Hartford Financial Services Gro | 3.87p | 58.7054% | 43.14 USD | 0.11% | 57.25% | 118.44 USD | Financial Services |
 | 268 | CALM | Cal-Maine Foods, Inc. | 3.87p | 52.6786% | 35.07 USD | 0.13% | 63.20% | 90.62 USD | Consumer Defensive |
@@ -3346,10 +3345,10 @@
 | 274 | WMB | Williams Companies, Inc. (The) | 3.82p | 55.8036% | 18.87 USD | 0.11% | 58.69% | 50.99 USD | Energy |
 | 275 | COLL | Collegium Pharmaceutical, Inc. | 3.81p | 52.9018% | 14.42 USD | 0.14% | 61.15% | 38.09 USD | Healthcare |
 | 276 | UNM | Unum Group | 3.81p | 57.5893% | 22.72 USD | 0.11% | 56.45% | 63.03 USD | Financial Services |
-| 277 | BRC | Brady Corporation | 3.80p | 52.4554% | 28.52 USD | 0.12% | 61.33% | 74.98 USD | Industrials |
+| 277 | BRC | Brady Corporation | 3.80p | 52.4554% | 28.52 USD | 0.12% | 61.33% | 75.48 USD | Industrials |
 | 278 | SHW | Sherwin-Williams Company (The) | 3.79p | 53.1250% | 144.79 USD | 0.12% | 60.49% | 400.00 USD | Basic Materials |
 | 279 | FAST | Fastenal Company | 3.78p | 51.3393% | 29.29 USD | 0.12% | 61.79% | 79.90 USD | Industrials |
-| 280 | IT | Gartner, Inc. | 3.76p | 56.4732% | 189.81 USD | 0.11% | 56.24% | 528.97 USD | Technology |
+| 280 | IT | Gartner, Inc. | 3.76p | 56.4732% | 189.81 USD | 0.11% | 56.24% | 528.77 USD | Technology |
 | 281 | NXPI | NXP Semiconductors N.V. | 3.75p | 55.3571% | 88.39 USD | 0.12% | 57.01% | 243.64 USD | Technology |
 | 282 | SCSC | ScanSource, Inc. | 3.74p | 48.2143% | 18.89 USD | 0.13% | 63.99% | 48.47 USD | Technology |
 | 283 | PDD | PDD Holdings Inc. | 3.74p | 51.1161% | 51.50 USD | 0.17% | 60.93% | 136.02 USD | Consumer Cyclical |
@@ -3379,7 +3378,7 @@
 | 307 | QFIN | Qifu Technology, Inc | 3.54p | 48.2143% | 12.07 USD | 0.15% | 57.75% | 33.02 USD | Financial Services |
 | 308 | FFIV | F5, Inc. | 3.53p | 54.2411% | 74.58 USD | 0.10% | 51.49% | 219.51 USD | Technology |
 | 309 | PBR | Petroleo Brasileiro S.A.- Petro | 3.53p | 49.5536% | 5.33 USD | 0.12% | 56.11% | 14.83 USD | Energy |
-| 310 | FLR | Fluor Corporation | 3.53p | 50.8929% | 18.26 USD | 0.12% | 54.75% | 51.48 USD | Industrials |
+| 310 | FLR | Fluor Corporation | 3.53p | 50.8929% | 18.26 USD | 0.12% | 54.75% | 51.94 USD | Industrials |
 | 311 | TTWO | Take-Two Interactive Software,  | 3.53p | 54.9107% | 52.32 USD | 0.11% | 50.74% | 155.54 USD | Communication Services |
 | 312 | DFS | Discover Financial Services | 3.52p | 53.5714% | 50.32 USD | 0.12% | 51.88% | 147.82 USD | Financial Services |
 | 313 | WES | Western Midstream Partners, LP | 3.51p | 52.2321% | 13.68 USD | 0.11% | 53.11% | 39.81 USD | Energy |
@@ -3396,10 +3395,10 @@
 | 324 | FDX | FedEx Corporation | 3.43p | 52.0089% | 90.18 USD | 0.11% | 50.87% | 267.25 USD | Industrials |
 | 325 | CRESY | Cresud S.A.C.I.F. y A. | 3.43p | 50.0000% | 3.29 USD | 0.14% | 52.82% | 9.54 USD | Industrials |
 | 326 | AEM | Agnico Eagle Mines Limited | 3.43p | 53.7946% | 26.26 USD | 0.11% | 49.03% | 79.61 USD | Basic Materials |
-| 327 | TNC | Tennant Company | 3.42p | 51.3393% | 31.84 USD | 0.11% | 51.25% | 94.09 USD | Industrials |
+| 327 | TNC | Tennant Company | 3.42p | 51.3393% | 31.84 USD | 0.11% | 51.25% | 94.52 USD | Industrials |
 | 328 | ADBE | Adobe Inc. | 3.42p | 51.1161% | 172.73 USD | 0.12% | 51.27% | 509.67 USD | Technology |
 | 329 | ORLY | O'Reilly Automotive, Inc. | 3.40p | 58.9286% | 361.87 USD | 0.09% | 43.04% | 1203.63 USD | Consumer Cyclical |
-| 330 | EFX | Equifax, Inc. | 3.40p | 55.1339% | 92.85 USD | 0.10% | 46.82% | 300.12 USD | Industrials |
+| 330 | EFX | Equifax, Inc. | 3.40p | 55.1339% | 92.85 USD | 0.10% | 46.82% | 294.37 USD | Industrials |
 | 331 | AXS | Axis Capital Holdings Limited | 3.40p | 54.4643% | 26.06 USD | 0.10% | 47.49% | 81.09 USD | Financial Services |
 | 332 | AGYS | Agilysys, Inc. | 3.40p | 51.3393% | 39.19 USD | 0.12% | 50.39% | 149.05 USD | Technology |
 | 333 | MDB | MongoDB, Inc. | 3.39p | 50.0000% | 98.39 USD | 0.16% | 51.58% | 289.34 USD | Technology |
@@ -3410,7 +3409,7 @@
 | 338 | SYK | Stryker Corporation | 3.37p | 54.6875% | 113.68 USD | 0.09% | 46.21% | 363.00 USD | Healthcare |
 | 339 | SATS | EchoStar Corporation | 3.36p | 50.4464% | 8.39 USD | 0.18% | 50.03% | 25.19 USD | Technology |
 | 340 | CAH | Cardinal Health, Inc. | 3.35p | 54.6875% | 35.19 USD | 0.09% | 45.86% | 112.40 USD | Healthcare |
-| 341 | MPC | Marathon Petroleum Corporation | 3.35p | 53.7946% | 51.58 USD | 0.10% | 46.50% | 163.25 USD | Energy |
+| 341 | MPC | Marathon Petroleum Corporation | 3.35p | 53.7946% | 51.58 USD | 0.10% | 46.50% | 162.49 USD | Energy |
 | 342 | NWS | News Corporation | 3.34p | 51.5625% | 8.99 USD | 0.10% | 48.62% | 27.52 USD | Communication Services |
 | 343 | TJX | TJX Companies, Inc. (The) | 3.32p | 53.7946% | 36.23 USD | 0.09% | 45.85% | 115.50 USD | Consumer Cyclical |
 | 344 | PEG | Public Service Enterprise Group | 3.32p | 55.8036% | 27.11 USD | 0.09% | 43.69% | 89.11 USD | Utilities |
@@ -3418,11 +3417,11 @@
 | 346 | GM | General Motors Company | 3.32p | 55.5804% | 14.81 USD | 0.10% | 43.79% | 48.65 USD | Consumer Cyclical |
 | 347 | PINS | Pinterest, Inc. | 3.32p | 50.8929% | 11.09 USD | 0.12% | 48.45% | 34.00 USD | Communication Services |
 | 348 | LAZ | Lazard, Inc. | 3.31p | 50.2232% | 17.18 USD | 0.11% | 49.07% | 54.99 USD | Financial Services |
-| 349 | CAL | Caleres, Inc. | 3.30p | 50.2232% | 10.67 USD | 0.13% | 48.79% | 32.60 USD | Consumer Cyclical |
+| 349 | CAL | Caleres, Inc. | 3.30p | 50.2232% | 10.67 USD | 0.13% | 48.79% | 33.03 USD | Consumer Cyclical |
 | 350 | ZBRA | Zebra Technologies Corporation | 3.30p | 53.7946% | 117.48 USD | 0.11% | 45.15% | 377.88 USD | Technology |
 | 351 | FANG | Diamondback Energy, Inc. | 3.29p | 53.3482% | 59.32 USD | 0.10% | 45.15% | 190.79 USD | Energy |
 | 352 | KURA | Kura Oncology, Inc. | 3.28p | 48.4375% | 6.01 USD | 0.16% | 49.88% | 22.60 USD | Healthcare |
-| 353 | SPG | Simon Property Group, Inc. | 3.27p | 52.0089% | 54.14 USD | 0.10% | 46.06% | 171.74 USD | Real Estate |
+| 353 | SPG | Simon Property Group, Inc. | 3.27p | 52.0089% | 54.14 USD | 0.10% | 46.06% | 172.29 USD | Real Estate |
 | 354 | AGIO | Agios Pharmaceuticals, Inc. | 3.27p | 47.9911% | 13.75 USD | 0.13% | 49.95% | 52.80 USD | Healthcare |
 | 355 | SIG | Signet Jewelers Limited | 3.26p | 50.2232% | 31.38 USD | 0.13% | 47.40% | 99.02 USD | Consumer Cyclical |
 | 356 | SSNC | SS&C Technologies Holdings, Inc | 3.25p | 53.3482% | 23.14 USD | 0.09% | 44.11% | 75.65 USD | Technology |
@@ -3434,7 +3433,7 @@
 | 362 | OHI | Omega Healthcare Investors, Inc | 3.24p | 54.2411% | 11.99 USD | 0.09% | 42.88% | 39.92 USD | Real Estate |
 | 363 | VMC | Vulcan Materials Company (Holdi | 3.24p | 55.8036% | 72.60 USD | 0.09% | 41.23% | 260.00 USD | Basic Materials |
 | 364 | ANIP | ANI Pharmaceuticals, Inc. | 3.24p | 50.8929% | 18.46 USD | 0.11% | 46.10% | 58.66 USD | Healthcare |
-| 365 | MHK | Mohawk Industries, Inc. | 3.23p | 48.8839% | 51.32 USD | 0.11% | 48.03% | 157.61 USD | Consumer Cyclical |
+| 365 | MHK | Mohawk Industries, Inc. | 3.23p | 48.8839% | 51.32 USD | 0.11% | 48.03% | 159.03 USD | Consumer Cyclical |
 | 366 | ET | Energy Transfer LP | 3.23p | 54.2411% | 4.93 USD | 0.09% | 42.43% | 16.56 USD | Energy |
 | 367 | GLW | Corning Incorporated | 3.22p | 52.4554% | 14.29 USD | 0.09% | 43.92% | 46.92 USD | Technology |
 | 368 | SMAR | Smartsheet Inc. | 3.21p | 52.0089% | 17.17 USD | 0.12% | 44.17% | 56.20 USD | Technology |
@@ -3443,7 +3442,7 @@
 | 371 | JWN | Nordstrom, Inc. | 3.21p | 50.6696% | 7.15 USD | 0.13% | 45.37% | 22.97 USD | Consumer Cyclical |
 | 372 | EXAS | Exact Sciences Corporation | 3.20p | 48.6607% | 22.69 USD | 0.14% | 47.07% | 70.91 USD | Healthcare |
 | 373 | LAKE | Lakeland Industries, Inc. | 3.19p | 47.3214% | 6.52 USD | 0.12% | 48.37% | 20.09 USD | Consumer Cyclical |
-| 374 | ESI | Element Solutions Inc. | 3.19p | 51.1161% | 8.07 USD | 0.10% | 44.56% | 27.55 USD | Basic Materials |
+| 374 | ESI | Element Solutions Inc. | 3.19p | 51.1161% | 8.07 USD | 0.10% | 44.56% | 26.57 USD | Basic Materials |
 | 375 | WDAY | Workday, Inc. | 3.18p | 52.2321% | 73.12 USD | 0.10% | 43.18% | 242.48 USD | Technology |
 | 376 | TME | Tencent Music Entertainment Gro | 3.18p | 47.5446% | 4.10 USD | 0.14% | 47.67% | 12.68 USD | Communication Services |
 | 377 | DOV | Dover Corporation | 3.18p | 51.7857% | 58.66 USD | 0.09% | 43.43% | 194.57 USD | Industrials |
@@ -3454,25 +3453,25 @@
 | 382 | AOS | A.O. Smith Corporation | 3.14p | 53.7946% | 23.70 USD | 0.09% | 40.22% | 82.40 USD | Industrials |
 | 383 | WSR | Whitestone REIT | 3.14p | 48.4375% | 4.40 USD | 0.10% | 45.55% | 14.25 USD | Real Estate |
 | 384 | NWSA | News Corporation | 3.13p | 51.5625% | 7.74 USD | 0.09% | 42.30% | 26.06 USD | Communication Services |
-| 385 | ITUB | Itau Unibanco Banco Holding SA | 3.13p | 49.3304% | 1.93 USD | 0.10% | 44.47% | 6.27 USD | Financial Services |
+| 385 | ITUB | Itau Unibanco Banco Holding SA | 3.13p | 49.3304% | 1.93 USD | 0.10% | 44.47% | 6.29 USD | Financial Services |
 | 386 | ALC | Alcon Inc. | 3.13p | 52.9018% | 28.22 USD | 0.09% | 40.91% | 101.55 USD | Healthcare |
 | 387 | MMC | Marsh & McLennan Companies, Inc | 3.13p | 56.6964% | 61.54 USD | 0.08% | 37.08% | 227.65 USD | Financial Services |
-| 388 | CMI | Cummins Inc. | 3.13p | 53.3482% | 97.33 USD | 0.09% | 40.38% | 342.41 USD | Industrials |
+| 388 | CMI | Cummins Inc. | 3.13p | 53.3482% | 97.33 USD | 0.09% | 40.38% | 342.18 USD | Industrials |
 | 389 | PLAB | Photronics, Inc. | 3.12p | 49.5536% | 7.38 USD | 0.12% | 44.03% | 24.16 USD | Technology |
 | 390 | BLK | BlackRock, Inc. | 3.11p | 54.0179% | 279.68 USD | 0.08% | 39.28% | 991.01 USD | Financial Services |
-| 391 | WTS | Watts Water Technologies, Inc. | 3.11p | 51.3393% | 61.07 USD | 0.09% | 41.94% | 218.72 USD | Industrials |
+| 391 | WTS | Watts Water Technologies, Inc. | 3.11p | 51.3393% | 61.07 USD | 0.09% | 41.94% | 331.07 USD | Industrials |
 | 392 | WCN | Waste Connections, Inc. | 3.11p | 54.9107% | 50.45 USD | 0.08% | 38.30% | 183.22 USD | Industrials |
 | 393 | BCPC | Balchem Corporation | 3.11p | 51.5625% | 50.60 USD | 0.09% | 41.55% | 172.82 USD | Basic Materials |
 | 394 | FSLR | First Solar, Inc. | 3.10p | 49.1071% | 64.02 USD | 0.14% | 43.87% | 210.00 USD | Technology |
 | 395 | ANSS | ANSYS, Inc. | 3.09p | 52.2321% | 96.67 USD | 0.09% | 40.51% | 359.64 USD | Technology |
 | 396 | TWLO | Twilio Inc. | 3.09p | 51.7857% | 20.57 USD | 0.12% | 40.80% | 70.99 USD | Technology |
 | 397 | LOW | Lowe's Companies, Inc. | 3.08p | 51.3393% | 81.69 USD | 0.09% | 41.04% | 280.73 USD | Consumer Cyclical |
-| 398 | VTR | Ventas, Inc. | 3.08p | 51.3393% | 18.56 USD | 0.09% | 40.91% | 63.88 USD | Real Estate |
+| 398 | VTR | Ventas, Inc. | 3.08p | 51.3393% | 18.56 USD | 0.09% | 40.91% | 64.43 USD | Real Estate |
 | 399 | HPQ | HP Inc. | 3.08p | 52.2321% | 10.69 USD | 0.09% | 39.96% | 37.50 USD | Technology |
 | 400 | V | Visa Inc. | 3.07p | 56.6964% | 73.29 USD | 0.07% | 35.34% | 281.22 USD | Financial Services |
-| 401 | ESS | Essex Property Trust, Inc. | 3.07p | 54.0179% | 80.04 USD | 0.08% | 37.88% | 295.69 USD | Real Estate |
+| 401 | ESS | Essex Property Trust, Inc. | 3.07p | 54.0179% | 80.04 USD | 0.08% | 37.88% | 292.27 USD | Real Estate |
 | 402 | MCK | McKesson Corporation | 3.06p | 55.8036% | 134.95 USD | 0.08% | 36.05% | 509.69 USD | Healthcare |
-| 403 | J | Jacobs Solutions Inc. | 3.06p | 54.2411% | 38.00 USD | 0.08% | 37.50% | 139.99 USD | Industrials |
+| 403 | J | Jacobs Solutions Inc. | 3.06p | 54.2411% | 38.00 USD | 0.08% | 37.50% | 139.91 USD | Industrials |
 | 404 | COR | Cencora, Inc. | 3.06p | 54.9107% | 60.52 USD | 0.08% | 36.84% | 225.81 USD | Healthcare |
 | 405 | SWK | Stanley Black & Decker, Inc. | 3.05p | 48.6607% | 32.66 USD | 0.10% | 42.87% | 109.70 USD | Industrials |
 | 406 | HSII | Heidrick & Struggles Internatio | 3.05p | 51.1161% | 10.91 USD | 0.10% | 40.36% | 38.00 USD | Industrials |
@@ -3480,7 +3479,7 @@
 | 408 | ALLE | Allegion plc | 3.04p | 52.4554% | 41.76 USD | 0.08% | 38.77% | 149.08 USD | Industrials |
 | 409 | PNFP | Pinnacle Financial Partners, In | 3.04p | 51.7857% | 28.00 USD | 0.10% | 39.27% | 99.35 USD | Financial Services |
 | 410 | SLM | SLM Corporation | 3.04p | 51.3393% | 6.56 USD | 0.10% | 39.69% | 23.10 USD | Financial Services |
-| 411 | AVB | AvalonBay Communities, Inc. | 3.03p | 53.5714% | 60.13 USD | 0.08% | 37.23% | 223.99 USD | Real Estate |
+| 411 | AVB | AvalonBay Communities, Inc. | 3.03p | 53.5714% | 60.13 USD | 0.08% | 37.23% | 222.47 USD | Real Estate |
 | 412 | TAL | TAL Education Group | 3.02p | 46.6518% | 3.32 USD | 0.16% | 43.92% | 10.99 USD | Consumer Defensive |
 | 413 | GRVY | GRAVITY Co., Ltd. | 3.02p | 50.0000% | 16.99 USD | 0.11% | 40.54% | 58.95 USD | Communication Services |
 | 414 | MNTX | Manitex International, Inc. | 3.02p | 43.7500% | 1.80 USD | 0.18% | 46.63% | 5.67 USD | Industrials |
@@ -3546,11 +3545,11 @@
 | 474 | BKR | Baker Hughes Company | 2.74p | 51.3393% | 8.88 USD | 0.07% | 30.90% | 39.64 USD | Energy |
 | 475 | PCG | Pacific Gas & Electric Co. | 2.74p | 53.1250% | 4.56 USD | 0.06% | 29.08% | 20.30 USD | Utilities |
 | 476 | LITE | Lumentum Holdings Inc. | 2.74p | 50.8929% | 16.49 USD | 0.11% | 31.27% | 72.45 USD | Technology |
-| 477 | ATO | Atmos Energy Corporation | 2.74p | 56.0268% | 29.08 USD | 0.06% | 26.15% | 141.31 USD | Utilities |
+| 477 | ATO | Atmos Energy Corporation | 2.74p | 56.0268% | 29.08 USD | 0.06% | 26.15% | 141.30 USD | Utilities |
 | 478 | ENIC | Enel Chile S.A. | 2.74p | 49.1071% | 0.70 USD | 0.09% | 33.02% | 2.83 USD | Utilities |
 | 479 | AOSL | Alpha and Omega Semiconductor L | 2.74p | 50.8929% | 9.13 USD | 0.11% | 31.14% | 38.50 USD | Technology |
-| 480 | PRU | Prudential Financial, Inc. | 2.74p | 56.2500% | 25.69 USD | 0.06% | 25.82% | 125.16 USD | Financial Services |
-| 481 | TEL | TE Connectivity plc | 2.73p | 52.4554% | 33.65 USD | 0.07% | 29.35% | 148.08 USD | Technology |
+| 480 | PRU | Prudential Financial, Inc. | 2.74p | 56.2500% | 25.69 USD | 0.06% | 25.82% | 125.17 USD | Financial Services |
+| 481 | TEL | TE Connectivity plc | 2.73p | 52.4554% | 33.65 USD | 0.07% | 29.35% | 148.94 USD | Technology |
 | 482 | ACM | AECOM | 2.73p | 54.6875% | 22.65 USD | 0.06% | 27.06% | 106.25 USD | Industrials |
 | 483 | TCBI | Texas Capital Bancshares, Inc. | 2.73p | 51.3393% | 17.95 USD | 0.09% | 30.35% | 77.11 USD | Financial Services |
 | 484 | BHC | Bausch Health Companies Inc. | 2.72p | 50.2232% | 1.96 USD | 0.12% | 31.21% | 8.45 USD | Healthcare |
@@ -3560,17 +3559,17 @@
 | 488 | ARLP | Alliance Resource Partners, L.P | 2.71p | 54.0179% | 5.35 USD | 0.07% | 27.17% | 25.07 USD | Energy |
 | 489 | TM | Toyota Motor Corporation | 2.70p | 54.2411% | 36.82 USD | 0.07% | 26.63% | 175.50 USD | Consumer Cyclical |
 | 490 | TEF | Telefonica SA | 2.68p | 48.6607% | 1.15 USD | 0.07% | 31.68% | 4.84 USD | Communication Services |
-| 491 | ALG | Alamo Group, Inc. | 2.67p | 52.6786% | 38.55 USD | 0.07% | 27.48% | 188.88 USD | Industrials |
+| 491 | ALG | Alamo Group, Inc. | 2.67p | 52.6786% | 38.55 USD | 0.07% | 27.48% | 200.00 USD | Industrials |
 | 492 | TXT | Textron Inc. | 2.66p | 53.7946% | 18.17 USD | 0.06% | 25.86% | 88.26 USD | Industrials |
 | 493 | OMC | Omnicom Group Inc. | 2.65p | 54.4643% | 20.73 USD | 0.06% | 25.12% | 103.40 USD | Communication Services |
 | 494 | MTB | M&T Bank Corporation | 2.65p | 51.5625% | 40.59 USD | 0.07% | 28.00% | 190.00 USD | Financial Services |
-| 495 | EPD | Enterprise Products Partners L. | 2.65p | 57.8125% | 5.26 USD | 0.05% | 21.71% | 29.54 USD | Energy |
+| 495 | EPD | Enterprise Products Partners L. | 2.65p | 57.8125% | 5.26 USD | 0.05% | 21.71% | 29.49 USD | Energy |
 | 496 | AEIS | Advanced Energy Industries, Inc | 2.65p | 49.5536% | 25.56 USD | 0.08% | 29.88% | 111.20 USD | Industrials |
 | 497 | FIS | Fidelity National Information S | 2.65p | 51.3393% | 19.25 USD | 0.07% | 28.09% | 88.15 USD | Technology |
 | 498 | RMBS | Rambus, Inc. | 2.65p | 50.6696% | 10.03 USD | 0.11% | 28.66% | 45.07 USD | Technology |
 | 499 | CHUY | Chuy's Holdings, Inc. | 2.65p | 48.5459% | 8.82 USD | 0.10% | 30.77% | 0.00 USD | Consumer Cyclical |
 | 500 | CL | Colgate-Palmolive Company | 2.65p | 52.0089% | 21.60 USD | 0.06% | 27.30% | 100.72 USD | Consumer Defensive |
-| 501 | LMT | Lockheed Martin Corporation | 2.64p | 51.3393% | 133.34 USD | 0.06% | 27.92% | 610.00 USD | Industrials |
+| 501 | LMT | Lockheed Martin Corporation | 2.64p | 51.3393% | 133.34 USD | 0.06% | 27.92% | 609.50 USD | Industrials |
 | 502 | TXN | Texas Instruments Incorporated | 2.64p | 51.3393% | 45.44 USD | 0.07% | 27.84% | 208.80 USD | Technology |
 | 503 | HTLF | Heartland Financial USA, Inc. | 2.64p | 51.7857% | 12.71 USD | 0.08% | 27.27% | 59.37 USD | Financial Services |
 | 504 | CHCO | City Holding Company | 2.64p | 50.2232% | 26.66 USD | 0.07% | 28.80% | 150.74 USD | Financial Services |
@@ -3578,7 +3577,7 @@
 | 506 | AIG | American International Group, I | 2.63p | 55.5804% | 14.69 USD | 0.06% | 23.34% | 77.82 USD | Financial Services |
 | 507 | ERIC | Ericsson | 2.62p | 51.5625% | 1.60 USD | 0.07% | 26.94% | 7.54 USD | Technology |
 | 508 | ARCO | Arcos Dorados Holdings Inc. | 2.61p | 51.1161% | 2.12 USD | 0.08% | 27.25% | 10.25 USD | Consumer Cyclical |
-| 509 | GATX | GATX Corporation | 2.61p | 52.4554% | 27.81 USD | 0.06% | 25.91% | 141.91 USD | Industrials |
+| 509 | GATX | GATX Corporation | 2.61p | 52.4554% | 27.81 USD | 0.06% | 25.91% | 142.02 USD | Industrials |
 | 510 | AME | AMETEK, Inc. | 2.61p | 56.2500% | 31.05 USD | 0.05% | 22.10% | 170.83 USD | Industrials |
 | 511 | FCFS | FirstCash Holdings, Inc. | 2.61p | 49.1071% | 25.64 USD | 0.07% | 29.14% | 145.44 USD | Financial Services |
 | 512 | XYL | Xylem Inc. | 2.61p | 54.2411% | 26.48 USD | 0.06% | 23.91% | 137.23 USD | Industrials |
@@ -3587,15 +3586,15 @@
 | 515 | DD | DuPont de Nemours, Inc. | 2.60p | 51.7857% | 17.99 USD | 0.06% | 26.13% | 86.70 USD | Basic Materials |
 | 516 | PAYX | Paychex, Inc. | 2.60p | 54.9107% | 26.54 USD | 0.05% | 22.92% | 142.37 USD | Technology |
 | 517 | PRGS | Progress Software Corporation | 2.59p | 47.7679% | 15.28 USD | 0.07% | 29.98% | 66.31 USD | Technology |
-| 518 | FCX | Freeport-McMoRan, Inc. | 2.59p | 48.8839% | 10.94 USD | 0.08% | 28.85% | 48.93 USD | Basic Materials |
-| 519 | KR | Kroger Company (The) | 2.59p | 53.3482% | 10.80 USD | 0.06% | 24.29% | 55.29 USD | Consumer Defensive |
+| 518 | FCX | Freeport-McMoRan, Inc. | 2.59p | 48.8839% | 10.94 USD | 0.08% | 28.85% | 48.95 USD | Basic Materials |
+| 519 | KR | Kroger Company (The) | 2.59p | 53.3482% | 10.80 USD | 0.06% | 24.29% | 55.30 USD | Consumer Defensive |
 | 520 | CDW | CDW Corporation | 2.59p | 53.1250% | 43.97 USD | 0.06% | 24.49% | 223.62 USD | Technology |
 | 521 | GLOB | Globant S.A. | 2.59p | 52.4554% | 42.31 USD | 0.08% | 25.04% | 211.23 USD | Technology |
 | 522 | COO | The Cooper Companies, Inc. | 2.58p | 47.9911% | 24.51 USD | 0.07% | 29.47% | 115.49 USD | Healthcare |
 | 523 | SWN | Southwestern Energy Company | 2.58p | 48.1735% | 1.61 USD | 0.08% | 29.27% | 0.00 USD | Energy |
 | 524 | SNAP | Snap Inc. | 2.58p | 52.4554% | 2.20 USD | 0.13% | 24.86% | 11.14 USD | Communication Services |
 | 525 | BXP | BXP, Inc. | 2.58p | 50.6696% | 17.77 USD | 0.08% | 26.67% | 84.49 USD | Real Estate |
-| 526 | PSA | Public Storage | 2.57p | 51.7857% | 69.54 USD | 0.06% | 25.36% | 343.99 USD | Real Estate |
+| 526 | PSA | Public Storage | 2.57p | 51.7857% | 69.54 USD | 0.06% | 25.36% | 350.00 USD | Real Estate |
 | 527 | BJ | BJ's Wholesale Club Holdings, I | 2.57p | 51.3393% | 17.47 USD | 0.06% | 25.73% | 85.44 USD | Consumer Defensive |
 | 528 | HPE | Hewlett Packard Enterprise Comp | 2.57p | 47.9911% | 4.66 USD | 0.08% | 29.02% | 20.77 USD | Technology |
 | 529 | MGEE | MGE Energy Inc. | 2.57p | 48.6607% | 20.02 USD | 0.07% | 28.32% | 90.95 USD | Utilities |
@@ -3608,11 +3607,11 @@
 | 536 | RGLD | Royal Gold, Inc. | 2.53p | 54.0179% | 25.49 USD | 0.06% | 21.82% | 142.36 USD | Basic Materials |
 | 537 | ADP | Automatic Data Processing, Inc. | 2.53p | 53.3482% | 53.34 USD | 0.05% | 22.44% | 291.10 USD | Technology |
 | 538 | TRP | TC Energy Corporation | 2.53p | 55.8036% | 7.77 USD | 0.05% | 19.92% | 46.76 USD | Energy |
-| 539 | SNX | TD SYNNEX Corporation | 2.52p | 51.5625% | 23.18 USD | 0.06% | 23.99% | 123.00 USD | Technology |
+| 539 | SNX | TD SYNNEX Corporation | 2.52p | 51.5625% | 23.18 USD | 0.06% | 23.99% | 120.25 USD | Technology |
 | 540 | AMKR | Amkor Technology, Inc. | 2.52p | 51.3393% | 6.14 USD | 0.09% | 24.11% | 32.99 USD | Technology |
 | 541 | TTMI | TTM Technologies, Inc. | 2.52p | 48.6607% | 4.05 USD | 0.08% | 26.79% | 19.19 USD | Technology |
 | 542 | HASI | HA Sustainable Infrastructure C | 2.51p | 52.0089% | 6.57 USD | 0.10% | 23.10% | 34.93 USD | Real Estate |
-| 543 | AVY | Avery Dennison Corporation | 2.50p | 54.6875% | 37.31 USD | 0.05% | 20.36% | 231.26 USD | Consumer Cyclical |
+| 543 | AVY | Avery Dennison Corporation | 2.50p | 54.6875% | 37.31 USD | 0.05% | 20.36% | 221.31 USD | Consumer Cyclical |
 | 544 | AKAM | Akamai Technologies, Inc. | 2.50p | 53.1250% | 18.60 USD | 0.06% | 21.89% | 108.05 USD | Technology |
 | 545 | FLOW | Global X Funds Global X U.S. Ca | 2.50p | 53.3546% | 5.74 USD | 0.07% | 21.62% | 32.33 USD |  |
 | 546 | BAC | Bank of America Corporation | 2.50p | 49.7768% | 8.40 USD | 0.06% | 25.07% | 41.93 USD | Financial Services |
@@ -3631,7 +3630,7 @@
 | 559 | RTX | RTX Corporation | 2.46p | 50.0000% | 23.83 USD | 0.06% | 23.64% | 124.72 USD | Industrials |
 | 560 | NVAX | Novavax, Inc. | 2.45p | 44.4196% | 2.83 USD | 0.31% | 28.91% | 12.71 USD | Healthcare |
 | 561 | CUZ | Cousins Properties Incorporated | 2.45p | 51.3393% | 5.49 USD | 0.07% | 22.17% | 30.23 USD | Real Estate |
-| 562 | SITE | SiteOne Landscape Supply, Inc. | 2.45p | 49.1071% | 28.59 USD | 0.08% | 24.28% | 155.72 USD | Industrials |
+| 562 | SITE | SiteOne Landscape Supply, Inc. | 2.45p | 49.1071% | 28.59 USD | 0.08% | 24.28% | 147.20 USD | Industrials |
 | 563 | LILA | Liberty Latin America Ltd. | 2.44p | 50.6696% | 1.76 USD | 0.08% | 22.48% | 9.61 USD | Communication Services |
 | 564 | AMGN | Amgen Inc. | 2.43p | 48.8839% | 62.97 USD | 0.06% | 24.07% | 324.67 USD | Healthcare |
 | 565 | ROST | Ross Stores, Inc. | 2.42p | 48.8839% | 27.49 USD | 0.06% | 23.73% | 143.37 USD | Consumer Cyclical |
@@ -3657,7 +3656,7 @@
 | 585 | TCMD | Tactile Systems Technology, Inc | 2.36p | 50.2232% | 2.43 USD | 0.09% | 20.51% | 14.31 USD | Healthcare |
 | 586 | GME | GameStop Corporation | 2.36p | 46.4286% | 4.13 USD | 0.32% | 24.01% | 21.43 USD | Consumer Cyclical |
 | 587 | EA | Electronic Arts Inc. | 2.35p | 53.1250% | 21.37 USD | 0.04% | 17.40% | 144.21 USD | Communication Services |
-| 588 | K | Kellanova | 2.35p | 50.0000% | 13.71 USD | 0.05% | 20.49% | 80.67 USD | Consumer Defensive |
+| 588 | K | Kellanova | 2.35p | 50.0000% | 13.71 USD | 0.05% | 20.49% | 80.84 USD | Consumer Defensive |
 | 589 | SWX | Southwest Gas Holdings, Inc. | 2.35p | 50.0000% | 12.64 USD | 0.05% | 20.46% | 74.46 USD | Utilities |
 | 590 | GTHX | G1 Therapeutics, Inc. | 2.35p | 45.3488% | 1.42 USD | 0.36% | 24.78% | 0.00 USD | Healthcare |
 | 591 | SANM | Sanmina Corporation | 2.35p | 51.5625% | 10.68 USD | 0.07% | 18.81% | 67.57 USD | Technology |
@@ -3671,9 +3670,9 @@
 | 599 | STT | State Street Corporation | 2.33p | 53.7946% | 12.53 USD | 0.05% | 15.98% | 91.93 USD | Financial Services |
 | 600 | MCD | McDonald's Corporation | 2.32p | 52.4554% | 45.51 USD | 0.04% | 17.22% | 310.16 USD | Consumer Cyclical |
 | 601 | QRVO | Qorvo, Inc. | 2.32p | 52.2321% | 15.44 USD | 0.06% | 17.32% | 104.72 USD | Technology |
-| 602 | CTS | CTS Corporation | 2.32p | 48.6607% | 8.37 USD | 0.06% | 20.86% | 48.44 USD | Technology |
-| 603 | AVTR | Avantor, Inc. | 2.32p | 51.1161% | 3.89 USD | 0.06% | 18.38% | 25.19 USD | Healthcare |
-| 604 | EXR | Extra Space Storage Inc | 2.31p | 50.6696% | 26.85 USD | 0.05% | 18.61% | 172.91 USD | Real Estate |
+| 602 | CTS | CTS Corporation | 2.32p | 48.6607% | 8.37 USD | 0.06% | 20.86% | 48.86 USD | Technology |
+| 603 | AVTR | Avantor, Inc. | 2.32p | 51.1161% | 3.89 USD | 0.06% | 18.38% | 25.44 USD | Healthcare |
+| 604 | EXR | Extra Space Storage Inc | 2.31p | 50.6696% | 26.85 USD | 0.05% | 18.61% | 171.83 USD | Real Estate |
 | 605 | EMR | Emerson Electric Company | 2.31p | 52.0089% | 16.53 USD | 0.05% | 17.20% | 112.74 USD | Industrials |
 | 606 | DEI | Douglas Emmett, Inc. | 2.31p | 50.6696% | 2.81 USD | 0.07% | 18.46% | 18.02 USD | Real Estate |
 | 607 | PNW | Pinnacle West Capital Corporati | 2.30p | 53.1250% | 11.90 USD | 0.04% | 15.95% | 86.61 USD | Utilities |
@@ -3711,10 +3710,10 @@
 | 639 | AXNX | Axonics, Inc. | 2.22p | 48.6607% | 10.58 USD | 0.06% | 17.74% | 90.21 USD | Healthcare |
 | 640 | MDT | Medtronic plc. | 2.21p | 51.3393% | 11.75 USD | 0.04% | 15.01% | 90.01 USD | Healthcare |
 | 641 | MRAM | Everspin Technologies, Inc. | 2.21p | 48.6607% | 0.95 USD | 0.07% | 17.66% | 6.36 USD | Technology |
-| 642 | BC | Brunswick Corporation | 2.21p | 50.8929% | 11.08 USD | 0.05% | 15.37% | 82.62 USD | Consumer Cyclical |
+| 642 | BC | Brunswick Corporation | 2.21p | 50.8929% | 11.08 USD | 0.05% | 15.37% | 83.83 USD | Consumer Cyclical |
 | 643 | AZPN | Aspen Technology, Inc. | 2.21p | 51.1161% | 31.11 USD | 0.06% | 15.08% | 255.86 USD | Technology |
-| 644 | BABA | Alibaba Group Holding Limited | 2.21p | 48.8839% | 15.83 USD | 0.07% | 17.21% | 107.76 USD | Consumer Cyclical |
-| 645 | TPR | Tapestry, Inc. | 2.20p | 48.6607% | 6.76 USD | 0.06% | 17.41% | 46.08 USD | Consumer Cyclical |
+| 644 | BABA | Alibaba Group Holding Limited | 2.21p | 48.8839% | 15.83 USD | 0.07% | 17.21% | 107.78 USD | Consumer Cyclical |
+| 645 | TPR | Tapestry, Inc. | 2.20p | 48.6607% | 6.76 USD | 0.06% | 17.41% | 45.87 USD | Consumer Cyclical |
 | 646 | STAG | Stag Industrial, Inc. | 2.20p | 50.4464% | 5.03 USD | 0.04% | 15.55% | 37.94 USD | Real Estate |
 | 647 | UMH | UMH Properties, Inc. | 2.20p | 49.3304% | 2.66 USD | 0.05% | 16.55% | 19.12 USD | Real Estate |
 | 648 | SKM | SK Telecom Co., Ltd. | 2.19p | 53.7946% | 2.46 USD | 0.03% | 11.93% | 24.19 USD | Communication Services |
@@ -3738,7 +3737,7 @@
 | 666 | NTGR | NETGEAR, Inc. | 2.13p | 50.6696% | 2.42 USD | 0.07% | 13.25% | 20.76 USD | Technology |
 | 667 | EXPO | Exponent, Inc. | 2.13p | 49.7768% | 13.87 USD | 0.05% | 13.98% | 113.13 USD | Industrials |
 | 668 | RF | Regions Financial Corporation | 2.12p | 52.4554% | 2.38 USD | 0.04% | 11.09% | 23.86 USD | Financial Services |
-| 669 | CLX | Clorox Company (The) | 2.12p | 50.0000% | 19.25 USD | 0.04% | 13.53% | 161.51 USD | Consumer Defensive |
+| 669 | CLX | Clorox Company (The) | 2.12p | 50.0000% | 19.25 USD | 0.04% | 13.53% | 162.03 USD | Consumer Defensive |
 | 670 | RDVT | Red Violet, Inc. | 2.11p | 46.2054% | 3.90 USD | 0.07% | 17.17% | 26.88 USD | Technology |
 | 671 | DRI | Darden Restaurants, Inc. | 2.11p | 51.1161% | 16.98 USD | 0.03% | 12.13% | 157.00 USD | Consumer Cyclical |
 | 672 | XENE | Xenon Pharmaceuticals Inc. | 2.10p | 50.8929% | 4.50 USD | 0.05% | 12.08% | 41.79 USD | Healthcare |
@@ -3746,11 +3745,11 @@
 | 674 | OKTA | Okta, Inc. | 2.09p | 50.6696% | 8.42 USD | 0.07% | 12.11% | 78.02 USD | Technology |
 | 675 | ICHR | Ichor Holdings | 2.09p | 49.7768% | 3.46 USD | 0.07% | 12.98% | 38.14 USD | Technology |
 | 676 | PYPL | PayPal Holdings, Inc. | 2.09p | 54.4643% | 6.09 USD | 0.04% | 8.17% | 80.69 USD | Financial Services |
-| 677 | EQT | EQT Corporation | 2.09p | 47.5446% | 4.78 USD | 0.05% | 15.02% | 36.66 USD | Energy |
+| 677 | EQT | EQT Corporation | 2.09p | 47.5446% | 4.78 USD | 0.05% | 15.02% | 36.40 USD | Energy |
 | 678 | DUK | Duke Energy Corporation (Holdin | 2.09p | 51.5625% | 11.39 USD | 0.03% | 10.98% | 115.08 USD | Utilities |
-| 679 | FCPT | Four Corners Property Trust, In | 2.08p | 52.4554% | 2.60 USD | 0.03% | 9.92% | 29.36 USD | Real Estate |
+| 679 | FCPT | Four Corners Property Trust, In | 2.08p | 52.4554% | 2.60 USD | 0.03% | 9.92% | 29.20 USD | Real Estate |
 | 680 | GOLD | Barrick Gold Corporation | 2.08p | 50.2232% | 2.15 USD | 0.04% | 12.06% | 19.94 USD | Basic Materials |
-| 681 | PLYM | Plymouth Industrial REIT, Inc. | 2.07p | 50.4464% | 2.21 USD | 0.04% | 11.50% | 21.40 USD | Real Estate |
+| 681 | PLYM | Plymouth Industrial REIT, Inc. | 2.07p | 50.4464% | 2.21 USD | 0.04% | 11.50% | 22.05 USD | Real Estate |
 | 682 | LADR | Ladder Capital Corp | 2.06p | 52.0089% | 1.00 USD | 0.03% | 9.78% | 11.59 USD | Real Estate |
 | 683 | BNS | Bank Nova Scotia Halifax Pfd 3 | 2.06p | 51.7857% | 4.72 USD | 0.03% | 9.90% | 52.37 USD | Financial Services |
 | 684 | VZ | Verizon Communications Inc. | 2.06p | 54.0179% | 3.07 USD | 0.03% | 7.65% | 43.21 USD | Communication Services |
@@ -3779,7 +3778,7 @@
 | 707 | TRUP | Trupanion, Inc. | 2.00p | 49.1071% | 4.90 USD | 0.16% | 10.74% | 50.56 USD | Financial Services |
 | 708 | GNTX | Gentex Corporation | 2.00p | 53.1250% | 1.86 USD | 0.02% | 6.72% | 30.71 USD | Consumer Cyclical |
 | 709 | APEI | American Public Education, Inc. | 1.99p | 48.4375% | 1.44 USD | 0.18% | 11.20% | 14.37 USD | Consumer Defensive |
-| 710 | SRE | DBA Sempra | 1.99p | 51.5625% | 6.29 USD | 0.02% | 8.19% | 84.50 USD | Utilities |
+| 710 | SRE | DBA Sempra | 1.99p | 51.5625% | 6.29 USD | 0.02% | 8.19% | 83.74 USD | Utilities |
 | 711 | STWD | STARWOOD PROPERTY TRUST, INC. S | 1.99p | 51.7857% | 1.47 USD | 0.03% | 7.94% | 20.03 USD | Real Estate |
 | 712 | HBAN | Huntington Bancshares Incorpora | 1.99p | 49.5536% | 1.42 USD | 0.04% | 10.07% | 16.23 USD | Financial Services |
 | 713 | SWKS | Skyworks Solutions, Inc. | 1.98p | 49.7768% | 8.65 USD | 0.04% | 9.56% | 99.24 USD | Technology |
@@ -3789,16 +3788,16 @@
 | 717 | DTE | DTE Energy Company | 1.98p | 52.6786% | 7.72 USD | 0.02% | 6.55% | 125.70 USD | Utilities |
 | 718 | HES | Hess Corporation | 1.97p | 55.1339% | 5.37 USD | 0.02% | 3.99% | 139.42 USD | Energy |
 | 719 | FTS | Fortis Inc. | 1.97p | 51.3393% | 3.14 USD | 0.02% | 7.75% | 44.00 USD | Utilities |
-| 720 | CODI | D/B/A Compass Diversified Holdi | 1.97p | 50.2232% | 1.68 USD | 0.03% | 8.74% | 22.00 USD | Industrials |
+| 720 | CODI | D/B/A Compass Diversified Holdi | 1.97p | 50.2232% | 1.68 USD | 0.03% | 8.74% | 21.25 USD | Industrials |
 | 721 | BKU | BankUnited, Inc. | 1.97p | 48.4375% | 3.49 USD | 0.06% | 10.48% | 36.85 USD | Financial Services |
-| 722 | ROK | Rockwell Automation, Inc. | 1.96p | 53.5714% | 13.85 USD | 0.03% | 5.30% | 279.00 USD | Industrials |
+| 722 | ROK | Rockwell Automation, Inc. | 1.96p | 53.5714% | 13.85 USD | 0.03% | 5.30% | 276.34 USD | Industrials |
 | 723 | LNT | Alliant Energy Corporation | 1.96p | 49.7768% | 5.01 USD | 0.03% | 9.05% | 60.42 USD | Utilities |
 | 724 | BIP | Brookfield Infrastructure Partn | 1.96p | 49.7768% | 2.78 USD | 0.04% | 8.88% | 34.25 USD | Utilities |
 | 725 | AUB | Atlantic Union Bankshares Corpo | 1.95p | 48.8839% | 3.40 USD | 0.05% | 9.66% | 40.30 USD | Financial Services |
 | 726 | GAIN | Gladstone Investment Corporatio | 1.95p | 50.6696% | 1.00 USD | 0.03% | 7.72% | 13.96 USD | Financial Services |
 | 727 | ALRM | Alarm.com Holdings, Inc. | 1.95p | 49.3304% | 4.43 USD | 0.04% | 8.99% | 53.74 USD | Technology |
 | 728 | EOG | EOG Resources, Inc. | 1.94p | 52.6786% | 7.02 USD | 0.03% | 5.64% | 131.25 USD | Energy |
-| 729 | APD | Air Products and Chemicals, Inc | 1.94p | 53.7946% | 13.77 USD | 0.03% | 4.49% | 320.21 USD | Basic Materials |
+| 729 | APD | Air Products and Chemicals, Inc | 1.94p | 53.7946% | 13.77 USD | 0.03% | 4.49% | 325.00 USD | Basic Materials |
 | 730 | PLD | Prologis, Inc. | 1.94p | 51.3393% | 7.77 USD | 0.03% | 6.90% | 121.05 USD | Real Estate |
 | 731 | JBT | John Bean Technologies Corporat | 1.94p | 51.3393% | 6.38 USD | 0.03% | 6.88% | 157.77 USD | Industrials |
 | 732 | ARC | ARC Document Solutions, Inc. | 1.94p | 42.8571% | 0.45 USD | 0.06% | 15.31% | 3.45 USD | Industrials |
@@ -3806,7 +3805,7 @@
 | 734 | YUM | Yum! Brands, Inc. | 1.93p | 51.7857% | 7.69 USD | 0.02% | 6.06% | 134.90 USD | Consumer Cyclical |
 | 735 | KMB | Kimberly-Clark Corporation | 1.93p | 53.1250% | 6.43 USD | 0.02% | 4.69% | 143.74 USD | Consumer Defensive |
 | 736 | ABT | Abbott Laboratories | 1.92p | 50.6696% | 7.67 USD | 0.02% | 7.00% | 117.00 USD | Healthcare |
-| 737 | ENB | Enbridge Inc | 1.92p | 52.2321% | 2.12 USD | 0.02% | 5.43% | 41.10 USD | Energy |
+| 737 | ENB | Enbridge Inc | 1.92p | 52.2321% | 2.12 USD | 0.02% | 5.43% | 41.20 USD | Energy |
 | 738 | DIS | Walt Disney Company (The) | 1.92p | 50.8929% | 6.00 USD | 0.03% | 6.74% | 95.03 USD | Communication Services |
 | 739 | SHO | Sunstone Hotel Investors, Inc.  | 1.92p | 47.9911% | 0.91 USD | 0.03% | 9.64% | 10.34 USD | Real Estate |
 | 740 | PKE | Park Aerospace Corp. | 1.92p | 51.5625% | 0.74 USD | 0.03% | 5.86% | 14.12 USD | Industrials |
@@ -3816,7 +3815,7 @@
 | 744 | JKHY | Jack Henry & Associates, Inc. | 1.90p | 52.4554% | 8.19 USD | 0.02% | 4.65% | 184.32 USD | Technology |
 | 745 | GRPN | Groupon, Inc. | 1.90p | 47.3214% | 0.84 USD | 0.22% | 9.48% | 11.11 USD | Communication Services |
 | 746 | MDLZ | Mondelez International, Inc. | 1.90p | 50.4464% | 4.28 USD | 0.02% | 6.46% | 74.51 USD | Consumer Defensive |
-| 747 | SAND | Sandstorm Gold Ltd. | 1.90p | 48.2143% | 0.47 USD | 0.04% | 8.66% | 5.91 USD | Basic Materials |
+| 747 | SAND | Sandstorm Gold Ltd. | 1.90p | 48.2143% | 0.47 USD | 0.04% | 8.66% | 5.92 USD | Basic Materials |
 | 748 | RAMP | LiveRamp Holdings, Inc. | 1.90p | 52.4554% | 1.03 USD | 0.05% | 4.36% | 24.97 USD | Technology |
 | 749 | NTRS | Northern Trust Corporation | 1.89p | 52.0089% | 4.28 USD | 0.03% | 4.77% | 94.14 USD | Financial Services |
 | 750 | ZION | Zions Bancorporation N.A. | 1.88p | 53.1250% | 1.62 USD | 0.06% | 3.34% | 50.09 USD | Financial Services |
@@ -3824,17 +3823,17 @@
 | 752 | CF | CF Industries Holdings, Inc. | 1.88p | 50.2232% | 5.05 USD | 0.03% | 6.16% | 87.54 USD | Basic Materials |
 | 753 | FFIN | First Financial Bankshares, Inc | 1.88p | 46.2054% | 3.46 USD | 0.05% | 10.16% | 37.57 USD | Financial Services |
 | 754 | BMO | Bank Of Montreal | 1.87p | 53.7946% | 2.21 USD | 0.01% | 2.43% | 93.71 USD | Financial Services |
-| 755 | DOW | Dow Inc. | 1.86p | 50.8929% | 2.50 USD | 0.02% | 4.90% | 53.49 USD | Basic Materials |
+| 755 | DOW | Dow Inc. | 1.86p | 50.8929% | 2.50 USD | 0.02% | 4.90% | 53.76 USD | Basic Materials |
 | 756 | HBI | Hanesbrands Inc. | 1.86p | 47.5446% | 0.55 USD | 0.08% | 8.17% | 7.32 USD | Consumer Cyclical |
-| 757 | ADC | Agree Realty Corporation | 1.86p | 50.4464% | 3.75 USD | 0.02% | 5.31% | 74.50 USD | Real Estate |
+| 757 | ADC | Agree Realty Corporation | 1.86p | 50.4464% | 3.75 USD | 0.02% | 5.31% | 74.72 USD | Real Estate |
 | 758 | DNOW | DNOW Inc. | 1.86p | 50.2232% | 0.66 USD | 0.04% | 5.45% | 12.92 USD | Industrials |
 | 759 | PRFT | Perficient, Inc. | 1.86p | 48.6364% | 4.94 USD | 0.07% | 6.96% | 0.00 USD | Technology |
-| 760 | PLNT | Planet Fitness, Inc. | 1.85p | 50.2232% | 4.18 USD | 0.04% | 5.35% | 82.16 USD | Consumer Cyclical |
+| 760 | PLNT | Planet Fitness, Inc. | 1.85p | 50.2232% | 4.18 USD | 0.04% | 5.35% | 82.99 USD | Consumer Cyclical |
 | 761 | FULT | Fulton Financial Corporation | 1.85p | 47.9911% | 1.27 USD | 0.04% | 7.53% | 20.74 USD | Financial Services |
 | 762 | FE | FirstEnergy Corp. | 1.85p | 52.6786% | 1.14 USD | 0.01% | 2.71% | 43.18 USD | Utilities |
 | 763 | PPG | PPG Industries, Inc. | 1.84p | 54.0179% | 1.66 USD | 0.01% | 1.31% | 128.35 USD | Basic Materials |
 | 764 | NSC | Norfolk Southern Corporation | 1.83p | 52.4554% | 6.14 USD | 0.02% | 2.48% | 260.00 USD | Industrials |
-| 765 | WY | Weyerhaeuser Company | 1.82p | 49.1071% | 1.73 USD | 0.02% | 5.61% | 32.60 USD | Real Estate |
+| 765 | WY | Weyerhaeuser Company | 1.82p | 49.1071% | 1.73 USD | 0.02% | 5.61% | 32.84 USD | Real Estate |
 | 766 | YEXT | Yext, Inc. | 1.82p | 45.3125% | 0.59 USD | 0.09% | 9.32% | 7.00 USD | Technology |
 | 767 | SCM | Stellus Capital Investment Corp | 1.82p | 48.8839% | 0.76 USD | 0.02% | 5.72% | 14.06 USD | Financial Services |
 | 768 | COTY | Coty Inc. | 1.82p | 50.0000% | 0.40 USD | 0.03% | 4.56% | 8.74 USD | Consumer Defensive |
@@ -3879,7 +3878,7 @@
 | 807 | MRK | Merck & Company, Inc. | 1.70p | 52.2321% | -1.45 USD | 0.01% | -1.30% | 109.73 USD | Healthcare |
 | 808 | IFF | International Flavors & Fragran | 1.70p | 51.3393% | -0.50 USD | 0.02% | -0.47% | 105.03 USD | Basic Materials |
 | 809 | MCRI | Monarch Casino & Resort, Inc. | 1.69p | 51.5625% | -0.61 USD | 0.01% | -0.80% | 75.37 USD | Consumer Cyclical |
-| 810 | BG | Bunge Limited | 1.69p | 50.0000% | 0.65 USD | 0.02% | 0.68% | 96.23 USD | Consumer Defensive |
+| 810 | BG | Bunge Limited | 1.69p | 50.0000% | 0.65 USD | 0.02% | 0.68% | 96.93 USD | Consumer Defensive |
 | 811 | ATHM | Autohome Inc. | 1.67p | 49.3304% | 0.27 USD | 0.03% | 0.84% | 34.23 USD | Communication Services |
 | 812 | ENV | Envestnet, Inc | 1.67p | 48.4375% | 1.03 USD | 0.02% | 1.67% | 62.71 USD | Technology |
 | 813 | GILD | Gilead Sciences, Inc. | 1.67p | 50.4464% | -0.34 USD | 0.01% | -0.40% | 89.20 USD | Healthcare |
@@ -3890,8 +3889,8 @@
 | 818 | MKTX | MarketAxess Holdings, Inc. | 1.64p | 49.3304% | -0.37 USD | 0.03% | -0.13% | 284.89 USD | Financial Services |
 | 819 | SYY | Sysco Corporation | 1.64p | 50.2232% | -0.77 USD | 0.00% | -1.01% | 75.40 USD | Consumer Defensive |
 | 820 | BEP | Brookfield Renewable Partners L | 1.63p | 48.4375% | 0.14 USD | 0.02% | 0.54% | 26.40 USD | Utilities |
-| 821 | BSM | Black Stone Minerals, L.P. | 1.63p | 53.3482% | -0.69 USD | 0.00% | -4.38% | 15.23 USD | Energy |
-| 822 | CTVA | Corteva, Inc. | 1.63p | 50.8929% | -1.17 USD | 0.01% | -1.99% | 57.58 USD | Basic Materials |
+| 821 | BSM | Black Stone Minerals, L.P. | 1.63p | 53.3482% | -0.69 USD | 0.00% | -4.38% | 15.09 USD | Energy |
+| 822 | CTVA | Corteva, Inc. | 1.63p | 50.8929% | -1.17 USD | 0.01% | -1.99% | 58.08 USD | Basic Materials |
 | 823 | AEE | Ameren Corporation | 1.62p | 50.0000% | -1.24 USD | 0.00% | -1.40% | 87.20 USD | Utilities |
 | 824 | BANR | Banner Corporation | 1.62p | 46.4286% | 1.35 USD | 0.03% | 2.15% | 64.40 USD | Financial Services |
 | 825 | ZUMZ | Zumiez Inc. | 1.62p | 47.5446% | 0.21 USD | 0.05% | 0.95% | 22.24 USD | Consumer Cyclical |
@@ -3903,7 +3902,7 @@
 | 831 | WK | Workiva Inc. | 1.59p | 50.8929% | -2.57 USD | 0.02% | -3.12% | 79.97 USD | Technology |
 | 832 | IVZ | Invesco Ltd | 1.59p | 50.4464% | -0.49 USD | 0.01% | -2.69% | 17.73 USD | Financial Services |
 | 833 | SIGA | SIGA Technologies Inc. | 1.59p | 51.5625% | -0.28 USD | 0.08% | -3.98% | 6.78 USD | Healthcare |
-| 834 | MAA | Mid-America Apartment Communiti | 1.59p | 48.8839% | -1.94 USD | 0.01% | -1.25% | 154.98 USD | Real Estate |
+| 834 | MAA | Mid-America Apartment Communiti | 1.59p | 48.8839% | -1.94 USD | 0.01% | -1.25% | 154.14 USD | Real Estate |
 | 835 | APPN | Appian Corporation | 1.58p | 49.1071% | -0.52 USD | 0.05% | -1.60% | 31.94 USD | Technology |
 | 836 | BUSE | First Busey Corporation | 1.58p | 45.9821% | 0.31 USD | 0.02% | 1.26% | 31.42 USD | Financial Services |
 | 837 | POR | Portland General Electric Co | 1.57p | 49.7768% | -1.28 USD | 0.00% | -2.62% | 47.39 USD | Utilities |
@@ -3913,7 +3912,7 @@
 | 841 | CHTR | Charter Communications, Inc. | 1.56p | 49.7768% | -9.78 USD | 0.02% | -2.86% | 331.83 USD | Communication Services |
 | 842 | ALE | Allete, Inc. | 1.56p | 47.9911% | -0.73 USD | 0.01% | -1.12% | 64.75 USD | Utilities |
 | 843 | NBIX | Neurocrine Biosciences, Inc. | 1.56p | 49.7768% | -3.64 USD | 0.01% | -3.03% | 116.53 USD | Healthcare |
-| 844 | O | Realty Income Corporation | 1.56p | 49.3304% | -1.69 USD | 0.00% | -2.65% | 62.14 USD | Real Estate |
+| 844 | O | Realty Income Corporation | 1.56p | 49.3304% | -1.69 USD | 0.00% | -2.65% | 62.31 USD | Real Estate |
 | 845 | DX | Dynex Capital, Inc. | 1.55p | 51.7857% | -0.67 USD | 0.00% | -5.16% | 12.33 USD | Real Estate |
 | 846 | GL | Globe Life Inc. | 1.55p | 55.5804% | -10.81 USD | 0.05% | -9.04% | 109.90 USD | Financial Services |
 | 847 | EVRG | Evergy, Inc. | 1.55p | 51.5625% | -3.20 USD | -0.00% | -5.09% | 59.75 USD | Utilities |
@@ -3934,10 +3933,10 @@
 | 862 | SIBN | SI-BONE, Inc. | 1.50p | 46.6518% | -0.22 USD | 0.04% | -1.65% | 16.83 USD | Healthcare |
 | 863 | TSN | Tyson Foods, Inc. | 1.50p | 50.8929% | -3.75 USD | -0.00% | -5.90% | 59.92 USD | Consumer Defensive |
 | 864 | F | Ford Motor Company | 1.49p | 51.3393% | -0.76 USD | 0.01% | -6.51% | 10.91 USD | Consumer Cyclical |
-| 865 | BKE | Buckle, Inc. (The) | 1.49p | 49.5536% | -2.22 USD | 0.01% | -4.90% | 42.81 USD | Consumer Cyclical |
+| 865 | BKE | Buckle, Inc. (The) | 1.49p | 49.5536% | -2.22 USD | 0.01% | -4.90% | 43.49 USD | Consumer Cyclical |
 | 866 | GBCI | Glacier Bancorp, Inc. | 1.48p | 48.2143% | -1.87 USD | 0.02% | -3.81% | 47.43 USD | Financial Services |
 | 867 | AMSF | AMERISAFE, Inc. | 1.48p | 49.7768% | -2.88 USD | -0.00% | -5.51% | 49.46 USD | Financial Services |
-| 868 | BDX | Becton, Dickinson and Company | 1.47p | 50.4464% | -16.16 USD | -0.01% | -6.31% | 240.05 USD | Healthcare |
+| 868 | BDX | Becton, Dickinson and Company | 1.47p | 50.4464% | -16.16 USD | -0.01% | -6.31% | 242.23 USD | Healthcare |
 | 869 | DGX | Quest Diagnostics Incorporated | 1.47p | 48.4375% | -6.77 USD | -0.00% | -4.35% | 149.26 USD | Healthcare |
 | 870 | NLY | Annaly Capital Management Inc. | 1.47p | 51.7857% | -1.67 USD | -0.01% | -7.79% | 19.80 USD | Real Estate |
 | 871 | CBU | Community Financial System, Inc | 1.47p | 46.2054% | -1.39 USD | 0.02% | -2.23% | 61.01 USD | Financial Services |
@@ -3946,25 +3945,25 @@
 | 874 | NOK | Nokia Corporation Sponsored | 1.45p | 49.7768% | -0.29 USD | 0.00% | -6.18% | 4.39 USD | Technology |
 | 875 | ASB | Associated Banc-Corp | 1.45p | 48.2143% | -1.08 USD | 0.01% | -4.66% | 22.09 USD | Financial Services |
 | 876 | SR | Spire Inc. | 1.45p | 49.5536% | -4.20 USD | -0.01% | -6.05% | 68.69 USD | Utilities |
-| 877 | IPG | Interpublic Group of Companies, | 1.45p | 50.2232% | -2.29 USD | -0.00% | -6.78% | 31.45 USD | Communication Services |
+| 877 | IPG | Interpublic Group of Companies, | 1.45p | 50.2232% | -2.29 USD | -0.00% | -6.78% | 31.73 USD | Communication Services |
 | 878 | VOXX | VOXX International Corporation | 1.45p | 49.1071% | -0.49 USD | 0.12% | -5.79% | 8.01 USD | Technology |
 | 879 | CMA | Comerica Incorporated | 1.44p | 50.4464% | -4.72 USD | 0.04% | -7.15% | 61.37 USD | Financial Services |
 | 880 | EW | Edwards Lifesciences Corporatio | 1.44p | 49.5536% | -4.64 USD | 0.02% | -6.25% | 69.73 USD | Healthcare |
-| 881 | LUV | Southwest Airlines Company | 1.44p | 50.0000% | -2.23 USD | 0.01% | -6.84% | 30.32 USD | Industrials |
+| 881 | LUV | Southwest Airlines Company | 1.44p | 50.0000% | -2.23 USD | 0.01% | -6.84% | 30.49 USD | Industrials |
 | 882 | RHI | Robert Half Inc. | 1.44p | 51.1161% | -5.88 USD | -0.01% | -7.99% | 69.12 USD | Industrials |
 | 883 | NWBI | Northwest Bancshares, Inc. | 1.44p | 46.8750% | -0.53 USD | 0.01% | -3.80% | 13.42 USD | Financial Services |
 | 884 | VRSN | VeriSign, Inc. | 1.44p | 49.7768% | -13.53 USD | -0.01% | -6.70% | 188.47 USD | Technology |
 | 885 | HUYA | HUYA Inc. | 1.43p | 47.0982% | -0.18 USD | 0.08% | -4.18% | 4.15 USD | Communication Services |
 | 886 | NAVI | Navient Corporation | 1.43p | 49.3304% | -1.05 USD | 0.00% | -6.35% | 15.51 USD | Financial Services |
 | 887 | UVV | Universal Corporation | 1.43p | 48.8839% | -3.19 USD | -0.00% | -6.00% | 50.94 USD | Consumer Defensive |
-| 888 | KEYS | Keysight Technologies Inc. | 1.43p | 49.7768% | -11.98 USD | 0.00% | -7.01% | 160.00 USD | Technology |
+| 888 | KEYS | Keysight Technologies Inc. | 1.43p | 49.7768% | -11.98 USD | 0.00% | -7.01% | 159.66 USD | Technology |
 | 889 | CQP | Cheniere Energy Partners, LP | 1.42p | 51.1161% | -4.57 USD | -0.00% | -8.37% | 50.10 USD | Energy |
 | 890 | EXC | Exelon Corporation | 1.42p | 50.2232% | -3.23 USD | -0.01% | -7.48% | 39.94 USD | Utilities |
 | 891 | AA | Alcoa Corporation | 1.42p | 48.8839% | -2.78 USD | 0.04% | -6.24% | 41.98 USD | Basic Materials |
 | 892 | NREF | NexPoint Real Estate Finance, I | 1.41p | 50.0000% | -1.25 USD | 0.01% | -7.63% | 15.21 USD | Real Estate |
 | 893 | LTRX | Lantronix, Inc. | 1.41p | 46.8750% | -0.20 USD | 0.07% | -4.64% | 4.14 USD | Technology |
 | 894 | D | Dominion Energy, Inc. | 1.41p | 51.7857% | -6.04 USD | -0.01% | -9.59% | 56.95 USD | Utilities |
-| 895 | SUI | Sun Communities, Inc. | 1.40p | 48.8839% | -9.67 USD | -0.00% | -6.91% | 130.02 USD | Real Estate |
+| 895 | SUI | Sun Communities, Inc. | 1.40p | 48.8839% | -9.67 USD | -0.00% | -6.91% | 130.88 USD | Real Estate |
 | 896 | FUN | Six Flags Entertainment Corpora | 1.40p | 46.8750% | -2.06 USD | 0.01% | -4.98% | 39.08 USD | Consumer Cyclical |
 | 897 | AAL | American Airlines Group, Inc. | 1.39p | 48.6607% | -0.87 USD | 0.01% | -6.83% | 11.89 USD | Industrials |
 | 898 | ASUR | Asure Software Inc | 1.39p | 51.3393% | -0.91 USD | 0.03% | -9.59% | 8.62 USD | Technology |
@@ -3995,7 +3994,7 @@
 | 923 | SFIX | Stitch Fix, Inc. | 1.31p | 47.7679% | -0.26 USD | 0.14% | -8.75% | 2.73 USD | Consumer Cyclical |
 | 924 | NXTC | NextCure, Inc. | 1.30p | 45.0893% | -0.09 USD | 0.08% | -6.04% | 1.81 USD | Healthcare |
 | 925 | XEL | Xcel Energy Inc. | 1.30p | 49.1071% | -7.05 USD | -0.02% | -10.06% | 63.05 USD | Utilities |
-| 926 | SLB | Schlumberger N.V. | 1.30p | 52.2321% | -6.80 USD | -0.01% | -13.20% | 44.82 USD | Energy |
+| 926 | SLB | Schlumberger N.V. | 1.30p | 52.2321% | -6.80 USD | -0.01% | -13.20% | 44.10 USD | Energy |
 | 927 | SASR | Sandy Spring Bancorp, Inc. | 1.29p | 45.7589% | -2.42 USD | 0.01% | -6.94% | 32.51 USD | Financial Services |
 | 928 | SBSI | Southside Bancshares, Inc. | 1.29p | 45.9821% | -2.58 USD | 0.00% | -7.17% | 33.49 USD | Financial Services |
 | 929 | UAA | Under Armour, Inc. | 1.29p | 48.8839% | -1.03 USD | 0.01% | -10.21% | 9.01 USD | Consumer Cyclical |
@@ -4007,7 +4006,7 @@
 | 935 | ACAD | ACADIA Pharmaceuticals Inc. | 1.28p | 46.4286% | -1.33 USD | 0.04% | -8.15% | 17.01 USD | Healthcare |
 | 936 | MUR | Murphy Oil Corporation | 1.27p | 50.6696% | -5.11 USD | -0.01% | -12.59% | 35.41 USD | Energy |
 | 937 | ATEN | A10 Networks, Inc. | 1.27p | 50.6696% | -2.14 USD | -0.00% | -12.69% | 14.68 USD | Technology |
-| 938 | FSLY | Fastly, Inc. | 1.26p | 48.2143% | -0.84 USD | 0.09% | -10.40% | 7.25 USD | Technology |
+| 938 | FSLY | Fastly, Inc. | 1.26p | 48.2143% | -0.84 USD | 0.09% | -10.40% | 7.34 USD | Technology |
 | 939 | HBIO | Harvard Bioscience, Inc. | 1.26p | 44.8661% | -0.19 USD | 0.04% | -7.09% | 2.50 USD | Healthcare |
 | 940 | SUPN | Supernus Pharmaceuticals, Inc. | 1.25p | 49.5536% | -4.55 USD | -0.01% | -12.14% | 32.96 USD | Healthcare |
 | 941 | PCTY | Paylocity Holding Corporation | 1.25p | 50.0000% | -24.31 USD | -0.00% | -12.63% | 168.62 USD | Technology |
@@ -4023,7 +4022,7 @@
 | 951 | CVGW | Calavo Growers, Inc. | 1.21p | 45.9821% | -3.06 USD | 0.02% | -9.82% | 28.13 USD | Consumer Defensive |
 | 952 | KHC | The Kraft Heinz Company | 1.20p | 49.3304% | -5.42 USD | -0.03% | -13.29% | 37.08 USD | Consumer Defensive |
 | 953 | DIOD | Diodes Incorporated | 1.19p | 49.7768% | -10.77 USD | -0.00% | -14.15% | 65.42 USD | Technology |
-| 954 | ASIX | AdvanSix Inc. | 1.18p | 52.9018% | -6.50 USD | -0.02% | -17.56% | 31.34 USD | Basic Materials |
+| 954 | ASIX | AdvanSix Inc. | 1.18p | 52.9018% | -6.50 USD | -0.02% | -17.56% | 30.95 USD | Basic Materials |
 | 955 | TSBK | Timberland Bancorp, Inc. | 1.17p | 46.6518% | -3.90 USD | -0.01% | -11.43% | 38.65 USD | Financial Services |
 | 956 | ANIK | Anika Therapeutics Inc. | 1.17p | 49.1071% | -4.14 USD | -0.01% | -14.04% | 25.43 USD | Healthcare |
 | 957 | GOOD | Gladstone Commercial Corporatio | 1.17p | 49.5536% | -2.74 USD | -0.02% | -14.55% | 16.10 USD | Real Estate |
@@ -4037,12 +4036,12 @@
 | 965 | GPC | Genuine Parts Company | 1.14p | 52.0089% | -30.37 USD | -0.03% | -17.88% | 138.99 USD | Consumer Cyclical |
 | 966 | GT | The Goodyear Tire & Rubber Comp | 1.14p | 51.3393% | -1.76 USD | -0.00% | -17.27% | 9.59 USD | Consumer Cyclical |
 | 967 | VIAV | Viavi Solutions Inc. | 1.13p | 47.7679% | -1.47 USD | -0.01% | -13.79% | 9.20 USD | Technology |
-| 968 | AVNS | Avanos Medical, Inc. | 1.12p | 50.0000% | -4.46 USD | -0.01% | -16.45% | 23.97 USD | Healthcare |
+| 968 | AVNS | Avanos Medical, Inc. | 1.12p | 50.0000% | -4.46 USD | -0.01% | -16.45% | 22.92 USD | Healthcare |
 | 969 | ALLT | Allot Ltd. | 1.11p | 45.3125% | -0.41 USD | 0.02% | -11.95% | 3.76 USD | Technology |
-| 970 | HOG | Harley-Davidson, Inc. | 1.11p | 47.0982% | -5.66 USD | -0.01% | -13.76% | 35.44 USD | Consumer Cyclical |
+| 970 | HOG | Harley-Davidson, Inc. | 1.11p | 47.0982% | -5.66 USD | -0.01% | -13.76% | 35.73 USD | Consumer Cyclical |
 | 971 | SLAB | Silicon Laboratories, Inc. | 1.11p | 46.4286% | -17.61 USD | 0.01% | -13.14% | 116.57 USD | Technology |
-| 972 | VAL | Valaris Limited | 1.11p | 51.5625% | -11.70 USD | -0.02% | -18.30% | 55.33 USD | Energy |
-| 973 | HAL | Halliburton Company | 1.11p | 52.0089% | -7.08 USD | -0.03% | -18.80% | 30.46 USD | Energy |
+| 972 | VAL | Valaris Limited | 1.11p | 51.5625% | -11.70 USD | -0.02% | -18.30% | 52.25 USD | Energy |
+| 973 | HAL | Halliburton Company | 1.11p | 52.0089% | -7.08 USD | -0.03% | -18.80% | 30.30 USD | Energy |
 | 974 | DOC | Healthpeak Properties, Inc. | 1.10p | 47.0982% | -3.56 USD | -0.02% | -13.99% | 21.92 USD | Real Estate |
 | 975 | DGII | Digi International Inc. | 1.10p | 50.8929% | -6.42 USD | -0.01% | -17.92% | 29.44 USD | Technology |
 | 976 | AROW | Arrow Financial Corporation | 1.10p | 47.3214% | -4.88 USD | -0.01% | -14.36% | 29.17 USD | Financial Services |
@@ -4059,11 +4058,11 @@
 | 987 | TWO | Two Harbors Investment Corp | 1.04p | 52.0089% | -3.36 USD | -0.03% | -20.74% | 12.90 USD | Real Estate |
 | 988 | CSGS | CSG Systems International, Inc. | 1.04p | 47.7679% | -9.68 USD | -0.02% | -16.62% | 62.02 USD | Technology |
 | 989 | CRON | Cronos Group Inc. Common Share | 1.04p | 43.0804% | -0.30 USD | 0.02% | -12.00% | 2.22 USD | Healthcare |
-| 990 | HSY | The Hershey Company | 1.03p | 48.8839% | -40.93 USD | -0.04% | -18.04% | 187.50 USD | Consumer Defensive |
+| 990 | HSY | The Hershey Company | 1.03p | 48.8839% | -40.93 USD | -0.04% | -18.04% | 186.55 USD | Consumer Defensive |
 | 991 | ARE | Alexandria Real Estate Equities | 1.03p | 47.5446% | -24.11 USD | -0.02% | -16.73% | 120.51 USD | Real Estate |
 | 992 | TNDM | Tandem Diabetes Care, Inc. | 1.03p | 46.8750% | -7.20 USD | 0.05% | -16.16% | 37.38 USD | Healthcare |
 | 993 | ZBH | Zimmer Biomet Holdings, Inc. | 1.03p | 48.4375% | -22.45 USD | -0.03% | -17.64% | 105.83 USD | Healthcare |
-| 994 | PII | Polaris Inc. | 1.02p | 49.7768% | -19.17 USD | -0.03% | -19.07% | 82.50 USD | Consumer Cyclical |
+| 994 | PII | Polaris Inc. | 1.02p | 49.7768% | -19.17 USD | -0.03% | -19.07% | 81.97 USD | Consumer Cyclical |
 | 995 | BL | BlackLine, Inc. | 1.02p | 47.5446% | -11.44 USD | -0.01% | -16.86% | 56.45 USD | Technology |
 | 996 | NOV | NOV Inc. | 1.02p | 49.1071% | -3.67 USD | -0.02% | -18.49% | 16.21 USD | Energy |
 | 997 | TU | Telus Corporation | 1.02p | 46.8750% | -3.14 USD | -0.03% | -16.29% | 16.15 USD | Communication Services |
@@ -4108,11 +4107,11 @@
 | 1036 | XRAY | DENTSPLY SIRONA Inc. | 0.81p | 49.5536% | -8.26 USD | -0.05% | -25.27% | 24.45 USD | Healthcare |
 | 1037 | PDCO | Patterson Companies, Inc. | 0.80p | 49.1071% | -6.96 USD | -0.04% | -24.97% | 20.94 USD | Healthcare |
 | 1038 | JD | JD.com, Inc. | 0.80p | 47.3214% | -13.50 USD | -0.01% | -23.42% | 44.19 USD | Consumer Cyclical |
-| 1039 | PRO | PROS Holdings, Inc. | 0.80p | 49.1071% | -6.27 USD | -0.03% | -25.22% | 18.56 USD | Technology |
+| 1039 | PRO | PROS Holdings, Inc. | 0.80p | 49.1071% | -6.27 USD | -0.03% | -25.22% | 19.86 USD | Technology |
 | 1040 | ES | Eversource Energy (D/B/A) | 0.79p | 47.7679% | -20.20 USD | -0.05% | -23.98% | 63.97 USD | Utilities |
 | 1041 | M | Macy's Inc | 0.79p | 47.3214% | -4.75 USD | -0.01% | -23.60% | 15.38 USD | Consumer Cyclical |
 | 1042 | AG | First Majestic Silver Corp. | 0.79p | 45.9821% | -1.88 USD | 0.01% | -22.35% | 6.51 USD | Basic Materials |
-| 1043 | DVN | Devon Energy Corporation | 0.78p | 49.5536% | -15.25 USD | -0.05% | -26.24% | 42.87 USD | Energy |
+| 1043 | DVN | Devon Energy Corporation | 0.78p | 49.5536% | -15.25 USD | -0.05% | -26.24% | 42.44 USD | Energy |
 | 1044 | AQN | Algonquin Power & Utilities Cor | 0.77p | 47.9911% | -1.67 USD | -0.04% | -24.81% | 5.08 USD | Utilities |
 | 1045 | BLMN | Bloomin' Brands, Inc. | 0.76p | 47.3214% | -4.97 USD | -0.04% | -24.34% | 15.45 USD | Consumer Cyclical |
 | 1046 | CVS | CVS Health Corporation | 0.75p | 50.0000% | -25.45 USD | -0.06% | -27.39% | 67.63 USD | Healthcare |
@@ -4154,7 +4153,7 @@
 | 1082 | PBYI | Puma Biotechnology Inc | 0.52p | 46.6518% | -1.28 USD | 0.02% | -30.99% | 2.86 USD | Healthcare |
 | 1083 | HRL | Hormel Foods Corporation | 0.52p | 47.3214% | -14.52 USD | -0.07% | -31.74% | 31.46 USD | Consumer Defensive |
 | 1084 | KW | Kennedy-Wilson Holdings Inc. | 0.52p | 47.3214% | -4.98 USD | -0.06% | -31.78% | 10.73 USD | Real Estate |
-| 1085 | ADM | Archer-Daniels-Midland Company | 0.51p | 50.8929% | -31.74 USD | -0.08% | -35.40% | 57.82 USD | Consumer Defensive |
+| 1085 | ADM | Archer-Daniels-Midland Company | 0.51p | 50.8929% | -31.74 USD | -0.08% | -35.40% | 58.14 USD | Consumer Defensive |
 | 1086 | XRX | Xerox Holdings Corporation | 0.49p | 47.3214% | -4.92 USD | -0.06% | -32.60% | 10.22 USD | Technology |
 | 1087 | VFF | Village Farms International, In | 0.48p | 45.5357% | -0.42 USD | 0.05% | -31.24% | 0.95 USD | Consumer Defensive |
 | 1088 | ESTA | Establishment Labs Holdings Inc | 0.47p | 48.4375% | -21.44 USD | -0.01% | -34.18% | 41.58 USD | Healthcare |
@@ -4162,7 +4161,7 @@
 | 1090 | MATW | Matthews International Corporat | 0.46p | 48.6607% | -11.53 USD | -0.07% | -34.74% | 21.67 USD | Industrials |
 | 1091 | GNL | Global Net Lease, Inc. | 0.46p | 48.8839% | -4.46 USD | -0.07% | -35.04% | 8.32 USD | Real Estate |
 | 1092 | PTON | Peloton Interactive, Inc. | 0.45p | 47.0982% | -2.72 USD | 0.05% | -33.50% | 5.43 USD | Consumer Cyclical |
-| 1093 | ADNT | Adient plc | 0.44p | 50.6696% | -13.01 USD | -0.08% | -37.31% | 22.27 USD | Consumer Cyclical |
+| 1093 | ADNT | Adient plc | 0.44p | 50.6696% | -13.01 USD | -0.08% | -37.31% | 22.34 USD | Consumer Cyclical |
 | 1094 | FL | Foot Locker, Inc. | 0.44p | 49.1071% | -13.28 USD | -0.02% | -35.84% | 23.77 USD | Consumer Cyclical |
 | 1095 | NTCT | NetScout Systems, Inc. | 0.41p | 45.9821% | -10.85 USD | -0.07% | -33.49% | 21.59 USD | Technology |
 | 1096 | IMKTA | Ingles Markets, Incorporated | 0.40p | 47.0982% | -33.30 USD | -0.09% | -34.91% | 78.28 USD | Consumer Defensive |
@@ -4185,7 +4184,7 @@
 | 1113 | VNDA | Vanda Pharmaceuticals Inc. | 0.31p | 44.4196% | -2.61 USD | -0.03% | -35.18% | 4.82 USD | Healthcare |
 | 1114 | RDUS | Radius Recycling, Inc. | 0.30p | 52.0089% | -13.42 USD | -0.08% | -42.93% | 17.90 USD | Basic Materials |
 | 1115 | CTMX | CytomX Therapeutics, Inc. | 0.28p | 40.4018% | -0.52 USD | 0.28% | -32.30% | 1.11 USD | Healthcare |
-| 1116 | PAYC | Paycom Software, Inc. | 0.27p | 54.0179% | -139.95 USD | -0.09% | -45.94% | 164.02 USD | Technology |
+| 1116 | PAYC | Paycom Software, Inc. | 0.27p | 54.0179% | -139.95 USD | -0.09% | -45.94% | 167.37 USD | Technology |
 | 1117 | NIO | NIO Inc. | 0.26p | 47.7679% | -3.84 USD | -0.02% | -39.88% | 5.81 USD | Consumer Cyclical |
 | 1118 | PGEN | Precigen, Inc. | 0.23p | 45.9821% | -0.58 USD | 0.03% | -38.99% | 0.91 USD | Healthcare |
 | 1119 | CRMT | America's Car-Mart, Inc. | 0.23p | 47.0982% | -28.09 USD | -0.05% | -40.13% | 41.99 USD | Consumer Cyclical |
@@ -4232,7 +4231,7 @@
 | 1160 | INVE | Identiv, Inc. | -0.06p | 47.0982% | -3.36 USD | -0.08% | -48.91% | 3.55 USD | Industrials |
 | 1161 | CAR | Avis Budget Group, Inc. | -0.12p | 47.3214% | -83.82 USD | -0.10% | -50.88% | 81.03 USD | Industrials |
 | 1162 | NRC | National Research Corporation | -0.12p | 47.5446% | -19.89 USD | -0.14% | -51.09% | 19.08 USD | Healthcare |
-| 1163 | CABO | Cable One, Inc. | -0.13p | 47.0982% | -354.21 USD | -0.13% | -50.89% | 366.80 USD | Communication Services |
+| 1163 | CABO | Cable One, Inc. | -0.13p | 47.0982% | -354.21 USD | -0.13% | -50.89% | 354.31 USD | Communication Services |
 | 1164 | DLTR | Dollar Tree, Inc. | -0.14p | 48.4375% | -73.46 USD | -0.14% | -52.37% | 66.83 USD | Consumer Defensive |
 | 1165 | OCFT | OneConnect Financial Technology | -0.14p | 42.4107% | -2.17 USD | 0.10% | -46.77% | 2.57 USD | Technology |
 | 1166 | CODX | Co-Diagnostics, Inc. | -0.14p | 43.5268% | -1.21 USD | -0.00% | -47.83% | 1.36 USD | Healthcare |
@@ -4242,7 +4241,7 @@
 | 1170 | KVHI | KVH Industries, Inc. | -0.17p | 45.0893% | -5.04 USD | -0.11% | -50.10% | 6.37 USD | Technology |
 | 1171 | INMD | InMode Ltd. | -0.17p | 47.7679% | -18.61 USD | -0.12% | -52.78% | 16.69 USD | Healthcare |
 | 1172 | ANGO | AngioDynamics, Inc. | -0.17p | 46.6518% | -6.92 USD | -0.10% | -51.76% | 8.19 USD | Healthcare |
-| 1173 | ALB | Albemarle Corporation | -0.17p | 48.4375% | -114.90 USD | -0.12% | -53.57% | 99.17 USD | Basic Materials |
+| 1173 | ALB | Albemarle Corporation | -0.17p | 48.4375% | -114.90 USD | -0.12% | -53.57% | 100.00 USD | Basic Materials |
 | 1174 | SHYF | The Shyft Group, Inc. | -0.18p | 48.6607% | -14.27 USD | -0.10% | -53.85% | 12.27 USD | Industrials |
 | 1175 | HLF | Herbalife Ltd. | -0.19p | 48.8839% | -8.12 USD | -0.10% | -54.42% | 6.83 USD | Consumer Defensive |
 | 1176 | EGHT | 8x8 Inc | -0.19p | 45.7589% | -2.23 USD | -0.04% | -51.38% | 2.40 USD | Technology |
@@ -4274,7 +4273,7 @@
 | 1202 | TDOC | Teladoc Health, Inc. | -0.42p | 47.5446% | -13.58 USD | -0.15% | -60.14% | 9.02 USD | Healthcare |
 | 1203 | IQ | iQIYI, Inc. | -0.45p | 43.5268% | -3.35 USD | -0.11% | -56.97% | 2.53 USD | Communication Services |
 | 1204 | BCOV | Brightcove Inc. | -0.47p | 42.1875% | -2.93 USD | -0.13% | -56.13% | 2.31 USD | Technology |
-| 1205 | MPW | Medical Properties Trust, Inc. | -0.49p | 45.9821% | -7.00 USD | -0.12% | -60.71% | 4.53 USD | Real Estate |
+| 1205 | MPW | Medical Properties Trust, Inc. | -0.49p | 45.9821% | -7.00 USD | -0.12% | -60.71% | 4.70 USD | Real Estate |
 | 1206 | PLCE | Children's Place, Inc. (The) | -0.50p | 45.3125% | -21.58 USD | 0.12% | -60.55% | 14.12 USD | Consumer Cyclical |
 | 1207 | TBI | TrueBlue, Inc. | -0.51p | 48.4375% | -12.60 USD | -0.18% | -63.41% | 7.29 USD | Industrials |
 | 1208 | VUZI | Vuzix Corporation | -0.51p | 43.9732% | -2.13 USD | -0.08% | -59.17% | 1.52 USD | Technology |
@@ -4310,7 +4309,7 @@
 | 1238 | IMAB | I-MAB | -0.90p | 40.6250% | -2.86 USD | -0.13% | -67.45% | 1.62 USD | Healthcare |
 | 1239 | PACB | Pacific Biosciences of Californ | -0.91p | 47.0982% | -5.89 USD | -0.11% | -74.18% | 2.06 USD | Healthcare |
 | 1240 | AAP | Advance Auto Parts Inc. | -0.93p | 46.4286% | -112.07 USD | -0.25% | -73.95% | 39.50 USD | Consumer Cyclical |
-| 1241 | LAC | Lithium Americas Corp. | -0.99p | 45.3125% | -8.26 USD | -0.41% | -74.62% | 2.80 USD | Basic Materials |
+| 1241 | LAC | Lithium Americas Corp. | -0.99p | 45.3125% | -8.26 USD | -0.41% | -74.62% | 2.81 USD | Basic Materials |
 | 1242 | BGFV | Big 5 Sporting Goods Corporatio | -1.01p | 47.5446% | -6.95 USD | -0.26% | -77.48% | 2.04 USD | Consumer Cyclical |
 | 1243 | INO | Inovio Pharmaceuticals, Inc. | -1.02p | 38.3929% | -12.54 USD | -0.11% | -68.75% | 5.71 USD | Healthcare |
 | 1244 | RVNC | Revance Therapeutics, Inc. | -1.03p | 41.2946% | -13.22 USD | -0.09% | -72.00% | 6.55 USD | Healthcare |
