@@ -34,8 +34,8 @@ jobs:
 
     - name: Add and Commit Log File
       run: |
-        git add output.md
-        git commit -m "New output.md"
+        git add RESULT.md
+        git commit -m "New RESULT.md"
 
     - name: Push changes
       run: |
