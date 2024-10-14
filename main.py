@@ -73,11 +73,20 @@ def print_the_list(this_list):
         ])
         rank += 1
 
-    table_str = tabulate(mytable, headers, tablefmt="grid")  # Get the table as a string
+    # table_str = tabulate(mytable, headers, tablefmt="grid")  # Get the table as a string
+ 
+    # Construct the markdown table header
+    table_str = "| " + " | ".join(headers) + " |\n"
+    table_str += "| " + " | ".join(['---' for _ in headers]) + " |\n"
+
+    # Add rows to the markdown table
+    for row in mytable:
+        table_str += "| " + " | ".join(row) + " |\n"
+
     table_str += f"\n{start_date} - {end_date}"  # Add the date range to the output
 
     # Save in the same directory
-    output_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output.txt")
+    output_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output.md")
 
     with open(output_file_path, "w") as file:
         file.write(table_str)
