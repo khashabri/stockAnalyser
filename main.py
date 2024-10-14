@@ -9,12 +9,15 @@ import datetime
 from symbols_dataset import *
 
 ########################### Parameters ###########################
-last_week = datetime.datetime.now() - datetime.timedelta(days=7)
+past_week = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime("%Y-%m-%d")
+past_three_month = (datetime.datetime.now() - datetime.timedelta(days=90)).strftime("%Y-%m-%d")
+oast_two_years = datetime.datetime(datetime.datetime.now().year - 1, 1, 1).strftime("%Y-%m-%d")
 
 # Different date ranges and company lists with keys to iterate over
 date_configs = [
-    {"start_date": last_week.strftime("%Y-%m-%d"), "end_date": None}, # one week ago result
-    {"start_date": datetime.datetime(datetime.datetime.now().year - 1, 1, 1).strftime("%Y-%m-%d"), "end_date": None} # last year to now
+    {"start_date": past_week, "end_date": None}, # one week ago (7 days) result
+    {"start_date": past_three_month, "end_date": None}, # three months ago (90 days) result
+    {"start_date": oast_two_years, "end_date": None} # last year (1.x year) result
 ]
 
 company_configs = [
