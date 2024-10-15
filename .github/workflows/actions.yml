@@ -2,7 +2,7 @@ name: Run Main File
 
 on:
   schedule:
-    - cron: "0 21 * * 1-5"
+    - cron: "0 18 * * 1-5" # At 18:00 on woking days
 
 jobs:
   run-script:
