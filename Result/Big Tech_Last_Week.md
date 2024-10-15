@@ -1,42 +1,42 @@
-> Last update on: 2024-10-15 17:07:05
+> Last update on: 2024-10-15 17:36:18
 
 ## Results for Big Tech - Big Tech Last Week
 
 | Rank | ID | Company | Evaluation Point | Ratio Pos. Days | Netto Growth | Mean Rel. Daily Growth | Tot. Growth | Current Price | Sector |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | TRV | The Travelers Companies, Inc. | 3.01p | 83.3333% | 13.15 USD | 1.12% | 5.71% | 243.29 USD | Financial Services |
-| 2 | MCD | McDonald's Corporation | 2.93p | 83.3333% | 11.32 USD | 0.74% | 3.75% | 313.37 USD | Consumer Cyclical |
-| 3 | V | Visa Inc. | 2.87p | 83.3333% | 6.39 USD | 0.46% | 2.32% | 281.28 USD | Financial Services |
-| 4 | GS | Goldman Sachs Group, Inc. (The) | 2.45p | 66.6667% | 28.02 USD | 1.11% | 5.64% | 524.26 USD | Financial Services |
-| 5 | AXP | American Express Company | 2.39p | 66.6667% | 11.08 USD | 0.81% | 4.12% | 279.84 USD | Financial Services |
-| 6 | IBM | International Business Machines | 2.36p | 66.6667% | 7.65 USD | 0.67% | 3.35% | 236.23 USD | Technology |
-| 7 | PG | Procter & Gamble Company (The) | 2.35p | 66.6667% | 5.43 USD | 0.64% | 3.23% | 173.44 USD | Consumer Defensive |
-| 8 | JNJ | Johnson & Johnson | 2.35p | 66.6667% | 5.08 USD | 0.63% | 3.18% | 164.55 USD | Healthcare |
-| 9 | WMT | Walmart Inc. | 2.32p | 66.6667% | 1.96 USD | 0.49% | 2.46% | 81.65 USD | Consumer Defensive |
-| 10 | RTX | RTX Corporation | 2.28p | 66.6667% | 1.85 USD | 0.30% | 1.50% | 125.35 USD | Industrials |
-| 11 | VZ | Verizon Communications Inc. | 2.28p | 66.6667% | 0.61 USD | 0.28% | 1.41% | 43.88 USD | Communication Services |
-| 12 | MMM | 3M Company | 2.27p | 66.6667% | 1.66 USD | 0.25% | 1.24% | 136.40 USD | Industrials |
-| 13 | GOOGL | Alphabet Inc. | 2.27p | 66.6667% | 1.83 USD | 0.23% | 1.11% | 166.31 USD | Communication Services |
-| 14 | HD | Home Depot, Inc. (The) | 2.26p | 66.6667% | 4.19 USD | 0.21% | 1.01% | 417.69 USD | Consumer Cyclical |
-| 15 | CVX | Chevron Corporation | 2.23p | 66.6667% | 0.42 USD | 0.06% | 0.28% | 149.18 USD | Energy |
-| 16 | XOM | Exxon Mobil Corporation | 2.20p | 66.6667% | -0.75 USD | -0.12% | -0.61% | 121.35 USD | Energy |
-| 17 | WBA | Walgreens Boots Alliance, Inc. | 2.14p | 50.0000% | 1.08 USD | 2.42% | 11.92% | 10.22 USD | Healthcare |
-| 18 | UNH | UnitedHealth Group Incorporated | 2.09p | 66.6667% | -19.87 USD | -0.64% | -3.42% | 561.33 USD | Healthcare |
-| 19 | KO | Coca-Cola Company (The) | 2.07p | 60.0000% | 1.16 USD | 0.42% | 1.68% | 70.60 USD | Consumer Defensive |
-| 20 | JPM | JP Morgan Chase & Co. | 1.92p | 50.0000% | 13.47 USD | 1.26% | 6.39% | 224.91 USD | Financial Services |
-| 21 | AAPL | Apple Inc. | 1.82p | 50.0000% | 8.40 USD | 0.74% | 3.72% | 234.24 USD | Technology |
-| 22 | CSCO | Cisco Systems, Inc. | 1.78p | 50.0000% | 1.44 USD | 0.54% | 2.72% | 54.20 USD | Technology |
-| 23 | MRK | Merck & Company, Inc. | 1.76p | 50.0000% | 2.59 USD | 0.48% | 2.38% | 111.20 USD | Healthcare |
-| 24 | DIS | Walt Disney Company (The) | 1.74p | 50.0000% | 1.80 USD | 0.39% | 1.95% | 94.47 USD | Communication Services |
-| 25 | AMZN | Amazon.com, Inc. | 1.74p | 50.0000% | 3.35 USD | 0.37% | 1.83% | 186.16 USD | Consumer Cyclical |
-| 26 | NKE | Nike, Inc. | 1.74p | 50.0000% | 1.46 USD | 0.36% | 1.81% | 82.30 USD | Consumer Cyclical |
-| 27 | MSFT | Microsoft Corporation | 1.70p | 50.0000% | 3.03 USD | 0.15% | 0.73% | 443.22 USD | Technology |
-| 28 | CAT | Caterpillar, Inc. | 1.69p | 50.0000% | 2.02 USD | 0.12% | 0.52% | 390.21 USD | Industrials |
-| 29 | DOW | Dow Inc. | 1.67p | 50.0000% | 0.03 USD | 0.01% | 0.06% | 53.25 USD | Basic Materials |
-| 30 | PFE | Pfizer, Inc. | 1.15p | 33.3333% | 0.28 USD | 0.22% | 0.98% | 29.47 USD | Healthcare |
-| 31 | META | Meta Platforms, Inc. | 1.07p | 33.3333% | -5.55 USD | -0.19% | -0.94% | 587.99 USD | Communication Services |
-| 32 | NVDA | NVIDIA Corporation | 1.07p | 33.3333% | -1.31 USD | -0.17% | -0.99% | 131.59 USD | Technology |
-| 33 | BA | Boeing Company (The) | 1.07p | 33.3333% | -1.75 USD | -0.19% | -1.13% | 153.18 USD | Industrials |
-| 34 | INTC | Intel Corporation | 1.05p | 33.3333% | -0.36 USD | -0.31% | -1.57% | 22.97 USD | Technology |
+| 1 | TRV | The Travelers Companies, Inc. | 2.99p | 83.3333% | 12.46 USD | 1.06% | 5.41% | 243.04 USD | Financial Services |
+| 2 | MCD | McDonald's Corporation | 2.92p | 83.3333% | 11.02 USD | 0.72% | 3.65% | 313.03 USD | Consumer Cyclical |
+| 3 | V | Visa Inc. | 2.86p | 83.3333% | 5.92 USD | 0.43% | 2.15% | 281.01 USD | Financial Services |
+| 4 | GS | Goldman Sachs Group, Inc. (The) | 2.44p | 66.6667% | 26.64 USD | 1.06% | 5.36% | 523.43 USD | Financial Services |
+| 5 | AXP | American Express Company | 2.38p | 66.6667% | 10.73 USD | 0.79% | 3.99% | 279.15 USD | Financial Services |
+| 6 | JNJ | Johnson & Johnson | 2.35p | 66.6667% | 5.27 USD | 0.65% | 3.30% | 164.91 USD | Healthcare |
+| 7 | PG | Procter & Gamble Company (The) | 2.35p | 66.6667% | 5.46 USD | 0.64% | 3.25% | 173.65 USD | Consumer Defensive |
+| 8 | IBM | International Business Machines | 2.35p | 66.6667% | 7.35 USD | 0.64% | 3.22% | 236.12 USD | Technology |
+| 9 | WMT | Walmart Inc. | 2.32p | 66.6667% | 1.85 USD | 0.46% | 2.33% | 81.66 USD | Consumer Defensive |
+| 10 | KO | Coca-Cola Company (The) | 2.30p | 66.6667% | 1.39 USD | 0.40% | 2.01% | 70.59 USD | Consumer Defensive |
+| 11 | RTX | RTX Corporation | 2.29p | 66.6667% | 2.24 USD | 0.36% | 1.81% | 125.41 USD | Industrials |
+| 12 | VZ | Verizon Communications Inc. | 2.28p | 66.6667% | 0.59 USD | 0.28% | 1.36% | 43.94 USD | Communication Services |
+| 13 | MMM | 3M Company | 2.27p | 66.6667% | 1.54 USD | 0.23% | 1.14% | 136.20 USD | Industrials |
+| 14 | HD | Home Depot, Inc. (The) | 2.25p | 66.6667% | 3.05 USD | 0.15% | 0.74% | 417.50 USD | Consumer Cyclical |
+| 15 | GOOGL | Alphabet Inc. | 2.25p | 66.6667% | 1.15 USD | 0.14% | 0.70% | 165.58 USD | Communication Services |
+| 16 | CVX | Chevron Corporation | 2.23p | 66.6667% | 0.22 USD | 0.03% | 0.15% | 148.76 USD | Energy |
+| 17 | XOM | Exxon Mobil Corporation | 2.19p | 66.6667% | -0.99 USD | -0.16% | -0.81% | 121.00 USD | Energy |
+| 18 | WBA | Walgreens Boots Alliance, Inc. | 2.11p | 50.0000% | 1.01 USD | 2.25% | 11.07% | 10.13 USD | Healthcare |
+| 19 | UNH | UnitedHealth Group Incorporated | 2.10p | 66.6667% | -17.35 USD | -0.55% | -2.98% | 562.99 USD | Healthcare |
+| 20 | JPM | JP Morgan Chase & Co. | 1.90p | 50.0000% | 12.46 USD | 1.17% | 5.91% | 223.44 USD | Financial Services |
+| 21 | AAPL | Apple Inc. | 1.81p | 50.0000% | 8.29 USD | 0.73% | 3.67% | 234.16 USD | Technology |
+| 22 | CSCO | Cisco Systems, Inc. | 1.76p | 50.0000% | 1.30 USD | 0.49% | 2.46% | 54.06 USD | Technology |
+| 23 | MRK | Merck & Company, Inc. | 1.76p | 50.0000% | 2.52 USD | 0.46% | 2.32% | 111.26 USD | Healthcare |
+| 24 | AMZN | Amazon.com, Inc. | 1.74p | 50.0000% | 3.36 USD | 0.37% | 1.84% | 186.24 USD | Consumer Cyclical |
+| 25 | NKE | Nike, Inc. | 1.73p | 50.0000% | 1.34 USD | 0.33% | 1.66% | 82.27 USD | Consumer Cyclical |
+| 26 | DIS | Walt Disney Company (The) | 1.73p | 50.0000% | 1.51 USD | 0.33% | 1.63% | 94.14 USD | Communication Services |
+| 27 | MSFT | Microsoft Corporation | 1.69p | 50.0000% | 2.13 USD | 0.10% | 0.51% | 417.27 USD | Technology |
+| 28 | CAT | Caterpillar, Inc. | 1.68p | 50.0000% | 1.38 USD | 0.08% | 0.35% | 389.07 USD | Industrials |
+| 29 | DOW | Dow Inc. | 1.65p | 50.0000% | -0.22 USD | -0.08% | -0.42% | 53.14 USD | Basic Materials |
+| 30 | INTC | Intel Corporation | 1.35p | 40.0000% | 0.12 USD | 0.13% | 0.51% | 22.88 USD | Technology |
+| 31 | PFE | Pfizer, Inc. | 1.15p | 33.3333% | 0.25 USD | 0.19% | 0.86% | 29.46 USD | Healthcare |
+| 32 | META | Meta Platforms, Inc. | 1.06p | 33.3333% | -7.19 USD | -0.24% | -1.21% | 586.40 USD | Communication Services |
+| 33 | NVDA | NVIDIA Corporation | 1.05p | 33.3333% | -2.02 USD | -0.27% | -1.52% | 130.87 USD | Technology |
+| 34 | BA | Boeing Company (The) | 1.05p | 33.3333% | -2.46 USD | -0.29% | -1.59% | 152.15 USD | Industrials |
 
 
