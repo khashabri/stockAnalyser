@@ -33,27 +33,26 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
     # pull from origin and force push RESULTS.md
-    - name: Add and Commit Log File
+    - name: Stash local changes
       run: |
-        git add RESULTS.md
-        git commit -m "New RESULTS.md" || echo "No changes to commit"
+        git stash
 
     - name: Pull latest changes and accept remote version in case of conflict
       run: |
         git pull --strategy-option=theirs origin main || true
 
-    - name: Restore local RESULTS.md
+    - name: Restore stashed changes (if any)
       run: |
-        git checkout -- RESULTS.md
+        git stash pop || echo "No stashed changes to apply"
 
-    - name: Check if RESULTS.md has changes and commit if necessary
+    - name: Add and Commit Log File
       run: |
         git add RESULTS.md
-        git diff --cached --quiet || git commit -m "New RESULTS.md" || echo "No changes to RESULTS.md"
+        git commit -m "New RESULTS.md" || echo "No changes to commit"
 
     - name: Force push the local version of RESULTS.md
       run: |
-        git push origin main --force
+        git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT for authentication
 
