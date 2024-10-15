@@ -30,6 +30,14 @@ company_configs = [
     {"key": "DAX", "companies": de_market}
 ]
 
+company_configs = [
+    {"key": "Big Tech", "companies": [
+    "AAPL", "AXP", "BA", "CAT", "CSCO", "CVX", "DIS", "DOW", "GS", "HD", "IBM", "INTC",
+    "JNJ", "JPM", "KO", "MCD", "MMM", "MRK", "MSFT", "NKE", "PFE", "PG", "TRV", "UNH",
+    "RTX", "V", "VZ", "WBA", "WMT", "XOM", "AMZN", "GOOGL", "META", "BRK.AX", "NVDA"
+    ]}
+]
+
 ############################ Helpers #############################
 class Timer(object):
     def __init__(self, name=None):
