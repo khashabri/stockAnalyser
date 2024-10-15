@@ -49,7 +49,7 @@ jobs:
     - name: Commit local RESULTS.md
       run: |
         git add RESULTS.md
-        git commit -m "Preserved local RESULTS.md"
+        git commit -m "New RESULTS.md file"
 
     - name: Force push the local version of RESULTS.md
       run: |
