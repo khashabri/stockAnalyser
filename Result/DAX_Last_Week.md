@@ -1,4 +1,4 @@
-> Last update on: 2024-10-15 17:44:07
+> Last update on: 2024-10-15 18:18:33
 
 ## Results for DAX - DAX Last Week
 
@@ -150,7 +150,7 @@
 | 144 | WAC.DE | WACKER NEUSON SE NA O.N. | 0.40p | 16.6667% | -0.58 EUR | -0.80% | -3.98% | 14.04 EUR | Industrials |
 | 145 | GMM.DE | GRAMMER AG O.N. | 0.39p | 16.6667% | -0.30 EUR | -0.82% | -4.14% | 7.00 EUR | Consumer Cyclical |
 | 146 | SFQ.DE | SAF-HOLLAND SE  INH EO 1 | 0.37p | 16.6667% | -0.70 EUR | -0.93% | -4.67% | 14.26 EUR | Consumer Cyclical |
-| 147 | BC8.DE |  | 0.36p | 16.6667% | -1.88  | -1.00% | -4.91% | 37.36  |  |
+| 147 | BC8.DE | BECHTLE AG O.N. | 0.36p | 16.6667% | -1.88 EUR | -1.00% | -4.91% | 36.62 EUR | Technology |
 | 148 | DHER.DE | DELIVERY HERO SE NA O.N. | 0.35p | 16.6667% | -2.05 EUR | -1.04% | -5.25% | 36.93 EUR | Consumer Cyclical |
 | 149 | WCH.DE | WACKER CHEMIE  O.N. | 0.34p | 16.6667% | -4.96 EUR | -1.11% | -5.48% | 85.96 EUR | Basic Materials |
 | 150 | SMHN.DE | SUSS MICROTEC SE NA O.N. | 0.30p | 16.6667% | -4.40 EUR | -1.25% | -6.53% | 64.90 EUR | Technology |
