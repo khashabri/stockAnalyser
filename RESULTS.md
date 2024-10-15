@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 150%;">
   <table>
     <tr>
       <th>Rank</th><th>ID</th><th>Company</th><th>Evaluation Point</th><th>Ratio Pos. Days</th><th>Netto Growth</th><th>Mean Rel. Daily Growth</th><th>Tot. Growth</th><th>Current Price</th><th>Sector</th>
