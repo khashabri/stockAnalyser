@@ -2,7 +2,7 @@ name: Run Main File
 
 on:
   schedule:
-    - cron: "0 18 * * 1-5" # At 18:00 on woking days
+    - cron: "*/30 * * * *" # At 18:00 on woking days "0 18 * * 1-5" or every 30 min cron: "*/30 * * * *"
 
 jobs:
   run-script:
@@ -32,17 +32,28 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
+    # pull from origin and force push RESULTS.md
     - name: Add and Commit Log File
       run: |
         git add RESULTS.md
         git commit -m "New RESULTS.md"
 
-    - name: Pull latest changes
+    - name: Pull latest changes and accept remote version in case of conflict
       run: |
-        git pull origin main --rebase
+        git pull --strategy-option=theirs origin main || true
 
-    - name: Push changes
+    - name: Restore local RESULTS.md
       run: |
-        git push
+        git checkout -- RESULTS.md
+
+    - name: Commit local RESULTS.md
+      run: |
+        git add RESULTS.md
+        git commit -m "Preserved local RESULTS.md"
+
+    - name: Force push the local version of RESULTS.md
+      run: |
+        git push origin main --force
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT for authentication
+
