@@ -1,4 +1,4 @@
-> Last update on: 2024-10-15 05:37:47
+> Last update on: 2024-10-15 06:11:31
 
 ## Results for Big Tech - Last Week
 
@@ -1301,35 +1301,35 @@
 | 1254 | SOHU | Sohu.com Limited | 0.28p | 20.0000% | -1.52 USD | -2.38% | -9.24% | 14.97 USD | Communication Services |
 | 1255 | IQ | iQIYI, Inc. | 0.26p | 20.0000% | -0.27 USD | -2.44% | -9.64% | 2.53 USD | Communication Services |
 | 1256 | CHRS | Coherus BioSciences, Inc. | 0.26p | 20.0000% | -0.10 USD | -2.49% | -9.71% | 0.94 USD | Healthcare |
-| 1257 | NTES | NetEase, Inc. | 0.25p | 20.0000% | -9.42 USD | -2.57% | -9.98% | 85.06 USD | Communication Services |
-| 1258 | YJ | Yunji Inc. - American Depositor | 0.24p | 20.0000% | -0.24 USD | -2.56% | -10.26% | 0.00 USD | Consumer Cyclical |
-| 1259 | TSLA | Tesla, Inc. | 0.23p | 20.0000% | -25.34 USD | -2.63% | -10.36% | 219.15 USD | Consumer Cyclical |
-| 1260 | LTRPA | Liberty TripAdvisor Holdings, I | 0.23p | 20.0000% | -0.05 USD | -2.69% | -10.42% | 0.45 USD | Communication Services |
-| 1261 | AKTS | Akoustis Technologies, Inc. | 0.23p | 20.0000% | -0.01 USD | -2.53% | -10.71% | 0.08 USD | Technology |
-| 1262 | TD | Toronto Dominion Bank (The) | 0.21p | 20.0000% | -6.90 USD | -2.80% | -10.88% | 0.00 USD | Financial Services |
-| 1263 | JKS | JinkoSolar Holding Company Limi | 0.21p | 20.0000% | -2.87 USD | -2.80% | -11.04% | 0.00 USD | Technology |
-| 1264 | SAVE | Spirit Airlines, Inc. | 0.12p | 20.0000% | -0.25 USD | -3.35% | -13.16% | 0.00 USD | Industrials |
-| 1265 | MARK | Remark Holdings, Inc. | 0.04p | 20.0000% | -0.02 USD | -3.41% | -15.38% | 0.12 USD | Technology |
-| 1266 | LTRPB | Liberty TripAdvisor Holdings, I | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 4.50 USD | Communication Services |
-| 1267 | YNDX | Yandex N.V. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Communication Services |
-| 1268 | SEAC | SeaChange International, Inc. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Technology |
-| 1269 | ARC | ARC Document Solutions, Inc. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Industrials |
-| 1270 | LBTYA | Liberty Global Ltd. | -0.07p | 0.0000% | -0.36 USD | -0.43% | -1.73% | 20.48 USD | Communication Services |
-| 1271 | LBTYK | Liberty Global Ltd. | -0.10p | 0.0000% | -0.50 USD | -0.58% | -2.31% | 22.22 USD | Communication Services |
-| 1272 | DTIL | Precision BioSciences, Inc. | -0.11p | 0.0000% | -0.24 USD | -0.66% | -2.62% | 8.94 USD | Healthcare |
-| 1273 | TMDX | TransMedics Group, Inc. | -0.12p | 0.0000% | -3.88 USD | -0.71% | -2.81% | 134.35 USD | Healthcare |
-| 1274 | SSYS | Stratasys, Ltd. | -0.12p | 0.0000% | -0.22 USD | -0.74% | -2.95% | 7.26 USD | Technology |
-| 1275 | MAYS | J. W. Mays, Inc. | -0.13p | 0.0000% | -1.48 USD | -0.80% | -3.22% | 0.00 USD | Real Estate |
-| 1276 | UVV | Universal Corporation | -0.14p | 0.0000% | -1.75 USD | -0.85% | -3.38% | 0.00 USD | Consumer Defensive |
-| 1277 | BJ | BJ's Wholesale Club Holdings, I | -0.15p | 0.0000% | -3.22 USD | -0.92% | -3.64% | 0.00 USD | Consumer Defensive |
-| 1278 | FUV | Arcimoto, Inc. | -0.17p | 0.0000% | -0.00 USD | -1.00% | -4.00% | 0.00 USD | Consumer Cyclical |
-| 1279 | ALGN | Align Technology, Inc. | -0.23p | 0.0000% | -12.79 USD | -1.39% | -5.46% | 221.28 USD | Healthcare |
-| 1280 | NKLA | Nikola Corporation | -0.24p | 0.0000% | -0.26 USD | -1.47% | -5.78% | 4.28 USD | Industrials |
-| 1281 | TXMD | TherapeuticsMD, Inc. | -0.26p | 0.0000% | -0.10 USD | -1.57% | -6.17% | 1.76 USD | Healthcare |
-| 1282 | CAR | Avis Budget Group, Inc. | -0.33p | 0.0000% | -6.83 USD | -2.00% | -7.78% | 81.03 USD | Industrials |
-| 1283 | AMTD | AMTD IDEA Group | -0.40p | 0.0000% | -0.15 USD | -2.45% | -9.55% | 0.00 USD | Financial Services |
-| 1284 | JFU | 9F Inc. | -0.46p | 20.0000% | -0.66 USD | -7.22% | -26.72% | 0.00 USD | Technology |
-| 1285 | HUYA | HUYA Inc. | -0.48p | 20.0000% | -1.53 USD | -7.23% | -27.03% | 0.00 USD | Communication Services |
+| 1257 | HUYA | HUYA Inc. | 0.26p | 20.0000% | -0.45 USD | -2.52% | -9.83% | 0.00 USD | Communication Services |
+| 1258 | TD | Toronto Dominion Bank (The) | 0.25p | 20.0000% | -6.16 USD | -2.53% | -9.83% | 0.00 USD | Financial Services |
+| 1259 | NTES | NetEase, Inc. | 0.25p | 20.0000% | -9.42 USD | -2.57% | -9.98% | 85.06 USD | Communication Services |
+| 1260 | YJ | Yunji Inc. - American Depositor | 0.24p | 20.0000% | -0.24 USD | -2.56% | -10.26% | 0.00 USD | Consumer Cyclical |
+| 1261 | TSLA | Tesla, Inc. | 0.23p | 20.0000% | -25.34 USD | -2.63% | -10.36% | 219.15 USD | Consumer Cyclical |
+| 1262 | LTRPA | Liberty TripAdvisor Holdings, I | 0.23p | 20.0000% | -0.05 USD | -2.69% | -10.42% | 0.45 USD | Communication Services |
+| 1263 | AKTS | Akoustis Technologies, Inc. | 0.23p | 20.0000% | -0.01 USD | -2.53% | -10.71% | 0.08 USD | Technology |
+| 1264 | JKS | JinkoSolar Holding Company Limi | 0.21p | 20.0000% | -2.87 USD | -2.80% | -11.04% | 0.00 USD | Technology |
+| 1265 | SAVE | Spirit Airlines, Inc. | 0.12p | 20.0000% | -0.25 USD | -3.35% | -13.16% | 0.00 USD | Industrials |
+| 1266 | MARK | Remark Holdings, Inc. | 0.04p | 20.0000% | -0.02 USD | -3.41% | -15.38% | 0.12 USD | Technology |
+| 1267 | LTRPB | Liberty TripAdvisor Holdings, I | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 4.50 USD | Communication Services |
+| 1268 | YNDX | Yandex N.V. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Communication Services |
+| 1269 | SEAC | SeaChange International, Inc. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Technology |
+| 1270 | ARC | ARC Document Solutions, Inc. | 0.00p | 0.0000% | 0.00 USD | 0.00% | 0.00% | 0.00 USD | Industrials |
+| 1271 | LBTYA | Liberty Global Ltd. | -0.07p | 0.0000% | -0.36 USD | -0.43% | -1.73% | 20.48 USD | Communication Services |
+| 1272 | LBTYK | Liberty Global Ltd. | -0.10p | 0.0000% | -0.50 USD | -0.58% | -2.31% | 22.22 USD | Communication Services |
+| 1273 | DTIL | Precision BioSciences, Inc. | -0.11p | 0.0000% | -0.24 USD | -0.66% | -2.62% | 8.94 USD | Healthcare |
+| 1274 | TMDX | TransMedics Group, Inc. | -0.12p | 0.0000% | -3.88 USD | -0.71% | -2.81% | 134.35 USD | Healthcare |
+| 1275 | SSYS | Stratasys, Ltd. | -0.12p | 0.0000% | -0.22 USD | -0.74% | -2.95% | 7.26 USD | Technology |
+| 1276 | MAYS | J. W. Mays, Inc. | -0.13p | 0.0000% | -1.48 USD | -0.80% | -3.22% | 0.00 USD | Real Estate |
+| 1277 | UVV | Universal Corporation | -0.14p | 0.0000% | -1.75 USD | -0.85% | -3.38% | 0.00 USD | Consumer Defensive |
+| 1278 | BJ | BJ's Wholesale Club Holdings, I | -0.15p | 0.0000% | -3.22 USD | -0.92% | -3.64% | 0.00 USD | Consumer Defensive |
+| 1279 | FUV | Arcimoto, Inc. | -0.17p | 0.0000% | -0.00 USD | -1.00% | -4.00% | 0.00 USD | Consumer Cyclical |
+| 1280 | ALGN | Align Technology, Inc. | -0.23p | 0.0000% | -12.79 USD | -1.39% | -5.46% | 221.28 USD | Healthcare |
+| 1281 | NKLA | Nikola Corporation | -0.24p | 0.0000% | -0.26 USD | -1.47% | -5.78% | 4.28 USD | Industrials |
+| 1282 | TXMD | TherapeuticsMD, Inc. | -0.26p | 0.0000% | -0.10 USD | -1.57% | -6.17% | 1.76 USD | Healthcare |
+| 1283 | CAR | Avis Budget Group, Inc. | -0.33p | 0.0000% | -6.83 USD | -2.00% | -7.78% | 81.03 USD | Industrials |
+| 1284 | AMTD | AMTD IDEA Group | -0.40p | 0.0000% | -0.15 USD | -2.45% | -9.55% | 0.00 USD | Financial Services |
+| 1285 | JFU | 9F Inc. | -0.46p | 20.0000% | -0.66 USD | -7.22% | -26.72% | 0.00 USD | Technology |
 | 1286 | CAMP | CAMP4 THERAPEUTICS CORPORATION | -0.60p | 0.0000% | -0.97 USD | -9.05% | -9.05% | 11.10 USD | Healthcare |
 | 1287 | EAF | GrafTech International Ltd. | -0.61p | 0.0000% | -0.25 USD | -3.83% | -14.62% | 0.00 USD | Industrials |
 | 1288 | OCFT | OneConnect Financial Technology | -0.67p | 20.0000% | -1.15 USD | -8.42% | -31.77% | 0.00 USD | Technology |
@@ -1503,8 +1503,8 @@
 | 159 | S92.DE | SMA SOLAR TECHNOL.AG | -0.27p | 0.0000% | -1.14 EUR | -1.68% | -6.56% | 16.41 EUR | Technology |
 | 160 | BSL.DE | BASLER AG O.N. | -0.29p | 0.0000% | -0.65 EUR | -1.78% | -6.97% | 8.76 EUR | Technology |
 | 161 | BYW6.DE | BAYWA AG VINK.NA. O.N. | -0.32p | 0.0000% | -0.96 EUR | -1.94% | -7.52% | 11.90 EUR | Industrials |
-| 162 | D7G.F | NEL ASA | -0.45p | 0.0000% | -0.04 EUR | -2.76% | -10.66% | 0.00 EUR |  |
-| 163 | BAYN.DE | BAYER AG NA O.N. | -0.45p | 0.0000% | -3.13 EUR | -2.76% | -10.71% | 26.13 EUR | Healthcare |
+| 162 | BAYN.DE | BAYER AG NA O.N. | -0.45p | 0.0000% | -3.13 EUR | -2.76% | -10.71% | 26.13 EUR | Healthcare |
+| 163 | D7G.F | NEL ASA | -0.45p | 0.0000% | -0.04 EUR | -2.32% | -11.18% | 0.00 EUR |  |
 
 
 ## Results for Big Tech - Last Three Months
@@ -3017,9 +3017,9 @@
 | 156 | NOEJ.DE | NORMA GROUP SE NA O.N. | 0.44p | 35.9375% | -4.00 EUR | -0.38% | -22.27% | 14.00 EUR | Industrials |
 | 157 | GMM.DE | GRAMMER AG O.N. | 0.33p | 31.2500% | -1.85 EUR | -0.30% | -21.02% | 7.00 EUR | Consumer Cyclical |
 | 158 | VAR1.DE | VARTA AG O.N. | 0.21p | 51.5625% | -4.84 EUR | 1.27% | -46.54% | 5.42 EUR | Industrials |
-| 159 | D7G.F | NEL ASA | 0.20p | 42.1875% | -0.19 EUR | -0.65% | -35.44% | 0.00 EUR |  |
-| 160 | AIXA.DE | AIXTRON SE NA O.N. | 0.18p | 37.5000% | -6.85 EUR | -0.57% | -31.57% | 14.72 EUR | Technology |
-| 161 | BDT.DE | BERTRANDT AG O.N. | 0.17p | 34.3750% | -8.20 EUR | -0.51% | -28.77% | 20.30 EUR | Consumer Cyclical |
+| 159 | AIXA.DE | AIXTRON SE NA O.N. | 0.18p | 37.5000% | -6.85 EUR | -0.57% | -31.57% | 14.72 EUR | Technology |
+| 160 | BDT.DE | BERTRANDT AG O.N. | 0.17p | 34.3750% | -8.20 EUR | -0.51% | -28.77% | 20.30 EUR | Consumer Cyclical |
+| 161 | D7G.F | NEL ASA | 0.17p | 41.5385% | -0.19 EUR | -0.65% | -35.81% | 0.35 EUR |  |
 | 162 | EVT.DE | EVOTEC SE  INH O.N. | 0.10p | 42.1875% | -3.33 EUR | -0.59% | -38.48% | 5.35 EUR | Healthcare |
 | 163 | S92.DE | SMA SOLAR TECHNOL.AG | 0.10p | 40.6250% | -9.56 EUR | -0.70% | -37.05% | 16.41 EUR | Technology |
 | 164 | SKB.DE | KOENIG + BAUER AG ST O.N. | -0.31p | 32.8125% | -5.60 EUR | -0.79% | -41.18% | 7.89 EUR | Industrials |
@@ -4509,8 +4509,8 @@
 | 130 | PUM.DE | PUMA SE | 0.38p | 47.9212% | -20.52 EUR | -0.07% | -36.31% | 36.13 EUR | Consumer Cyclical |
 | 131 | HDD.DE | HEIDELBERG.DRUCKMA.O.N. | 0.31p | 45.7330% | -0.55 EUR | -0.07% | -36.45% | 0.97 EUR | Industrials |
 | 132 | VOW.DE | VOLKSWAGEN AG ST O.N. | 0.27p | 45.7330% | -57.65 EUR | -0.09% | -37.41% | 96.60 EUR | Consumer Cyclical |
-| 133 | D7G.F | NEL ASA | 0.26p | 40.6977% | -0.17 EUR | -0.40% | -32.36% | 0.00 EUR |  |
-| 134 | DIC.DE | DIC ASSET AG NA O.N. | 0.26p | 46.8992% | -1.56 EUR | -0.06% | -39.10% | 0.00 EUR |  |
+| 133 | DIC.DE | DIC ASSET AG NA O.N. | 0.26p | 46.8992% | -1.56 EUR | -0.06% | -39.10% | 0.00 EUR |  |
+| 134 | D7G.F | NEL ASA | 0.24p | 40.2299% | -0.17 EUR | -0.40% | -32.74% | 0.35 EUR |  |
 | 135 | TKA.DE | THYSSENKRUPP AG O.N. | 0.14p | 49.6718% | -2.64 EUR | -0.10% | -45.34% | 3.18 EUR | Industrials |
 | 136 | STM.DE | STABILUS SE INH. O.N. | 0.11p | 45.2954% | -26.65 EUR | -0.10% | -41.94% | 36.75 EUR | Industrials |
 | 137 | SDF.DE | K+S AG NA O.N. | 0.10p | 47.2648% | -8.51 EUR | -0.11% | -44.04% | 10.74 EUR | Basic Materials |
