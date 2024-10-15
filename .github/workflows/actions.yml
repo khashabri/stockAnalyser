@@ -2,7 +2,7 @@ name: Run Main File
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # At 18:00 on woking days "0 18 * * 1-5" or every 30 min cron: "*/30 * * * *"
+    - cron: "*/30 * * * *" # At 18:00 on working days "0 18 * * 1-5" or every 30 min cron: "*/30 * * * *"
 
 jobs:
   run-script:
@@ -32,28 +32,30 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    # pull from origin and force push RESULTS.md
+    # Stash local changes
     - name: Stash local changes
       run: |
         git stash
 
+    # Pull latest changes and accept remote version in case of conflict
     - name: Pull latest changes and accept remote version in case of conflict
       run: |
         git pull --strategy-option=theirs origin main || true
 
+    # Restore stashed changes (if any)
     - name: Restore stashed changes (if any)
       run: |
         git stash pop || echo "No stashed changes to apply"
 
-    - name: Add and Commit Log File
+    # Add and commit all markdown files in the "Result" folder
+    - name: Add and Commit Result Files
       run: |
-        git add RESULTS.md
-        git commit -m "New RESULTS.md" || echo "No changes to commit"
+        git add Result/*.md
+        git commit -m "Update result files" || echo "No changes to commit"
 
-    - name: Force push the local version of RESULTS.md
+    # Force push the local version of result files
+    - name: Force push the local version of Result files
       run: |
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT for authentication
-
-
