@@ -37,6 +37,10 @@ jobs:
         git add RESULTS.md
         git commit -m "New RESULTS.md"
 
+    - name: Pull latest changes
+      run: |
+        git pull origin main --rebase
+
     - name: Push changes
       run: |
         git push
