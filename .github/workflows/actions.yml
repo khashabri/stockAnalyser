@@ -36,7 +36,7 @@ jobs:
     - name: Add and Commit Log File
       run: |
         git add RESULTS.md
-        git commit -m "New RESULTS.md"
+        git commit -m "New RESULTS.md" || echo "No changes to commit"
 
     - name: Pull latest changes and accept remote version in case of conflict
       run: |
@@ -46,14 +46,15 @@ jobs:
       run: |
         git checkout -- RESULTS.md
 
-    - name: Commit local RESULTS.md
+    - name: Check if RESULTS.md has changes and commit if necessary
       run: |
         git add RESULTS.md
-        git commit -m "New RESULTS.md file"
+        git diff --cached --quiet || git commit -m "New RESULTS.md" || echo "No changes to RESULTS.md"
 
     - name: Force push the local version of RESULTS.md
       run: |
         git push origin main --force
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT for authentication
+
 
