@@ -1,7 +1,11 @@
 > Last update on: 2024-10-15 06:11:31
 
 ## Results for Big Tech - Last Week
-
+<style>
+table {
+    width: 100%;
+}
+</style>
 | Rank | ID | Company | Evaluation Point | Ratio Pos. Days | Netto Growth | Mean Rel. Daily Growth | Tot. Growth | Current Price | Sector |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | TRV | The Travelers Companies, Inc. | 2.84p | 80.0000% | 9.78 USD | 1.05% | 4.25% | 0.00 USD | Financial Services |
