@@ -139,6 +139,7 @@ with open(output_file_path, "w") as file:
                     x = data["Adj Close"]
                     x = x[np.logical_not(np.isnan(x))]
                     x = np.array(x)
+                    if x[-1] < 2: continue # cheap penny stock founded
 
                     diffs = np.concatenate(([0], np.diff(x)))           # daily price difference 
                     num_of_pos = np.count_nonzero(diffs > 0)            # number of bullish days
