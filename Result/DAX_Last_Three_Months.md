@@ -1,4 +1,4 @@
-> Last update on: 2025-03-28 18:39:59
+> Last update on: 2025-03-31 18:35:08
 
 ## Results for DAX - DAX Last Three Months
 
