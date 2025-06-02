@@ -1,4 +1,4 @@
-> Last update on: 2025-05-30 18:35:40
+> Last update on: 2025-06-02 18:38:39
 
 ## Results for DAX - DAX Last Year
 
