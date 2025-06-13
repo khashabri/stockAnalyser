@@ -1,4 +1,4 @@
-> Last update on: 2025-06-12 18:24:13
+> Last update on: 2025-06-13 18:21:49
 
 ## Results for DAX - DAX Last Week
 
